@@ -1,0 +1,48 @@
+Aktualisierung: Austrittsabkommen ratifiziert
+Nachdem das Abkommen, das den Austritt des Vereinigten Königreichs aus der Europäischen Union (EU) zum 31.01.2020 regelt, unterzeichnet und sowohl durch das britische Parlament als auch vom Europäischen Parlament ratifiziert worden ist, hat der Europäische Rat den Beschluss über den Abschluss des Austrittabkommens am 30.01.2020 angenommen. Ab dem 01.02.2020 gilt das Vereinigte Königreich daher als Drittland. In dem Abkommen wurde allerdings eine Übergangsfrist bis zum 31.12.2020 vereinbart, in der die Bedingungen und Verpflichtungen des Acquis Communautaire auf das Vereinigte Königreich weiterhin zutreffen.
+
+Für das deutsche Recht enthält das Brexit-Übergangsgesetz Regelungen für den Übergangszeitraum: Danach gilt währenddessen, wenn im Bundesrecht von den Mitgliedstaaten der EU die Rede ist, dass damit auch das Vereinigte Königreich gemeint ist, sofern keine der genannten Ausnahmen greift. Bis zum Ablauf der Übergangsfrist gelten bis auf wenige Ausnahmen weiterhin alle Regelungen, die für Mitgliedsländer des EWR gültig sind. Die Ausnahmen betreffen die führende Rolle des Vereinigten Königreichs in europäischen Verfahren sowie die Teilnahme an EU-Gremien. Beides ist für das Vereinigte Königreich ab dem 01.02.2020 – mit spezifischen Ausnahmen für die Gremienteilnahme - nicht mehr möglich. Das Vereinigte Königreich kann daher ab dem 01.02.2020 nicht mehr RMS oder Rapporteur in Verfahren sein. Offene Verfahren mit dem Vereinigten Königreich als RMS werden zum Datum des Austritts gestoppt und müssen über einen RMS des EWR neu eingereicht werden.
+
+Auswirkungen des Brexit: Vorbereitungen des BfArM
+Nach dem sogenannten Brexit stehen die Arzneimittelagenturen des Vereinigten Königreichs für Human- und für Tierarzneimittel (Medicines and Healthcare Products Regulatory Agency, MHRA und Veterinary Medicines Directorate, VMD) voraussichtlich nicht mehr für Arzneimittelzulassungsverfahren innerhalb der EU zur Verfügung. Betroffen vom Brexit sind insbesondere die Arzneimittelbewertung bei Herstellung, Entwicklung, Zulassung und Pharmakovigilanz. Die Experten des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM) haben sich darauf eingestellt, zusätzliche Aufgaben zu übernehmen.
+
+Welche Implikationen der Austritt für das Vereinigte Königreich und die weiteren Mitgliedsländer der EU hat, ist abhängig vom Ausgang der Verhandlungen innerhalb der Übergangsphase. Es sind allerdings erhebliche Auswirkungen auf den Arzneimittelverkehr und –markt zu erwarten.
+
+Es ist das vorrangige Ziel des BfArM, die Verfügbarkeit von Arzneimitteln für die Patientinnen und Patienten während und nach den Verhandlungen aufrechtzuerhalten. Das BfArM wird dabei seine Rolle im europäischen Netzwerk weiter verstärken, seine Kapazitäten zur Übernahme zusätzlicher zentraler und dezentraler (MRP/DCP) Zulassungs- und Folgeverfahren erhöhen und sich auch in den Bereichen klinische Prüfungen und Inspektionen sowie Pharmakovigilanz verstärkt engagieren, um Engpässe im europäischen regulatorischen Netzwerk bestmöglich zu kompensieren.
+
+Das BfArM versteht sich dabei als „full-provider“, d.h. die Kapazitäten werden für alle zusätzlichen Aufgaben geschaffen, so dass eine Übernahme von Verfahren ohne Einschränkungen für alle Indikationsbereiche gewährleistet wird. Dies betrifft sowohl die vermehrte Annahme neuer Zulassungsanträge wie auch die Übernahme von Verfahren, die bisher unter der Federführung des Vereinigten Königreichs standen.
+
+Auf europäischer Ebene wurden in allen Gremien Arbeitsgruppen zum Thema „Brexit“ etabliert, die jeweils zeitnah und aktualisiert europäische Festlegungen auf den entsprechenden Internetseiten veröffentlichen:
+
+EMA
+HMA
+CMDh
+
+Das BfArM unterstützt vollumfänglich die bereits zur Verfügung gestellten Hinweise und die getroffenen Festlegungen auf europäischer Ebene.
+
+Das BfArM macht insbesondere darauf aufmerksam, dass die folgenden Personen oder Aktivitäten innerhalb der EU oder des EWR angesiedelt sein müssen, damit Arzneimittel in der EU vermarktet werden dürfen:
+
+- Zulassungsinhaber und Antragsteller
+- Chargenkontrolle und -freigabe
+- Qualifizierte Person (QP)
+- Qualifizierte Person für Pharmakovigilanz (QPPV)
+- Stufenplanbeauftragter (in einem Land der EU)
+- Pharmakovigilanz-Masterfile (PSMF)
+
+Die Übertragung der o.g. Personen und Aktivitäten in die EU oder den EWR muss vor dem 01. Januar 2021 erfolgen. In laufenden DCP-Zulassungsverfahren können die entsprechenden Änderungen mit der Tag 106- bzw. der Tag 160-Response eingereicht werden. In laufenden MRP-Verfahren ist nur ein Wechsel des Antragstellers bzw. des künftigen MAH mit der Tag 40-Response möglich, alle anderen Änderungen müssen per Variation vor dem Start des MRP beantragt und abgeschlossen werden.
+
+Bereits freigegebene Waren, bei denen o.g. Personen oder Aktivitäten noch in Großbritannien angesiedelt sind, die aber vor dem 1. Januar 2021 in die EU oder den EWR verbracht wurden, dürfen weiterhin im Markt bleiben. Neue Ware, bei der o.g. Personen oder Aktivitäten nach dem 31.Dezember 2020 noch in Großbritannien angesiedelt waren, darf ab dem 01. Januar 2021 nicht mehr in die EU oder den EWR eingeführt werden.
+
+Zulassungsinhaber werden daran erinnert, sich nach Ablauf der Übergangszeit mit den im Nordirland-Protokoll geltenden Vorschriften vertraut zu machen und ihre Arzneimittelzulassungen bei Bedarf zu aktualisieren.
+
+Gemäß dem Protokoll müssen die vom Vereinigten Königreich für Nordirland auszustellenden nationalen Zulassungen für Arzneimittel (d.h. andere als beim zentralen Zulassungsverfahren) den Artikeln 17 und 18 der Richtlinie 2001/83 entsprechen, d.h. sie müssen das dezentralisierte Verfahren (DCP) oder das Verfahren der gegenseitigen Anerkennung (MRP) durchlaufen, wenn der Antragsteller bereits eine Zulassung in einem EU/EWR-Mitgliedstaat (MRP) besitzt oder eine Zulassung in mehr als einem EU/EWR-Mitgliedstaat (DCP) beantragt. Daher müssen in den oben genannten Situationen Antragsteller, die eine Zulassung für das Vereinigte Königreich in Bezug auf Nordirland erlangen möchten, Nordirland als Mitgliedsland in ihren Zulassungsantrag im DCP oder MRP einbeziehen.
+
+Weitere Informationen zum IE/NI-Protokoll finden sich in der "Notice to stakeholders - withdrawal of the United Kingdom and EU rules for medicinal products for human use and veterinary medicinal products", die von der Europäischen Kommission im März 2020 veröffentlicht und von der CMDh-Website unter "Brexit" verlinkt wurde.
+
+Für laufende generische Zulassungsverfahren mit einem in Großbritannien zugelassenen Referenzprodukt müssen die Zulassungen vor dem 01. Januar 2021 erteilt sein. Sollten die Zulassungsverfahren zu diesem Zeitpunkt noch anhängig sein, kann keine Zulassung mehr erteilt werden.
+
+Sollte in generischen Zulassungsverfahren eine Bioäquivalenzstudie gegen ein in Großbritannien zugelassenes Referenzarzneimittel verwendet werden, muss der Zulassungsantrag vor dem 01. Januar 2021 eingereicht werden und die Studie vor diesem Stichtag abgeschlossen sein. Lediglich für MRP- und Repeat-Use-Verfahren kann der Antrag auch nach dem 31. Dezember 2020 gestellt werden, wenn die verwendeten Chargen hergestellt wurden, als Großbritannien noch Mitglied der EU war.
+
+Weitere Fragen zum Thema „Brexit“ können per E-Mail an das BfArM gerichtet werden: brexit@bfarm.de. Anträge auf Wechsel des RMS können unter Verwendung des CMDh-templates an die E-Mail-Adresse RMS-switch@bfarm.de gerichtet werden.
+
+Darüber hinaus veröffentlicht das BfArM aus eingegangenen Fragestellungen eigene FAQ (siehe rechte Spalte), sofern diese inhaltlich nicht über die europäischen Festlegungen bereits publiziert sind.
