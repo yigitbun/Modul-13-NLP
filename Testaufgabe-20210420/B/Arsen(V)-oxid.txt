@@ -1,0 +1,68 @@
+Arsen(V)-oxid oder Diarsenpentaoxid ist das fünfwertige Oxid des Arsens und eine häufig industriell genutzte Arsenverbindung. Sie wird ähnlich wie Arsentrioxid eingesetzt (z. B. als Fungizid und Pestizid).
+
+
+== Gewinnung und Darstellung ==
+Hergestellt wird Diarsenpentaoxid durch Oxidation von Arsentrioxid mit Oxidationsmitteln wie Ozon, Wasserstoffperoxid oder Salpetersäure.
+
+
+== Eigenschaften ==
+Arsen(V)-oxid ist eine weiße, amorph bis glasige, geruchlose und hygroskopische Verbindung. Sie zersetzt sich bei Erhitzung über 315 °C in Arsentrioxid und Sauerstoff. 
+Sie ist leicht löslich in Wasser und bildet dabei schnell Arsensäure
+
+  
+    
+      
+        
+          A
+          
+            s
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⇌
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          A
+          s
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {As_{2}O_{5}+3\ H_{2}O\rightleftharpoons 2\ H_{3}AsO_{4}} }
+  
+Arsen(V)-oxid kristallisiert orthorhombisch, Raumgruppe P212121 (Raumgruppen-Nr. 19)Vorlage:Raumgruppe/19, mit den Gitterparametern a = 8,646 Å, b = 8,45 Å und c = 4,626 Å. Es ist auch eine tetragonale Hochtemperaturform mit der Raumgruppe P41212 (Nr. 92)Vorlage:Raumgruppe/92 und den Gitterparametern a = 8,572 Å und c = 4,636 Å bekannt.
+
+
+== Sicherheitshinweise und gesetzliche Regelungen ==
+Diarsenpentaoxid greift in Verbindung mit Feuchtigkeit viele Metalle an, da sich bei Kontakt mit Wasser Arsen(V)-säure bildet. Der Stoff ist sehr giftig und wurde im August 2008 aufgrund seiner Einstufung als krebserzeugend (Carc. 1A) in die Kandidatenliste der besonders besorgniserregenden Stoffe (Substance of very high concern, SVHC) aufgenommen. Im Februar 2012 wurde Diarsenpentaoxid zudem in das Verzeichnis der zulassungspflichtigen Stoffe mit dem Ablauftermin für die Verwendung in der EU zum 21. Mai 2015 aufgenommen. Als Arsenverbindung unterliegt Diarsenpentoxid außerdem den Beschränkungen im Anhang XVII, Nummer 19 der REACH-Verordnung.
+
+
+== Einzelnachweise ==

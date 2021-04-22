@@ -1,0 +1,73 @@
+Aluminiumoxid ist die Sauerstoffverbindung des chemischen Elements Aluminium. Im technischen Bereich wird Aluminiumoxid als Elektrokorund (ELK) bezeichnet.
+
+
+== Gewinnung und Darstellung ==
+Aus Bauxit wird Aluminiumhydroxid durch Aufschließen in Natronlauge gewonnen (Bayer-Verfahren).
+Durch Entziehen des Wassers, zum Beispiel durch Brennen, Sintern oder Kalzinieren erhält man Aluminiumoxid.
+Die Darstellung von Aluminiumoxid kann auch durch vorsichtiges Dehydrieren von Gibbsit (Hydrargillit) oder Böhmit erfolgen.
+Aluminiumoxid entsteht zudem bei der Verbrennung von Aluminiumpulver mit Ammoniumperchlorat in Feststoffraketen.
+Das reine Metall Aluminium weist nach Lagerung an Luft eine dünne spontane Aluminiumoxidschicht (Selbstpassivierung) auf, die es vor Korrosion schützt. Mittels einer elektrolytisch aufgebrachten Aluminiumoxidschicht werden durch Eloxieren die Aluminiumoberflächen von Gebrauchsgegenständen mit einer extrem harten (etwa Mohs-Härte 9) und korrosionsbeständigen Schutzschicht versehen. Zur Fertigung von Elektrolytkondensatoren verwendet man diese eloxierten Aluminiumsorten.
+Die weltweite Produktion von Aluminiumoxid stieg von 108 Mio. t im Jahre 2014 auf geschätzte 118 Mio. t im Jahre 2015. Die drei größten Produzenten von Aluminiumoxid waren 2014 China (47,8 Mio. t), Australien (20,5 Mio. t) und Brasilien (10,6 Mio. t). Der USGS gibt als durchschnittliche US-Importpreise für Aluminiumoxid 410 USD je Tonne im Jahre 2015 an, während die Importpreise für Bauxit im selben Jahr bei 28 USD je Tonne lagen.Als Abfallprodukt bei der Gewinnung von Aluminiumoxid entsteht Rotschlamm, der ätzende Natronlauge und giftige Schwermetalle enthält und weltweit teilweise in offenen Deponien gelagert oder in Flüsse abgeleitet wird.
+
+
+== Eigenschaften ==
+
+
+=== Modifikationen ===
+Die wichtigsten Modifikationen des Aluminiumoxides sind:
+
+das kubische γ-Al2O3 (Tonerde, Ausgangsstoff zur Keramik- und Aluminiumherstellung)
+das rhomboedrische (trigonale) α-Al2O3 (bekannt als Mineral Korund, Saphir oder – bei Chromdotierung – Rubin, als Schleifmittel und Aluminiumoxid-Keramik)
+Ebenso ist noch die β-Tonerde (β-Al2O3) bekannt, hierbei handelt es sich um einen historischen Irrtum. Dabei handelt es sich um die Verbindung von Na2O und Al2O3 zu Na2Al22O34 (Na2O·11Al2O3), bekannt auch unter dem Mineralnamen Diaoyudaoit
+
+
+=== Elektrische Eigenschaften ===
+Al2O3 ist ein sehr guter Isolator und besitzt eine sehr hohe Durchschlagsfestigkeit von 35 kV/mm. Der spezifische Widerstand beträgt bei 20 °C 1012 Ω m, bei 1000 °C sinkt er auf 107 Ω·m. Die relative Permittivität beträgt 9–10 bei 100 MHz, der Verlustfaktor etwa 10−4.
+
+
+=== Thermische Eigenschaften ===
+Unter Standardbedingungen liegt die Wärmeleitfähigkeit aufgrund der Phononenresonanz bei einem für Keramikmaterialien vergleichsweise sehr hohen Wert von 35,6–39 W·m−1·K−1 (einkristalliner Korund: 40 W·m−1·K−1, dichte Keramik mit 96 % Al2O3 ca. 25 W·m−1·K−1), der mit sinkender Temperatur stark ansteigt und mit steigender Temperatur bei 1000 °C auf etwa 5 W·m−1·K−1 absinkt.Der Ausdehnungskoeffizient liegt im Bereich 6,5–8,9·10−6 K−1.Die Schmelztemperatur beträgt 2054 °C, daher sollte die Anwendungstemperatur hochreiner Aluminiumoxidkeramik unter 1900 °C liegen.
+
+
+=== Chemische Eigenschaften ===
+Al2O3 ist ein amphoteres Salz, das heißt, es kann als Säure (in Verbindung mit einer Base) oder als Base (in Verbindung mit einer Säure) reagieren.
+Das γ-Al2O3 ist ein hygroskopisches, weißes, lockeres Pulver, das nicht in Wasser, dafür in starken Säuren und Basen löslich ist.
+Bereits ab 800 °C geht das γ-Al2O3 in das in Säuren wie Basen im Allgemeinen unlösliche α-Al2O3 über.
+γ-Al2O3 ist ein poröses Material, dessen Oberflächenstruktur stark von dem Herstellungsprozess, beziehungsweise dessen Temperatur, beeinflusst werden kann.
+In der Chromatographie wird es als stationäre Phase verwendet.
+Mit verschiedenen Metalloxiden bildet Aluminiumoxid Aluminate.
+
+
+=== Mechanische Eigenschaften ===
+Die mechanischen Eigenschaften der Aluminiumoxidkeramik hängen von der Reinheit und dem Gefüge der hergestellten Keramik ab. Je reiner die Sorte ist, desto bessere Eigenschaften werden erzielt, desto aufwendiger wird aber auch der gesamte Herstellungsprozess.
+Neben den in der Tabelle unten aufgeführten Eigenschaften zeichnet sich Aluminiumoxidkeramik auch durch sehr gute tribologische Eigenschaften bzw. ein sehr gutes Reibungs- und Verschleißverhalten aus:
+
+
+== Verwendung ==
+Über 70 % der Weltjahresproduktion von rund 120 Millionen Tonnen Aluminiumoxid im Jahre 2016 gingen in die Gewinnung von metallischem Aluminium (Hall-Héroult-Prozess).
+
+Das α-Al2O3 hat eine Mohs-Härte von 9 bis 9,5 und wird unter anderem zu Lagersteinen von Messinstrumenten und Uhren, sowie zu Schleifmitteln verarbeitet. Basis dafür ist häufig das als Nebenprodukt der Aluminothermie anfallende Alundum.
+Kalzinierte Aluminiumoxide werden in der Keramik (z. B. in Waschbecken, Hotelgeschirr, schusssicherer Bekleidung) oder im weitesten Sinn als Poliermittel (z. B. in Glaskeramikreinigern, Autopflegemitteln, Bremsbelägen, Zahnpasten) verwendet. Weiterhin dient gesintertes α-Al2O3 (Sinterkorund) als feuerfestes Material in Ofenauskleidungen oder Laborgeräten.
+Mit Verunreinigungen durch geringe Mengen an Cr2O3 beziehungsweise TiO2 bildet der Korund die Edelsteine Rubin (Uhrensteine, Ziehsteine, Rubinlaser) und Saphir.
+Mit Ti2O3 dotierte Al2O3-Einkristalle bilden das Herzstück des Titan:Saphir-Lasers.
+γ-Al2O3 dient als Adsorbens und als Katalysatorträger, sowie als Katalysator selbst.
+In der Elektrotechnik wird Aluminiumoxid-Keramik wegen ihres geringen dielektrischen Verlustfaktors als Dielektrikum eingesetzt. Haupteinsatzbereich ist dabei die Realisierung von Streifenleitungen und Kondensatoren in der Hochfrequenztechnik. Aluminiumoxid-Keramikplatten dienen auch als Substrat für die Dickschichttechnik, Dünnschichttechnologie und für Platin-Temperaturmesswiderstände (siehe PT100). Die gute Metallisierbarkeit dieser Keramik ermöglicht auch das direkte Auflöten elektronischer Bauelemente wie Widerstände oder LEDs. Die Keramik fungiert dabei auch gleichzeitig als Kühlkörper. Diese  Keramik-Elektroniksysteme sind genauso wirksam wie Systeme, die metallische Kühlkörper enthalten. Auch zur Herstellung von Sicherungskörpern werden Aluminiumoxide verwendet.
+Die hohe Durchschlagsfestigkeit und maximale Betriebstemperatur von bis zu 1900 °C machen Aluminiumoxid zum idealen Isolator für Zündkerzen.
+Im Anlagen- und Maschinenbau wird Aluminiumoxidkeramik insbesondere zum Verschleiß- und Korrosionsschutz eingesetzt. So werden zum Beispiel Transportrinnen und Rutschen, Trommelmühlen und Mischer mit Kacheln aus Hochleistungskeramik ausgekleidet, um die Standzeiten der Anlagen zu erhöhen. Die Korrosionsbeständigkeit von Glasoberflächen lässt sich durch eine Beschichtung aus Aluminiumoxid deutlich erhöhen. Auch beim Plasma-Schweißen haben sich Düsen aus Aluminiumoxid bewährt. Aufgrund der guten tribologischen Eigenschaften haben sich insbesondere Bauteile wie Dicht- und Regelscheiben, Lagerbuchsen und -wellen, Fadenführer in der Textilindustrie sowie Hüftgelenkskugeln und Pfannen in der Endoprothetik bewährt. Innovativ ist auch der Einsatz von Keramiknoppen in der Anlaufspur von Skisprungschanzen.
+Hochreine, großkristalline und daher transparente Aluminiumoxid-Keramik dient der Herstellung von Brennerrohren von Hochdruck-Gasentladungslampen (Natriumdampflampen, Halogen-Metalldampflampen). Früher verwendete man es auch als Ultraviolett-transparentes Fenstermaterial für EPROMs.
+Neueste Sinterverfahren machen es möglich, Aluminiumoxid zur Herstellung extrem fester nanoskaliger Glaskeramiken einzusetzen, z. B. bei Armbanduhrengläsern.In letzter Zeit werden Al2O3-Keramiken auch in Panzerungen von Fahrzeugen verwendet. Die Keramikkacheln werden dabei auf ein Aramid- bzw. Dyneema-Gewebe geklebt. Diese Art der Panzerung erreicht bei einem gleichen Flächengewicht die doppelte Schutzwirkung von Panzerstahl. Die Keramik fragmentiert das Geschoss, die Aramid-Fasern fangen anschließend die Bruchstücke auf.
+Al2O3 wird mit der Bezeichnung Elektrokorund (ELK) als Edelkorund, Halbedelkorund und Normalkorund in den Handel gebracht. Es wird in einem elektrischen Ofen bei etwa 2.000 °C hergestellt. Der dabei entstehende Schmelzkuchen wird zerschlagen und nach in der DIN festgelegten Körnungen abgesiebt. Edelkorund wird in der Technik als Schleifmittel bei Herstellung von Schleifscheiben verwendet. Es wird auch als Strahlmittel und als Polierpulver verwendet.
+
+
+== Weitere Aluminiumoxide ==
+Neben dem dreiwertigen Aluminiumoxid sind noch zwei weitere Aluminiumoxide in niedrigeren Oxidationsstufen, Aluminium(I)-oxid und Aluminium(II)-oxid bekannt. Diese sind jedoch nur bei hohen Temperaturen in der Gasphase stabil.
+
+
+== Siehe auch ==
+Liste von Aluminiumoxid-Fabriken
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

@@ -1,0 +1,201 @@
+Der aus dem englischen Sprachraum stammende Begriff Big Data [ˈbɪɡ ˈdeɪtə] (von englisch big ‚groß‘ und data ‚Daten‘, deutsch auch Massendaten) bezeichnet Datenmengen, welche beispielsweise zu groß, zu komplex, zu schnelllebig oder zu schwach strukturiert sind, um sie mit manuellen und herkömmlichen Methoden der Datenverarbeitung auszuwerten.„Big Data“ wird häufig als Sammelbegriff für digitale Technologien verwendet, die in technischer Hinsicht für eine neue Ära digitaler Kommunikation und Verarbeitung und in sozialer Hinsicht für einen gesellschaftlichen Umbruch verantwortlich gemacht werden. Dabei unterliegt der Begriff als Schlagwort einem kontinuierlichen Wandel; so wird damit ergänzend auch oft der Komplex der Technologien beschrieben, die zum Sammeln und Auswerten dieser Datenmengen verwendet werden.
+
+
+== Begriff ==
+In der Definition von Big Data bezieht sich das „Big“ auf die vier Dimensionen
+
+volume (Umfang, Datenvolumen),
+velocity (Geschwindigkeit, mit der die Datenmengen generiert und transferiert werden),
+variety (Bandbreite der Datentypen und -quellen) sowie
+veracity (Echtheit von Daten).Erweitert wird diese Definition um die zwei V value und validity, welche für einen unternehmerischen Mehrwert und die Sicherstellung der Datenqualität stehen.
+
+
+=== Weitere Bedeutungen ===
+Big Data bezeichnet primär die Verarbeitung von großen, komplexen und sich schnell ändernden Datenmengen. Als Buzzword bezeichnet der Begriff in den Massenmedien aber andere Bedeutungen:
+
+Zunehmende Überwachung der Menschen durch Geheimdienste auch in westlichen Staaten bspw. durch Vorratsdatenspeicherung
+Verletzung von Persönlichkeitsrechten von Kunden durch Unternehmen
+Zunehmende Intransparenz der Datenspeicherung durch Delokalisierung (Cloud Computing)
+Wunsch der Industrie aus den vorhandenen Daten einen Wettbewerbsvorteil erlangen zu können
+Automatisierung von Produktionsprozessen (Industrie 4.0, Internet der Dinge)
+Intransparente Automatisierung von Entscheidungsprozessen in Software
+Einsatz neuer Technologien statt Standardsoftware (insbesondere in Unternehmen mit einer konservativen IT oft durch Verwendung von Software as a Service um firmeninterne IT-Einschränkungen zu umgehen)
+Entwicklung von eigenen Softwarelösungen („inhouse IT“) statt des Einsatzes von „off-the-shelf“ Software durch Fremdunternehmen
+Werbung, basierend auf Daten über die Internet- und Handynutzung
+Organisation von Zusammenarbeit im Rahmen von People Analytics Projekten, selbst wenn in diesem Zuge teilweise weder große noch komplexe Datenmengen anfallen.
+
+
+== Datenherkunft ==
+Die gesammelten Daten können dabei aus verschiedensten Quellen stammen (Auswahl):
+
+Aufzeichnungen verschiedenster Überwachungssysteme.
+die Nutzung von Kunden- oder Bank- bzw. Bezahlkarten (Giro („EC“)-, Kreditkarte),
+jegliche elektronische Kommunikation, dabei auch die persönlich geprägte, individuell unterschiedliche Art und Weise der Benutzung z. B. eines Smartphones (manuelle Eingabemuster, geografische Bewegungsmuster, Sensordaten des Smartphones),
+geschäftliche bzw. private Nutzung elektronischer Geräte oder Systeme wie „Fitness“- bzw. „Gesundheitsarmbänder“ bzw. „Wearables“ wie „Activity Tracker“ oder „Smartwatches“, „Ambient Assisted Living“ („umgebungsunterstütztes Leben“) oder globaler Navigationssysteme wie „GPS“, Smartphones, Computer usw.,
+die Nutzung von Social-Media-Informationen und -Interaktionen,
+Kraftfahrzeuge (insbesondere im Kontext „Vernetztes Auto“),
+vernetzte Technik in Häusern („Smart Homes“, „Smart Meter“),
+von Behörden und Unternehmen erhobene und gesammelte Daten.„Big Data“ umfasst auch Bereiche, die als „intim“ bzw. „privat“ gelten: Der Wunsch der Industrie und bestimmter Behörden, möglichst freien Zugriff auf diese Daten zu erhalten, sie besser analysieren zu können und die gewonnenen Erkenntnisse zu nutzen, gerät dabei unweigerlich in Konflikt mit geschützten Persönlichkeitsrechten der Einzelnen. Ein Ausweg ist allein durch eine Anonymisierung der Daten zu erreichen. Klassische Anwender sind Provider sozialer Netzwerke und von Suchmaschinen. Die Analyse, Erfassung und Verarbeitung von großen Datenmengen ist heute in vielen Bereichen alltäglich.
+Big Data kann Geschäftsprozess-Verbesserungen in allen Funktionsbereichen von Unternehmen, vor allem aber im Bereich der Technologieentwicklung und Informationstechnik sowie des Marketings ermöglichen. Die Erhebung und Verwertung der Datenmengen dient dabei im Allgemeinen der Umsetzung von Unternehmenszielen oder zur staatlichen Sicherheit. Bisher haben vor allem große Branchen, Unternehmen und Anwendungsbereiche der Wirtschaft, Marktforschung, Vertriebs- und Servicesteuerung, Medizin, Verwaltung und Nachrichtendienste die entsprechenden digitalen Methoden für sich genutzt: Die erfassten Daten sollen weiterentwickelt und nutzbringend eingesetzt werden. Die Erhebung der Daten dient dabei meistens für konzernorientierte Geschäftsmodelle sowie Trendforschung in den sozialen Medien und Werbeanalysen, um zukunftsweisende und möglicherweise gewinnbringende Entwicklungen zu erkennen und in Prognosen umzumünzen.
+
+
+=== Wachstum ===
+Mengen von Daten wachsen typischerweise exponentiell. Berechnungen aus dem Jahr 2011 zufolge verdoppelt sich das weltweite erzeugte Datenvolumen alle 2 Jahre. Diese Entwicklung wird vor allem getrieben durch die zunehmende maschinelle Erzeugung von Daten z. B. über Protokolle von Telekommunikationsverbindungen (Call Detail Record, CDR) und Webzugriffen (Logdateien), automatische Erfassungen von RFID-Lesern, Kameras, Mikrofonen und sonstigen Sensoren. Big Data fallen auch in der Finanzindustrie an (Finanztransaktionen, Börsendaten) sowie im Energiesektor (Verbrauchsdaten) und im Gesundheitswesen (Abrechnungsdaten der Krankenkassen). In der Wissenschaft fallen ebenfalls große Datenmengen an, z. B. in der Geologie, Genetik, Klimaforschung und Kernphysik. Der IT-Branchenverband Bitkom hat Big Data als einen Trend im Jahr 2012 bezeichnet. Bei großen Datenkomplexen verbietet sich der unwirtschaftliche Aufwand für ein Speichern auf Vorrat. Dann werden lediglich Metadaten gespeichert oder das Auswerten setzt mitlaufend oder höchstens gering zeitversetzt mit dem Entstehen der Daten auf.
+Zugang zu einem entsprechenden Datenvolumen haben die entsprechenden Konzerne, etwa Suchmaschinen, und bestimmte staatliche Institutionen, etwa Geheimdienste.
+
+
+== Beispiele ==
+In der Forschung können durch Verknüpfung großer Datenmengen und statistische Auswertungen neue Erkenntnisse gewonnen werden, insbesondere in Disziplinen, in denen bisher viele Daten noch von Hand ausgewertet wurden; Unternehmen beispielsweise erhoffen sich von der Analyse von Big Data Möglichkeiten zur Erlangung von Wettbewerbsvorteilen, zur Generierung von Einsparungspotentialen und zur Schaffung neuer Geschäftsfelder, staatliche Stellen erhoffen sich bessere Ergebnisse in der Kriminalistik und Terrorismusbekämpfung. Beispiele für erwartete Vorteile sind:
+
+Aufbau flexibler Billingsysteme in der Telekommunikation
+Auffinden von Fachkräften durch datengestützte Webanalysen
+Bessere, schnellere Marktforschung
+Bonitätsprüfung (Big-Data-Kreditscoring)
+Datenzugriff und -analyse raumzeitlicher Rasterdaten in Wissenschaft und Industrie, beispielsweise nach dem Open-Geospatial-Consortium-Standard („Web Coverage Service“)
+Direktmarketing: direkte, persönliche Ansprache von z. B. Kunden oder beispielsweise Wählern zur Beeinflussung von Kauf- bzw. Wahlentscheidungen oder mit dem Ziel sonstiger Meinungs- oder Verhaltensbeeinflussung
+Entdeckung von Unregelmäßigkeiten bei Finanztransaktionen (Fraud-Detection)
+Einführung und Optimierung einer intelligenten Energieverbrauchssteuerung (Smart Metering)
+Erkennen von Zusammenhängen in der medizinischen Diagnostik
+Erstellung von Bewegungs-, Kauf-, Persönlichkeitsprofilen (siehe z. B. Big Five (Psychologie))
+Echtzeit-Cross- und Upselling im E-Commerce und stationären Vertrieb
+Fabriksteuerung, Produktionsplanung und vorausschauende Wartungsmaßnahmen im Kontext von Industrie 4.0
+Geheimdienstliches Erstellen von Bewegungsprofilen mit Programmen wie Boundless Informant
+IT Operations Analytics: Das Anwenden der „Big Data“-Prozesse auf IT-Systeme, um effizientes und innovatives IT-Management zu betreiben.
+Nutzbarmachung von großen Datenmengen in der Landwirtschaft (im Zuge von Smart Farming)
+Risikobewertung und Anpassung von Versicherungsbeiträgen in Abhängigkeit vom Verhaltensmuster (Beitragsgestaltung PKW je nach Fahrweise, für die Krankenversicherung je nach gesundheitsbezogenem Verhalten)
+Vorhersage von Epidemien
+Verbesserungen der Arbeitsbedingungen für Mitarbeiter, etwa die Reduzierung von Burnout Raten, durch datenbasierte Change Projekte
+Verarbeitung von Daten aus Wettersatelliten und anderen naturwissenschaftlich eingesetzten Sensoren
+Zeitnahe Auswertung von Webstatistiken und Anpassung von Onlinewerbemaßnahmen (wird seit Längerem angewandt)Die reine Analyse von Kundendaten ist jedoch noch nicht automatisch Big Data – oft handelt es sich bei vielen Anwendungen aus dem Marketing viel mehr um „Small-Data“-Analytics.
+
+
+== Verarbeitung von Big Data ==
+
+Klassische relationale Datenbanksysteme sowie Statistik- und Visualisierungsprogramme sind oft nicht in der Lage, derart große Datenmengen zu verarbeiten. Für Big Data kommen daher neue Arten von Datenspeicher- und Analyse-Systemen zum Einsatz, die parallel auf bis zu Hunderten oder Tausenden von Prozessoren beziehungsweise Servern arbeiten, wie zum Beispiel in kognitiven Systemen. Dabei gibt es unter anderem folgende Herausforderungen:
+
+Verarbeitung vieler Datensätze
+Verarbeitung vieler Spalten innerhalb eines Datensatzes
+Schneller Import großer Datenmengen
+Sofortige Abfrage importierter Daten (Realtime Processing)
+Kurze Antwortzeiten (Latenz und Verarbeitungsdauer) auch bei komplexen Abfragen
+Möglichkeit zur Verarbeitung vieler gleichzeitiger Abfragen (Concurrent Queries)
+Analyse verschiedenartiger Informationstypen (Zahlen, Texte, Bilder, …)Die Entwicklung von Software für die Verarbeitung von Big Data befindet sich noch in einer frühen Phase. Bekannt ist der MapReduce-Ansatz, der bei Open-Source-Software (Apache Hadoop und MongoDB) sowie bei einigen kommerziellen Produkten (unter anderem Aster Data oder Greenplum) zum Einsatz kommt.
+
+
+== Anwendung (Auswahl) ==
+
+
+=== Politische Wahlen ===
+Bei der Präsidentschaftswahl in den Vereinigten Staaten 2016 sowie bei dem Volksentscheid in Großbritannien über den Austritt aus der Europäischen Union im selben Jahr („Brexit“) hatten die überraschenden Gewinner jeweils das Unternehmen Cambridge Analytica engagiert, die sich mit der Erhebung, Auswertung, Anwendung und Zuordnung sowie mit dem Verkauf hauptsächlich im Internet gewonnener persönlicher Daten beschäftigt und Methoden der Psychometrik anwendet, einem Ableger der Psychologie (siehe Psychografie).
+
+
+=== Social scoring ===
+Gesammelte Daten werden zur Bewertung z. B. der Kreditwürdigkeit (-> Kreditscoring), der Gesundheit (und entsprechender Risiken, woraus z. B. auch die Gestaltung entsprechend angepasster Versicherungsprämien folgt) oder des Konsum- und Einkaufsverhaltens von Verbrauchern herangezogen, auch zum Versuch entsprechender Voraussagen ("Predicting"); in China baut auf ihnen das "Social scoring"-System auf, mit dem auch das soziale Verhalten der Einwohner kontrolliert und bewertet wird und verbessert werden soll.
+
+
+=== Bildungswesen ===
+Der Einsatz von Big Data eröffnet für das Bildungswesen neue Möglichkeiten. Die Technik kann zur Optimierung von Lernformen und Bildungsprogrammen genutzt werden. Experten wie Viktor Mayer-Schönberger und Kenneth Cukier (* 1968) rechnen mit einem grundlegenden Umbruch des Bildungssektors durch den Einsatz von Big Data.
+
+
+=== Forschung ===
+Durch die Fortschritte in der Datenverarbeitung können anhand großer Datenmenge wesentlich zuverlässigere Ergebnisse erzielt werden. Beispiele sind eine Studie mit rund 16.000 Kindern, in der Zusammenhänge zwischen Übergewicht und Diabetes untersucht wurden, und eine Fall-Kontroll-Studie zum Einfluss von Fluglärm, bei der die Krankenkassendaten von über einer Million Patienten ausgewertet wurden.
+
+
+=== Microtargeting ===
+
+Die Firma Cambridge Analytica ließ nach der US-Präsidentschaftswahl 2016 verlauten, dass der Einsatz sogenannter Microtargeting-Techniken entscheidend zum Wahlsieg von Donald Trump beigetragen haben soll. So habe man mittels psychometrischer Analysen von großen Datensätzen unentschiedene beziehungsweise leichter zu beeinflussende WählerInnen (swing voters) identifizieren und anschließend gezielt via Facebook mit auf sie zugeschnittenen Wahlwerbungen und Inhalten konfrontieren können. Dem Einsatz besagter Techniken im US-Wahlkampf vorausgegangen waren Forschungsarbeiten des Psychologen Michal Kosinski. Darin verknüpfte Kosinski Big-Data-Auswertungen mit psychologischen Verhaltensanalysen und konnte zeigen, dass sich anhand der Facebook-Likes von NutzerInnen deren Persönlichkeitseigenschaften, die sexuelle Orientierung, Drogenkonsum sowie die religiöse und politische Einstellung vorhersagen lassen.
+
+
+== Kritik ==
+Die US-amerikanische Wirtschaftswissenschaftlerin Shoshana Zuboff prägte im Zusammenhang mit der Sammlung von personenbezogenen Daten durch Internetkonzerne wie Google und Facebook den Begriff Überwachungskapitalismus und sieht darin eine Mutation des Industriekapitalismus, der die private menschliche Erfahrung für frei verfügbares Rohmaterial für die kapitalistische Produktion und den Warenaustausch hält und der die Errungenschaften der Digitalen Revolution zur konspirativen Überwachung, Speicherung, Manipulation und Vorhersage menschlichen Verhaltens nutzt. Zuboff befürwortet die Zerschlagung der derartige Datenmonopole bildenden Konzerne und Verbote, um die Bildung von Datenkonzentrationen zu unterbrechen. Ihr Buch Das Zeitalter des Überwachungskapitalismus erschien 2018 in deutscher Sprache.
+Wie Forschungsergebnisse unterschiedlicher Wissenschaftler zeigen, lassen sich aus den von Nutzern geteilten Inhalten im Internet zum Teil hoch sensible Informationen extrahieren, die nicht beabsichtigt wurden, geteilt zu werden. Zum Schutz der digitalen Privatsphäre gewinnen rechtsstaatliche Reglementierungen der Informationsspeicherung und -sammlung daher immer mehr an Relevanz. Doch auch auf Staatsebene werden Big Data zum Teil genutzt, um Informationen über Individuen zusammenzutragen, wie das Sozialkredit-System in Chinas zeigt.
+
+
+=== Datenschutz ===
+
+Der Datenwissenschaftler Andreas Dewes hat in einer Untersuchung gezeigt, dass anonymisierte Daten von Internetnutzern, die von Firmen gesammelt und verkauft wurden, wieder entschlüsselt und Personen zugeordnet werden können. Aus den von Dewes im Rahmen seiner Untersuchung von Werbefirmen gekauften, angeblich „anonymen“ Daten von ca. drei Millionen Deutschen waren Mitglieder des Deutschen Bundestags und von Landesparlamenten sowie weitere Personen des öffentlichen Lebens wie Richter, Polizeibeamte oder andere Funktionäre.Der Europäische Datenschutzbeauftragte Giovanni Buttarelli betonte im März 2013, persönliche Informationen seien keine Ware.Mit Bezug auf die Versicherungsbeitragsanpassung mittels Big Data wird unter anderem die „Gefahr einer schleichenden Entsolidarisierung in der Versicherung“ hervorgehoben.
+
+
+=== Unzureichende Regulierung ===
+
+Eine entscheidende Frage ist, wem die von Privatpersonen gesammelten Daten gehören, wer die Verfügungshoheit über sie behält und wer ihre Nutzung kontrolliert. Inwieweit die europäische Datenschutz-Grundverordnung, die ab 25. Mai 2018 anzuwenden ist, ausreicht, wird in der Öffentlichkeit diskutiert.
+Der schleswig-holsteinische Datenschutzbeauftragte Thilo Weichert warnte 2013: „Big Data eröffnet Möglichkeiten des informationellen Machtmissbrauchs durch Manipulation, Diskriminierung und informationelle ökonomische Ausbeutung – verbunden mit der Verletzung der Grundrechte der Menschen.“Dirk Helbing, Professor für Computational Social Science an der ETH Zurich, warnte im Januar 2018 vor möglichen Technologien subtiler Manipulation auf Basis von Big Data. Der Technikfolgenabschätzer Armin Grunwald, Leiter des Institut für Technikfolgenabschätzung und Systemanalyse (ITAS) in Karlsruhe, warnt, es habe zu keiner Zeit in der Menschheitsgeschichte „derart gute Bedingungen für eine totalitäre Diktatur“ gegeben wie heute.Der Sozialforscher Nils Zurawski plädiert für eine "solidarische Datenspeicherung", um die Vorteile von Big Data für das Gemeinwohl nutzen zu können.
+
+
+=== Mangelhafte Grundlage für Auswertungen ===
+Kritik gibt es vor allem daran, dass die Datenerhebung und -auswertung praktisch ausschließlich nach technischen Aspekten erfolgt und beispielsweise der technisch einfachste Weg gewählt wird, die Daten zu erheben. Statistische Grundprinzipien wie das einer repräsentativen Stichprobe werden oft vernachlässigt. So kritisierte die Sozialforscherin Danah Boyd:
+Größere Datenmengen müssten nicht qualitativ bessere Daten sein
+Nicht alle Daten seien gleichermaßen wertvoll
+„Was“ und „Warum“ seien zwei unterschiedliche Fragen
+Bei Interpretationen sei Vorsicht geboten
+Nur weil es verfügbar ist, sei es nicht ethisch vertretbar.Ein Forscher ermittelte beispielsweise, dass Menschen nicht mehr als 150 Freundschaften pflegen (Dunbar-Zahl), was sodann als technische Begrenzung in sozialen Netzwerken eingeführt wurde – in der falschen Annahme, als „Freunde“ bezeichnete Bekanntschaften würden echte Freundschaften widerspiegeln. Sicherlich würde nicht jeder alle seine Facebook-Freunde in einem Interview als Freunde benennen – der Begriff eines „Freundes“ signalisiert bei Facebook lediglich eine Kommunikationsbereitschaft.
+Ein anderer kritischer Ansatz setzt sich mit der Frage auseinander, ob Big Data das Ende aller Theorie bedeutet. Chris Anderson, Chefredakteur beim Magazin Wired beschrieb 2008 das Glaubwürdigkeitsproblem jeder wissenschaftlichen Hypothese und jedes Modells bei gleichzeitiger Echtzeitanalyse lebender und nicht lebender Systeme. Korrelationen werden wichtiger als kausale Erklärungsansätze, die sich oft erst später bewahrheiten oder falsifizieren lassen.
+
+
+=== Hype, Schwammiger Begriff ===
+Der Begriff „Big Data“ wird gelegentlich auch dann verwendet, wenn Daten weder groß noch komplex sind oder sich nicht schnell ändern oder mit herkömmlichen Techniken problemlos verarbeitet werden können. Die zunehmende Aufweichung des Begriffs führt nach Meinung einiger Beobachter dazu, dass er immer mehr ein aussageloser Marketingbegriff werde und vielen Prognosen zufolge innerhalb der nächsten Jahre eine starke Abwertung erfahre („Tal der Enttäuschungen“ im Hype-Zyklus).
+
+
+== Siehe auch ==
+Charta der Digitalen Grundrechte der Europäischen Union
+Data-Mining, Data Science, Data Warehouse, unstrukturierte Daten, Data-Lake
+Filterblase
+INDECT
+Informationelle Selbstbestimmung
+Internet der Dinge
+Künstliche Intelligenz
+Nudging, Profiling, Tracking
+Predictive Policing
+Psychometrie
+
+
+== Literatur ==
+
+
+=== Sachbücher ===
+Ronald Bachmann, Guido Kemper, Thomas Gerzer: Big Data – Fluch oder Segen? Unternehmen im Spiegel gesellschaftlichen Wandels. Mitp, Heidelberg/ München/ Landsberg/ Frechen/ Hamburg 2014, ISBN 978-3-8266-9690-9.
+Pavlo Baron: Big data für IT-Entscheider – riesige Datenmengen und moderne Technologien gewinnbringend nutzen. Hanser, München 2013, ISBN 978-3-446-43339-7.
+Konrad Becker u. a.: Die Politik der Infosphäre. Springer Fachmedien, Wiesbaden 2003, ISBN 3-8100-3866-0.
+Heinrich Geiselberger, Tobias Moorstedt (Redaktion): Big Data. Das neue Versprechen der Allwissenheit. edition unseld SV Sonderdruck. 2. Auflage. Suhrkamp, Berlin 2013, ISBN 978-3-518-06453-5.
+Yvonne Hofstetter: Sie wissen alles – Wie intelligente Maschinen in unser Leben eindringen und warum wir für unsere Freiheit kämpfen müssen. C. Bertelsmann Verlag, 2014, ISBN 978-3-570-10216-9.
+Rudolf Klausnitzer: Das Ende des Zufalls, wie Big Data uns und unser Leben vorhersagbar macht. Ecowin, Salzburg 2013, ISBN 978-3-7110-0040-8.
+Barbara Kolany-Raiser, Reinhard Heil, Carsten Orwat, Thomas Hoeren (Hrsg.): Big Data und Gesellschaft. Eine multidisziplinäre Annäherung. Springer VS, Wiesbaden 2018, ISBN 978-3-658-21664-1 (Softcover), ISBN 978-3-658-21665-8 (eBook), doi:10.1007/978-3-658-21665-8.
+Jaron Lanier: Wem gehört die Zukunft? „Du bist nicht der Kunde der Internetkonzerne. Du bist ihr Produkt“. Hoffmann & Campe, 2014, ISBN 978-3-455-50318-0.
+Jure Leskovec, Anand Rajaraman, Jeffrey David Ullman: Mining of Massive Datasets. 2. Auflage. Cambridge University Press, Cambridge 2014, ISBN 978-1-107-07723-2 (englisch). 
+Klaus Mainzer: Die Berechnung der Welt: von der Weltformel zu Big Data. Beck, München 2014, ISBN 978-3-406-66130-3.
+Mario Martini: Big Data als Herausforderung für den Persönlichkeitsschutz und das Datenschutzrecht. DVBl. 2014, S. 1481–1489.
+Viktor Mayer-Schönberger, Kenneth Cukier: Big Data: die Revolution, die unser Leben verändern wird. Redline, München 2013, ISBN 978-3-86881-506-1, (aus dem Englischen von Dagmar Mallett).
+Tobias Moorstedt mit Heinrich Geiselberger (Redaktion): Big Data. Das neue Versprechen der Allwissenheit (edition unseld SV Sonderdruck), Suhrkamp, Berlin 2013, 2. Auflage, ISBN 978-3-518-06453-5.
+Ramón Reichert (Hrsg.): Big Data: Analysen zum digitalen Wandel von Wissen, Macht und Ökonomie. transcript Verlag, Bielefeld 2014, ISBN 978-3-8376-2592-9.
+Gregor Ritschel, Thomas Müller (Redaktion): Themenschwerpunkt Big Data als Theorieersatz. In: Berliner Debatte Initial, Heft 4/2016, ISBN 978-3-945878-11-8.
+Arno Rolf: Weltmacht Vereinigte Daten. Die Digitalisierung und Big Data verstehen, Metropolis-Verlag, Marburg 2018, ISBN 978-3-7316-1314-5.
+Christian Rudder: Inside Big Data – Unsere Daten zeigen, wer wir wirklich sind. Aus dem Englischen von Kathleen Mallett. Hanser-Verlag, 2016, ISBN 978-3-446-44459-1.
+Torsten Schwarz (Hrsg.): Big Data im Marketing: Chancen und Möglichkeiten für eine effektive Kundenansprache. Haufe, Freiburg 2015, ISBN 978-3-648-06585-3.
+
+
+=== Forschungsberichte ===
+Carsten Orwat, Andrea Schankin: Attitudes towards big data practices and the institutional framework of privacy and data protection – A population survey (KIT Scientific Reports; 7753). KIT Scientific Publishing, Karlsruhe 2018, ISBN 978-3-7315-0859-5, doi:10.5445/KSP/1000086677 (englisch). 
+
+
+=== Belletristik ===
+Eugen Ruge: Follower – Vierzehn Sätze über einen fiktiven Enkel. Roman. Rowohlt 2016, ISBN 978-3-498-05805-0.
+
+
+== Juristische Fachliteratur ==
+Thomas Sagstetter: Big Data und der Europäische Rechtsrahmen: Status quo und Reformbedarf im Lichte der Trade-Secrets-Richtlinie 2016/943/EU. In: Mackenrodt, Maute: Recht als Infrastruktur für Innovation. Nomos Verlag 2019, ISBN 978-3-8487-5379-6. Open-Access-Veröffentlichung unter: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3219223.
+
+
+== Weblinks ==
+
+Erklärvideo bei Wikimedia Commons: Big Data einfach erklärt
+Interdisziplinäres Forschungs- und Dialogprojekt zu den gesellschaftlichen Chancen und Risiken von Big Data, gefördert vom BMBF: abida.de
+badische-zeitung.de, 12. November 2017, Savera Kang, Interview Florian Mehnert: Welche Gefahren birgt Big Data?
+Fachartikel, 25. August 2018, bigdata-insider.de: So beflügelt Big Data das Messegeschäft
+Aus Politik und Zeitgeschichte, 11–12/2015, bpb.de: Big Data
+1. November 2018, Steffen Wurzel : Big Data ist Chinas neues Gold
+Max-Planck-Institut für Wissenschaftsgeschichte, mpiwg-berlin.mpg.de: Die Geschichte von Big Data
+Soziopolis  , 20. Oktober 2016, Jan-Felix Schrape : ‚Big Data‘ als Erwartungsraum
+19. November 2018, Jeff Desjardins, visualcapitalist.com: Here’s What the Big Tech Companies Know About You ("Was die großen Internet-Konzerne über Dich wissen")
+
+
+== Einzelnachweise ==

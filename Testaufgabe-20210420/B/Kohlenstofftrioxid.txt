@@ -1,0 +1,15 @@
+Kohlenstofftrioxid (CO3) ist ein instabiles Reaktionsprodukt von Kohlenstoffdioxid, CO2, und atomarem Sauerstoff, O. Es unterscheidet sich von dem Carbonat-Anion CO32−. Auch bei Reaktionen zwischen Kohlenstoffmonoxid, CO, und molekularem Sauerstoff  O2 und in der Driftzone von negativen Koronaentladungen wurde es nachgewiesen. Hier reagieren Kohlenstoffdioxid und atomare Sauerstoffionen, die durch freie Elektronen im Plasma aus O2 entstehen.
+Es gibt drei mögliche Strukturen für CO3, die nach ihrer Geometrie als Cs, D3h und C2v bezeichnet werden. Die cyclische, nicht-radikalische C2v-Form hat sich in den meisten Studien als Grundzustand des Moleküls erwiesen, wohingegen die beiden instabilen Formen Biradikale sind. Die Cs- und die C2v-Form zählen auch zu den Peroxiden.
+Theoretisch denkbare Formen sind darüber hinaus Dimere (C2O6) mit Sechsringstrukturen, die dann ebenfalls zu den Peroxiden zählten. Formulierbar ist auch eine nicht radikalische offenkettige Form mit Formalladungen (O=C=O-O) und mesomeren Grenzstrukturen ähnlich dem Ozon. Praktisch konnte deren Existenz jedoch noch nicht nachgewiesen werden.
+
+
+== Einzelnachweise ==
+
+
+== Weitere Quellen ==
+Pople J. A., Seeger U., Seeger R., Schleyer P. v. R.: The structure of carbon trioxide.  In:  Journal of Computational Chemistry. 1, Nr. 2,  2004, S. 199–203. doi:10.1002/jcc.540010215.
+Moll N. G., Clutter D. R., Thompson W. E.: Carbon Trioxide: Its Production, Infrared Spectrum, and Structure Studied in a Matrix of Solid CO2.  In:  The Journal of Chemical Physics. 45, Nr. 12,  1966, S. 4469–4481. doi:10.1063/1.1727526.
+Gimarc B. M., Chou T. S.: Geometry and Electronic Structure of Carbon Trioxide.  In:  The Journal of Chemical Physics. 49, Nr. 9,  1968, S. 4043–4047. doi:10.1063/1.1670715.
+DeMore W. B., Jacobsen  C. W.: Formation of carbon trioxide in the photolysis of ozone in liquid carbon dioxide.  In:  Journal of Physical Chemistry. 73, Nr. 9,  1969, S. 2935–2938. doi:10.1021/j100843a026.
+DeMore W. B., Dede C.: Pressure dependence of carbon trioxide formation in the gas-phase reaction of O(1D) with carbon dioxide.  In:  Journal of Physical Chemistry. 74, Nr. 13,  1970, S. 2621–2625. doi:10.1021/j100707a006.
+Francisco J. S., Williams I. H.: A theoretical study of the force field for carbon trioxide.  In:  Chemical Physics. 95, Nr. 3,  1985, S. 373–383. doi:10.1016/0301-0104(85)80160-9.

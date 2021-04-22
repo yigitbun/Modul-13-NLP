@@ -1,0 +1,174 @@
+Samarium(III)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide.
+
+
+== Geschichte ==
+Samarium(III)-oxid wurde 1879 von Paul Émile Lecoq de Boisbaudran im Samarskit entdeckt.
+
+
+== Gewinnung und Darstellung ==
+Samarium(III)-oxid kann durch Verbrennung von Samarium an Luft gewonnen werden.
+
+  
+    
+      
+        
+          4
+           
+          S
+          m
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          S
+          
+            m
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ Sm+3\ O_{2}\longrightarrow 2\ Sm_{2}O_{3}} }
+  Es kann auch durch thermische Zersetzung von Samariumsalzen wie Samariumoxalat oder Samariumcarbonat bei Temperaturen um 700 °C gewonnen werden.
+
+  
+    
+      
+        
+          S
+          
+            m
+            
+              2
+            
+          
+          (
+          C
+          
+            O
+            
+              3
+            
+          
+          
+            )
+            
+              3
+            
+          
+          ⟶
+          S
+          
+            m
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Sm_{2}(CO_{3})_{3}\longrightarrow Sm_{2}O_{3}+3\ CO_{2}} }
+  Samarium(III)-oxid-Nanopartikel können durch Reaktion von Samariumhydrid mit Sauerstoff gewonnen werden.
+
+  
+    
+      
+        
+          4
+           
+          S
+          
+            m
+            
+              3
+            
+          
+          
+            H
+            
+              7
+            
+          
+          +
+          9
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          6
+           
+          S
+          
+            m
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          14
+           
+          
+            H
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ Sm_{3}H_{7}+9\ O_{2}\longrightarrow 6\ Sm_{2}O_{3}+14\ H_{2}} }
+  Insgesamt werden etwa 700 Tonnen pro Jahr hergestellt.
+
+
+== Eigenschaften ==
+
+Samarium(III)-oxid ist ein geruchloser gelblicher Feststoff, der unlöslich in Wasser ist. Er kommt in einer monoklinen und einer kubischen Kristallstruktur vor, wobei die kubische Form stabiler und häufiger ist.
+
+
+== Verwendung ==
+Samarium(III)-oxid wird in Infrarotstrahlung absorbierendem Glas verwendet. In der organischen Chemie katalysiert es die Reaktion von acyclischen primären Alkoholen zu Aldehyden und Ketonen. Eine weitere Anwendung ist die Herstellung von anderen Samariumsalzen, wie Samarium(III)-sulfid.
+
+
+== Einzelnachweise ==

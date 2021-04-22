@@ -1,0 +1,20 @@
+Californium(IV)-oxid ist ein Oxid des Elements Californium. Es besitzt die Summenformel CfO2. Da alle Isotope des Californiums nur künstlich hergestellt sind, besitzt es keine natürlichen Vorkommen. Es entsteht unter anderem implizit in geringen Mengen in Kernreaktoren beim Bestrahlen von Urandioxid (UO2) bzw. Plutoniumdioxid (PuO2) mit Neutronen.
+
+
+== Darstellung ==
+Californium(IV)-oxid entsteht durch Oxidation mit molekularem Sauerstoff bei hohem Druck und durch atomaren Sauerstoff.
+
+
+== Eigenschaften ==
+Californium(IV)-oxid ist ein schwarzbrauner Feststoff und kristallisiert im kubischen Kristallsystem in der Fluorit-Struktur in der Raumgruppe Fm3m (Nr. 225)Vorlage:Raumgruppe/225 mit den Koordinationszahlen Cf[8], O[4]. Der Gitterparameter beträgt 531,0 ± 0,2 pm.
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen und eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielen. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Richard G. Haire: Californium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 1499–1576 (doi:10.1007/1-4020-3598-5_11).

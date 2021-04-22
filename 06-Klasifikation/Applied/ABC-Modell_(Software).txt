@@ -1,0 +1,23 @@
+Das ABC-Modell bildet eine Grundlage, um ergonomische Prinzipien der Programmierung im IT-Bereich zu definieren. Es wurde erstmals 1989 von Michael Frese und Felix C. Brodbeck dargestellt.
+
+
+== Ausgangspunkt ==
+Die Bedienung von Programmen zerfällt in zwei Aspekte:
+
+Der Benutzer möchte eine Sachaufgabe umsetzen.
+Der Benutzer möchte einen Computer zur Lösung verwenden.Die Verknüpfung der Interaktion mit der Bedienoberfläche und der Bewältigung der Sachaufgabe wird im ABC-Modell erfasst.
+
+
+== Modell ==
+Das ABC-Modell stellt eine Beziehung der Aufgabe an sich, des Benutzers und des Computers dar. Im Rahmen der Software-Ergonomie veranschaulicht es die Möglichkeiten der Gestaltung, der Bewertung und des Entwurfs von interaktiver Komponenten. Im Besonderen die Dialoggestaltung erweist sich hier als Kernpunkt einer möglichst ergonomischen Umsetzung. Es ergeben sich Fragen zur Anpassung der grafischen Oberfläche, der Menüebenen, der Schrift- und Farbwahl oder auch der Gestensteuerung bei Smartphones.
+Das einfache ABC-Modell wird in der Norm ISO 9241 aufgegriffen und weitergehend beschrieben.
+
+Die im ABC-Modell dargestellten Dialoggestaltungansätze sind:
+
+Aufgabenangemessenheit: Ein System muss die zur Lösung der Aufgabenstellung notwendigen Funktionen bereitstellen und soll damit Arbeit abnehmen
+Benutzer: Ein System soll handhabbar sein und eine leichte Erlernbarkeit, intuitive Bedienbarkeit und Verständlichkeit realisieren.
+Computer: Ein System sollte für den Benutzer erschließbar und handhabbar sein, sowie helfen Aufgaben zu erfüllen.Anpassung des Systems an die Fähigkeiten des Benutzers und an die Prinzipien der Arbeitsplatzgestaltung sollte gegeben sein.
+
+
+== Literatur ==
+Oppermann & Reiterer: Software-ergonomische Evaluation, 1994

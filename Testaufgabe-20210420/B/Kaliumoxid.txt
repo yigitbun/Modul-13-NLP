@@ -1,0 +1,210 @@
+Kaliumoxid (K2O) ist eine chemische Verbindung aus der Gruppe der Alkalimetalloxide und liegt als weißer Feststoff vor.
+
+
+== Gewinnung und Darstellung ==
+Kaliumoxid kann durch Reaktion von Sauerstoff und Kalium gewonnen werden, wobei Kaliumperoxid K2O2 und durch die Reaktion mit weiterem Kalium dann Kaliumoxid entsteht.
+
+  
+    
+      
+        
+          
+            K
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          K
+          ⟶
+          2
+          
+          
+            K
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {K2O2 + 2K -> 2K2O}}}
+  Alternativ kann Kaliumoxid durch Erhitzen von Kaliumnitrat mit Kalium erzeugt werden:
+
+  
+    
+      
+        
+          2
+          
+          
+            KNO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          10
+          
+          K
+          ⟶
+          6
+          
+          
+            K
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2KNO3 + 10K -> 6K2O + N2}}}
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Kaliumoxid besitzt eine Antifluorit-Kristallstruktur. In dieser Struktur tauschen die Anionen und Kationen gegenüber der von Calciumfluorid ihre Positionen.
+Die Standardbildungsenthalpie von Kaliumoxid beträgt ΔHf0 = −363 kJ/mol.
+
+
+=== Chemische Eigenschaften ===
+Wie andere Alkalimetalloxide bildet Kaliumoxid bei Berührung mit Wasser ein Hydroxid, in diesem Fall Kaliumhydroxid (KOH), das sich in Wasser zu Kalilauge löst.
+
+  
+    
+      
+        
+          
+            K
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          2
+          
+          KOH
+        
+      
+    
+    {\displaystyle {\ce {K2O + H2O -> 2KOH}}}
+  Kaliumoxid ist das Anhydrid der Kalilauge. An Luft reagiert es mit der Luftfeuchtigkeit zu Kaliumhydroxid und mit Kohlenstoffdioxid zu Kaliumcarbonat.
+
+  
+    
+      
+        
+          2
+          
+          KOH
+          +
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            K
+            
+              2
+            
+            
+              
+            
+          
+          
+            CO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2KOH + CO2 -> K2CO3 + H2O}}}
+  Kalilauge ist eine starke Lauge, die, ähnlich wie Natronlauge, unter anderem Fette, unedle Metalle und Glas angreift. Mit starken Säuren geschieht rasche, teils lebhaft verlaufende Neutralisation. Mit schwachen oder stark verdünnten Säuren verläuft die Reaktion langsamer. Es bilden sich Kaliumsalze.
+
+
+== Verwendung ==
+Kaliumoxid wird selbst nicht als Düngemittel (PK/NPK-Dünger) verwendet, aber dort als Maßeinheit für den Anteil von Kalium (z. B. in Form von Kaliumsulfat, Kaliumformiat, Kaliumnitrat oder Kaliumchlorid) im Düngemittel eingesetzt.
+
+
+== Siehe auch ==
+Kaliumperoxid
+Kaliumhyperoxid
+
+
+== Einzelnachweise ==

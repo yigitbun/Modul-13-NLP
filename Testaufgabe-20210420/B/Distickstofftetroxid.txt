@@ -1,0 +1,352 @@
+Distickstofftetroxid, N2O4, ist bei 25 °C ein farbloses Gas. Es ist das Dimer des Stickstoffdioxids, NO2, und steht mit diesem in einem druck- und temperaturabhängigen Gleichgewicht.
+Distickstofftetroxid wird unter seinem Trivialnamen Stickstofftetroxid, beziehungsweise meist unter der Abkürzung NTO (von englisch nitrogen tetroxide), in der Raumfahrt und Raketentechnik als ohne Kühlung lagerfähiges und hypergol mit Hydrazin und seinen Derivaten reagierendes Oxidationsmittel (Oxidator) verwendet.
+
+
+== Eigenschaften ==
+Distickstofftetroxid ist bei einer Temperatur oberhalb von 21 °C ein ätzendes und stark oxidierend wirkendes Gas. Das farblose, diamagnetische Distickstofftetroxid steht im Gleichgewicht mit dem rotbraunen, paramagnetischen Stickstoffdioxid. Ein Molekül N2O4 zerfällt hierbei in zwei Moleküle NO2.
+
+  
+    
+      
+        
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+           
+          ⇌
+           
+          2
+          N
+          
+            O
+            
+              2
+            
+          
+          
+          Δ
+          H
+          =
+          +
+          57
+           
+          
+            
+              k
+              J
+              
+                /
+              
+              m
+              o
+              l
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathrm {N_{2}O_{4}\ \rightleftharpoons \ 2NO_{2}\quad \Delta H=+57~{\rm {kJ/mol}}} .}
+  Je nach Druck und Temperatur liegen unterschiedliche Anteile an beiden Gasen bzw. Flüssigkeiten vor. Da Stickstoffdioxid eine rotbraune Farbe besitzt, ist das Gemisch je nach Temperatur orange bis rotbraun gefärbt. Mit zunehmender Temperatur verschiebt sich das obige Gleichgewicht nach rechts und die braune Färbung vertieft sich. Bei 800 °C ist der Zerfall nahezu vollständig. Die Dissoziationskonstante kann hier über die konzentrationsproportionalen Partialdrücke wiedergegeben werden:
+
+  
+    
+      
+        
+          K
+          
+            d
+          
+        
+        =
+        
+          
+            
+              p
+              
+                
+                  (
+                  N
+                  
+                    O
+                    
+                      2
+                    
+                  
+                  )
+                
+              
+              
+                2
+              
+            
+            
+              p
+              
+                
+                  (
+                  
+                    N
+                    
+                      2
+                    
+                  
+                  
+                    O
+                    
+                      4
+                    
+                  
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle K_{d}={p_{\mathrm {(NO_{2})} }^{2} \over p_{\mathrm {(N_{2}O_{4})} }}}
+  Der Wert der Dissoziationskonstante hängt signifikant von der Temperatur ab.
+
+Beim Abkühlen kondensiert Distickstofftetroxid und die Flüssigkeit klart auf. In der Nähe des Siedepunktes zeigt die Substanz wegen noch gelöstem Stickstoffdioxid eine braune Färbung. N2O4 bildet farblose Kristalle und kristallisiert im kubischen System (a = 7,77 Å) mit sechs N2O4-Gruppen pro Einheitszelle. Auch die Variation des Druckes beeinflusst das Gleichgewicht. Eine Erhöhung des Druckes verschiebt es auf die linke, eine Absenkung auf die rechte Seite (Prinzip vom kleinsten Zwang). Der kritische Punkt von N2O4 liegt bei 157,85 °C und 10 MPa.
+N2O4 als auch NO2 bilden das gemischte Anhydrid der Salpetersäure und der Salpetrigen Säure. Mit Alkalihydroxidlösungen entstehen Nitrate und Nitrite, z. B:
+
+  
+    
+      
+        
+          2
+          
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+          
+          N
+          a
+          O
+          H
+           
+          →
+           
+          N
+          a
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          N
+          a
+          N
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+        .
+      
+    
+    {\displaystyle \mathrm {2\,NO_{2}+2\,NaOH\ \rightarrow \ NaNO_{2}+NaNO_{3}+H_{2}O} .}
+  
+
+
+== Herstellung ==
+Distickstofftetroxid ist das Dimer des Stickstoffdioxids, das als Zwischenprodukt bei der großtechnischen Salpetersäuresynthese durch Luftoxidation von Stickstoffmonoxid NO entsteht. Durch Abkühlen dimerisiert Stickstoffdioxid zu Distickstofftetroxid und kann so als Nebenprodukt in einer Salpetersäurefabrik produziert werden.
+Im Labor kann es dargestellt werden
+
+in Analogie zur technischen Synthese
+durch Reduktion von konzentrierter Salpetersäure mit Kupfer
+durch Erhitzen von Schwermetallnitraten wie Bleinitrat oder Silbernitrat im Sauerstoffstrom
+durch Umsetzung von rauchender Salpetersäure mit Phosphor(V)-oxid und thermischer Zersetzung des erhaltenen Distickstoffpentoxid bei 260 °C:
+  
+    
+      
+        
+          4
+          
+          
+            HNO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            P
+            
+              4
+            
+            
+              
+            
+          
+          
+            O
+            
+              10
+            
+            
+              
+            
+          
+          ⟶
+          4
+          
+          
+            HPO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4 HNO3 + P4O10 -> 4 HPO3 + 2 N2O5}}}
+  
+
+  
+    
+      
+        
+          2
+          
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          
+            
+              →
+              
+                T
+              
+            
+          
+          2
+          
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              4
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 N2O5 ->[T][]2 N2O4 + O2}}}
+  
+
+
+== Verwendung ==
+Distickstofftetroxid wird unter dem Trivialnamen Stickstofftetroxid seit den 1950er Jahren in vielen Raketen als ohne Kühlung lagerfähiges Oxidationsmittel (Oxidator) verwendet. Zusammen mit Hydrazinderivaten als Reduktionsmittel bildet es die einzigen bei Träger- und Interkontinentalraketen verwendeten hypergolischen Treibstoffmischungen. So wurde es z. B. zusammen mit Hydrazin und UDMH als Treibstoffgemisch (Aerozin 50) der Mondlandefähren und dem Apollo-Raumschiff im amerikanischen Apollo-Programm für Haupt- und Steuertriebwerke verwendet.
+Zuerst wurde Distickstofftetroxid als lagerfähiger Oxidator bei den Interkontinentalraketen der zweiten Generation wie der Titan II verwendet, die dadurch immer vollgetankt und einsatzbereit auf ihren sofortigen Start warten konnten. Danach kam Distickstofftetroxid bei den aus diesen Interkontinentalraketen abgeleiteten Trägerraketen und zahlreichen neu entwickelten Trägerraketen bis heute zum Einsatz. Außerdem ist Distickstofftetroxid neben MON der Standardoxidator von Satelliten und Raumsonden.
+
+
+== Risikobewertung ==
+Distickstofftetroxid wurde 2015 von der EU gemäß der Verordnung (EG) Nr. 1907/2006 (REACH) im Rahmen der Stoffbewertung in den fortlaufenden Aktionsplan der Gemeinschaft (CoRAP) aufgenommen. Hierbei werden die Auswirkungen des Stoffs auf die menschliche Gesundheit bzw. die Umwelt neu bewertet und ggf. Folgemaßnahmen eingeleitet. Ursächlich für die Aufnahme von Distickstofftetroxid waren die Besorgnisse bezüglich Exposition von Arbeitnehmern und hohes Risikoverhältnis (Risk Characterisation Ratio, RCR) sowie der möglichen Gefahren durch mutagene und reproduktionstoxische Eigenschaften. Die Neubewertung sollte von Lettland durchgeführt werden, jedoch wurde die Neubewertung der Substanz 2019 zurückgezogen, weil die Gefahren als gering eingeschätzt wurden.
+
+
+== Siehe auch ==
+Stickoxide
+Monomethylhydrazin
+
+
+== Literatur ==
+Ralf Steudel: Chemie der Nichtmetalle. 3. Auflage. Walter de Gruyter, Berlin / New York 2008, ISBN 978-3-11-019448-7, Seite 345.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

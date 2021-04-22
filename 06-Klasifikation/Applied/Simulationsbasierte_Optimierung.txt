@@ -1,0 +1,54 @@
+Die Idee der simulationsbasierten Optimierung (SBO) besteht darin, mit Simulationsmodellen eine Optimierungskomponente zu verbinden, die bestimmte Variablen eines Simulationsmodells zur Minimierung oder Maximierung einer Zielfunktion variiert.
+Simulationsmodelle dienen zur Prognose komplexer, realer Systeme, die zufälligen Einflüssen unterliegen. Typischerweise nutzt man Simulationsmodelle, um die Auswirkungen einzelner Handlungsalternativen zu untersuchen, ohne diese tatsächlich umzusetzen und mögliche negative Effekte auf das reale System zu verursachen. Man beschränkt sich i. d. R. auf eine relativ kleine Zahl von Handlungsalternativen, spielt diese mit Hilfe von Simulationssoftware durch, und wählt anschließend die nach einer bestimmten Zielsetzung beste Handlungsalternative aus.
+Die klassische Methode zur Auswahl einer Handlungsalternative besteht darin, die Simulationen mit entsprechender Software durchzuführen, die Auswahl dann jedoch weitgehend manuell zu treffen. Die simulationsbasierte Optimierung bezweckt hingegen, diese Auswahl der „besten“ Handlungsalternative automatisiert durch einen Algorithmus vorzunehmen, der ein zugrunde liegendes Simulationsmodell verwendet. Die Grundidee der SBO besteht darin, Handlungsalternativen durch Variablen eines Simulationsmodells zu beschreiben. Ein SBO-Algorithmus variiert diese Variablen, bewertet wiederholt die aus der Wahl von Variablenwerten resultierende Lösung durch Simulationsläufe und liefert dann die beste gefundene Lösung zurück. Dabei kann zum einen der Optimierer den Simulator steuern und umgekehrt. 
+In Analogie zur „klassischen“ Optimierung entsprechen also bei der SBO das Simulationsergebnis, welches z. B. ein Kostenwert sein kann, der Zielfunktion eines Optimierungsproblems, und die Variablen eines Simulationsmodells den Variablen eines Optimierungsmodells. Ein wesentlicher Unterschied zu „üblichen“ Optimierungsproblemen besteht jedoch darin, dass die „Zielfunktion“ bei der SBO stochastisch ist, d. h., sie unterliegt zufälligen Schwankungen, je nachdem welches eintretende Szenario in einem Simulationslauf betrachtet wird.
+
+
+== Anwendungsbeispiele ==
+Mögliche Zielsetzungen, aus denen konkrete SBO-Probleme abgeleitet werden können, sind das Finden
+
+der besten Integration von Produktion und Logistik eines Unternehmens,
+der besten Layouts, Verbindungen und Kapazitäten von Logistiknetzwerken,
+der höchsten Auslastung verfügbarer Personalressourcen,
+der besten Standorte für die Distribution von Gütern,
+des besten Plans für den Betrieb eines Kernkraftwerks,
+der besten Allokation von Ärzten und Pflegekräften eines Krankenhauses,
+der besten Einstellung von Toleranzen in Produktionsprozessen,
+der Lösung von multikriteriellen Zielstellungen (Pareto-Optimalität) in Produktion und Logistik.
+
+
+== Software ==
+Auf dem Markt für Simulationssoftware existiert eine kaum überblickbare Vielfalt von Produkten. Diverse Simulationssoftwarepakete wurden inzwischen um Komponenten zur SBO erweitert:
+
+Die MATLAB Optimization Toolbox vereint verschiedene Methoden numerischer Optimierung aus dem Bereich linearer und nichtlinearer Optimierung. Die Genetic Algorithm and Direct Search Toolbox erweitert die Möglichkeiten der Optimierung durch weitere Optimierungsstrategien.
+MLDesigner ist ein Multi-Domain (DE, FSM, SDF,CT) Modellierungs- und Simulationswerkzeug für die Entwicklung komplexer, eingebetteter Systeme.
+Plant Simulation verfügt sowohl über eine eigene SBO Komponente, als auch über integrierte Neuronale Netze.
+OpenMDAO ist eine von der NASA entwickelte, in Python geschriebene, Open-Source-Software für multidisziplinäre Optimierung.
+OptQuest ist an 22 Produkte anderer Softwarehersteller angebunden, so z. B. Arena, Crystal Ball, ProModel, Enterprise Dynamics, Flexsim und SIMUL8. Außerdem ist OptQuest durch ein API (die OptQuest Engine Callable Library) in andere Anwendungen einbindbar.
+Simulink Design Optimization verändert die Parameter eines Modells dahingehend, dass dessen dynamisches Verhalten an einem Ausgang einem vorgegebenen Signalverlauf bzw. einem Korridor folgt.
+WITNESS verfügt über einen integrierten Experimenter, der automatisierte Massenexperimente zur Optimierung von Prozessen und Anlagen mit verschiedenen Algorithmen durchführt.
+
+
+== Algorithmen ==
+Es lässt sich folgenden Einteilung der SBO-Algorithmen in Klassen vornehmen, die sich an den SBO-Forschungsrichtungen orientiert:
+
+Algorithmen für endliche Lösungsräume: Ranking & Selection, Multiple Comparisons und Ordinal Optimization
+Stochastic Approximation-Algorithmen (SA) wie FDSA und SPSA
+Response Surface Methodology-Algorithmen (RSM) wie Sequential RSM mit linearer Regression oder neuronalen Netzen
+Sample Path Optimization (SPO)
+Metaheuristiken wie simulierte Abkühlung (SA), Evolutionäre Algorithmen (EA), Tabu-Suche (TS), Scatter Search (SCS) und Partikelschwarmoptimierung (PSO)
+Direct Search-Algorithmen (DS) wie Pattern Search (PS) und der Nelder-Mead-Simplex-Algorithmus, siehe Downhill-Simplex-Verfahren
+Random Search
+Adaptiv and Hybrid Search - Algorithms (determine,stochastic,evolve,genetic,threshold) with Learning Process (ISSOP - Intelligent System for Simulation and Optimization)
+
+
+== Literatur ==
+Michael C. Fu: Optimization for simulation: Theory vs. practice. In: INFORMS Journal on Computing 14, 2002, 3, ISSN 0899-1499, S. 192–215.
+Abhijit Gosavi: Simulation-based optimization. Parametric optimization techniques and reinforcement learning. Kluwer Academic Publishers, Boston MA u. a. 2003, ISBN 1-402-07454-9, (Operations research/computer science interfaces series 25).
+Johannes Bayer, Thomas Collisi, Sigrid Wenzel (Hrsg.): Simulation in der Automobilindustrie. Springer, Berlin 2002, ISBN 3-540-44192-1.
+Steffen Bangsow: Fertigungssimulationen mit Plant Simulation und SimTalk. Anwendung und Programmierung mit Beispielen und Lösungen. Hanser Verlag, München u. a. 2008, ISBN 978-3-446-41490-7, (Workbook - Edition CAD.de), (Mit 1 CD-ROM).
+Wilfried Krug: Modelling, Simulation and Optimisation for manufacturing, organisational and logistical processes. SCS - EUROPE BVBA, Delft u. a. 2002, ISBN 3-936150-20-6.
+Matthias Böhmer: Vorausschauende Kommissionierstrategien. Simulationsbasierte Optimierung bei schwankenden Zugriffszahlen. VDM Verlag Dr. Müller, Saarbrücken 2009, ISBN 978-3-8364-9843-2.
+
+
+== Einzelnachweise ==

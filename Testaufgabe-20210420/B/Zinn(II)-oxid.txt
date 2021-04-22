@@ -1,0 +1,20 @@
+Zinn(II)-oxid ist eine metastabile Verbindung bestehend aus Zinn und Sauerstoff. Oberhalb von 300 °C disproportioniert SnO zu metallischem Zinn und Zinndioxid. Unter gewissen Umständen kann sich bei dieser Zersetzung auch das metastabile Zinnsesquioxid bilden.
+
+
+== Gewinnung und Darstellung ==
+Zinn(II)-oxid kann aus Zinn(II)-chlorid über Zinn(II)-oxidhydrat gewonnen werden, das bei längerem Erhitzen in wässriger Lösung dehydratisiert wird.Es entsteht allgemein in Form eines Hydrates SnO•H2O (x < 1) beim Versetzen einer Zinn(II)-Salzlösung mit wenig Alkalihydroxid oder wässrigem Ammoniak als farbloser, flockiger, in Wasser sehr schwer löslicher Niederschlag. Beim Erwärmen unter Luftabschluss (z. B. im Kohlendioxid-Strom) wird es bei 60–70 °C zu blauschwarzem Zinn(II)-oxid (α-Zinn(II)-oxid) dehydratisiert. Erhitzt man eine Suspension von SnO•xH2O in wässerigem Ammoniak in Anwesenheit von Phosphinat auf 90–100 °C, so bildet sich rotes, bezüglich α-Zinn(II)-oxid metastabiles Zinn(II)-oxid (β-Zinn(II)-oxid), das sich beim Erwärmen, unter Druck oder durch Impfen mit α-Zinn(II)-oxid in die stabilere α-Form umwandelt. Beim Erhitzen auf 250–425 °C disproportioniert α-SnO über verschiedene gemischt-valente Zinnoxide.
+
+
+== Eigenschaften ==
+Zinn(II)-oxid ist ein dunkelgrauer geruchloser Feststoff, der praktisch unlöslich in Wasser und Ethanol ist. Zinn(II)-oxid (hydratisiert oder nicht hydratisiert) löst sich sowohl in Säuren als auch in Alkalilaugen, zeigt also amphoteren Charakter (Bildung von Zinn(II)-Salzen bzw. Stannaten(II) ("Stanniten").Die Literatur beschreibt drei Modifikationen von Zinnmonoxid (SnO).
+
+Die allgemein bekannte Form ist das in der tetragonalen PbO-Form kristallisierende schwarz-blaue SnO. Es ist isotyp zu α-Blei(II)-oxid und besitzt die Raumgruppe P4/nmm (Raumgruppen-Nr. 129)Vorlage:Raumgruppe/129 mit dem Gitterparametern a = 3,800 Å und c = 4,836 Å sowie zwei Formeleinheiten pro Elementarzelle. Wird das grobkristalline schwarz-blaue SnO gemörsert, so ändert sich die Farbe zu Braun.
+Unter Normalbedingungen existiert bis 270 °C eine metastabile rote Modifikation mit orthorhombischer Struktur. Sie hat die Raumgruppe Cmc21 (Nr. 36)Vorlage:Raumgruppe/36, die Gitterparameter a = 5,005 Å, b = 5,746 Å, c = 11,05 Å und acht Formeleinheiten pro Elementarzelle. Diese Struktur lässt sich durch mechanischen Druck oder Kontakt zum SnO mit α-PbO Struktur in die erste Modifikation umwandelt.
+Eine weitere rote Modifikation mit unbekannter Struktur wird zudem in der Literatur beschrieben.
+
+
+== Verwendung ==
+Zinn(II)-oxid wird als Reduktionsmittel, weiches Schleifmittel und zur Herstellung von Zinnsalzen verwendet. Es wird auch bei der Herstellung von Kupferrubinglas und bei der Beleuchtung mit UV-Licht eingesetzt.
+
+
+== Einzelnachweise ==

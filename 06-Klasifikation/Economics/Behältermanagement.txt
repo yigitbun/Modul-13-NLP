@@ -1,0 +1,34 @@
+Behältermanagement umfasst die Planung, Steuerung und Überwachung der Bestände und Bewegungen der Lademittel. Ziel des Behältermanagements ist die Verfügbarkeit der zur Produktion, dem Transport und zur Lagerung benötigten Ladungsträger bei einem möglichst geringen Behälterbestand. Andere Begriffe für Behältermanagement sind in der Logistik Ladungsträgermanagement, Lademittelmanagement oder Palettenmanagement.
+
+
+== Definition ==
+Das Behältermanagement unterscheidet danach, ob sich die Behälter in einem offenen, halboffenen oder geschlossenen Behälterkreislauf befinden. Insgesamt sind viele verschiedene Unternehmen und Partner am Behälterkreislauf beteiligt. Lieferanten, Logistikdienstleister, Kunden und Unternehmen benötigen Ladungsträger und tauschen diese untereinander aus. Um ein Behältermanagement effektiv zu gestalten, müssen alle Partner am Prozess beteiligt sein und aktiv an der Verwaltung teilnehmen. So sollte jeder volle oder leere Behälter gebucht werden, um die Bestände nachzuvollziehen.
+Das Behältermanagement ist für viele Bereiche in der Produktion, im Handel und im Transport- und Lagerwesen sehr wichtig, da nur Waren produziert, ausgeliefert und bereitgestellt werden können, wenn genügend geeignete Ladungsträger vorhanden sind. Sowohl die Produktion als auch der Versand sind also auf Behälter angewiesen. Nur mit einer übergreifenden Planung kann zu jeder Zeit die benötigte Anzahl der Ladehilfsmittel bereitgestellt werden. Um Kosten zu optimieren und das Behältervolumen möglichst gering zu halten, sind sowohl Transparenz als auch die Nutzung von Synergieeffekten notwendig. Die Transporte von Voll- und Leergut können beispielsweise aufeinander abgestimmt werden, sodass weniger Lkws für die Behältertransporte benötigt werden.
+
+
+== Einsatz in der Praxis ==
+Die relevanten Prozesse im Behältermanagement umfassen die gesamte Lieferkette der Produkte. Sowohl in der Beschaffung zur Anlieferung von Gütern als auch in der Distribution zur Auslieferung von Produkten sind Ladehilfsmittel notwendig. Auch in der Produktion eines Unternehmens werden Ladungsträger benötigt, beispielsweise für den Transport aus dem Lager in die Produktion und nach der Produktion in ein Zwischenlager oder ins Warenausgangslager. Interne Bewegungen von Ladehilfsmitteln werden häufig manuell oder auch durch Scannen per Strichcode oder per RFID (radio frequency identification) erfasst. Ist dies nicht der Fall, können Behälterkreisläufe nur schwer bis gar nicht unternehmensintern und -übergreifend verfolgt werden. 
+Behälter werden von sämtlichen Firmen benötigt, die Güter produzieren und transportieren. Jede Branche hat eigene Anforderungen und nutzt unterschiedliche Behältertypen. In Handel und Industrie ist der Einsatz von Mehrwegpaletten verbreitet. Hier ist die Identifikation einzelner Behälter besonders wichtig, da die Lademittel in vielen Fällen an einzelne Filialen geliefert werden. Es besteht häufig keine Klarheit, in welcher Filiale sich welche Behälter befinden. Diese Informationslücke kann durch Auto-ID-Techniken wie Strichcode oder RFID geschlossen werden. Von globaler Bedeutung sind Containertransporte. Das zugehörige Behältermanagement wird mit Containerlogistik bezeichnet.
+Auch Buchungen mittels Mobile Apps ersetzen eine manuelle Nacherfassung von Lademitteln. Diese können so schnell, einfach und direkt in der Halle oder im Warenein- und -ausgang erfasst werden. Mit Apps lassen sich Behälterbuchungen den jeweiligen Lieferscheinen ohne Rechercheaufwand direkt zuordnen. Manuelle Prozesse für das Ausfüllen und spätere Digitalisieren von Buchungen entfallen. So wird eine höhere Datenqualität im Behälterkreislauf erreicht, da Fehler durch manuelle Erfassung reduziert werden. Abweichungen können durch einen Soll-Ist-Abgleich sofort eingegeben werden. Fehler fallen dadurch direkt auf und nicht erst im Nachhinein bei der manuellen Nacherfassung der Belege.
+Beispiel eines Zulieferers:
+Mit Hilfe eines IT-gestützten Behältermanagements lassen sich komplexe Behälterbewegungen entlang der gesamten Lieferkette darstellen. 
+
+100.000 eingesetzte Behälter
+50,00 € durchschnittlicher Preis pro Behälter
+Wert des Behältervolumens 5.000.000,00 €
+10 % Behälter-Neuanschaffung pro Jahr
+Durchschnittlich 6 Umläufe pro Behälter und Jahr
+5 % Behälterschwund bezogen auf den Gesamtbestand pro Jahr
+500 Stunden bei 21 €/h für Inventur pro Jahr
+100 Stunden bei 21 €/h Bearbeitungsaufwand wg. Versandfehlern pro Jahr
+25 TEUR Kosten für Ersatzverpackungen pro Jahr
+
+
+== Literatur ==
+F. Gehr, B. Hellingrath: Logistik in der Automobilindustrie, Springer, Berlin 2007. ISBN 978-3-540-14045-0.
+K. Tschirschwitz: Behältermanagement- systeme mit RFID, VDM Verlag Dr. Müller 2008. ISBN 978-3-8364-8063-5.
+
+
+== Weblinks ==
+Behältermanagement bei Continental Reifen Deutschland GmbH . Abrufdatum: 17. Oktober 2017.
+Lademittelmanagement bei HYDAC INTERNATIONAL GmbH. Abrufdatum: 17. Oktober 2017.

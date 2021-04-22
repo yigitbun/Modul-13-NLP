@@ -1,0 +1,22 @@
+Promethium(III)-oxid (Pm2O3) ist das Oxid des Seltenerdmetalls Promethium.
+
+
+== Darstellung ==
+Promethium(III)-oxid wird aus Promethium(III)-oxalat durch Glühen bei 800 °C dargestellt.
+
+
+== Eigenschaften ==
+Es kommt in drei Modifikationen (A-, B- und C-Typ) vor. Der A-Typ besitzt ein hexagonales Kristallgitter (violettbraun), der B-Typ (violettrosa) ist eine monokline Verzerrung des A-Typs und der C-Typ besitzt eine isomorph-kubische Mangan(III)-oxid-Struktur (korallenrot). Bei Raumtemperatur kristallisiert es im C-Typ, die beiden anderen Strukturen sind nur bei höheren Temperaturen stabil.Beim Erhitzen auf 750–800 °C wandelt sich die kubische in die monokline Form um, diese Umwandlung kann nur über ein Schmelzen des Oxids umgekehrt werden. Die Umwandlung von der monoklinen zur hexagonalen Form erfolgt bei 1740 °C. Der Schmelzpunkt beträgt 2130 °C.
+* a, b und c sind Gitterparameter, Z ist die Anzahl der Formeleinheiten pro Elementarzelle, die Dichte ist aus Röntgenstrukturdaten berechnet.Die spezifische magnetische Suszeptibilität beträgt 15,5 · 10−6 cm3/g, die molare magnetische Suszeptibilität χmol beträgt 2660 · 10−6 cm3/g.
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen und eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielen. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Literatur ==
+Fritz Weigel: Die Chemie des Promethiums, in: Fortschr. Chem. Forsch., 1969, 12 (4), S. 539–621 (doi:10.1007/BFb0051097).
+James E. Huheey: Anorganische Chemie, 1. Auflage, de Gruyter, Berlin 1988, ISBN 3-11-008163-6, S. 873–900.
+
+
+== Einzelnachweise ==

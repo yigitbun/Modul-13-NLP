@@ -1,0 +1,162 @@
+Diiodpentoxid, eine chemische Verbindung aus Iod und Sauerstoff mit der Formel I2O5, ist bei Raumtemperatur ein weißes, kristallines Pulver. 
+
+
+== Gewinnung und Darstellung ==
+Iod(V)-oxid wird in zwei Reaktionsstufen hergestellt. Als erstes wird elementares Iod mit rauchender Salpetersäure bei 70–80 °C zur Reaktion gebracht. Hierbei entsteht Iodsäure HIO3:
+
+  
+    
+      
+        
+          3
+           
+          
+            I
+            
+              2
+            
+          
+          +
+          10
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          6
+           
+          H
+          I
+          
+            O
+            
+              3
+            
+          
+          +
+          10
+           
+          N
+          O
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {3\ I_{2}+10\ HNO_{3}\longrightarrow 6\ HIO_{3}+10\ NO+2\ H_{2}O} }
+  Im zweiten Schritt wird die entstandene Iodsäure bei 240–250 °C entwässert:
+
+  
+    
+      
+        
+          2
+           
+          H
+          I
+          
+            O
+            
+              3
+            
+          
+          ⟶
+           
+          
+            I
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ HIO_{3}\longrightarrow \ I_{2}O_{5}+H_{2}O} }
+  Diiodpentoxid bildet sich auch in einer Glimmentladung aus den Elementen. Die erste Darstellung von Diiodpentoxid erfolgte 1813 sowohl durch Davy als auch durch Gay-Lussac.
+
+
+== Eigenschaften ==
+Diiodpentoxid bildet Molekülkristalle der Formel O2I–O–IO2, die bei 275 °C in die Elemente zerfallen. Die Verbindung ist ein starkes Oxidationsmittel, diese Eigenschaft bestimmt im Wesentlichen ihre Verwendungen. Es ist sehr hygroskopisch und in Wasser unter Rückbildung der Iodsäure löslich.
+
+
+== Struktur ==
+I2O5 kristallisiert monoklin, Raumgruppe P21/c (Raumgruppen-Nr. 14)Vorlage:Raumgruppe/14, mit den Gitterparametern a = 11,04 Å, b = 5,063 Å, c = 8,135 Å und β = 107,2°. Der I–O–I Winkel in I2O5 beträgt 139,2°. Die terminalen I–O-Abstände betragen etwa 1,80 Å, die Abstände der verbrückenden I–O Bindungen liegen bei etwa 1,95 Å.
+
+
+== Verwendung ==
+Diiodpentoxid wird zur mengenmäßigen Bestimmung von Kohlenmonoxid in Gasgemischen verwendet, z. B. in der Elementar- und Rauchgasanalyse, da es bei Raumtemperatur quantitativ mit Kohlenmonoxid zu Kohlendioxid und elementarem Iod reagiert.
+
+  
+    
+      
+        
+          5
+           
+          C
+          O
+          +
+          
+            I
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          →
+           
+          
+            I
+            
+              2
+            
+          
+          +
+          5
+           
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {5\ CO+I_{2}O_{5}\rightarrow \ I_{2}+5\ CO_{2}} }
+  Das gebildete Iod kann durch Titration bestimmt werden. Auch in der organischen Chemie wird Diiodpentoxid zuweilen als Oxidationsmittel eingesetzt, so z. B. in der Herstellung von cyclischen Ketonen.
+
+
+== Einzelnachweise ==

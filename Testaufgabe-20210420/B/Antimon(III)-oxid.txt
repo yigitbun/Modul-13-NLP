@@ -1,0 +1,34 @@
+Antimon(III)-oxid (auch Antimontrioxid genannt) ist eine Antimonverbindung mit der Summenformel Sb2O3. Es gehört zur Stoffklasse der Oxide.
+
+
+== Vorkommen ==
+Antimon(III)-oxid kommt als natürliche Verbindung in Form der Minerale Senarmontit und Valentinit vor.
+
+
+== Gewinnung und Darstellung ==
+Antimontrioxid wird technisch durch Erhitzen von Antimontrisulfid (Grauspießglanz, Stibnit) an der Luft (Rösten) gewonnen oder durch Verbrennen von Antimon.
+Bei der Hydrolyse von Antimon(III)-chlorid entsteht der bei Raumtemperatur metastabile Valentinit, der beim Behandeln mit Alkalien allmählich in Senarmontit übergeht.
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Antimon(III)-oxid zeigt thermochrome Eigenschaften. Beim Erhitzen auf Temperaturen deutlich über 600 °C färbt sich die Verbindung gelb. Reversibel wird die Verbindung beim Abkühlen wieder weiß. Ursache der Farbänderung ist eine polymorphe, enantiotrope Umwandlung von der weißen kubischen Kristallform (Senarmontit) zu einer gelben orthorhombischen Kristallform (Valentinit) bei 606 °C. Die Bildungsenthalpie der kubischen Form beträgt ΔfH = −720,5 kJ·mol−1, die der orthorhombischen Form ΔfH = −708,5 kJ·mol−1, so dass sich für die polymorphe Umwandlung eine Umwandlungsenthalpie von ΔtH = 12 kJ·mol−1 ergibt.
+
+
+=== Chemische Eigenschaften ===
+Antimontrioxid ist ein weißes kristallines Pulver, das in Wasser unlöslich ist, sich aber in konzentrierten Säuren und Laugen löst. Es entspricht in seiner Struktur dem Phosphortrioxid. Erhitzt man es auf über 800 °C, nimmt es weiteren Sauerstoff auf unter Bindung von Antimontetroxid. Dieses stellt ein Mischoxid aus Antimontri- und Antimonpentaoxid dar. Wie die Löslichkeit in konzentrierten Säuren – wobei je nach Säurekonzentration neutrale Salze oder Oxidsalze entstehen – und in Laugen – wobei sich Antimonite bilden – zeigt, handelt es sich bei Antimontrioxid um ein amphoteres Oxid.
+
+
+== Verwendung ==
+Antimontrioxid wird teils als Pigment und in der Emailleproduktion verwendet. In der Galvanik dient es zum Antimonieren anderer Metalle. Es wird auch als Katalysator für die Herstellung von PET verwendet.
+Zusammen mit einer Dotierung aus Zinn als Pigmenten für helle und transparente Antistatik-Beschichtungen.
+Bei Flammschutzmitteln wie Decabromdiphenylether wird Antimontrioxid als Synergist eingesetzt.
+
+
+== Sicherheitshinweise/Toxikologie ==
+Die Internationale Agentur für Krebsforschung (IARC) stufte Antimontrioxid als möglicherweise krebserzeugende Substanz ein.Antimon(III)-oxid wurde 2016 von der EU gemäß der Verordnung (EG) Nr. 1907/2006 (REACH) im Rahmen der Stoffbewertung in den fortlaufenden Aktionsplan der Gemeinschaft (CoRAP) aufgenommen. Hierbei werden die Auswirkungen des Stoffs auf die menschliche Gesundheit bzw. die Umwelt neu bewertet und ggf. Folgemaßnahmen eingeleitet. Ursächlich für die Aufnahme von Antimon(III)-oxid waren die Besorgnisse bezüglich Exposition von Arbeitnehmern, hoher (aggregierter) Tonnage, hohes Risikoverhältnis (Risk Characterisation Ratio, RCR), anderer Exposition/risikobasierter Bedenken und weit verbreiteter Verwendung sowie der vermuteten Gefahren durch krebserregende Eigenschaften. Die Neubewertung läuft seit 2018 und wird von Deutschland durchgeführt.
+
+
+== Einzelnachweise ==

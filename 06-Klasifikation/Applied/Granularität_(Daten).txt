@@ -1,0 +1,14 @@
+Die Granularität (lateinisch „granum“, übersetzt etwa mit „Körnigkeit“) von Daten gibt Auskunft über deren Verdichtungsgrad.
+So werden Daten oft nach räumlichen (wie z. B. geografischen), und zeitlichen wie auch organisatorischen Aspekten verdichtet, d. h. zusammengefasst oder aggregiert. Die Verdichtung numerischer Einzeldaten kann mittels Addition, Mittelwertbildung oder anderen Rechenoperationen wie Min- oder Maximumbildung geschehen oder indem  mehrere Objekte zu einem neuen zusammengeführt werden.
+Liegen z. B. Umsatzzahlen eines international agierenden Handelsunternehmens auf Ebene der einzelnen Filialen vor, so können die Umsatzzahlen auf Stadt, Landes- und Kontinent-Ebene verdichtet werden. Die feingranularen Daten auf Filial-Ebene werden zu grobgranularen Daten auf Kontinent-Ebene. Die Ebene Filiale liefert die feinste Granularität der Umsatzdaten, hat aber den höchsten Detaillierungsgrad, während die Ebene Kontinent die gröbste Granularität und den niedrigsten Detaillierungsgrad aufweist.
+Granularität von Daten spielt besonders beim Data-Warehousing eine Rolle. Die im Data-Warehouse hinterlegten Daten können z. B. mittels OLAP nach unterschiedlichen Aspekten ausgewählt und auf verschiedenen Verdichtungsebenen mit entsprechendem Verdichtungsgrad zusammengefasst und präsentiert werden.
+
+
+== Literatur ==
+„Grundlagenserie Business Intelligence“ Computerwoche
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==

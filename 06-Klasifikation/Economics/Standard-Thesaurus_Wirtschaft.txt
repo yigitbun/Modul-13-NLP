@@ -1,0 +1,68 @@
+Der Standard-Thesaurus Wirtschaft (STW) enthält 6000 Schlagwörter für die Repräsentation und Recherche wirtschaftswissenschaftlicher Inhalte. Der STW wird von der ZBW - Deutsche Zentralbibliothek für Wirtschaftswissenschaften permanent weiterentwickelt und ist auf Deutsch und Englisch verfügbar.
+
+
+== Geschichte ==
+Der STW ist Mitte der 1990er Jahre aus einem Förderprojekt des Bundeswirtschaftsministeriums entstanden, um das Erschließungs- und Recherchevokabular in den Wirtschaftswissenschaften zu vereinheitlichen. Das Projekt wurde durch die ZBW, die GBI Gesellschaft für Betriebswirtschaftliche Information (heute: GBI-Genios) und das HWWA-Institut für Wirtschaftsforschung, Bibliothek (heute: ZBW Standort Hamburg) durchgeführt.
+
+
+== Pflege- und Weiterentwicklung ==
+Der STW wird von einer ständigen Thesaurus-Redaktion permanent an die Veränderungen in der wirtschaftswissenschaftlichen Fachterminologie angepasst. Eine neue Version wird jedes Jahr veröffentlicht. Von 2011 bis 2015 wurde der STW komplett überarbeitet. 
+
+
+== Verwendung ==
+Innerhalb der ZBW wird der STW für die intellektuelle Erschließung und die Literaturrecherche im Fachportal EconBiz, auf dem Publikationsserver EconStor sowie für die von der ZBW herausgegebenen Zeitschriften Wirtschaftsdienst und Intereconomics verwendet.
+Der STW wird im In- und Ausland als Wissensorganisationssystem verwendet: 
+
+GBI-Genios Deutsche Wirtschaftsdatenbank GmbH: kommerzieller Anbieter von elektronischen Presse-, Unternehmens- und Wirtschaftsinformationen    
+ifo Institut – Leibniz-Institut für Wirtschaftsforschung an der Universität München
+DIW Berlin - Deutsches Institut für Wirtschaftsforschung
+Frankfurt School of Finance & Management gGmbH
+WHU – Otto Beisheim School of Management
+Max-Planck-Institut zur Erforschung von Gemeinschaftsgütern
+Forschungsgruppe Web-Based Information Systems and Services (WISS) an der Hochschule der Medien
+Erasmus-Universität Rotterdam, Bibliothek
+Schweizerisches Wirtschaftsarchiv
+Finnische Nationalbibliothek
+
+
+== Struktur ==
+Der STW ist in sieben Subthesauri untergliedert, die die oberste Ebene der Thesaurus-Systematik bilden. Diese ermöglicht einen Einstieg in den Thesaurus nach Sachgebieten:
+
+V Volkswirtschaft
+B Betriebswirtschaft
+W Wirtschaftssektoren
+P Produkte
+N Nachbarwissenschaften
+G Geographische Begriffe
+A AllgemeinwörterBegriffe und ihre Benennungen sowie die Beziehungen zu anderen Begriffen werden im STW zu Begriffsdatensätzen zusammengefasst. Neben der Vorzugsbezeichnung, möglichen Erläuterungen und den Synonymen und Quasi-Synonymen unter "benutzt für" sind darin eine oder mehrere Notationen der Thesaurus-Systematik sowie Hierarchie- und Verwandtschaftsrelationen aufgeführt.
+
+
+== Veröffentlichung als LOD ==
+Die ZBW hat im Jahr 2009 ihren Standard-Thesaurus Wirtschaft als Linked Data im Web publiziert. Dazu wurde der STW in das SKOS-Format überführt. Die Daten können in den Formaten RDF/XML, Ntriples und Turtle heruntergeladen werden.
+Die STW-Daten sind unter der Open Database License frei verfügbar.
+
+
+== Mappings ==
+Der STW ist mit den folgenden Vokabularen über Crosskonkordanzen verknüpft:
+
+Gemeinsame Normdatei (GND)
+DBpedia
+Thesaurus Sozialwissenschaften (TheSoz)
+AGROVOC
+WKD - Arbeitsrechtsthesaurus
+JEL Klassifikation
+SDMX Subject-Matter Domains KlassifikationDie Mappings können heruntergeladen werden und sind in Webservices eingebunden.
+
+
+== Weblinks ==
+Standard-Thesaurus Wirtschaft STW Online
+
+
+== Weiterführende Literatur ==
+M. Toepfer, A. O. Kempf. Automatische Indexierung auf Basis von Titeln und Autoren-Keywords - ein Werkstattbericht. In: 027.7 Zeitschrift für Bibliothekskultur, 4(2), 84-97, 2016.
+A. O. Kempf. Qualitätsmanagement in der Terminologiearbeit: Kontinuität im Wandel. edition - Fachzeitschrift für Terminologie, 12(1), 17-22, 2016.
+A. O.  Kempf, J. Neubert. The Role of Thesauri in an Open Web: A Case Study of the STW Thesaurus for Economics. Knowledge Organization, 43(1): 160-173, 2016.
+L. Dolud, C. Kreis. Die Crosskonkordanz Wirtschaft zwischen dem STW und der GND: Ein Instrument zur kooperativen Inhaltserschließung und zur Vernetzung im Semantic Web. Dialog mit Bibliotheken, 24(2): 13-19, 2012.
+
+
+== Hinweise ==

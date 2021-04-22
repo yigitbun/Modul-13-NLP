@@ -1,0 +1,19 @@
+Der Begriff Computerphilologie ist ein Sammelbegriff für die Einsatzmöglichkeiten des Computers in der Literaturwissenschaft. Das Wort ist Anfang der 1990er Jahre als Parallelbildung zu dem älteren Begriff Computerlinguistik entstanden. Die Computerphilologie ist ein Teil der Digital Humanities. 
+Ein zentrales Arbeitsfeld der Computerphilologie ist die Erstellung digitaler Editionen. Grundlage dafür sind Kenntnisse in der Datenmodellierung, der Textkodierung (insbesondere mit XML und der Text Encoding Initiative) und der Informationsvisualisierung. Die Verwendung digitaler Editionen und Korpora reicht von der einfachen Suche bzw. der Bildschirmlektüre bis zu komplexen Verfahren des Information Retrieval und der quantitativen Textanalyse. 
+Weitere Arbeitsfelder bilden die theoretische Reflexion des neuen Mediums digitaler Text bzw. Hypertext und die Analyse von künstlerischen Hypertexten, sogenannten Hyperfictions (siehe Digitale Poesie).  
+
+
+== Literatur ==
+Fotis Jannidis: Computerphilologie. In: Thomas Anz (Hg.): Handbuch Literaturwissenschaft. Bd. 2: Methoden und Theorien. Stuttgart, Weimar: Metzler 2007, S. 27–40.
+Jan Christoph Meister: Projekt Computerphilologie. Über Geschichte, Verfahren und Theorie rechnergestützter Literaturwissenschaft. In: Harro Segeberg/Simone Winko (Hg.): Digitalität und Literalität. Zur Zukunft der Literatur. München 2005, 315–341.
+Walther von Hahn, Cristina Vertan: Ausbildung Computerphilologie in Hamburg: Thematische Module einer Grundvorlesung. In: Georg Braungart/Peter Gendolla/Fotis Jannidis(Hg.) Jahrbuch für Computerphilologie, mentis Verlag 2006, 131–140
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Jahrbuch für Computerphilologie
+The Alliance of Digital Humanities Organizations
+A Companion to Digital Humanities ed. Susan Schreibman, Ray Siemens, John Unsworth (Oxford: Blackwell, 2004)
+A Companion to Digital Literary Studies ed. Ray Siemens and Susan Schreibman (Blackwell 2008)

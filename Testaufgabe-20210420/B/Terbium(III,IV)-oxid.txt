@@ -1,0 +1,16 @@
+Terbium(III,IV)-oxid ist eine anorganische chemische Verbindung des Terbiums aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Terbium(III,IV)-oxid kann durch Verbrennung von Terbium an Luft gewonnen werden. Es kann auch bei der Zersetzung von Terbiumoxalat bei 600 bis 1000 °C oder anderen Terbiumoxosalzen an Luft gewonnen werden.
+
+
+== Eigenschaften ==
+Terbium(III,IV)-oxid ist ein dunkelbrauner Feststoff. Die Verbindung ist nichtstöchiometrisch und besteht aus zwei Phasen mit der Summenformel TbO1,71 (Tb7O12) und TbO1,81 (Tb11O20). Tb7O12 hat eine rhombohedrale Kristallstruktur mit der Raumgruppe R3 (Raumgruppen-Nr. 148)Vorlage:Raumgruppe/148 und den Gitterparametern a = 6,5082(3) und α = 99,3420(1), einem Elementarzellenvolumen von 263,32(3) und einer Formeleinheit pro Elementarzelle. Diese ist isomorph mit Praseodym(III,IV)-oxid (Pr7O12). Tb11O20 hat eine trikline Kristallstruktur mit der Raumgruppe P1 (Nr. 2)Vorlage:Raumgruppe/2 und den Gitterparametern a = 6,50992(4), b = 9,8298(6), c = 6,4878(4), α = 90,019(2), β = 99,966(1), γ = 95,881(1) einem Elementarzellenvolumen von 406,68(7) und ebenfalls einer Formeleinheit pro Elementarzelle. Tb4O7 soll eine kubische Kristallstruktur mit der Raumgruppe Fm3m (Nr. 225)Vorlage:Raumgruppe/225 besitzen.
+
+
+== Verwendung ==
+Terbium(III,IV)-oxid wird für die Herstellung von Leuchtstoffen für Fluoreszenzlampen und Farbfernsehröhren verwendet.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,32 @@
+Metalloxide sind Verbindungen zwischen einem Metall und Sauerstoff. Aufgrund des Elektronegativitätsunterschiedes des wenig elektronegativen Metalls und des stark elektronegativen Sauerstoffes sind die Verbindungen zumeist ionisch oder wenigstens stark polar.
+Das Wissen über Metalloxid-Oberflächen spielt eine Rolle bei Korrosionsschutz, Katalyse, Sensoren, Brennstoffzellen, Keramiken und weiteren.
+
+
+== Struktur: Bulk-Eigenschaften ==
+Das Wissen um die Struktur der Metalloxide hilft dabei, ihre weiteren Eigenschaften zu verstehen. Die Analyse der Bulk-Struktur ist durch die Erfindung der Röntgenstrukturanalyse möglich geworden. Im Folgenden wird zunächst eine ideale Bulk-Struktur am absoluten Nullpunkt betrachtet, die anschließend um Fehlstellen, Schwingung und weitere Aspekte ergänzt werden kann.
+
+
+=== Ideale Kristallstruktur ===
+
+Die Eigenschaften der Metalloxide können zunächst aufgrund ihrer Ionizität verstanden werden. Die treibende Kraft dafür ist das Bestreben des Sauerstoffs die 2s2 2p6-Konfiguration  zu erlangen (ein O2−-Anion zu werden). 
+Der Ionenbindungsanteil variiert in Metalloxiden auf hohem Niveau, verhältnismäßig stark kovalenten Anteil besitzen Bindungen der späten Übergangsmetalle. Durch den hohen ionischen Anteil der Bindung von Metalloxiden wirken Coulomb-Kräfte, die der Stöchiometrie eine besondere Rolle zukommen lassen: Auch in kleinen Bereichen muss Ladungsneutralität herrschen. Diese Ladungsneutralität spielt sowohl im Volumen wie auch an der Oberfläche eine wichtige Rolle.
+Durch die ionische Natur des Kristalls ist Ladung räumlich stark lokalisiert. Die Atome des Kristalls (sowohl Kationen wie auch Anionen) bevorzugen eine bestimmte Ionenladung als energetisch günstigsten Zustand. Daher erfordert das Hinzufügen oder Entfernen von Elektronen Energie. Dies steht im Gegensatz zu dem (für Metalloxide ebenfalls anwendbaren) Bändermodell, bei welchem die Besetzung mit Elektronen für eine bestimmte Kristallstruktur berechnet wird und nur eine Gesamtladung berücksichtigt werden würde. Diese Überlegungen haben Auswirkungen auf die elektrische Leitfähigkeit:
+Da die Anionen bereits vollständig mit Elektronen besetzt sind, sind die Kationen für eventuelle Leitfähigkeit verantwortlich. Wird Strom geleitet, so findet dies statt, indem ein Elektron aus dem d-Orbital eines Kations in das d-Orbital eines anderen Kations verschoben wird:
+dndn → dn-1dn+1.
+Dieser Prozess ist Energieaufwändig, die notwendige Energie kann nach dem Coulomb-Abstoßung oder dem Hubbard-Modell bestimmt werden. Wird diese Energie zu groß, ist das Material ein Halb- oder Nichtleiter.Die beiden bestimmenden Größen von Metalloxiden sind ihre Stöchiometrie (das Atomverhältnis) und ihre Koordination (die Zahl der einander umgebenden Ionen und ihre Anordnung). Die verbreiteten Strukturen können in verschiedene Anordnungen eingeordnet werden. Diese sind:
+
+tetraedrisch
+quadratisch planar
+oktaedrisch
+Distorted octahedral
+kubischDiese Koordinationen finden sich in den Strukturgrundtypen wieder.Die sechsfache (oktaedrische) Koordination ist am verbreitetsten, sie findet sich in der Natrium-Chlorid-Struktur. Die Natrium-Chlorid-Struktur findet sich unter anderem bei Metalloxiden MO (Verhältnis Metall:Oxid = 1:1), bei der Kristallstruktur des Korunds (M2O3) und der Kristallstruktur des Rutil (MO2). Als höhere Koordination lässt sich beispielsweise die achtfache Koordination in der Fluorit-Struktur des Uran(IV)-oxid finden, als niedrigere Koordination die vierfachen Koordination der Wurtzit-Kristallstruktur beispielsweise in Zinkoxid. Einige weitere, unregelmäßige Strukturen hängen mit dem Jahn-Teller-Effekt zusammen.
+
+
+=== Gitterfehler ===
+
+Während ein theoretischer Kristall vollkommen regelmäßig und fehlerlos ist, ist dies bei realen Strukturen nicht der Fall: Aus thermodynamischen Gründen weist ein Kristall über 0 K immer Defekte bzw. Gitterfehler auf. Gitterfehler sind auf Oberflächen häufiger als im Volumenkristall, sie können großen Einfluss auf die katalytischen und chemischen Eigenschaften des Materials haben.
+Während die meisten wichtigen Nicht-Übergangsmetalloxiden nur einen Oxidationszustand besitzen (eine bedeutende Ausnahme ist Zinnoxid), gilt das Gegenteil für Übergangsmetalle. Dies erleichtert die Bildung von Sauerstoff-Leerstellen (Punktdefekt). Wenn ein Sauerstoff-Atom aus dem Kristall entfernt wird, können von ihm zurückgelassenen Elektronen von den Metall-Kationen aufgenommen werden und die Fehlstelle so stabilisiert werden, beispielsweise 2 MoO3 → O2 + MoO2 (Reduktion des Molybdäns von Mo6+ zu Mo4+). Dies spielt beispielsweise eine Rolle bei der Sauerstoffspeicherkapazität des Ceroxids im Drei-Wege-Katalysator. Nach Entfernen des Sauerstoffs ist das Material partiell reduziert und weist jetzt eine gemischte Valenz auf. Wird diese Reduktion der Oberfläche fortgesetzt, bilden die Sauerstoff-Leerstellen Cluster, bis schließlich die Oberfläche nahezu komplett reduziert ist.
+Neben dem erwähnten Punktdefekt existieren zahlreiche weitere Gitterfehler.
+
+
+== Einzelnachweise ==

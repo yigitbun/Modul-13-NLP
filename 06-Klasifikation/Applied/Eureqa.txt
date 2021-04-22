@@ -1,0 +1,60 @@
+Eureqa ist der Markenname eines Computerprogramms, das 2007 im Artificial Intelligence Lab der Cornell University entwickelt und seit 2011 von Nutonian, Inc. mit zusätzlichen Funktionen und Leistungen kommerziell angeboten wird. Die Modelling-Engine von Eureqa verwendet evolutionäre Algorithmen, um mit künstlicher Intelligenz mathematische Gleichungen aus umfassenden Datensätzen in einfachster Form abzuleiten, siehe Symbolische Regression.
+
+
+== Entwicklung ==
+
+
+=== Vorgeschichte ===
+Seit den 1970er Jahren engagierten sich Unternehmen in Data Science, d. h. Extraktion von Information aus großen Datenmengen, indem sie Teams von Wissenschaftlern beschäftigten, die mit Programmen und Programmiersprachen wie R, Python, SAS (Statistical Analysis System) und SQL sowie mit ihrer eigenen Kenntnis von mathematischen und statistischen Zusammenhängen prädiktives und statistische Modellierung durchführten.
+
+
+=== Konzept ===
+Im Jahr 2007 ging Michael Schmidt, zu diesem Zeitpunkt Doktorand an der Cornell University, Abteilung Computational Biology, von der Annahme aus, dass es möglich sein sollte, mathematische Zusammenhänge in Sets von experimentellen oder statistischen Daten durch evolutionäre Algorithmen maschinell aufzuklären. Eine Untersuchung dieser Herangehensweise sei sinnvoll, besonders unter den Aspekten, dass sowohl die Komplexität der untersuchten Probleme als auch die Menge an Daten in der Forschung immer weiter zunehmen.Unter seinem Betreuer Hod Lipson, dem Direktor des Creative Machines Lab der Columbia University, entwickelte Schmidt eine mit künstlicher Intelligenz arbeitende Modelling-Engine als „virtual data scientist“ (virtueller Datenwissenschaftler), der aus vorgegebenen Daten automatisch und zeitsparend prädiktive und analytische Modelle erstellt und diese den (menschlichen) Experten zur Verfügung stellt. Dabei funktioniert das Programm nicht als „Black Box“, sondern die einzelnen Modelling-Schritte können in situ nachvollzogen und Daten können jederzeit hinzugefügt oder entfernt werden.Die Benennung „Eureqa“ erfolgte nach dem angeblich von Archimedes getätigten Ausruf „Eureka!“ (εὕρηκα) (Ich habe [es] gefunden), wobei das „k“ durch ein „q“ ersetzt wurde, um die Assoziation mit dem Wort equation (Gleichung) hervorzurufen.
+
+
+=== Evolutionäre Suchmethode ===
+Das Programm wendet zufällig ausgewählte Gleichungen auf die eingegebenen Daten an. Die meisten Gleichungen liefern dabei keine weiterführenden Ergebnisse, aber einige Gleichungen liefern bessere Ergebnisse in der Kurvenanpassung als andere. Diese Gleichungen bilden dann die Grundlage zu einem erneuten, als „evolutionäre Suche“ (unter mehrere Milliarden von Gleichungen und Gleichungselementen) bezeichneten Prozess, bis schließlich eine Gleichung, das Resultat, die anfangs eingegebenen Daten optimal in Zusammenhang bringt.
+Zusätzlich lernt das Programm und verwendet erfolgreiche Gleichungselemente aus vorherigen Suchen zur Lösung von neuen Problemen. Auch bewertet das Programm gefundene Lösungen nach ihrer Einfachheit, d. h. eine weniger komplexe Formel erhält den Vorzug vor einer komplexeren Formel, wenn beide Formel dieselbe Datenanpassung liefern.
+
+
+=== Marketing ===
+Anfang November 2009 wurde das Programm als Freeware zum Download freigegeben.
+Seit Juni 2011 wird Eureqa von Nutonian Inc. als kommerzielles Paket mit Zusatzprogrammen und zusätzlichen Leistungen angeboten.
+Seit 2014 ist „Eureqa“ als  Markenname geschützt.
+
+
+== Anwendungsbeispiele ==
+Der Nutzen der Software, so Lipson, liegt besonders in den Forschungsgebieten, in denen sehr viele Daten anfallen, für die es aber noch keine erklärende Theorie gibt, wie diese Daten zusammenhängen. Aus diesem Grund bat Lipson Wissenschaftler verschiedener Disziplinen, ihre Ergebnisse zugänglich zu machen, um die Vielseitigkeit von Eureqa zu testen.
+
+
+=== Physik ===
+
+Die ersten Beispiele zur Lösung physikalischer Gleichungen publizierten Schmidt und Lipson selber im Jahr 2009. Sie verwendeten Motion-Capture-Daten von einfachen harmonischen Oszillatoren bis hin zu sich chaotisch bewegenden Doppelpendeln. Ohne „Vorwissen“ leitete Eureqa Gleichungen der Hamiltonschen Mechanik und von Lagrange-Systemen ab und „entdeckte“ damit auch das Prinzip der Erhaltung der Energie. Die Lösung erfolgte schneller, wenn die Gleichungen, die für einfachere Systeme gefunden worden waren, bevorzugt zur Lösung der komplexeren Bewegungsdaten herangezogen werden konnten.
+
+
+=== Biologie ===
+In der Oktober-Ausgabe von Physical Biology (2011) beschrieb Lipson daraufhin ein Experiment mit Daten zur rhythmischen Fluktuation von Glukose („glykolytische Oszillation“) und Glukose umsetzenden Enzymen, wenn Hefezellen anaerob werden. Dessen Eureqa-Analyse lieferte sieben bekannte Gleichungen mit definierten Konstanten. Diese Konstanten interessierten wiederum John Wikswo (Vanderbilt University, Nashville) und Jerry Jenkins (HudsonAlpha Institute for Biotechnology, Huntsville), die die Daten geliefert aber Schwierigkeiten gehabt hatten, diese Konstanten zu bestimmen. Wikswo bezeichnete diesen Forschungsansatz als „automated biology explorer“ („automatischen Biologieerforscher“).
+Der Biologe Gurol Suel (University of Texas) untersucht das Wachstum von Bacillus subtilis. Er hatte bereits ein mathematisches Modell mit 16 Variablen entwickelt, das die experimentellen Daten zu Konzentrationen von verschiedenen Proteinen und subzellulären Faktoren im Zusammenhang mit der Endosporenbildung von B. subtilis beschreiben konnte. In einer Zusammenarbeit mit Lipson – und nach einem anfänglichen Fehlschlag mit dem Programm – lieferte erneutes Modelling mit Eureqa ein überraschendes Resultat: Eine neue Gleichung mit nur 7 Variablen konnte die vorliegenden Daten Suels in Zusammenhang bringen und lieferte sogar mit danach erzeugten, neuen Daten konsistente Ergebnisse. Doch diesem interessanten Ergebnis steht gegenüber, dass bisher weder Lipson noch Suel die Theorie hinter der neuen Gleichung schlüssig erklären können.
+
+
+=== Weitere wissenschaftliche Fachgebiete ===
+Astronomie
+Chemie
+Mechanik/Biomechanik und  Materialkunde
+Informatik und naturanaloge Optimierungsverfahren
+Medizin,  Neurologie und Psychologie
+Umweltwissenschaften
+Musik
+Allgemeine Themen
+
+
+== Rezeption ==
+Bis 2012 haben 20.000 Personen, bis 2015 mehr als 80.000 Personen das Programm heruntergeladen und verwendet, darunter Forscher, Studenten und Fortune-500-Unternehmen und es auf so unterschiedliche Fragestellungen wie das Verhalten von Tieren in Rinderherden oder die Bewegungen von Aktien an der Börse angewendet.In Bezug zu Eureqa hat der Mathematiker Steven Strogatz die Vermutung geäußert, dass derzeit noch theoretisch unerklärbare mathematische Resultate Vorboten eines „end of insight“ sein könnten, wenn Computerprogramme in der Lage sind, wissenschaftliche Zusammenhänge herzustellen, die Menschen zwar als korrekt erkennen, ihnen aber intellektuell nicht mehr folgen können.DaSilva argumentiert in eine ähnliche Richtung. Er hebt als Besonderheit „Eureqa’s ability to ‘discover’ (i.e. rediscover) the laws of nature“ heraus und vermutet, dass in Zukunft menschliche Wissenschaftler zusammen mit Netzwerken von evolutionär-algorithmischen Programmen Experimente und Auswertungen durchführen und Resultate finden werden, die [in der Technik] weiterverwendet werden, ohne dass die naturwissenschaftlichen Prinzipien dahinter verstanden werden (können), auf denen diese Resultate beruhen.
+
+
+== Weblinks ==
+Download von Eureqa 0.99.8 Beta (Build 4023) for Windows
+Michael Schmidt erklärt die Arbeitsweise von Eureqa (Video; engl.)
+
+
+== Einzelnachweise ==

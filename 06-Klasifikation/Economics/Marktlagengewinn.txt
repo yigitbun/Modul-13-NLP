@@ -1,0 +1,124 @@
+Der Marktlagengewinn oder Q-Gewinn (englisch windfall profit oder windfall gain) ist in den Wirtschaftswissenschaften ein dynamischer Gewinn, der durch plötzliche, außergewöhnliche und unerwartete Veränderungen der Marktentwicklung zu eintretenden Kostensenkungen führt oder durch unerwartete zusätzliche Nachfrage entsteht. 
+
+
+== Geschichte ==
+Bereits der englische Ökonom David Ricardo thematisierte 1817 plötzliche Veränderungen der Marktlage. Die umfassende wissenschaftliche Darstellung des Marktlagengewinns ist in der deutschsprachigen Fachliteratur 1955 auf Erich Preiser zurückzuführen. Er nannte ihn, auf John Maynard Keynes zurückgreifend, auch Q-Gewinn (Quasimonopolgewinn). Den Marktlagengewinn bezeichnet Keynes auch als windfall gains und Preiser als „dynamischen Marktlagengewinn“. Er gehört nach Preiser neben dem Pioniergewinn zu den dynamischen Gewinnen. Anders als der planbare Pioniergewinn entsteht der Marktlagengewinn durch unverhofft oder zufällig auftretende Marktentwicklungen. Erich Preiser nennt ihn auch Knappheitsgewinn, der nicht mit Sicherheit kalkulierbar ist. Marktlagengewinne beruhen also nicht auf entsprechenden Leistungen der Unternehmer, sondern auf plötzlichen, außergewöhnlichen Veränderungen der Marktsituation.
+
+
+== Ursachen ==
+Volkswirtschaftlich entsteht der Knappheitsgewinn 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   bei einer positiven Differenz zwischen Nettoinvestition 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   und Nettoersparnis 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  , also
+
+  
+    
+      
+        
+          
+            I
+          
+        
+        >
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mbox{I}}>{\mbox{S}}}
+  , mithin
+
+  
+    
+      
+        
+          
+            I
+          
+        
+        =
+        
+          
+            S
+          
+        
+        +
+        
+          
+            Q
+          
+        
+      
+    
+    {\displaystyle {\mbox{I}}={\mbox{S}}+{\mbox{Q}}}
+  In der umgekehrten Situation spricht man von Marktlagenverlusten. Beiden Situationen liegt ein Ungleichgewicht zugrunde. Bei steigender Nachfrage (etwa Wegfall eines Konkurrenten, Hamsterkäufen) und kurzfristig unelastischem Angebot treten Preissteigerungen und/oder längere Lieferfristen auf, die die Umsatzerlöse der Anbieter erhöhen, wobei die Gesamtkosten zunächst gleich bleiben. Der Marktlagengewinn nimmt im Verlauf dieses Multiplikatorprozesses durch Anpassungsprozesse zunehmend ab, bis er schließlich ganz fortfällt: 
+
+  
+    
+      
+        
+          
+            Q
+          
+        
+        =
+        
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\mbox{Q}}={\mbox{0}}}
+  .Dann hat der Markt sein neues Marktgleichgewicht gefunden, und es gilt
+
+  
+    
+      
+        
+          
+            I
+          
+        
+        =
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mbox{I}}={\mbox{S}}}
+  .Ein weiteres Beispiel sind Gewinne durch die Steigerung des Wertes eines Grundstücks durch Umwandlung in Bauland oder durch öffentliche Erschließungsmaßnahmen. Eine zweite Variante taucht in der Wirtschaftspraxis häufiger auf, und zwar Kostensenkungen aufgrund unerwartet gesunkener Beschaffungspreise wie bei Rohstoff-, Betriebs- und Hilfsstoffkosten. Sinkt beispielsweise der Erdöl- und Benzinpreis – bei konstanten Beschaffungsmengen und Umsätzen – entsteht ebenfalls ein Marktlagengewinn. Hieraus erklärt sich der von Keynes benutzte Begriff windfall, zu übersetzen als „unerwarteter Glücksfall, unerwartetes Geschenk“, weil die Entwicklung der Ölpreise von den Unternehmen nicht zu beeinflussen und auch kaum vorherzusehen ist und zu Zufallsgewinnen führt.
+
+
+== Besteuerung ==
+
+Im Zuge der Ölpreiskrise 1979 machten erdölfördernde Unternehmen Marktlagengewinne. In den USA führte 1980 das Kabinett Carter eine Crude Oil Windfall Profit Tax ein. 1988 wurde diese wieder abgeschafft. 
+In Großbritannien wurde 1997 durch die Labour-Regierung eine windfall tax auf privatisierte Versorgungsunternehmen, die ein Monopol innehielten, erhoben, die einen Teil der als unverhältnismäßig hoch angesehenen Gewinne wieder abschöpfen sollte.Die OECD kritisierte, dass eine windfall tax oft nicht diejenigen treffe, die die übermäßigen Gewinne erhielten, weil dieser Personenkreis die betreffenden Aktien bereits weiterverkauft habe.
+
+
+== Einzelnachweise ==

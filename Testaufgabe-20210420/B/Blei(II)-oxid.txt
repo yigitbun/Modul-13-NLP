@@ -1,0 +1,88 @@
+Blei(II)-oxid ist eine Verbindung der chemischen Elemente Blei und Sauerstoff mit der Verhältnisformel PbO. Weitere Bleioxide neben Blei(II)-oxid sind Blei(II,IV)-oxid und Blei(IV)-oxid.
+
+
+== Gewinnung und Darstellung ==
+Blei(II)-oxid lässt sich herstellen, indem ein Luftstrom über geschmolzenes Blei geleitet wird:
+
+  
+    
+      
+        
+          2
+          
+          P
+          b
+          +
+          
+            O
+            
+              2
+            
+          
+          →
+          2
+          
+          P
+          b
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\,Pb+O_{2}\rightarrow 2\,PbO} }
+  Diese Reaktion stellt die Grundlage der Kupellation dar, bei der Blei(II)-oxid als Nebenprodukt anfällt. Außerdem entsteht es beim Rösten von bleihaltigen Erzen wie Galenit (Bleiglanz):
+
+  
+    
+      
+        
+          2
+           
+          P
+          b
+          S
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          →
+          2
+          
+          P
+          b
+          O
+          +
+          2
+           
+          S
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ PbS+3\ O_{2}\rightarrow 2\,PbO+2\ SO_{2}} }
+  
+
+
+== Eigenschaften ==
+Blei(II)-oxid ist ein roter Feststoff in tetragonaler Kristallstruktur und als Mineral unter dem Namen Lithargit (früher lithargyrum) bekannt. Bei 488 °C wandelt sich diese Modifikation in eine gelbe, orthorhombische Modifikation um, die als Mineral unter dem Namen Massicotit bekannt ist. Wegen der geringen Umwandlungsgeschwindigkeit bei tiefen Temperaturen kommt die gelbe Modifikation als metastabile Verbindung vor.
+
+
+== Bezeichnungen und Verwendung ==
+Das auch (je nach Modifikation) als Massicotit, Bleiglätte (von mittelhochdeutsch blīglete, kurz auch glete, „Glätte“), Bleigelb, Königsgelb, Neugelb, Goldglätte (spuma auri, rötliches Bleioxid), Silberschaum (spuma argenti), Silberglätte (von mittelhochdeutsch silberglete; Bleioxid von heller Farbe), Lithargyrum (auch Lithargyrium) und Silberasche bezeichnete Bleioxid wurde feinzerrieben auch als Pigment verwendet – oder mit Salpetersäure und Dichromatlösung zum Pigment Chromgelb (Bleichromat) umgesetzt. Massicotit hat ein gutes Deckvermögen, ist aber nicht sehr stabil. Wenn es (schwefelwasserstoffhaltiger) Luft ausgesetzt ist, verfärbt es sich schwärzlich-bräunlich, was der Bildung von Blei(II)-sulfid zuzuschreiben ist. Außerdem ist es gegenüber Säuren und Basen empfindlich. Massicotit wurde bereits sehr früh verwendet, vor allem auch wegen seiner sikkativen Wirkung auf Leinöl und andere ölige Bindemittel (Ölmalerei). Ende des Mittelalters wurde es durch das stabilere Blei-Zinn-Gelb (Bleistannat) abgelöst.
+Bleiglätte bzw. Silberglätte wurde früher auch für Arzneipflaster verwendet (Bleipflaster, diaquilon).
+
+
+== Sicherheitshinweise ==
+Bei wiederholter Einwirkung sind Effekte auf Blut, Nieren und Zentralnervensystem möglich (Bleivergiftung). Bildung von Blutarmut, Funktionsstörungen. Eine starke Beeinträchtigung der Fruchtbarkeit ist ebenfalls möglich.
+
+
+== Einzelnachweise ==

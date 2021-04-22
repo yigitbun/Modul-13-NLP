@@ -1,0 +1,37 @@
+Die Neopseustidae sind eine artenarme Familie der Schmetterlinge mit Verbreitung in Südostasien und Südamerika.
+
+
+== Merkmale ==
+Es handelt sich um kleine bis mittelgroße Schmetterlinge mit einer Flügelspannweite zwischen 15 und 27 Millimeter mit langen Antennen, die die Länge der Vorderflügel erreichen oder überragen. Die Flügel sind breit, relativ kurz und abgerundet und oft recht spärlich beschuppt, die Tiere ähneln dadurch bei oberflächlicher Betrachtung Köcherfliegen. Sie sind unauffällig kryptisch graubraun gefärbt, oft mit weißer Zeichnung.
+Der Kopf trägt große Komplexaugen und zwei Paar Chaetosemata, Ocellen fehlen. Die langen Antennen bestehen aus vielen (bis zu mehr als Hundert) Segmenten, die meist etwas asymmetrisch kuppelförmig sind. Sie tragen neun verschiedene Typen von Sensillen, von denen einer nur bei dieser Familie auftritt. Die Mundwerkzeuge zeichnen sich durch einen besonderen Bau des Saugrüssels aus: Die Galeae bilden zwar einen kurzen, funktionsfähigen Saugrüssel, dabei bildet aber jede für sich ein Saugrohr aus; die Neopseustidae sind also die einzigen Schmetterlinge mit zwei Nahrungskanälen im Saugrüssel. Weitere Besonderheiten: Mandibeln vorhanden, aber rudimentär, schwach sklerotisiert und unbeweglich, sie besitzen aber beide Muskeln; dies wird als Hinweis auf bewegliche Mandibeln des (bisher unbekannten) Puppenstadiums und damit eine Pupa dectica gedeutet. Die Maxillarpalpen sind groß und fünfgliedrig, nach oben gestreckt. Die Labialpalpen sind dreigliedrig und von mäßiger Länge. Sie tragen an der Spitze ein grubenförmiges Sinnesorgan (sog. vom Rath´sches Organ).
+Die Vorderflügel sind oft abgerundet und tragen 13 bis 14 Adern, die Hinterflügel 11 oder 12. Beide Flügelpaare sind beschuppt und dicht und gleichmäßig mit Härchen (Mikrotricha) besetzt. Die Schuppen entsprechen in ihrem Feinbau den "höheren" Schmetterlingen (danach als Klade Coelolepida genannt), sie bilden ein hohles, luftgefülltes Lumen aus. Die Beine tragen an den Vordertibien keine Sporne, an den Mitteltibien sitzen zwei, an den Hintertibien vier, wobei die Sporenpaare untereinander ungleich lang sind. Beim Männchen ist der siebte Sternit des Hinterleibs in der Mitte zu einem unpaaren Dorn ausgezogen, dieser ist manchmal auch beim Weibchen vorhanden.
+Raupen- und Puppenstadium aller Arten sind bisher unbekannt.
+
+
+== Lebensweise ==
+Neopseustidae werden selten gefunden. Über ihre Biologie ist wenig bekannt. Beobachtungen liegen vor allem aus relativ kühlen Bergwaldregionen vor. Männchen werden von Licht angelockt und können mit Lichtfallen gefangen werden, es liegen aber aus Südamerika auch Beobachtungen von am Tage fliegenden Individuen (von Synempora andesae) vor. Die südamerikanischen Arten wurden fast ausnahmslos in Bambus-Wäldern der Gattung Chusquea gefunden. Aufgrund der ähnlichen Verbreitungsgebiete wird über eine Bindung der gesamten Familie an Bambus-Arten spekuliert.
+
+
+== Phylogenie ==
+Die Familie Neopseustidae gilt als ein Vertreter der "niederen" Glossata außerhalb der Ditrysia. Sie zeichnet sich u. a. dadurch aus, dass bei ihnen, im Gegensatz zu den urtümlichsten Schmetterlingsfamilien, Muskeln innerhalb des Saugrüssels (und nicht nur an dessen Basis) ansetzen. Sie werden nach diesem morphologischen Merkmal in einer Myoglossata genannten Klade mit den "höheren" Schmetterlingen, zusammen Neolepidoptera genannt, vereint.Molekulare Studien konnten zunächst wenig zur Phylogenie beitragen). In einer aktuellen molekularen Studie (anhand des Vergleichs homologer DNA-Sequenzen) wurden abweichend davon enge Beziehungen zur Familie Acanthopteroctetidae gefunden, die gemeinsame Klade wäre Schwestergruppe einer (veränderten) Infraordnung Heteroneura. Die genaue Position der Familie ist damit noch nicht abschließend geklärt.
+
+
+== Taxonomie und Systematik ==
+Die Neopseustidae werden in eine eigene (monotypische) Überfamilie Neopseustoidea, oft auch noch in eine eigene Teilordnung Neopseustina, gestellt. Es handelt sich also um eine taxonomisch isolierte Reliktgruppe, die sich möglicherweise schon im Jura abgespalten hat. Ihr Verbreitungsmuster wird mit dem alten Südkontinent Gondwana in Verbindung gebracht.
+Die Familie besteht aus vier Gattungen mit 13 beschriebenen Arten
+
+Neopseustis Meyrick, 1909: Typusgattung der Familie, mit sieben Arten in Assam (Indien), Taiwan und China.
+Nematocentropus Hwang, 1965 (syn. Archepiolus Mutuura, 1971): Zwei Arten; von einer Art aus Assam (Nematocentropus schmidi) bisher nur ein Männchen gefunden.
+Apoplania Davis, 1975: Drei Arten aus Chile
+Synempora Davis & Nielsen, 1980: eine Art, Synempora andesae, von der Valdivia-Kette im Nationalpark Los Alerces (Argentinien)
+
+
+== Quellen ==
+Donald R. Davis (1975): Systematics and Zoogeography of the Family Neopseustidae with the Proposal of a New Superfamily (Lepidoptera: Neopseustoidea). Smithsonian Contributions to Zoology Number 210. 45 pp.
+Niels P. Kristensen: Handbuch der Zoologie / Handbook of zoology. Band 4, Teil 35 Lepidoptera. Walter de Gruyter Verlag 1999 ISBN 3110157047. 530 Seiten (p. 55)
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==

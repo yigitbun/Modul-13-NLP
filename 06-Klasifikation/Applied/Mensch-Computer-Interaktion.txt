@@ -1,0 +1,45 @@
+Mensch-Computer-Interaktion (häufig als HCI abgekürzt, englisch Human–computer interaction) erforscht das Design und die Verwendung von Computer-Technologie an der Schnittstelle zwischen Menschen (Anwendern) und Computern. Forscher auf dem Gebiet der HCI beschäftigen sich mit der Art und Weise, wie Menschen mit Computern und Design-Technologien interagieren. Dabei werden neben Erkenntnissen der Informatik auch solche aus der Psychologie (vor allem der Medienpsychologie), der Arbeitswissenschaft, der Kognitionswissenschaft, der Ergonomie, der Soziologie und dem Design herangezogen.
+Ein übergeordnetes Gebiet ist die Mensch-Maschine-Interaktion (oder Mensch-Maschine-Kommunikation), die sich mit ähnlichen Fragestellungen beschäftigt, aber den Interaktionspartner des Menschen zur Maschine verallgemeinert. In jedem Fall wird das Gesamtsystem von Mensch, Schnittstelle und dahinterliegendem technischen System zu einem Mensch-Maschine-System.
+Als Forschungsgebiet befindet sich die Mensch-Computer-Interaktion an der Schnittstelle von Informatik, Verhaltenswissenschaften, Design, Medienwissenschaften und mehreren anderen Studienrichtungen. Der Begriff wurde von Stuart K. Card, Allen Newell und Thomas P. Moran in ihrem Buch von 1983, The Psychology of Human-Computer Interaction, popularisiert, obwohl die Autoren den Begriff zuerst 1980 verwendeten. Die erste bekannte Verwendung war Im Jahre 1975. Der Begriff bedeutet, dass, im Gegensatz zu anderen Tools mit nur begrenzten Verwendungen (wie ein Hammer, nützlich für das Einschlagen von Nägeln, aber nicht viel anderes), ein Computer viele Verwendungen hat und dies als ein offener Dialog zwischen dem Benutzer und dem Computer stattfindet. Der Begriff des Dialogs erkennt die Mensch-Computer-Interaktion zur Mensch-zu-Mensch-Interaktion, eine Analogie, die entscheidend für theoretische Überlegungen in diesem Bereich ist.
+
+
+== Konferenzen ==
+Die wichtigste internationale Konferenzserie auf dem Gebiet der Mensch-Computer-Interaktion ist die Association for Computing Machinery (ACM) Konferenz Human Factors in Computing Systems (CHI). Sie wird von der Special Interest Group on Computer-Human Interaction, einer Themengruppe der ACM organisiert. Daneben gibt eine Vielzahl von internationalen Konferenzen zur Mensch-Computer Interaktion, manche mit Fokus auf ein bestimmtes Teilgebiet wie der ACM MobileHCI. Die nationale Tagung zum Thema Mensch-Computer Interaktion Mensch & Computer wird vom Fachbereich „Mensch-Computer-Interaktion“ der Gesellschaft für Informatik seit 2001 jährlich organisiert.
+
+
+== Studienfach ==
+Mensch-Computer-Interaktion als Studienfach ist stark interdisziplinär und zumeist interfakultär ausgerichtet. Das Studium verbindet theoretische Grundlagen aus der Informatik und Psychologie mit anwendungsorientierten Themen aus den Bereichen Softwareentwicklung, Informationssysteme und Gestaltungswissenschaften.
+
+
+== Forschungseinrichtungen ==
+Forschungsgruppe Human-Computer Interaction und Visual Analytics (VIS), Hochschule DarmstadtHuman-Computer Interaction Center der RWTH Aachen (HCIC), RWTH Aachen
+
+
+== Siehe auch ==
+Benutzerschnittstelle
+Command language grammar (CLG)
+Interaktionsdesign
+
+
+== Literatur ==
+Georg Geiser: Mensch-Maschine-Kommunikation. Oldenbourg, München 1990, ISBN 3-486-21505-1. 
+Hans J. Charwat: Lexikon der Mensch-Maschine-Kommunikation. Oldenbourg, München 1994, ISBN 3-486-22618-5. 
+Andreas M. Heinecke: Mensch-Computer-Interaktion. Basiswissen für Entwickler und Gestalter. 2. Auflage. Springer, Berlin 2011, ISBN 978-3-642-13506-4. 
+Michael Herczeg: Software-Ergonomie. Grundlagen der Mensch-Computer Kommunikation. Addison-Wesley, Bonn 1994, ISBN 3-89319-615-3. 
+Markus Dahm: Grundlagen der Mensch-Computer-Interaktion. Pearson Studium, New York 2006, ISBN 3-8273-7175-9. 
+Alan Dix u. a.: Human-Computer Interaction. Pearson Prentice Hall, New York 2004, ISBN 0-13-046109-1 (englisch). 
+Bernhard Preim: Entwicklung interaktiver Systeme. Springer, Berlin 1999, ISBN 3-540-65648-0. 
+Paul Chlebek: User Interface-orientierte Softwarearchitektur. Vieweg+Teubner, Mainz 2006, ISBN 978-3-8348-0162-3. 
+Rainer Dorau: Emotionales Interaktionsdesign. Gesten und Mimik interaktiver Systeme. Springer, Heidelberg/Dordrecht/London/New York 2011, ISBN 978-3-642-03100-7. 
+Michael Friedewald: Konzepte der Mensch-Computer-Kommunikation in den 1960er Jahren: J. C. R. Licklider, Douglas Engelbart und der Computer als Intelligenzverstärker. In: Technikgeschichte, Bd. 67 (2000), H. 1, S. 1–24.
+
+
+== Weblinks ==
+
+Literatur über Mensch-Computer-Interaktion im Katalog der Deutschen Nationalbibliothek
+Fachgruppe Mensch-Computer-Interaktion der GI
+ACM SIGCHI Definition von HCI (englisch)
+Vorlesung Mensch-Maschine-Interaktion (13 Sitzungen) von Heinrich Hußmann, WiSe 2006/2007 an der LMU München im Quicktime-Format mit Simultananzeige der PowerPoint-Präsentation
+
+
+== Einzelnachweise ==

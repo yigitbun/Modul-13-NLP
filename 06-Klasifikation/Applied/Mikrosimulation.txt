@@ -1,0 +1,30 @@
+Mikrosimulation ist eine Art der computergestützten Simulation. Mikrosimulation wird häufig verwendet, um die Wirkungen von Maßnahmen zu bewerten, bevor sie in der realen Welt umgesetzt werden.
+Die meisten uns umgebenden Dinge und Situationen setzen sich aus mehreren einzelnen Bestandteilen zusammen. Wird bei einer Simulation das zu Untersuchende in seine Bestandteile zerlegt und benutzt die Simulation Modelle dieser Bestandteile und nicht ein Modell des aus ihnen bestehenden Ganzen, werden zum Beispiel einzelne Gasatome zur Simulation der Bewegung einer Gaswolke oder einzelne Fahrzeuge zur Simulation des Verkehrsflusses simuliert, spricht man von einer "mikroskopischen Simulation" und grenzt solche Modelle somit von einer Makrosimulation ab.
+
+
+== Mikrosimulation in der Ökonomie und den Sozialwissenschaften ==
+Hier werden an verschiedenen Stellen Mikrosimulationen eingesetzt, wobei es sich unter dem gleichen Begriff um sehr unterschiedliche Arten von Simulationen handeln kann.
+
+
+== Heuristische Mikrosimulation ==
+Die heuristische oder strategische Simulation wird hauptsächlich im Management angewandt. Meistens handelt es sich dabei um Makrosimulationen im Sinne von kybernetischen Regelkreisen, oft in Nähe von Planspielen, es können aber auch Mikrosimulationen zur Anwendung kommen. In der Verkehrsphysik werden heuristische Mikrosimulationen intensiv angewandt, hier besteht das simulierte System aus einzelnen Verkehrsteilnehmern. Charakteristisch für die heuristische Simulation ist die weitgehend fehlende Verbindung zu Daten und die Betonung von Interaktionseffekten zwischen Mikroeinheiten. In der Soziologie werden seit den 1970er-Jahren solche Mikrosimulationen verwendet. Bekannt geworden sind die Computerturniere von Robert Axelrod im Umfeld der spieltheoretischen Forschung, darüber hinaus werden aber auch Methoden der statistischen Physik und heute vor allem der Informatik angewandt (Multiagentensysteme (MAS) beziehungsweise Multi-Agenten-Simulation).
+
+
+== Ökonomische Mikrosimulation ==
+Im Bereich der empirischen Wirtschaftsforschung werden Mikrosimulationsmodelle für eine Vielzahl von Anwendungen eingesetzt, insbesondere zu Fragen von Reformen des Steuer- bzw. Transfersystems, Verkehrsplanung oder Gesundheitspolitik .
+Der Vorteil von Mikrosimulationen, im Gegensatz etwa zu allgemeinen Gleichgewichtsmodellen, liegt darin, dass im Idealfall die volle Heterogenität der Untersuchungseinheit in einer Bevölkerung, z. B. im Hinblick auf Einkommen, Wohnsituation oder Haushaltszusammensetzung abgebildet wird. Steuerreformen beispielsweise können sehr unterschiedlich auf die Einkommen von Individuen wirken, je nach Haushaltszusammensetzung, Alter oder Beschäftigungsstatus.
+Dieser Detailgrad kann in Makromodellen nicht erreicht werden. Dafür sind Makromodelle eher fähig, Rückkopplungen in anderen Sektoren der Wirtschaft, etwa in Form von Lohn- oder Preisänderungen, abzubilden. Ein Zwischenweg hierzu bilden sogenannte Mikro-Makro-Modelle, die Rückkopplungen zwischen beiden Ebenen erlauben.
+Ökonomische Mikrosimulationen setzen auf repräsentativen statistischen Survey-Erhebungen wie dem Mikrozensus, des SOEP oder der EVS auf. Eine Datenbasis muss einerseite die Bevölkerung hinreichend repräsentativ abbilden und andererseits genügend Informationen zu den einzelnen Beobachtungseinheiten enthalten. Aus diesem Grunde sind administrative Daten trotz ihrer  großen Fallzahl nur für spezielle Anwendungen geeignet. Die Einkommensteuerstatistik beispielsweise enthält nur einkommensteuerpflichtige Haushalte, zu denen nur wenige demografische Informationen gegeben sind. Aus wissenschaftlichen Gesichtspunkten scheint eine Verknüpfung von administrativen mit Survey-Daten wünschenswert. Allerdings stehen dem Datenschutzbedenken gegenüber.
+Ökonomische Mikrosimulationsmodelle können hinsichtlich ihrer Behandlung des Faktors Zeit unterschieden werden. Statische Modelle haben nur zwei Zustände (vorher und nachher), während dynamische Modelle mehrere Perioden abbilden. Des Weiteren wird zwischen Modellen mit und ohne Verhaltenskomponente unterschieden. Letztere unterstellen den Individuen ein Verhaltenskalkül (in der Regel in Form einer Nutzenmaximierung) in Bezug auf ihr Arbeits-, Spar- oder Konsumverhalten. Aufgrund von geschätzten Parametern einer Nutzenfunktion kann analysiert werden, wie sich das Verhalten von Individuen ändert, wenn sich Verhaltensdeterminanten (z. B. das Einkommen) ändert. Mithilfe von Fallgewichten können diese individuellen Verhaltensänderungen in einem nächsten Schritt auf die Gesamtbevölkerung aggregiert werden.
+Nutzer von ökonomischen Mikrosimulationen zur Abschätzung von Reformwirkungen sind insbesondere Ministerien auf Landes- und Bundesebene sowie die Europäische Kommission.
+
+
+== Methoden ==
+Zur Implementierung einer Mikrosimulation existieren eine Reihe von Methoden: Zellularautomaten haben ihren Ursprung in der Mathematik beziehungsweise Informatik. Der Übergang von Zellularautomaten zu diskreten Multi-Agenten-Simulationen ist mitunter fließend, die Bezeichnung bisweilen schlicht vom Fachgebiet abhängig. Die Finite Elemente Methode wird in den Ingenieurwissenschaften intensiv angewendet.
+
+
+== Weitere Beispiele ==
+FHP-Modell, Evakuierungssimulation, Nagel-Schreckenberg-Modell, VISSIM, Gittereichtheorie, MikroSim (FOR 2559)
+
+
+== Einzelnachweise ==

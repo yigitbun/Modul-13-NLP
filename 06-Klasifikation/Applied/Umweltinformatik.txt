@@ -1,0 +1,15 @@
+Die Umweltinformatik ist eine Teildisziplin der angewandten Informatik und beschäftigt sich interdisziplinär mit der Analyse und Bewertung von Umweltsachverhalten mit Mitteln der Informatik. Schwerpunkte sind die Verwendung von Simulationsprogrammen, Geographische Informationssysteme (GIS) und Datenbanksysteme.
+Typische Anwendungen sind:
+
+Informationsauswertung für ökonomische und ökologische Optimierung
+Ausbreitungsmodelle von Schadstoffen
+Simulation von solaren und energiewandelnden SystemenDie betriebliche Umweltinformatik greift besonders die ökonomischen Aspekte der Umweltinformatik auf und steht somit inhaltlich zwischen der Umwelt- und Wirtschaftsinformatik. Im Unternehmen dient die betriebliche Umweltinformatik neben den ökonomischen Aspekten der Sicherstellung des bestimmungsgemäßen Betriebs von Anlagen und Standorten. Mit ihrer Hilfe wird die Transparenz erhöht (z. B. welche Umwelt- und Sicherheitsauflagen der Betrieb einzuhalten hat), die Erfüllung von Berichtspflichten erleichtert und die Rechtssicherheit erhöht (z. B. Schutz vor strafrechtlichen Folgen nach §6 Umwelthaftungsgesetz). 
+Da Theorien und Methoden der Umweltinformatik auch auf die Informatik selbst angewandt werden können, birgt sie wesentliche wissenschaftlichen Wurzeln der Green IT und lässt sich hiervon noch nicht klar abgrenzen.
+
+
+== Besonderheiten ==
+In der Praxis bestehen oftmals sowohl für Systeme als auch für deren Anwendung große Herausforderungen. Zum einen sind die benötigten Datenstrukturen durch individuelle betriebsinterne Prozesse und die unterschiedlichen Sichtweisen der Umweltaspekte (z. B. Gewässerschutz, Immissionsschutz, Gefahrstoffe) sehr heterogen, zum anderen ändern sich die Pflichten häufig durch neue Gesetze, seien es regionale (z. B. Länderverordnungen im Gewässerschutz), nationale (z. B. Bundesimmissionsschutz-Verordnungen) oder internationale (z. B. REACH). Neuere Ansätze der Umweltinformatik setzen deshalb auf generische (anpassbare) Datenmodelle und einen integrierten Ansatz, der die unterschiedlichen Sichtweisen vereinheitlicht.
+
+
+== Literatur ==
+Umweltinformatik: Informatikmethoden für Umweltschutz und Umweltforschung (Hrsg. Hermann Krallmann), Verlag Walter de Gruyter GmbH & Co KG, ISBN 9783486789348, eingeschränkte Vorschau in der Google-Buchsuche

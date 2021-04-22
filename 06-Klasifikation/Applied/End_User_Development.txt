@@ -1,0 +1,24 @@
+End User Development (EUD) (dt. etwa Endbenutzer-Entwicklung) ist ein Forschungsgebiet innerhalb der Informatik. Es beschäftigt sich mit der Frage, wie es dem Endbenutzer einer Software ermöglicht werden kann, diese zu erweitern und seinen Bedürfnissen anzupassen. Typische Beispiele für EUD sind Makroprogrammierung in Bürosoftware, wie Textverarbeitung und Tabellenkalkulation.
+
+
+== Teilgebiete ==
+Je nach Problemstellung und Zielgruppe werden verschiedene Ansätze angewendet, um Endbenutzern die Programmierung zu ermöglichen.
+Bei den Grafischen Programmiersprachen entwickelt der Benutzer Programme nicht wie bei den üblichen Programmiersprachen durch die Eingabe eines Textes, sondern er setzt visuelle Elemente zusammen, etwa Blöcke und diese verbindende Linien. Durch diese Darstellung soll der „Quelltext“ leichter zu verstehen sein und somit auch durch Endbenutzer verändert werden können.
+Domänenspezifische Sprachen werden nicht wie universell einsetzbare Programmiersprachen auf alle Probleme angewendet, sondern nur auf bestimmte Anwendungsdomänen, zum Beispiel SQL für Datenbankabfragen. Kenner der Domäne müssen daher keine universelle und somit auch komplexe Programmiersprache lernen, sondern können sich auf die für ihre Anwendungsdomäne relevanten Teile beschränken. Die beiden beschriebenen Ansätze können kombiniert werden, so dass es auch Grafische Domänenspezifische Sprachen gibt.
+Auch universelle Programmiersprachen sind unterschiedlich schnell zu erlernen, so dass sich bestimmte universelle Programmiersprachen besser für Endbenutzer eignen. Die Entwicklung leicht zu erlernender Sprachen wie Python erlauben auch Endbenutzern einen einfachen Zugang zum Programmieren. Deutlich weiter geht der Ansatz, natürliche Sprache im Sinne einer Programmiersprache zu verwenden. So gibt es Ansätze, bei denen durch Eingabe englischer Sätze interaktiv ein Python-Programm erzeugt wird. Umgekehrt kann das Python-Programm auch in englischer Sprache ausgegeben werden.
+Endbenutzer können auch klassische universelle Programmiersprachen wie C verwenden. Ein Endbenutzer braucht hierfür allerdings gute Lehrbücher oder Beispielprogramme, da diese Programmiersprachen mehr Lernaufwand erfordern. Entwicklungsumgebungen für Anfänger unterstützen den Endbenutzer beim Lernen und Programmieren mit erklärenden Hinweisen.
+Beim Programming By Example demonstriert der Benutzer eine häufig auszuführende Handlung einige Male. Die Software abstrahiert mit Techniken der Künstlichen Intelligenz auf ein generelles Muster und kann die gezeigte Handlung danach wiederholen und gegebenenfalls sogar auf andere Anwendungsgebiete übertragen. Ein einfaches Beispiel wäre die Aufzeichnung einer Tastenfolge, die später wieder abgerufen werden kann. Es ist allerdings umstritten, ob Programming By Example überhaupt als Programmieren gewertet werden kann, da kein Quelltext analysiert und nicht debuggt werden kann. Durch die Kombination mit Grafischen Programmiersprachen wird versucht, diesen Mangel zu beheben.
+
+
+== Literatur ==
+H. Lieberman, F. Paterno, V. Wulf (Hrsg.): End-User Development. In: Human-Computer Interaction Series Vol. 9, Springer, Dordrecht 2006, ISBN 1-4020-4220-5.
+Bonnie A. Nardi: A Small Matter of Programming: Perspectives on End User Computing, MIT-Press, Cambridge, 2. print 1995, ISBN 0-262-14053-5.
+
+
+== Weblinks ==
+Deutsches End User Development Wiki
+Second International Symposium on End User Development
+Konferenzreihe International Symposium on End-User Development
+
+
+== Einzelnachweise ==

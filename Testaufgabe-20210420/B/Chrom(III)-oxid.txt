@@ -1,0 +1,114 @@
+Chrom(III)-oxid, Cr2O3, ist eine chemische Verbindung aus Chrom und Sauerstoff. Es wird oft nur Chromoxid genannt, obwohl dieser Name zu Verwechslungen mit den drei anderen Chromoxiden Chrom(II)-oxid, Chrom(IV)-oxid und Chrom(VI)-oxid führen kann.
+Als synthetisch hergestelltes Pigment Chromoxidgrün wurde es 1929 von der Bayer AG auf den Markt gebracht.
+
+
+== Eigenschaften ==
+Chrom(III)-oxid liegt je nach Herstellungsmethode als grünes Pulver oder als buntschillernde, metallartig glänzende, sehr harte, hexagonal rhomboedrische Kristalle vor. Chrom(III)-oxid ist (im Gegensatz zum gefährlichen Chrom(VI)-oxid) ungiftig.
+
+
+== Verwendung ==
+
+Chrom(III)-oxid wird aufgrund seiner Härte in Schleifmitteln eingesetzt. In vielen organischen Reaktionen dient es als Katalysator.
+Unter dem Namen Chromoxidgrün ist es als olivgrünes Pigment erhältlich. Es dient unter anderem als Emaillefarbe und zum Glasfärben.Die Reisezugwagen der Deutschen Bundesbahn und der Deutschen Reichsbahn waren mit Lacken angestrichen, die Chromoxidgrün enthalten (siehe auch Kölner Brückengrün).
+Das Pigment Chromoxidgrün ist nicht mit dem giftigen Chromgrün zu verwechseln, einer Mischung aus Chromgelb und Berliner Blau.
+
+
+== Nachweis ==
+Chromoxid kann durch Oxidation zum gelben Chromat nachgewiesen werden. Dazu wird die Probe z. B. zusammen mit Kaliumnitrat und Natriumhydroxid eingeschmolzen (Oxidationsschmelze):
+
+  
+    
+      
+        
+          
+            Cr
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          4
+          
+          NaOH
+          +
+          3
+          
+          
+            KNO
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            Na
+            
+              2
+            
+            
+              
+            
+          
+          
+            CrO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          3
+          
+          
+            KNO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Cr2O3 + 4NaOH + 3KNO3 -> 2Na2CrO4 + 2H2O + 3KNO2}}}
+  
+
+
+== Risikobewertung ==
+Chrom(III)-oxid wurde 2018 von der EU gemäß der Verordnung (EG) Nr. 1907/2006 (REACH) im Rahmen der Stoffbewertung in den fortlaufenden Aktionsplan der Gemeinschaft (CoRAP) aufgenommen. Hierbei werden die Auswirkungen des Stoffs auf die menschliche Gesundheit bzw. die Umwelt neu bewertet und ggf. Folgemaßnahmen eingeleitet. Ursächlich für die Aufnahme von Chrom(III)-oxid waren die Besorgnisse bezüglich hoher (aggregierter) Tonnage sowie der möglichen Gefahren durch reproduktionstoxische und sensibilisierende Eigenschaften. Die Neubewertung läuft seit 2019 und wird von Frankreich durchgeführt.
+
+
+== Einzelnachweise ==

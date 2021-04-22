@@ -1,0 +1,134 @@
+Xenon(VIII)-oxid ist ein Oxid des Edelgases Xenon und damit eine Edelgasverbindung. Es ist ein unter Standardbedingungen farbloses Gas.
+
+
+== Gewinnung und Darstellung ==
+Als Ausgangsstoff für die Herstellung von Xenon(VIII)-oxid dienen Lösungen von Xenaten in der Form HXeO4−. Diese können durch Disproportionierung oder mit Hilfe von Ozon zu Perxenaten der Form HXeO63− oxidiert und als Bariumperxenat Ba2XeO6 ausgefällt werden. Daraus kann man mit Hilfe von konzentrierter Schwefelsäure über die instabile Zwischenstufe Perxenonsäure H4XeO6 Xenon(VIII)-oxid gewinnen:
+
+  
+    
+      
+        
+          B
+          
+            a
+            
+              2
+            
+          
+          X
+          e
+          
+            O
+            
+              6
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          →
+          2
+           
+          B
+          a
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+          (
+          
+            H
+            
+              4
+            
+          
+          X
+          e
+          
+            O
+            
+              6
+            
+          
+          )
+          ,
+        
+      
+    
+    {\displaystyle \mathrm {Ba_{2}XeO_{6}+2\ H_{2}SO_{4}\rightarrow 2\ BaSO_{4}+(H_{4}XeO_{6}),} }
+  
+Bildung der Zwischenstufe
+  
+    
+      
+        
+          (
+          
+            H
+            
+              4
+            
+          
+          X
+          e
+          
+            O
+            
+              6
+            
+          
+          )
+          →
+          X
+          e
+          
+            O
+            
+              4
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          .
+        
+      
+    
+    {\displaystyle \mathrm {(H_{4}XeO_{6})\rightarrow XeO_{4}+2\ H_{2}O.} }
+  
+Bildung des Xenon(VIII)-oxidesDiese Reaktionen werden bei −5 °C durchgeführt, wodurch das Produkt Xenontetraoxid als Gas entweicht.
+
+
+== Eigenschaften ==
+Xenon(VIII)-oxid besitzt mit 643 kJ/mol eine positive Bildungsenthalpie und ist somit eine stark endotherme Verbindung. Dadurch neigt es zu explosivem Zerfall unter Bildung elementaren Xenons und molekularem Sauerstoffs. Im festen Zustand unterhalb von −39,5 °C liegt es als gelbliche, kristalline Masse von erheblich höherer Stabilität vor. Gelegentlich kann es auch bei tiefen Temperaturen (−40 °C) explodieren, weshalb der Umgang mit Xenontetraoxid mit großer Vorsicht erfolgen und bei möglichst tiefen Temperaturen (Stickstoffkühlung) stattfinden muss. Eine plötzliche Explosion wird ausgelöst, wenn durch allmählichen Zerfall angestaute Reaktionswärme oder angehäufte (Sauerstoff-)Radikale die weitere Reaktion beschleunigen.
+
+
+=== Wässrige Lösung ===
+In wässriger Lösung liegt Xenon(VIII)-oxid in Form von HXeO63−-Ionen vor, die sich von der unbeständigen und nicht isolierbaren Perxenonsäure H4XeO6 ableiten lassen. Der Grund für deren Instabilität liegt in der Zersetzung von Perxenonsäure zu Xenonsäure und Sauerstoff. Die Zersetzung findet im Basischen langsam, im Sauren sehr schnell statt. Stabil sind hingegen eine größere Zahl von Salzen, die sich von der Perxenonsäure ableiten und Perxenate genannt werden. Beispiele sind Bariumperxenat Ba2XeO6 oder Natriumperxenat Na4XeO6
+
+
+== Einzelnachweise ==

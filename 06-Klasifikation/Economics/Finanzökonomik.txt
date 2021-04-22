@@ -1,0 +1,47 @@
+Die Finanzökonomik (eng. financial economics), auch Finanzmarktökonomik oder Kapitalmarktforschung, ist ein Bereich der Wirtschaftswissenschaft, der die Verwendung und Verteilung von  Ressourcen auf Kapitalmärkten analysiert.Die Finanzökonomik betrachtet die Wechselbeziehung von Variablen wie Preisen, Zinssätzen und Beteiligungen. Die Forschung hat zwei Hauptschwerpunkte: Preisbildung von Investitionsgütern und Unternehmensfinanzierung. Der erste wird aus der Perspektive der Kapitalgeber, d. h., der Investoren betrachtet, und die zweite aus der Sicht der Kapitalnutzer. Es bildet somit die theoretische Grundlage der Finanzwirtschaft.Die Finanzökonomik befasst sich mit der räumlichen und zeitlichen Zuweisung und Bereitstellung wirtschaftlicher Ressourcen in einem unsicheren Umfeld. Die Disziplin basiert auf den Grundlagen der Mikroökonomik und der Entscheidungstheorie. Die Forschung konzentriert sich daher auf die Entscheidungsfindung unter Unsicherheit im Kontext der Finanzmärkte und der daraus resultierenden wirtschaftlichen und finanziellen Modelle und Grundsätze. Entscheidend ist dabei die Ableitung überprüfbarer oder politischer Implikationen aus akzeptablen Annahmen.Finanzökonometrie ist ein Zweig der Finanzökonomik, der ökonometrische Techniken verwendet, um diese Beziehungen zu parametrisieren. Finanzmathematik ist eine verwandte Disziplin, die die von der Finanzökonomik vorgeschlagenen mathematischen oder numerischen Modelle ableitet und erweitert. Der Schwerpunkt liegt dabei auf der mathematischen Konsistenz im Gegensatz zur Kompatibilität mit der Wirtschaftstheorie. Eine weitere verwandte Disziplin ist die Geldtheorie. Während die Finanzökonomik in erster Linie mikroökonomisch ausgerichtet ist, ist die Geldtheorie in erster Linie makroökonomischer Natur.
+
+
+== Grundlagen ==
+Die Finanzökonomik untersucht, wie rationale Investoren die Entscheidungstheorie auf Investitionsprobleme anwenden. Die Disziplin baut somit auf den Grundlagen der Mikroökonomik und der Entscheidungstheorie auf und leitet mehrere Schlüsselergebnisse für die Anwendung der Entscheidungsfindung unter Unsicherheit auf die Finanzmärkte ab. Die zugrunde liegende ökonomische Logik führt zu fundamentalen Bewertungsergebnissen für Investitionsgüter.
+
+
+=== Barwert, Erwartungswert und Nutzen ===
+Der gesamten Finanzökonomik liegen die Konzepte des Barwerts und des Erwartungswerts einer Zahlungsreihe zugrunde.Der Barwert ist der Wert, den zukünftige Zahlungen in der Gegenwart besitzen. Er wird durch Abzinsung der zukünftigen Zahlungen und anschließendes Summieren ermittelt. Durch die Berechnung des Barwerts kann der Entscheidungsträger die künftigen Cashflows (oder sonstigen Renditen) des Investitionsgutes zu einem einzigen Wert am fraglichen Zeitpunkt aggregieren und so mehrere Investitionsmöglichkeiten miteinander vergleichen. Dieses Konzept ist daher der wesentliche Ausgangspunkt für finanzielle Entscheidungen.Eine Erweiterung besteht darin, Wahrscheinlichkeiten mit dem Barwert zu kombinieren, was zum Erwartungswert führt. Dieser beschreibt den Wert des Kapitalgutes in Abhängigkeit von der Größe der erwarteten Auszahlungen, gewichtet nach den Wahrscheinlichkeiten ihres Auftretens.Ein weiteres Konzept ist die Risikoaversion von Anlegern. Da Individuen einen größeren Nutzen aus einer zusätzlichen Geldeinheit erhalten, wenn sie relativ arm sind, und einen geringeren Nutzen, wenn sie relativ reich sind, besteht dieser Ansatz darin, das den verschiedenen Umweltzuständen (eng. states) zugewiesene Gewicht gemäß der Risikoaversion anzupassen.
+Entscheidungen unter Unsicherheit können so als Maximierung des erwarteten Nutzens charakterisiert werden. Die resultierende Nutzenfunktion besagt, dass der subjektive Wert die statistische Erwartung des Individuums an die Bewertungen der Ergebnisse der Investition ist.
+
+
+=== Arbitragefreiheit und Marktgleichgewicht ===
+Arbitragefreiheit ist das Fehlen jeder Möglichkeit zur (ökonomischen) Arbitrage. Dies ist auf Finanzmärkten aufgrund der hohen Transparenz und geringer Transaktionskosten gegeben. Rationale Preise bezeichnen die Annahme, dass Kapitalmärkte den arbitragefreien Preis des Kapitalgutes widerspiegeln, da jede Abweichung von diesem Preis „wegarbitriert“ wird. Damit verbunden ist die Annahme der Informationseffizienz von Kapitalmärkten. Das heißt, dass Preise auf Kapitalmärkten zu jeder Zeit alle verfügbaren Informationen widerspiegeln. Eine Arbitrage auf Basis von verfügbaren Informationen ist damit nicht möglich.Das Marktgleichgewicht bezeichnet einen Zustand, in dem sich Angebot und Nachfrage entsprechen. Ohne externe Einflüsse ändern sich diese Gleichgewichtswerte der wirtschaftlichen Variablen nicht, sie sind stabil. Das allgemeine Gleichgewicht befasst sich mit dem Verhalten von Angebot, Nachfrage und Preisen in einer gesamten Volkswirtschaft mit mehreren oder vielen interagierenden Märkten. Dabei wird versucht zu zeigen, dass Preise existieren, die zu einem Gesamtgleichgewicht führen.Die beiden Konzepte sind wie folgt miteinander verbunden: Wenn die Marktpreise keine rentable Arbitrage zulassen, d. h. sie einen arbitragefreien Markt darstellen, werden diese Preise auch als Arbitrage-Gleichgewicht bezeichnet. Dies lässt daran erkennen, dass sich die Preise dort ändern können, wo eine Arbitrage-Möglichkeit besteht, und sich daher nicht im Gleichgewicht befinden. Ein Arbitrage-Gleichgewicht ist somit eine Voraussetzung für ein allgemeines wirtschaftliches Gleichgewicht.Aus diesem Konzept wird z. B. der Fundamentalsatz der Arbitragepreistheorie entwickelt.
+
+
+== Modelle ==
+
+
+=== Markteffizienzhypothese ===
+
+Eines der wichtigsten Modelle zur Untersuchung von Kapitalmärkten ist die Markteffizienzhypothese (EMH). Sie besagt, dass Assetpreise alle verfügbaren Informationen widerspiegeln. Eine direkte Konsequenz ist, dass kein Marktteilnehmer den Markt langfristig schlagen kann. Assetpreise sollten nur auf neue Informationen reagieren und daher einen zufälligen Verlauf (random walk) aufweisen. Eugene Fama hat wesentliche Beiträge zur EMH geliefert, indem er sie operationalisierte und eine Reihe von empirischen Tests präsentierte.
+
+
+=== Moderne Portfoliotheorie ===
+
+Die moderne Portfoliotheorie (MPT) ist ein Modell für die Zusammenstellung eines Portfolios von Investitionsgütern, sodass die erwartete Rendite für ein bestimmtes Risikoniveau maximiert wird. Grundlegend ist dabei das Konzept der Diversifikation. Dieses bezeichnet die Idee, dass der Besitz verschiedener Arten von Kapitalgütern weniger riskant ist, als der Besitz nur einer Art.Die wichtigste Erkenntnis der MPT ist, dass das Risiko und Rendite eines Investitionsgutes nicht im Vakuum betrachtet werden sollte, sondern, wie es zum Gesamtrisiko und zur Gesamtrendite eines Portfolios beiträgt.MPT wurde 1952 durch Harry Markowitz in einem Aufsatz vorgestellt. Für diese Arbeit erhielt er 1990 den Alfred-Nobel-Gedächtnispreis für Wirtschaftswissenschaften.
+
+
+=== CAPM ===
+
+Das Capital Asset Pricing Model (CAPM) ist ein Modell, welches dazu dient, Investitionsgüter zu bewerten. Dadurch kann eine theoretisch angemessene erforderliche Rendite eines Investitionsgutes ermittelt werden, um Entscheidungen über das Hinzufügen zu einem gut diversifizierten Portfolio zu treffen.Das CAPM wird im gesamten Finanzsektor häufig verwendet, um Wertpapiere zu bewerten und erwartete Renditen für Investitionsgüter zu berechnen, wenn das Risiko und die Kapitalkosten berücksichtigt werden.
+
+
+=== Black-Scholes-Modell ===
+
+Das Black-Scholes-Modell ist ein finanzmathematisches Modell, welches zur Bewertung von Finanzoptionen dient.Die Schlüsselidee des Modells besteht darin, die Option durch den richtigen Kauf und Verkauf des zugrunde liegenden Vermögenswerts abzusichern (siehe Sicherungsgeschäft) und dadurch das Risiko zu minimieren. Diese Art der Absicherung wird als Delta-Hedging bezeichnet und ist die Grundlage für komplexes Risikomanagement, wie es beispielsweise von Investmentbanken und Hedgefonds durchgeführt wird.Das Modell wurde von 1972 von Fischer Black und Myron Samuel Scholes veröffentlicht.
+
+
+== Literatur ==
+Felix Holzmeister et al.: Grundlagen der Finanzwirtschaft. 3., komplett überarb. Aufl.; de Gruyter Oldenbourg, Berlin [2019], ISBN 978-3-11-060792-5.
+Klaus Spremann, Pascal Gantenbein: Finanzmärkte: Grundlagen, Instrumente, Zusammenhänge. 4., überarb. Aufl.; (UTB Bd. 8516). UVK Verlagsges. / UVK Lucius, Konstanz / München [2017], ISBN 978-3-8252-8682-8.
+Hartmut Bieg, Heinz Kußmaul: Investitions- und Finanzierungsmanagement, Bd. 3: Finanzwirtschaftliche Entscheidungen. Verl. Franz Vahlen, München 2000, ISBN 978-3-8006-2626-7.
+Daniel Sigrist: Mathematik für Bank, Versicherung und Finanzplanung: eine Einführung in die Mathematik der Finanzökonomik. 3. Aufl.; Schweizerische Bankiervereinigung, Basel 2001, ISBN 3-908228-54-9.
+
+
+== Einzelnachweise ==

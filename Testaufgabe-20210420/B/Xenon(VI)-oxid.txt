@@ -1,0 +1,138 @@
+Xenon(VI)-oxid (Summenformel XeO3) ist eine chemische Verbindung der Elemente Xenon und Sauerstoff. Xenontrioxid ist instabil und neigt bei einer Temperatur von etwa 25 °C zu explosionsartiger Zersetzung. Es ist eine der wenigen bekannten wasserlöslichen Edelgasverbindungen. Hierbei entsteht im leicht basischen Milieu in geringem Maß die instabile Xenonsäure (H2XeO4).
+
+
+== Darstellung ==
+Xenontrioxid lässt sich nicht direkt darstellen, da die Elektronegativität des Sauerstoffs für die direkte Reaktion nicht ausreicht. Daher stellt man zunächst Xenondifluorid her, indem man unter hohem Druck und hoher Temperatur Xenon mit Fluor reagieren lässt. Das Xenondifluorid reagiert dann unter Disproportionierung zu Xenontetrafluorid und Xenon, anschließend zu Xenonhexafluorid und Xenondifluorid. Zuletzt wird durch Umsatz mit Lauge und Calciumsalzen das Fluor in der Verbindung durch Sauerstoff ersetzt, wobei Zwischenprodukte wie Xenontetrafluoridoxid und Xenondifluoriddioxid entstehen.
+Durch Umsetzung von Xenon(VI)-fluorid mit Wasser im Überschuss und Entfernung des entstehenden Fluorwasserstoffes, erhält man eine verhältnismäßig stabile Lösung von Xenon(IV)-oxid, solange diese leicht sauer eingestellt bleibt:
+
+  
+    
+      
+        
+          
+            XeF
+            
+              6
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            XeO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          6
+          
+          HF
+        
+      
+    
+    {\displaystyle {\ce {XeF6 + 3 H2O -> XeO3 + 6 HF}}}
+  
+
+
+== Typische Reaktionen von Xenontrioxid ==
+In stark alkalischer Lösung wird ein Hydroxidion (OH−) addiert, so dass HXeO4− entsteht. Dieses HXeO4− disproportioniert allmählich zu Perxenat (Xe+VIII) und Xenon (Xe0). Es lassen sich sodann Perxenate wie z. B. Na4XeO6 · 6H2O isolieren.
+Durch Zugabe von konz. Schwefelsäure (H2SO4) kann aus den gelben Perxenat-Lösungen (z. B. von Ba2XeO6) das gasförmige, hochexplosive Anhydrid Xenontetroxid (XeO4) gewonnen werden.
+Xenate(+VI), hier in Form von XeO3, und Perxenate(+VIII) gehören zu den stärksten Oxidationsmitteln. (Standardelektrodenpotentiale: E0(Xe/XeO3) = +1,8 V; E0(Xe/XeO64−) = +3,0 V). Sie sind vor allem deshalb von Interesse, weil bei ihrer Reduktion lediglich elementares Xenon entsteht, das wieder aufs Neue eingesetzt werden kann.
+Es gibt (bzw. gab 1992) Hinweise auf die Entstehung von Xenat-Estern bei der heftigen Reaktion von XeO3 mit Alkoholen
+Beim Leiten von Ozon (O3) durch eine verdünnte XeO3-Lösung entstehen Perxenate (Xe+VIII), die stabile Natrium- und Bariumsalze bilden können
+
+
+== Nachweis ==
+Xenon(VI)-oxid-Lösungen lassen sich quantitativ untersuchen indem die Verbindung durch Zugabe von Iod und verdünnter Perchlor- oder Schwefelsäure nach folgender Gleichung quantitativ zersetzt und das in der Lösung enthaltene Triiodid-Ion mit Thiosulfat iodometrisch titriert wird.
+
+  
+    
+      
+        
+          
+            XeO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          9
+          
+          
+            I
+            
+              −
+            
+          
+          +
+          6
+          
+          
+            H
+            
+              +
+            
+          
+          ⟶
+          Xe
+          +
+          3
+          
+          
+            I
+            
+              3
+            
+            
+              −
+            
+          
+          +
+          3
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {XeO3 + 9 I- + 6 H+ -> Xe + 3 I3- + 3 H2O}}}
+  
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Christen/Meyer: Allgemeine und Anorganische Chemie Bd. II. Frankfurt am Main, 1995
+Hans Rudolf Christen: Grundlagen der Allgemeinen und Anorganischen Chemie. Frankfurt am Main, 1968
+Shriver/Atkins/Langford: Anorganische Chemie. Weinheim, New York, Basel, Cambridge, 1992
+Cotton/Wilkinson: Anorganische Chemie. Weinheim, 1974

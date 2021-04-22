@@ -1,0 +1,50 @@
+Obtectomera ist ein Taxon der Schmetterlinge (Lepidoptera) aus der Unterordnung Glossata.
+
+
+== Merkmale ==
+Die Gruppe ist durch folgende Merkmale charakterisiert: Die Puppen sind unbedornt und zumindest ihr erstes bis viertes Hinterleibssegment ist unbeweglich, wodurch sich die Puppe vor dem Schlupf des Falters nicht aus dem sie umgebenden Substrat befreit. Lediglich bei einigen Macrolepidoptera tritt dieses Verhalten dennoch auf, was jedoch als Wiedererlangung eines evolutiv ursprünglichen Merkmals vermutet wird. Die Merkmale der Puppen treten auch bei manchen Taxa der Ditrysia (Yponomeutoidea und Gelechioidea) auf, die jedoch nicht zu den Obtectomera gezählt werden, da den Imagines dieser Gruppen die speziell ausgebildeten Pulvilli an den Tarsen der Vorderbeine fehlen.
+
+
+== Lebensweise ==
+Die Arten der Obtectomera, die nicht zu den Macrolepidoptera gezählt werden, haben hauptsächlich Raupen, die im Inneren ihrer Nahrungspflanzen leben. Innerhalb der größten Unterfamilie, der Pyraloidea, gibt es jedoch zahlreiche Arten, die sich von Detritus ernähren.
+
+
+== Systematik ==
+Die verwandtschaftlichen Verhältnisse innerhalb der Apoditrysia sind bislang noch unklar, wobei Minet (1986) davon ausgeht, dass das Taxon Obtectomera ein Monophylum bildet, dem der Großteil der Apoditrysia zugeordneten Überfamilien angehört. Das Taxon Obtectomera umfasst folgende Überfamilien:
+Überfamilie Whalleyanoidea
+Überfamilie Immoidea
+Überfamilie Copromorphoidea
+Überfamilie Hyblaeoidea
+Überfamilie Thyridoidea
+Überfamilie Pyraloidea
+restliche Überfamilien: Macrolepidoptera
+Überfamilie Mimallonoidea
+Überfamilie Lasiocampoidea
+Überfamilie Bombycoidea
+Überfamilie Cimelioidea (früher Axioidea; wegen gleichnamigem Taxon der Krebstiere umbenannt)
+Überfamilie Calliduloidea
+Überfamilie Hedyloidea
+Überfamilie Hesperioidea
+Überfamilie Papilionoidea
+Überfamilie Drepanoidea
+Überfamilie Geometroidea
+Überfamilie Noctuoidea
+
+
+=== Molekularphylogenetische Studie (März 2013) ===
+Eine groß angelegte Studie, die im März 2013 veröffentlicht wurde, 
+hat die gesamte Ordnung Lepidoptera auf Verwandtschaftsbeziehungen untersucht. 
+In dieser Studie gibt es bezüglich Obtectomera ein paar Unterschiede zu älteren Systematiken. 
+Immoidea wird in Apoditrysia angesiedelt aber nicht in Obtectomera. 
+Gelechioidea, Pterophoroidea, Alucitoidea und Epermenioidea werden in Obtectomera angesiedelt. Die Stellung von Whalleyanoidea ist unklar. 
+Hesperioidea und Hedyloidea werden aufgelöst. Deren Familien Hesperiidae und Hedylidae werden Papilionoidea untergeordnet.Das Kladogramm bezüglich Obtectomera sieht wie folgt aus:
+
+
+== Belege ==
+
+
+=== Einzelnachweise ===
+
+
+=== Literatur ===
+Niels P. Kristensen: Lepidoptera, moths and butterflies. In: Maximilian Fischer (Hrsg.): Handbook of Zoology. 1. Auflage. Band 4 – Arthropoda: Insecta, Teilband 35. de Gruyter, Berlin / New York 1998, ISBN 3-11-015704-7 (englisch).

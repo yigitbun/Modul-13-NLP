@@ -1,0 +1,60 @@
+European Network for the Advancement of Artificial Cognitive Systems, Interaction and Robotics (EUCog) ist ein europäisches Netzwerk von etwa 900 Forschern aus dem Bereich Künstlicher Intelligenz. Das im Rahmen des EU-finanzierten Projekts EUCogIII unterstützte Netzwerk beschäftigt sich mit der Verknüpfung von Informatik, Kognitionswissenschaften und Robotik. Die am Netzwerk teilnehmenden Forscher wollen sich mit anderen Forschern verbinden um die Herausforderungen des Fachgebiets zu reflektieren und um ihre Forschungsergebnisse "unter die Leute zu bringen". Dazu werden Meetings, Workshops, Teilnahme von Mitgliedern an akademischen Veranstaltungen, Gastprofessuren und andere Aktivitäten, die die Ziele des Netzwerks näherbringen, gefördert. Das Netzwerk wird von der "Information and Communication Technologies" (ICT) Abteilung der Europäischen Kommission, Cognitive Systems and Robotics unit unter dem siebten Rahmenprogramm (RP7) der Europäischen Kommission finanziert. Alle Forscher, die auf einem relevanten Gebiet forschen, sind zur Teilnahme am Netzwerk eingeladen.
+
+
+== Projekt EUCogIII ==
+Das EU-Projekt EUCogIII – "3rd European Network for the Advancement of Artificial Cognitive Systems, Interaction and Robotics" kostet 2 Millionen Euro und läuft von November 2011 bis Dezember 2014.
+
+
+== Veranstaltungen des Netzwerks ==
+Ein wesentlicher Teil der Netzwerkaktivitäten besteht darin, Treffen der Forscher zu organisieren.
+
+
+=== Konferenzen und Workshops ===
+Die vierte Mitgliederkonferenz der Projektmitglieder zum Thema "Soziale und ethische Aspekte von Cognitive Systems" fand am 23. und 24. Oktober 2013 in England an der Universität von Sussex in Falmer/Brighton mit etwa 170 Teilnehmern statt.
+Die dritte Mitgliederkonferenz der Projektmitglieder beschäftigte sich mit dem Thema "Lernen" und wurde am 10. und 11. April 2013 in Palma an der Universitat de les Illes Balears mit etwa 150 Teilnehmern in Kooperation mit weiteren etwa 40 PASCAL2-Mitgliedern des Exzellenznetzwerks für Pattern Analysis, Statistical Modelling and Computational Learning abgehalten.
+Die zweite Mitgliederkonferenz zum Thema "Soft Robotics" tagte am 25. und 26. August 2012 in Dänemark an der Universität in Odense mit etwa 120 Teilnehmern.
+Die erste Mitgliederkonferenz der Projektmitglieder zum Thema "Do Robots Need Cognition? – Does Cognition need Robots?" fand am 23. und 24. Februar 2012 in Österreich an der Technischen Universität Wien mit etwa 190 Teilnehmern statt.
+Der Workshop "Challenges for Artificial Cognitive Systems II" wurde am 20. und 22. Januar 2012 in Oxford mit etwa 190 Teilnehmern abgehalten.
+
+
+=== Förderungen und Vergütungen ===
+Reise- und Aufenthaltskosten können für die Netzwerkteilnehmer bei Teilnahme an den Netzwerkveranstaltungen übernommen werden.
+
+
+== Mitglieder des Netzwerks ==
+Mitglieder des Netzwerk sind europäische Forscher aus dem Bereich cognitive systems, die aktiv teilnehmen wollen. Von den etwa 900 Mitgliedern stammen ca. 190 aus Institutionen aus Großbritannien, 180 aus Deutschland, 80 aus Spanien und 80 aus Italien, 30 aus der Schweiz und 26 aus Österreich.
+470 Personen sind den Computer Sciences zuzuordnen, 130 anderen Ingenieurswissenschaften, 125 der Psychologie und Cognitive Science, 43 Biologie, Physiologie oder Neurosciences und 15 der Linguistik.
+Akademische Lehrer und Professoren in fixer und nicht fixer Anstellung bilden die größte Gruppe mit etwa 410 Personen, etwa 220 Personen sind Doktoratsstudenten und ca. 220 sind Forscher bzw. Post-doc´s.
+
+
+== Ausbildung ==
+Das Netzwerk verfolgt im Bereich der Ausbildung zwei Ziele:
+Erstens sollen Aktivitäten junger Forscher gefördert werden, um die Expertise aufzubauen, damit sie sich leicht zwischen den beitragenden Fachgebieten bewegen können und kreative Forscher sein können. Dazu zählen die Teilnahme an den Veranstaltungen, die aktive Teilnahme am Netzwerk selbst, Kurse an teilnehmenden universitären Einrichtungen sowie eine jährliche Sommerakademie, um den Know-how-Transfer zu unterstützen.
+Zweitens, anstatt die Ausbildung selbst vorzunehmen, will das Netzwerk vorhandene universitäre Strukturen unterstützen, indem Lehr- und Lernmaterialien bereitgestellt werden.
+Dazu zählen ein Tutorial über Embodiment und die Spezifikation "EmbedIT – An Open Robotic Kit for Education."
+
+
+== EUCog Wiki ==
+EUCog Wiki will ein "Who is Who" and "What is What" der Netzwerkmitglieder und deren Forschungsthemen bereitstellen. Die Inhalte sind frei zugänglich, allerdings ist keine Lizenz angegeben ob bzw. wie die Inhalte weiter verwendet werden dürfen. Beiträge können nur von akkreditierten Netzwerkteilnehmern geschrieben werden, diese Beiträge werden standardmäßig nicht geprüft. Die Diskussion der Inhalte auf deren Diskussionsseite wird ausdrücklich gewünscht. Die zugrundeliegende Software des Wikis ist Mediawiki.
+Am 2. November 2013 war die zwischen dem Januar 2010 und April 2012 erstellte und editierte Hauptseite gemäß dem dort angezeigten Zähler etwa 37.000 Mal besucht worden. Ungefähr 270 Seiten im Namespace "Main" beschäftigen sich mit Forschungsinhalten, wobei in den 30 Tagen vor dem 2. November 2013 keine neue Seite angelegt bzw. keine Änderung an diesen Seiten vorgenommen wurde. 836 Benutzerseiten waren angelegt, die von 4 Benutzern in den letzten 30 Tagen geändert wurden. Der Navigationsbutton "active Topics" listet 34 Seiten, die vor dem letzten Update vom 24. Februar 2012 geändert worden waren. Die Statistik-Seite weist 112 Inhalts-Seiten aus (von insgesamt 1425). 40 Dateien wurden hochgeladen, davon 25 Bilder und 15 Pdf-Dokumente. Seit Beginn des Wikis sind etwa 5.200 Edits dokumentiert.
+17 Forschungsgebiete werden als Kategorien definiert: Action Selection, Affekt und Emotion, Bewusstsein (Consciousness), Embodiment, Ethik, Gesten (Gesture), Interaction and Assistance, Wissen (Knowledge), Sprache (Language), Lernen (Learning), Erinnerung (Memory), Motor Control, Multi-agent Systems, Navigation, Perception and Sensation, Reasoning, Representation.
+7 Schulen bzw. Disziplinen sind als Kategorien definiert: Cognitive Science, Computational Modelling, Linguistics, Mathematical Modelling, Neuroscience, Philosophy und Robotics.
+
+
+== TalkNVote – Diskussions- und Abstimmungssoftware ==
+TalkNVote ist ein Software-Paket unter einer freien MIT-Lizenz, das als Diskussions- und Abstimmungsprogramm für projektbezogene Themen genutzt werden kann.
+
+
+== Siehe auch ==
+Künstliche Intelligenz
+Robert Trappl
+ÖFAI – Österreichisches Forschungsinstitut für Artificial Intelligence
+
+
+== Weblinks ==
+Website von EUCognition.org
+PASCAL2-Netzwerk
+Alberto Montebelli auf EUCog
+
+
+== Einzelnachweise ==

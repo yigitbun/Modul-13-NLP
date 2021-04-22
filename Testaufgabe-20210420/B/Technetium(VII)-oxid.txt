@@ -1,0 +1,106 @@
+Technetium(VII)-oxid ist eine anorganische chemische Verbindung des Technetiums aus der Gruppe der Oxide.
+
+
+== Darstellung ==
+Technetium(VII)-oxid kann durch Reaktion von Technetium mit Sauerstoff bei 450–500 °C gewonnen werden.
+
+  
+    
+      
+        
+          4
+          
+          Tc
+          +
+          7
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            Tc
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              7
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4 Tc + 7 O2 -> Tc2O7}}}
+  Es entsteht auch bei der Disproportionierung von Technetium(VI)-oxid.
+
+  
+    
+      
+        
+          3
+          
+          
+            TcO
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          
+            Tc
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              7
+            
+            
+              
+            
+          
+          +
+          
+            TcO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {3 TcO3 -> Tc2O7 + TcO2}}}
+  
+
+
+== Eigenschaften ==
+Technetium(VII)-oxid ist ein hellgelber, sehr hygroskopischer Feststoff in Form von nadelförmigen Kristallen. Er hat im festen Zustand eine Molekülstruktur und hat eine orthorhombische Kristallstruktur mit der Raumgruppe Pbca (Raumgruppen-Nr. 61)Vorlage:Raumgruppe/61 und den Gitterparametern a = 1375,6 pm, b = 743,9 pm und c = 561,7 pm. Er ist löslich in Wasser unter Bildung von Pertechnetiumsäure HTcO4, wobei die konzentrierte Lösung eine pinke Farbe besitzt.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,231 @@
+Cer(III)-oxid ist ein Oxid des Metalls Cer, das zu den Seltenen Erden zählt.
+Neben Cer(III)-oxid gibt es Cer-Oxid auch in der Oxidationsstufe +4 als Cer(IV)-oxid (CeO2).
+
+
+== Herstellung ==
+Cer(III)-oxid Ce2O3 wird aus Cer(IV)-oxid CeO2 durch Reduktion mit Kohlenstoff oder Wasserstoff H2 bei über 1000 °C hergestellt. Es ist luftstabil, wenn es bei Temperaturen über 1400 °C hergestellt wurde.
+
+  
+    
+      
+        
+          2
+          
+          
+            CeO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            Ce
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2 CeO2 + H2 -> Ce2O3 + H2O}}}
+  
+  
+    
+      
+        
+          2
+          
+          
+            CeO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          C
+          ⟶
+          
+            Ce
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          CO
+        
+      
+    
+    {\displaystyle {\ce {2 CeO2 + C -> Ce2O3 + CO}}}
+  
+
+
+== Eigenschaften ==
+Cer(III)-oxid ist goldgelb gefärbt. Grünlichgelbe Präparate sind unvollständig reduziert. Pulverförmiges, nicht stabilisiertes Cer(III)-oxid geht an der Luft langsam, bei langsamen Erwärmen rasch (manchmal unter Aufglühen) in Cer(IV)-oxid über. In Säuren ist die Verbindung leicht löslich. In keramischer Form zusammen mit Zinn(II)-oxid SnO luminesziert es bei Beleuchtung mit UV-Licht. Es absorbiert Licht mit der Wellenlänge 320 nm und emittiert Licht mit der Wellenlänge von 412 nm.Cer(III)-oxid besitzt eine hexagonale Kristallstruktur vom Lanthanoid-A-Typ.
+
+
+== Verwendung ==
+Ceroxide werden als Katalysator zur Reduktion von CO-Emissionen in den Abgasen von Kraftfahrzeugen verwendet. Bei Sauerstoffmangel wird hierbei Cer(IV)-oxid in Gegenwart von Kohlenmonoxid zu Cer(III)-oxid reduziert:
+
+  
+    
+      
+        
+          4
+          
+          
+            CeO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          CO
+          ⟶
+          2
+          
+          
+            Ce
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4 CeO2 + 2 CO -> 2 Ce2O3 + 2 CO2}}}
+  Bei Sauerstoffüberschuss wird umgekehrt Cer(III)-oxid zu Cer(IV)-oxid oxidiert:
+
+  
+    
+      
+        
+          2
+          
+          
+            Ce
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          4
+          
+          
+            CeO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 Ce2O3 + O2 -> 4 CeO2}}}
+  Für eine zukünftige Herstellung von Wasserstoff mit Sonnenenergie wird das Cer(IV)-oxid-Cer(III)-oxid-Verfahren entwickelt.
+
+
+== Einzelnachweise ==

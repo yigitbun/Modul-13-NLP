@@ -1,0 +1,122 @@
+Gallium(I)-oxid ist eine anorganische chemische Verbindung des Galliums aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Gallium(I)-oxid kann durch Reaktion von Gallium(III)-oxid im Vakuum mit erhitztem Gallium gewonnen werden.
+
+  
+    
+      
+        
+          G
+          
+            a
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          4
+           
+          G
+          a
+          ⟶
+          3
+           
+          G
+          
+            a
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Ga_{2}O_{3}+4\ Ga\longrightarrow 3\ Ga_{2}O} }
+  Es kann auch durch Reaktion von Gallium mit Kohlendioxid bei niedrigem Druck und 850 °C gewonnen werden.
+
+  
+    
+      
+        
+          2
+           
+          G
+          a
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          G
+          
+            a
+            
+              2
+            
+          
+          O
+          +
+          C
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ Ga+CO_{2}\longrightarrow Ga_{2}O+CO} }
+  Es entsteht auch bei der Herstellung von Galliumarsenid-Wafern durch Reaktion mit Siliziumdioxid aus Quarzunterlagen.
+
+  
+    
+      
+        
+          4
+           
+          G
+          a
+          +
+          S
+          i
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          G
+          
+            a
+            
+              2
+            
+          
+          O
+          +
+          S
+          i
+        
+      
+    
+    {\displaystyle \mathrm {4\ Ga+SiO_{2}\longrightarrow 2\ Ga_{2}O+Si} }
+  
+
+
+== Eigenschaften ==
+Gallium(I)-oxid ist ein braunschwarzer diamagnetischer Feststoff, der an trockener Luft beständig ist. Im inerten Gasstrom von 1 bar erfolgt merkliche Verflüchtigung bei 660 °C. Im Hochvakuum erfolgt ab 500 °C Verflüchtigung und ab 700 °C Zerfall in Gallium(III)-oxid und Gallium.
+
+
+== Einzelnachweise ==

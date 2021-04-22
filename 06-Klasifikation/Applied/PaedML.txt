@@ -1,0 +1,63 @@
+paedML ist eine vorkonfigurierte Netzwerklösung, die speziell für die Anforderungen in Schulen des Landes Baden-Württemberg entwickelt wurde. Die Musterlösung wird in den pädagogischen Computernetzen der einzelnen Schulen eingesetzt.
+Die Musterlösung gibt es als Komplettpaket für die Netzwerkbetriebssysteme Windows, Linux und Novell. Seit September 2003 ist das Support-Netz des Landesmedienzentrums Baden-Württemberg mit der Entwicklung, Schulnetzberatung und dem technischen Support beauftragt.
+
+
+== Funktionalität ==
+Die Musterlösung berücksichtigt die benutzergerechte Installation, Betreuung und Wartung. So lässt sie sich von Fachleuten mit relativ geringem Aufwand installieren. Alle Netzwerkdienste, die in der Schule genutzt werden sollen, sind nach der Installation bereits eingerichtet. Einen besonderen Vorzug bildet das SheilA-Prinzip (Selbstheilende Arbeitsstation), das ermöglicht, dass sich einzelne Arbeitsstationen nach einem Fehler oder einer unerwünschten Veränderung automatisch wieder in den ursprünglichen Zustand zurückversetzen, indem sie ein Festplatten-Image vom Schulserver beziehen.
+Die Musterlösung beinhaltet eine Reihe wichtiger Netzwerkfunktionen, die auf die pädagogischen, organisatorischen und technischen Anforderungen einer Schule abgestimmt sind:
+
+Unterrichtsgestaltung
+Unterstützung für multimediale Präsentationstechniken
+Internetzugang und persönliche E-Mail-Adresse für alle Lehrkräfte und Schüler/-innen
+Persönliche Anmeldung im Netz: Die gewohnte Arbeitsumgebung steht an jedem Rechner zur Verfügung
+Temporäre Internet- und E-Mail-Sperre durch Lehrer-PCs
+Gezielte Steuerung der Druckaufträge über WeboberflächeSicherheit
+Jugendschutzfilter
+Sicherung und Wiederherstellung von Rechnerkonfigurationen per Knopfdruck (SheilA)
+Kontrollfunktionen auf dem Server in Form von Protokollen
+Klassenarbeiten in gesicherter PrüfungsumgebungWartung
+Serverbasierte Benutzerverwaltung, Importfunktionen für Benutzerdaten
+Automatische Softwareverteilung nach einmaliger Installation
+Bildung und Koordination von Projektgruppen durch Vergabe von gruppenspezifischen Rechten
+
+
+== Entwicklung ==
+Die Idee einer standardisierten Musterlösung entstand in den späten 1990er Jahren an der staatlichen Akademie für Lehrerfortbildung (nun: Landesakademie für Fortbildung und Personalentwicklung an Schulen) in Zusammenarbeit mit dem Landesinstitut für Erziehung und Unterricht (LEU) (nun: Landesinstitut für Schulentwicklung (LS)). Während an der Landesakademie auf die Musterlösung abgestimmte Fortbildungen stattfanden, entwickelten am Landesinstitut für Erziehung und Unterricht (LEU) Lehrer mit den Erfahrungen in ihrer Tätigkeit als Netzwerk-Berater, welche die Multimedia-Empfehlung des Landes im Jahr 2002 offiziell eingeführte, eine technische Lösung für den Betrieb eines pädagogischen Schulnetzes. Ein Baustein dieses Konzepts ist die SheilA (Selbstheilende Arbeitsstation), deren erste Implementierung bereits in der ersten Vorab-Version einer solchen Musterlösung enthalten war. Sie erschien im Jahr 1999 auf Grundlage von Novells NetWare 5. Im Juni 2001 konnte erstmals die Musterlösung in seiner heutigen Form (als Datenträger) veröffentlicht werden. Viele Schulen setzten diese Lösung zufriedenstellend ein. Daraufhin stieg das Interesse seitens der Politik und des Kultusministeriums.
+Ein vom Kultusministerium einberufener Medienbeirat mit Vertretern aus der Industrie, den Verlagen, den Hochschulen und den kommunalen Landesverbänden (Landkreistag, Städtetag und Gemeindetag) fasste im Mai 2000 den Beschluss, Musterlösungen zu entwickeln. Daraufhin übernahm das Lehrerfortbildungsreferat (Referat 23) am Kultusministerium Baden-Württemberg im Jahr 2001 in der sogenannten Medienoffensive I (MOI) durch die Zentralen Planungsgruppe Netze (ZPN) die Weiterentwicklung der bestehenden Musterlösung und erweiterte das Konzept auch auf die Betriebssysteme Windows und Linux. Erste Versionen der Windows- und Linux-Musterlösung erschienen im Mai 2002.Im September 2003 zogen sie in das im Oktober 2001 gegründete Landesmedienzentrum Baden-Württemberg, wo das Projekt Support-Netz im Zuge der Medienoffensive II (MO II) die Software-Entwicklung, Schulnetzberatung und den technischen Support übernahm. Das Projekt war ursprünglich bis Ende 2006 geplant, wurde aber um ein Jahr auf den 31. Dezember 2007 verlängert und danach in die Nachhaltigkeit überführt. Im Juli 2012 kündigte das Landesmedienzentrum jedoch an, die bisherige Entwicklung der paedML Linux an eine Firma vergeben zu wollen, da die rasante technologische Entwicklung es immer schwieriger machte, den hohen Ansprüchen gerecht zu werden. Der Auftrag zur Entwicklung sollte an die Bremer Univention GmbH gehen, welche künftig auf Grundlage des Univention Corporate Server @ School eine an die Bedürfnisse des Landesmedienzentrums angepasste paedML Linux erstellt. Im Februar 2013 wurde diese neue Zusammenarbeit offiziell kundgetan. Am 8. Juli 2014 wurde dann die „neue“ paedML Linux 6.0, die seit dieser Version auf UCS@school basiert, der Öffentlichkeit vorgestellt.
+
+
+== Finanzierung ==
+Die Einnahmen des Projekts erfolgen neben dem Verkauf von Support-Verträgen (pro Installation und Jahr für Schulen in Baden-Württemberg zwischen 275 Euro (paedML Standard) und 325 Euro (paedML Plus) bzw. 650 Euro (paedML Standard) und 800 Euro (paedML Plus) für Schulen außerhalb Baden-Württembergs) auch aus einem Zuschuss in Höhe von 1,6 Mio. Euro (inkl. Anteil für SESAM) im Rahmen des Kommunalen Finanzausgleichs.Mit diesem Geschäftsmodell kann die Linux-Musterlösung als Open-Core-Software bezeichnet werden.
+Im Migrationsleitfaden der Beauftragten der Bundesregierung für Informationstechnik wird Open-Core-Software wie folgt definiert:
+
+
+== Verbreitung ==
+Die Musterlösung wird in baden-württembergischen Schulen aller Schularten verwendet. Darunter sind 740 Grundschulen, 1400 allgemeinbildende Schulen und 280 Berufsschulen. Dabei nutzen 58 Prozent die paedML Windows, 25 Prozent die Linux-Musterlösung und 17 Prozent setzen die Novell-Variante ein.Für Schulen außerhalb des Landes Baden-Württemberg gab es eine gewisse Zeit kein Angebot, die paedML mit Support des Landesmedienzentrums Baden-Württemberg einzusetzen. Nach einem Beschluss im November 2009 wurde diese Möglichkeit aber wieder geschaffen. Dies zeigt sich auch in einer im Februar 2015 veröffentlichten Mitteilung zur Kundenentwicklung.
+
+
+== Die Musterlösung auf verschiedenen Betriebssystemen ==
+Die Musterlösung existiert in drei verschiedenen Versionen, die jeweils auf unterschiedlichen Netzwerkbetriebssystemen basieren:
+
+
+=== Die Windows-Musterlösung ===
+Die Windows-Musterlösung (paedML-Windows-Version 3) wird serverseitig mit Windows 2012 Server (Version 1.5 bis 2.8 Windows 2003 Server, Version 1.1 Windows 2000 Server) betrieben, die Arbeitsstationen laufen mit Windows 2000 oder Windows XP. Die Benutzerverwaltung funktioniert mithilfe einer Active-Directory-Struktur; die Softwareverteilung läuft über Windows Installer. Die Arbeitsstationen können über den RIS (Remote Installation Service) wiederhergestellt werden (SheilA-Prinzip), wobei das Betriebssystem und die zugehörigen Komponenten vom Server aus neu installiert werden. Der Netzwerkbetrieb ist mit bis zu drei Servern möglich (Ein- bis Drei-Server-Lösung).
+Zum Schuljahr 2014/2015 (Sommer 2014) erscheint die paedML Windows 3.0. Sie ist seit dem 1. August 2014 erhältlich.
+Die Grundlage bilden ein Windows Server 2012 und SharePoint Foundation Server 2013 (inkl. einem Microsoft SQL Server 2012); zusätzlich benötigen die Firewall (OctoGate) und die Softwareverteilung (OPSI) jeweils einen eigenen Server. Alle vier Server sind virtualisiert, durch Verwendung von VMware vSphere Hypervisor (ESXi).
+
+
+=== Die Linux-Musterlösung ===
+Die Linux-Musterlösung (paedML Linux Version 6) funktioniert mit dem Serverbetriebssystem Univention Corporate Server @ school (Version 3 bis 5.1 Debian 4 und 5, Version ML2 Suse Linux 7.0). Für die Arbeitsstationen stehen die Betriebssysteme Windows XP Prof., Windows 7 oder Linux (mit eingeschränkter Nutzung der pädagogischen Funktionen – Wechsel auf Debian 7 geplant früher Ubuntu 10.04) zur Verfügung. Die Benutzerverwaltung wird (bis Version 5.1) von Sophomorix geregelt. Die Softwareverteilung wird durch das Erstellen eines Images von einer Musterarbeitsstation erledigt, welches anschließend an alle Arbeitsstationen verteilt wird. Die Festplattenwiederherstellung (SheilA) läuft über OPSI (früher LINBO bis Version 5.1 bzw. Rembo/mySHN bis Version 5.0). Alle drei Server (Univention Corporate Server @ school, pfSense, OPSI) werden durch den VMware vSphere Hypervisor (ESXi) virtualisiert. Ein Mehrserverbetrieb ist möglich.
+Im Juli 2012 kündigte das Landesmedienzentrum an, die bisherige Entwicklung der paedML Linux an eine Firma vergeben zu wollen. Etwas mehr als ein halbes Jahr später, im Februar 2013 gab die Univention GmbH die Partnerschaft mit dem Landesmedienzentrum bekannt. Das Landesmedienzentrum Baden-Württemberg und Univention präsentierten, rund zwei Jahre nach der Bekanntgabe eine Firma mit der Entwicklung zu beauftragen, im Juli 2014 die paedML Linux 6.0 den IT-Schuldienstleistern und der Öffentlichkeit.Neben der Linux-Musterlösung gibt es als Fork die freie Schulserverlösung linuxmuster.net (vgl. Linux-Musterlösung), die inzwischen auf Ubuntu basiert und als Open-Source-Lösung von einer freien Gemeinde entwickelt und gepflegt wird.
+
+
+=== Die Novell-Musterlösung ===
+
+Die Novell-Musterlösung (paedML Novell Version 4) basiert serverseitig auf SUSE Linux Enterprise Server (SLES) 11SP3 inklusive des Open Enterprise Server 11 SP2 sowie GroupWise 2014 SP1 (Version 3 Open Enterprise Server, Version 2 Novell NetWare 6, Version 1.1 Novell NetWare 5), die Arbeitsstationen können mit Windows XP Prof., Windows 7 Prof., Windows 8 oder Windows 8.1 betrieben werden. Die Benutzerverwaltung verwendet eine schulspezifisch angepasste eDirectory-Struktur. Die Softwareverteilung und Clientverwaltung arbeitet mit ZENworks. Eine Wiederherstellung der Arbeitsstationen ist durch eine regelbasierte, zentrale Imageverwaltung möglich. Als E-Mail- und Kalendermanagement wird GroupWise eingesetzt. Neben dem Hauptserver verwendet die paedML Novell einen Server für ZenWorks-11, basierend auf SLES11 SP3, wenn Windows-7- oder -8-Clients verwaltet werden sollen. Erweiterungsmöglichkeiten bieten ein Kollaborations­server mit Novell Vibe, auf Basis von SLES11 SP3 und mit Novell Filr ebenfalls ein auf SLES11 SP3 laufenden Server für cloudbasiertes Dateimanagement.
+
+
+== Weblinks ==
+J. Hettinger, U. Boscher, G. Schneider, J. Sokolowski: Musterlösung für pädagogische schulische Netzwerke. (PDF) Landesmedienzentrum Baden-Württemberg, Juli 2005, S. 14, abgerufen am 29. März 2014. 
+Webportal Support-Netz
+
+
+== Einzelnachweise ==

@@ -1,0 +1,423 @@
+Uran(IV)-oxid (oft auch Urandioxid, UO2) ist ein Oxid des Urans. In der Natur kommt es z. B. als Uraninit vor, wobei der ursprünglich aus Uran(IV)-oxid bestehende Uraninit teilweise zu Uran(VI)-oxid weiteroxidiert wird.
+
+
+== Darstellung ==
+Durch Reduktion von Uran(VI)-oxid mit Wasserstoff wird Uran(IV)-oxid gebildet.
+
+  
+    
+      
+        
+          
+            UO
+            
+              3
+            
+            
+              
+            
+          
+           
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+           
+          
+            
+              →
+              
+                450
+                
+                
+                   
+                  
+                    ∘
+                  
+                
+                C
+              
+            
+          
+           
+          
+            UO
+            
+              2
+            
+            
+              
+            
+          
+           
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {UO_{3}\ +H_{2}\ {\xrightarrow {450\ ^{\circ }C}}\ UO_{2}\ +H_{2}O}}}
+  Das für die Herstellung der Brennelemente in Kernkraftwerken benötigte Uran(IV)-oxid wird überwiegend aus Uran(VI)-fluorid hergestellt. Für die Umwandlung gibt es mehrere Verfahren. Nasschemische Verfahren sind das AUC- und das ADU-Verfahren.
+Beim AUC-Verfahren (AmmoniumUranylCarbonat-Verfahren) wird mit Hilfe von Wasser, Ammoniak und Kohlenstoffdioxid Ammoniumuranylcarbonat gebildet und dieses dann durch Erhitzen zu Uran(VI)-oxid umgewandelt. Dieses wird anschließend mit Wasserstoff zu Uran(IV)-oxid reduziert.Mit dem ADU-Verfahren (AmmoniumDiUranat-Verfahren) werden aus UF6 über Hydrolyse zu Uranylfluorid, Fällung mit Ammoniaklösung zu Ammoniumdiuranat und anschließendem Kalzinieren im Wasserstoffstrom Uran(IV)-oxid hergestellt.
+Die Gleichungen für das ADU-Verfahren lauten:
+
+  
+    
+      
+        
+          
+            UF
+            
+              6
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            UO
+            
+              2
+            
+            
+              
+            
+          
+          
+            F
+            
+              2
+            
+            
+              
+            
+          
+          +
+          4
+          
+          HF
+        
+      
+    
+    {\displaystyle {\ce {UF6 + 2 H2O -> UO2F2 + 4 HF}}}
+  
+  
+    
+      
+        
+          2
+          
+          
+            UO
+            
+              2
+            
+            
+              
+            
+          
+          
+            F
+            
+              2
+            
+            
+              
+            
+          
+          +
+          6
+          
+          
+            NH
+            
+              4
+            
+            
+              
+            
+          
+          OH
+          ⟶
+          
+            
+              (
+              
+                NH
+                
+                  4
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          
+            U
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              7
+            
+            
+              
+            
+          
+          
+            ↓
+          
+          +
+          4
+          
+          
+            NH
+            
+              4
+            
+            
+              
+            
+          
+          F
+          +
+          3
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2 UO2F2 + 6 NH4OH -> (NH4)2U2O7 v + 4 NH4F + 3 H2O}}}
+  
+  
+    
+      
+        
+          
+            
+              (
+              
+                NH
+                
+                  4
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          
+            U
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              7
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            UO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            NH
+            
+              4
+            
+            
+              
+            
+          
+          OH
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {(NH4)2U2O7 + 2 H2 -> 2 UO2 + 2 NH4OH + H2O}}}
+  Das ADU-Verfahren ist auch für die Rückgewinnung von Uran aus Lösungen mit Uran(VI)-verbindungen gut geeignet.
+Neben diesen Verfahren wird auch ein trockenes Verfahren, das DC-Pulver-Verfahren, verwendet. Bei diesem Verfahren wird das Hexafluorid direkt zu Uran(IV)-oxid bei höheren Temperaturen umgewandelt. Vorteilhaft ist hier, dass keine Abfalllösungen mit Urangehalten anfallen, die einer weiteren Aufbereitung bedürfen. Die Gleichung für dieses Verfahren lautet:
+
+  
+    
+      
+        
+          
+            UF
+            
+              6
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            UO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          6
+          
+          HF
+        
+      
+    
+    {\displaystyle {\ce {UF6 + 2 H2O + H2 -> UO2 + 6 HF}}}
+  Ein weiteres Verfahren zur Herstellung von Uran(IV)-oxid ist der für die Wiederaufbereitung von Brennelementen verwendete PUREX-Prozess. Bei diesem wird durch eine Extraktion Uranylnitrat gebildet, das wiederum durch Erhitzen in Uran(VI)-oxid umgewandelt und anschließend zu Uran(IV)-oxid reduziert wird.
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Uran(IV)-oxid ist ein braunes bis schwarzes, kristallines Pulver. Es weist ein kubisches Kristallsystem auf, hat die Raumgruppe Fm3m (Nr. 225)Vorlage:Raumgruppe/225, mit einem Gitterparameter a = 547 pm und vier Formeleinheiten pro Elementarzelle. Der Strukturtyp ist der CaF2-Typ (Fluorit) und die Koordinationszahlen sind U[8], O[4].
+Uran(IV)-oxid ist zudem ein Halbleiter. So konnte in Laborversuchen aus UO2 eine funktionsfähige Schottkydiode hergestellt werden. Wegen Problemen aufgrund der ionisierenden Strahlung sowie mit der Dotierung findet dieser Werkstoff in der elektronischen Schaltungstechnik keine Anwendung.
+Frisch erzeugtes Uran(IV)-oxid aus irdischem Natururan hat eine spezifische Aktivität von 22300 Bq/g.
+
+
+=== Chemische Eigenschaften ===
+Uran(IV)-oxid-Luft-Gemische (Staubwolken) sind explosionsfähig, als feines Pulver reagiert es heftig mit der Luft unter Freisetzung von Wärme (pyrophor). Hierbei verbrennt es zu Triuranoctoxid U3O8.
+
+		
+		
+
+
+== Anwendungen ==
+Uran(IV)-oxid ist der wichtigste Kernbrennstoff in Kernreaktoren. Es wird zu sogenannten „Pellets“ verarbeitet, um in Brennstäben genutzt zu werden.
+Weiterhin wurde Uran(IV)-oxid früher als farbgebender Zusatz in diversen Gläsern und Keramiken genutzt. In Form eines URDOX-Widerstandes mit Heißleitereigenschaften diente es zur Strombegrenzung in Heizkreisen von Allstromgeräten.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Ingmar Grenthe, Janusz Drożdżynński, Takeo Fujino, Edgar C. Buck, Thomas E. Albrecht-Schmitt, Stephen F. Wolf: Uranium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 253–698; doi:10.1007/1-4020-3598-5_5.

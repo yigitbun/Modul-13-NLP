@@ -1,0 +1,37 @@
+Der MONIAC (Monetary National Income Analogue Computer), auch bekannt als Phillips Hydraulic Computer oder Financephalograph ist ein Analogcomputer, der mittels Wasserflüssen (Fluidik) den Geldfluss durch eine Volkswirtschaft simuliert. Der Computer wurde 1949 vom neuseeländischen Ökonomen und Erfinder Alban W. Phillips entworfen und zusammengebaut, während Phillips noch Student der London School of Economics (LSE) war. Etwa vierzehn Exemplare des MONIAC wurden gebaut.
+
+
+== Funktionsweise ==
+Der MONIAC konnte komplexe Berechnungen vornehmen, die von anderen Computern dieser Zeit nicht verarbeitet werden konnten. Verschiedene Wassertanks simulierten Haushalte, Wirtschaft, Staat, Export und Import. Die Berechnungen basierten auf Annahmen des Keynesianismus und der Klassischen Nationalökonomie.
+
+
+== Vorhandene Exemplare ==
+Originale MONIACs stehen derzeit an folgenden Orten:
+
+Der Prototyp steht am Economics Department der University of Leeds, Vereinigtes Königreich
+Science Museum in London, Vereinigtes Königreich
+Faculty of Economics and Politics an der Cambridge University, Vereinigtes Königreich
+Erasmus-Universität Rotterdam, Niederlande
+Faculty Of Economics der Universität Istanbul, Türkei
+Harvard Business School, Vereinigte Staaten
+Roosevelt College, Vereinigte Staaten
+Giblin Eunson Library der University of Melbourne, Australien
+Reserve Bank of New Zealand Museum als Leihgabe des New Zealand Institute of Economic Research, Neuseeland.
+Zentralbank von Guatemala
+Ford Motor Company
+TU Clausthal, in dem Institut für Wirtschaftswissenschaften2005 wurde eine Replik des Rechners in der Zentralbank von Guatemala angefertigt und steht seither im Wattis Institute of the California College of the Arts, San Francisco.
+
+
+== Literatur ==
+N. Barr. 2000. „The history of the Phillips machine“, in: R. Leeson (Hg.). A. W. H. Phillips: Collected Works in Contemporary Perspective. Cambridge University Press, Cambridge, UK.
+Chris Bissell. 2007. Historical perspectives - The Moniac A Hydromechanical Analog Computer of the 1950s. IEEE Control Systems Magazine, 27(1), S. 59–64. doi:10.1109/MCS.2007.284511
+Reserve Bank of New Zealand. 2008. About the Reserve Bank Museum. Bill Phillips and the MONIAC., S. 15.
+
+
+== Weblinks ==
+
+Erklärung der Funktionsweise mit animierter Darstellung (englisch)
+Video: Demonstration des MONIAC (Englisch, 46 Minuten)
+
+
+== Einzelnachweise ==

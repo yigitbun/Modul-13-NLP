@@ -1,0 +1,30 @@
+Die Pflegeinformatik ist ein Anwendungsgebiet der Informatik und ein Spezialbereich der Wirtschaftsinformatik, der sich vor allem mit pflegerelevanten aufgabenzentrierten Anwendungen, Informationssystemen und E-Health beschäftigt. Sie stützt sich dabei teilweise auf die Erkenntnisse der Medizinischen Informatik. Pflegeinformatik wird in allen Bereichen der Pflege, der Gesundheits- und Krankenpflege und der Altenpflege eingesetzt. Als Teilbereich der Pflegewissenschaft wird Pflegeinformatik (auch unter den Bezeichnungen Health Care Informatics oder Nursing informatics) in einigen Ländern als eigenständiger Studiengang oder Aufbaustudium  angeboten.
+
+
+== Einsatzgebiete ==
+Pflegeinformatik soll Daten und Wissen in allen Teilbereichen der Pflege zur Verfügung stellen und diese auch anderen Mitgliedern der interdisziplinären Zusammenarbeit, beispielsweise Ärzten, Physiotherapeuten, Sozialarbeitern zugänglich machen, gleichzeitig sollen Ergebnisse aus der Pflegeforschung der Pflegepraxis zur Verfügung gestellt und pflegerische Leistungen transparent gemacht werden. Die Pflegebereiche, die Pflegeinformatik nutzen, sind neben der alltäglichen stationären und ambulanten Pflege auch die Pflegepädagogik, das Pflegemanagement, die Prozesskoordination sowie die Pflegewissenschaft und -forschung. Jeder dieser Bereiche hat eigene Anforderung an Informationssysteme, beispielsweise benötigen Pflegemanager vor allem wirtschaftliche Daten und Unterstützung bei der Personaleinsatzplanung, während die praktische Pflege Pflegeassistenz- und Pflegedokumentationssysteme benötigt, die den Pflegeprozess unterstützend begleiten und biographische, medizinische und pflegeplanerische Daten bereitstellen. Ein weiteres Einsatzgebiet ist die Erfassung und Beurteilung einzelner prozesshafter Pflegeinterventionen, beispielsweise die Wunddokumentation, bei der insbesondere die interdisziplinäre Zusammenarbeit zwischen Arzt, Wundmanager und betreuender Pflegekraft eine Rolle spielt und bei der neben Daten auch Fotodokumentationen sowie 3-D-Animationen zur Beurteilung der Entwicklung und der Evaluation eingesetzt werden.
+
+
+== Pflegeklassifikation ==
+Ein wichtiger Teilbereich der Pflegeinformatik ergibt sich aus der internationalen Standardisierung der Pflegeterminologie, die durch den vermehrten Einsatz der NANDA-Taxonomie, der Nursing Interventions Classification, Nursing Outcomes Classification und der International Classification of Nursing Practice des International Council of Nurses heraus entsteht. Die Abbildung dieser Klassifikationssysteme, mit denen Begriffskataloge für die Pflegediagnostik und -problemen, -interventionen und Pflegeergebnissen ist ein Schwerpunkt der Pflegeinformatik. Die Implementierung und Ausbau entsprechender Pflegeklassifikationen hängt jedoch im Wesentlichen vom Entwicklungsstand der nationalen Pflege ab, beispielsweise ist die Verbreitung in Österreich aufgrund anderer gesetzlicher Pflegegrundlagen deutlich höher als in der Bundesrepublik Deutschland.Die bekanntesten Pflegeklassifikationssysteme im deutschsprachigen Raum sind nachfolgende:
+
+European Nursing Care Pathways (ENP) klassifiziert Pflegediagnosen, Pflegeziele und Pflegemaßnahmen.
+International Classification of Nursing Practice (ICNP) mit Hilfe der Begriffe der verschiedenen Achsen können sowohl Aussagen zur Pflegediagnosen, -outcome und -pflegemaßnahme durch die Pflegeperson postkombinatorisch entwickelt werden.
+Leistungserfassung in der Pflege (LEP) klassifiziert Pflegeleistungen
+North American Nursing Diagnoses Association (NANDA) klassifiziert Pflegediagnosen.
+Nursing Outcomes Classification (NOC) klassifiziert pflegerische Outcomes.
+Nursing Interventions Classification (NIC) klassifiziert pflegerische Interventionen.
+International Classification of Functioning, Disability and Health (ICF) klassifiziert funktionalen Gesundheitszustand, Grad der Behinderung, Grad der sozialen Beeinträchtigung und Umweltfaktoren.
+PraxisOrientierte Pflegediagnostik (POP) klassifiziert Pflegediagnosen.Weltweit gibt es zahlreiche weitere Pflegeklassifikationssysteme, welche Pflegediagnosen, -ziele und Maßnahmen beschreiben und zur Pflegeprozessdokumentation eingesetzt werden könnten.
+
+
+== Literatur ==
+Kathryn J. Hannah, Marion J. Ball, Margaret J. A. Edwards: Pflegeinformatik. Springer, 2002, ISBN 3-540-41869-5.
+Walter Schär: Pflegeinformatik in der klinischen Praxis. Elsevier, Urban & FischerVerlag, 2003, ISBN 3-437-26780-9.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Österreichische Gesellschaft für Pflegeinformatik

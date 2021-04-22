@@ -1,0 +1,198 @@
+Rubidiumoxid ist ein Oxid des Rubidiums, das mit Wasser heftig reagiert. Es kommt in der Natur nicht vor.
+
+
+== Eigenschaften ==
+Rubidiumoxid ist ein farbloser, in der Hitze gelber, kristalliner Feststoff. Das Salz kristallisiert in einer anti-Calciumfluorid-Struktur. Die Kristalle sind kubisch mit der Raumgruppe Fm3m (Raumgruppen-Nr. 225)Vorlage:Raumgruppe/225, dem Gitterparameter a = 674 pm sowie vier Formeleinheiten pro Elementarzelle. Rubidiumoxid reagiert heftig mit Wasser:
+
+  
+    
+      
+        
+          R
+          
+            b
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          2
+           
+          R
+          b
+          O
+          H
+        
+      
+    
+    {\displaystyle \mathrm {Rb_{2}O+H_{2}O\longrightarrow 2\ RbOH} }
+  Die Standardbildungsenthalpie von Rubidiumoxid beträgt ΔHf0 = −331 kJ/mol.Unter Lichteinwirkung erfolgt langsame Zersetzung unter Dunkelfärbung.
+
+
+== Gewinnung und Darstellung ==
+Rubidiumoxid kann durch Reaktion von Rubidium und Rubidiumhydroxid hergestellt werden:
+
+  
+    
+      
+        
+          2
+           
+          R
+          b
+          +
+          2
+           
+          R
+          b
+          O
+          H
+          ⟶
+          2
+           
+          R
+          
+            b
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Rb+2\ RbOH\longrightarrow 2\ Rb_{2}O+H_{2}} }
+  weitere Synthesemöglichkeiten sind:
+
+  
+    
+      
+        
+          3
+           
+          R
+          b
+          +
+          R
+          b
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          R
+          
+            b
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {3\ Rb+RbO_{2}\longrightarrow 2\ Rb_{2}O} }
+  und
+
+  
+    
+      
+        
+          10
+           
+          R
+          b
+          +
+          2
+           
+          R
+          b
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          6
+           
+          R
+          
+            b
+            
+              2
+            
+          
+          O
+          +
+          
+            N
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {10\ Rb+2\ RbNO_{3}\longrightarrow 6\ Rb_{2}O+N_{2}} }
+  sowie
+
+  
+    
+      
+        
+          2
+          
+          Rb
+          +
+          HgO
+          ⟶
+          
+            Rb
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          Hg
+        
+      
+    
+    {\displaystyle {\ce {2 Rb + HgO -> Rb2O + Hg}}}
+  .Durch die direkte Reaktion von Rubidium und Sauerstoff entstehen dagegen Rubidiumhyperoxid RbO2 (hauptsächlich) oder Rubidiumperoxid Rb2O2.
+
+
+== Sicherheitshinweise ==
+Da Rubidiumoxid stark mit Wasser reagiert, wirkt es auf der Haut als Base. Beim Umgang mit Rubidiumoxid ist somit die Berührung mit Haut zu vermeiden.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Eintrag zu Rubidiumoxid. In: P. J. Linstrom, W. G. Mallard (Hrsg.): NIST Chemistry WebBook, NIST Standard Reference Database Number 69. National Institute of Standards and Technology, Gaithersburg MD

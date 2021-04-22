@@ -1,0 +1,7 @@
+Ein Computermodell ist ein mathematisches Modell, das aufgrund seiner Komplexität und/oder der hohen Anzahl von Freiheitsgraden nur mit einem Computer ausgewertet werden kann. Auswertung bedeutet dabei meist die Berechnung einer näherungsweisen Lösung mittels numerischer Verfahren (Computersimulation), es kann sich aber auch um die grafische Darstellung (Visualisierung) eines komplexen Systems handeln, z. B. in der Architektur (virtuelles Gebäudemodell, siehe dazu Computermodelle). Für die Auswertung von Computermodellen gibt es bereits unterschiedliche Simulationssoftware, z. B. OpenFOAM für kontinuumsmechanische Probleme.
+Meistens erfassen Computermodelle beide Aspekte der Auswertung und der Visualisierung: Zum einen sind nicht nur die mathematischen Zusammenhänge komplex, sondern auch die Ergebnisse der Simulation erfordern Hilfsmittel aus der Computergrafik. Zum anderen wird in Computermodelle, die ursprünglich nur für die grafische Darstellung verwendet wurden, häufig Simulationssoftware eingebaut; so werden z. B. an Gebäudemodellen in der Architektur mehr und mehr Gebäudesimulationen vorgenommen (Berechnung statischer und dynamischer Belastungssituationen, Massenermittlung, Belichtungssituation).
+Bekannte und wichtige Beispiele sind:
+
+Atmosphärenmodelle als Grundlage der Wettervorhersage
+Klimamodelle zur Vorhersage des Klimawandels
+Agentenbasierte Modelle zur Simulation von sozialen Interaktionen in der Künstlichen Intelligenz

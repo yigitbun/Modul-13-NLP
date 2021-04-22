@@ -1,0 +1,255 @@
+Blei(IV)-oxid ist eine Verbindung der Elemente Blei und Sauerstoff mit der Verhältnisformel PbO2. Es ist ein dunkelbraunes Pulver, das eine stark oxidierende Wirkung besitzt.
+
+
+== Vorkommen ==
+Natürlich kommt Blei(IV)-oxid als Mineral Plattnerit vor.
+
+
+== Gewinnung und Darstellung ==
+Blei(IV)-oxid wird technisch entweder über elektrolytische Oxidation oder über chemische Oxidation mit starken Oxidationsmitteln wie Chlor hergestellt:
+
+  
+    
+      
+        
+          P
+          
+            b
+            
+              2
+              +
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          O
+          →
+          P
+          b
+          
+            O
+            
+              2
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              +
+            
+          
+          +
+          2
+          
+          
+            e
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Pb^{2+}+2\,H_{2}O\rightarrow PbO_{2}+4\,H^{+}+2\,e^{-}} }
+  
+
+  
+    
+      
+        
+          P
+          
+            b
+            
+              2
+              +
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+          
+          O
+          ⋅
+          C
+          
+            l
+            
+              2
+            
+          
+          →
+          P
+          b
+          
+            O
+            
+              2
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              +
+            
+          
+          +
+          2
+          
+          C
+          
+            l
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Pb^{2+}+2\,H_{2}O\cdot Cl_{2}\rightarrow PbO_{2}+4\,H^{+}+2\,Cl^{-}} }
+  Im Labor erfolgt die Darstellung über die Oxidation einer alkalischen Bleiacetat-Lösung mit Hypochlorit:
+
+  
+    
+      
+        
+          2
+          
+          Pb
+          
+            
+              (
+              
+                CH
+                
+                  3
+                
+                
+                  
+                
+              
+              COO
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          Ca
+          
+            
+              (
+              OCl
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          4
+          
+          NaOH
+          ⟶
+          2
+          
+          
+            PbO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            CaCl
+            
+              2
+            
+            
+              
+            
+          
+          +
+          4
+          
+          
+            CH
+            
+              3
+            
+            
+              
+            
+          
+          COONa
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2 Pb(CH3COO)2 + Ca(OCl)2 + 4 NaOH -> 2 PbO2 + CaCl2 + 4 CH3COONa + 2 H2O}}}
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Es sind fünf Modifikationen von Blei(IV)-oxid bekannt. Sie lassen sich durch Druck- und Temperaturänderungen ineinander überführen. Bis zu einem Druck von 4 GPa (bei 200 °C 1,3 GPa) kristallisiert Blei(IV)-oxid in der tetragonalen β-Modifikation mit Rutilstruktur. Bei höheren Drücken bis zu 7 GPa (bei 300 °C 6 GPa) liegt die orthorhombische α-Struktur vor. Anschließend verändert sich die Struktur zu einem kubischen Kristallsystem und entspricht dabei einer defekten Fluorit-Struktur. Ab 11,4 GPa ist die Struktur orthorhombisch und entspricht derjenigen von Zirconiumdioxid. Ab 29 GPa liegt schließlich eine orthorhombische, dem Cotunnit entsprechende Struktur vor.
+
+
+=== Chemische Eigenschaften ===
+α-PbO2 ist aufgrund des Inert-Pair-Effekts ein starkes Oxidationsmittel, wobei die Oxidationsstufe 2 der Oxidationsstufe 4 bevorzugt ist.
+Es geht beim Erhitzen unter Abspaltung von Sauerstoff zuerst in das Blei(II,IV)-Mischoxid und oberhalb von 550 °C in
+Blei(II)-oxid über.
+
+
+== Verwendung ==
+Aufgrund des hohen Oxidationsvermögens wird Bleidioxid sowohl großtechnisch als auch im Labor viel verwendet. Man verwendet es zur Herstellung von Farbstoffen. Außerdem findet es Anwendung in der Feuerwerkerei, als Elektrode in Akkumulatoren und zur Härtung von Sulfidpolymeren.
+Blei(IV)-oxid wird in der organischen Chemie als starkes Oxidationsmittel verwendet.
+
+
+== Toxizität ==
+Blei(IV)-oxid ist teratogen, gesundheitsschädlich und umweltgefährlich. Außerdem ist es seit 2006 als karzinogen für den Menschen eingestuft (Kategorie 2: "Stoffe, die als krebserzeugend für den Menschen anzusehen sind, weil durch hinreichende Ergebnisse aus Langzeit-Tierversuchen oder Hinweise aus Tierversuchen und epidemiologischen Untersuchungen davon auszugehen ist, dass sie einen Beitrag zum Krebsrisiko leisten"). Blei(IV)-oxid ist in die CH-Giftklasse 1 (sehr starke Gifte) eingestuft.
+
+
+== Einzelnachweise ==

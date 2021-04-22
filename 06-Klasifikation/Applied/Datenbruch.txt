@@ -1,0 +1,8 @@
+In der elektronischen Datenverarbeitung spricht man von einem Datenbruch (engl. data discontinuity), wenn eine Codierte Information im Prozess der Informationsübertragung oder -speicherung in eine Nicht-codierte Information überführt wird. Dadurch kann diese nicht mehr automatisiert verarbeitet werden und deshalb muss gegebenenfalls neu erfasst werden. Abhilfe schaffen Standards zum elektronischen Datenaustausch.
+
+
+== Beispiel ==
+Eine Firma druckt eine im ERP-System vorliegende Bestellung aus und faxt diese an den Lieferanten. Eine erneute Datenerfassung durch den Lieferanten ist notwendig.
+
+
+== Einzelnachweise ==

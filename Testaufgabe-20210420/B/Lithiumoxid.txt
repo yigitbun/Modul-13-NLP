@@ -1,0 +1,139 @@
+Lithiumoxid ist eine chemische Verbindung, die aus Lithium und Sauerstoff aufgebaut ist. Es wird zur Herstellung von Lithiumniobat sowie als Zusatzstoff in Keramiken und Gläsern benutzt.
+
+
+== Gewinnung und Darstellung ==
+Lithiumoxid kann durch Verbrennung von Lithium oder durch thermische Zersetzung von Lithiumperoxid oder Lithiumhydroxid hergestellt werden.
+
+  
+    
+      
+        
+          4
+           
+          L
+          i
+          +
+          
+            O
+            
+              2
+            
+          
+          ⟶
+           
+          2
+           
+          L
+          
+            i
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {4\ Li+O_{2}\longrightarrow \ 2\ Li_{2}O} }
+  
+  
+    
+      
+        
+          2
+           
+          L
+          
+            i
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          
+            
+              →
+              
+                
+                  195
+                  
+                    ∘
+                  
+                
+                C
+              
+            
+          
+           
+          2
+           
+          L
+          
+            i
+            
+              2
+            
+          
+          O
+           
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Li_{2}O_{2}{\xrightarrow {195^{\circ }C}}\ 2\ Li_{2}O\ +O_{2}} }
+  
+  
+    
+      
+        
+          2
+           
+          L
+          i
+          O
+          H
+          ⟶
+          L
+          
+            i
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ LiOH\longrightarrow Li_{2}O+H_{2}O} }
+  
+
+
+== Eigenschaften ==
+Lithiumoxid ist ein weißer, geruchloser Feststoff. Er hat eine Kristallstruktur vom Anti-Flussspat-Typ (a = 4,611 Å). Die Standardbildungsenthalpie von Lithiumoxid beträgt ΔHf0 = −599,1 kJ/mol.
+
+
+== Verwendung ==
+Lithiumoxid dient als Ausgangsstoff zur Herstellung von Lithiumniobat. Des Weiteren kann es als Zusatzstoff zur Herstellung von Keramiken und Gläsern eingesetzt werden.
+Auch in Fusionsreaktoren kann es eingesetzt werden.
+
+
+== Einzelnachweise ==

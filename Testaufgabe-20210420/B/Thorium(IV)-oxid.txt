@@ -1,0 +1,27 @@
+Thorium(IV)-oxid (Thoriumdioxid, ThO2) ist das einzige stabile Oxid des radioaktiven Elements und Actinoids Thorium. In der Natur kommt die Verbindung als Mineral Thorianit vor.
+
+
+== Herstellung ==
+Thorium(IV)-oxid kann durch Oxidation von Thorium und nachfolgende Reinigung (Befreiung von Thoriumresten) hergestellt werden.
+Es kann auch durch thermische Zersetzung von Thorium(IV)-hydroxid, Thorium(IV)-oxalat, Thorium(IV)-carbonat oder Thorium(IV)-nitrat hergestellt werden. Thorium(IV)-sulfat ist als Ausgangsmaterial weniger gut geeignet, da die letzten Spuren Sulfat nur sehr schwer abgespalten werden.
+
+
+== Eigenschaften ==
+Thorium(IV)-oxid ist ein geruchloses weißes Pulver. Das Mineral Thorianit kristallisiert kubisch im Fluoritgitter. Es hat den höchsten Schmelzpunkt aller Oxide, weist eine hohe Lichtbrechung und eine hohe Dichte von 9,86 g·cm−3 auf. Die Wasserlöslichkeit von Thoriumdioxid ist sehr gering. Erst im stark sauren pH-Bereich unter pH = 4 steigt die Löslichkeit leicht an. Das enthaltene Thorium ist ein Alphastrahler. Die Aktivität von einem Gramm Thorium(IV)-oxid beträgt 7100 Becquerel.
+
+
+== Anwendungen ==
+Thorium(IV)-oxid dient als Zusatz in optischen Gläsern, um die Lichtbrechung zu erhöhen. Früher war es Bestandteil von Glühstrümpfen. Weiterhin enthalten Wolframelektroden zwischen 0,35 % und 4,20 % Thoriumdioxid, um beim Wolframinertgasschweißen (WIG) den elektrischen Funken zu stabilisieren. Aufgrund der Radioaktivität des Thoriums wird die zivile Anwendung eingeschränkt. Thoriumdioxid wird auch als Brutmaterial in Brutreaktoren genutzt.
+Thorium(IV)-oxid kann als Katalysator bei der Decarboxylierung von Carbonsäuren eingesetzt werden.
+
+
+== Gefahren ==
+Thorium(IV)-oxid wirkt reizend auf Haut und Augen. Bei Verletzungen kann es in den Körper gelangen und toxisch wirken, beim Einatmen kann es sich in der Lunge ablagern und diese bestrahlen. Auch beim Verschlucken ist es giftig. Der extrem langlebige Stoff erhöht das Krebsrisiko. Das Röntgenkontrastmittel Thorotrast, das zum Hervorheben von Details in Röntgenbildern bis Ende der 1940er-Jahre diente, wurde aufgrund des Krebsrisikos nach dem Zweiten Weltkrieg nicht mehr eingesetzt.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Mathias S. Wickleder, Blandine Fourest, Peter K. Dorhout: Thorium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 52–160; doi:10.1007/1-4020-3598-5_3.
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. Walter de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1, S. 1972.

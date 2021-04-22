@@ -1,0 +1,49 @@
+Berylliumoxid (BeO, auch: Beryllerde) ist das Metalloxid des chemischen Elements Beryllium und ein hochgiftiger Stoff, der unter anderem als keramisches Material eingesetzt wird.
+
+
+== Vorkommen ==
+Berylliumoxid kommt auch natürlich als Mineral vor und heißt dann Bromellit. Es wird in Långban/Schweden gefunden.
+
+
+== Gewinnung und Darstellung ==
+Kommerziell wird Berylliumoxid seit über 50 Jahren hergestellt.
+Im primären industriellen Syntheseprozess wird technisch hochwertiges Berylliumhydroxid in Schwefelsäure gelöst. Die Lösung wird gefiltert, um unlösliche Oxid- und Sulfatverunreinigungen zu entfernen. Das entstehende klare Filtrat wird durch Verdampfung konzentriert und kristallisiert beim Abkühlen hochreines Berylliumsulfat. Dieses wird bei sorgfältig kontrollierten Temperaturen zwischen 1150 und 1450 °C kalziniert, die so ausgewählt wurden, dass sie den Berylliumoxidpulvern maßgeschneiderte Eigenschaften verleihen, die von den einzelnen Beryllia-Keramikherstellern gefordert werden.Es kann auch durch Reaktion von Beryllium mit Sauerstoff hergestellt werden.
+
+  
+    
+      
+        
+          2
+          
+          Be
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          BeO
+        
+      
+    
+    {\displaystyle {\ce {2 Be + O2 -> 2 BeO}}}
+  
+
+
+== Eigenschaften ==
+Es hat neben den oben genannten Eigenschaften eine sehr hohe Härte und ist bei relativ geringer Dichte sehr durchschlagsfest.
+Berylliumoxid wird besonders gut durch konzentrierte Säuren angegriffen. Es bildet, im Gegensatz zu anderen Erdalkalimetalloxiden, aufgrund der geringen Größe des Ions, eine Wurtzit-Struktur.
+
+
+== Verwendung ==
+Da Berylliumoxid-Keramik mit 300 W/(m·K) bei Raumtemperatur extrem gut Wärme leitet und dazu elektrisch gut isoliert, wird sie unter anderem in Thermoelement-Schutzrohren, Schmelztiegeln, Zündkerzen, in der Elektronik als Wärmesenke für Halbleiterbauelemente und in der Reaktortechnik verwendet. Als stöchiometrisch zusammen mit Aluminiumoxid gezüchteter und mit Chrom dotierter Einkristall wird Berylliumoxid unter dem Namen Alexandrit als Festkörperlaser-Material in der Medizin verwendet, welcher bei einer Wellenlänge von 755 nm emittiert.Die keramischen Eigenschaften von gesintertem Berylliumoxid machen es geeignet für die Herstellung oder den Schutz von Materialien, die bei hohen Temperaturen in korrosiven Umgebungen eingesetzt werden. So wird es in Lasern und Elektronik (z. B. Transistorhalterungen, Halbleitergehäusen, mikroelektronischen Substraten, Mikrowellengeräten, Hochleistungslaserrohren), in der Luft- und Raumfahrt und militärischen Anwendungen (z. B. Gyroskope und Panzerungen), Feuerfestmaterialien (z. B. Thermoelementmanschetten und -tiegel), Kerntechnik (Reaktorbrennstoffe und Moderatoren) sowie medizinisch/zahnärztlichen Anwendungen (z. B. Keramikkronen) eingesetzt. Es wird auch als Additiv (zu Glas, Keramik und Kunststoffen) bei der Herstellung von Berylliumverbindungen und als Katalysator für organische Reaktionen verwendet.Aufgrund seiner Toxizität ist die Anwendung eingeschränkt. Die Verarbeitung des Materials wird wegen der Giftigkeit seit 30 Jahren streng kontrolliert, Berylliumoxid enthaltende Bauteile müssen gekennzeichnet sein. In vielen Bereichen wird es durch das ungiftige Bornitrid oder Aluminiumnitrid ersetzt, welches ebenfalls gut Wärme leitet und elektrisch isolierend wirkt.
+
+
+== Einzelnachweise ==

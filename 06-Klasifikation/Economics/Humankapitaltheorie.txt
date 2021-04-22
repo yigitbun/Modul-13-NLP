@@ -1,0 +1,25 @@
+Als Humankapitaltheorie bezeichnet man Untersuchungen der Ressource Bildung (Humankapital) unter wirtschaftlichen Aspekten. Insbesondere geht es dabei um die Messung gesamtwirtschaftlicher Auswirkungen einer verbesserten Bildung. Dieser Zusammenhang wird in der Regel über einen Vergleich von Kosten und Nutzen der Bildungsausgaben gemessen.
+
+
+== Historische Entwicklung ==
+Bereits Adam Smith stellte einen direkten Zusammenhang zwischen der Ausbildung und der Leistungsfähigkeit von Arbeitskräften her: Education helped to increase the productive capacity of workers in the same way as the purchase of new machinery or other forms of physical capital increased the productive capacity of a factory or other enterprise. Überlegungen zur Humankapitaltheorie stellen im 19. Jahrhundert u. a. die deutschsprachigen Volkswirte Hans Konrad Escher von der Linth, Christian von Schlözer, Friedrich List und Wilhelm Roscher an.Eine bedeutende Anzahl wissenschaftlicher Arbeiten wurde ab den 1960er Jahren publiziert: Theodore Schultz (Lit.: Schultz 1963) wird als einer der Väter der modernen Humankapitaltheorie angesehen. Weitere wichtige Arbeiten stammen u. a. von Gary Becker und Robert Solow. Das als Solow-Modell bekannt gewordene neoklassische Wachstumsmodell ist ein bis heute viel genutztes Modell zur Erklärung der Grundlagen ökonomischen Wachstums. Es postuliert, dass die einzige langfristig relevante Einflussgröße auf das Wachstum einer Volkswirtschaft der technische Fortschritt sei. Dieser wiederum drückt sich aus in einer höheren Arbeitsproduktivität, welche vor allem durch eine bessere Bildung erreicht werden kann.
+Die wissenschaftlichen Arbeiten im Rahmen der Humankapitaltheorie erlangten große Bedeutung; Schultz erhielt den Wirtschaftsnobelpreis 1979, Solow 1987 und Becker 1992. Auch andere Nobelpreisträger waren oder sind im Bereich der Humankapitaltheorie aktiv – so beispielsweise Jan Tinbergen (Nobelpreis 1969), Milton Friedman (Nobelpreis 1976) oder James Heckman (Nobelpreis 2000).
+Wichtige Fragestellungen sind, ob Bildung oder die auch durch Bildung hervorgerufene kognitive Kompetenz relevant für Wirtschaftswachstum sind. Rindermann, Sailer und Thompson kommen in einer Metaanalyse zu dem Ergebnis, dass gegenwärtig innerhalb von Gesellschaften besonders kognitive Eliten (smart fraction) für den Wohlstand bedeutsam sind.
+
+
+== Außerökonomische Kritik an der Humankapitaltheorie ==
+Auch in der soziologischen Forschung wird dem Kapitalbegriff eine hohe Beachtung geschenkt. Pierre Bourdieu kritisierte den wirtschaftswissenschaftlichen Humankapitalbegriff, da er zu eng sei, um soziale Ungleichverhältnisse beschreiben zu können, da er sich nur auf das ökonomische Kapital konzentriert und somit direkt in Geldwerten ausdrückbar ist.
+Er entwickelt daher eine ausdifferenzierte Theorie konvertierbarer Kapitalformen, über die Reproduktion sozialer Distinktionen erklärt werden kann. So gibt es bei ihm neben dem ökonomischen Kapital auch ein soziales und kulturelles Kapital.
+
+
+== Literatur ==
+Gary S. Becker: Der ökonomische Ansatz zur Erklärung menschlichen Verhaltens. Mohr, Tübingen 1993, ISBN 3-16-146046-4.
+Eric Hanushek und Ludger Woessmann: The role of cognitive skills in economic development, Journal of Economic Literature, 46 (2008), S. 607–668.
+James Heckman: Policies to foster human capital. In: Research in Economics, 54 (2000), S. 3–56.
+Heiner Rindermann und Stephen Ceci: Educational policy and country outcomes in international cognitive competence studies. In: Perspectives on Psychological Science, 4 (2009), S. 551–577.
+Heiner Rindermann, Michael Sailer und James Thompson: The impact of smart fractions, cognitive ability of politicians and average competence of peoples on social development. In: Talent Development and Excellence, 1 (2009), S.3-25 (PDF; 428 kB).
+Theodore Schultz: The economic value of education. Studies in the economics of education, Elgar Books, Aldershot 1992, ISBN 1-85278-542-X.
+Maureen Woodhall: Human Capital Concepts. In: George Psacharopoulos: Economics of Education: Research and Studies, Pergamon Press, Oxford 1995, ISBN 0-08-033379-6.
+
+
+== Einzelnachweise ==

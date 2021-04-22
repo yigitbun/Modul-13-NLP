@@ -1,0 +1,82 @@
+Zinn(IV)-oxid, auch Zinndioxid, ist der Hauptbestandteil des Minerals Kassiterit (Zinnstein) und Hauptquelle der Erzeugung von reinem Zinn.
+
+
+== Gewinnung und Darstellung ==
+Man kann Zinn(IV)-oxid durch Verbrennung von Zinn an Luft, durch Reaktion von Zinn(IV)-chlorid und Wasser (beides als Dampf) bei hohen Temperaturen, sowie durch Reaktion von Zinn mit Schwefelsäure und anschließend mit Hydroxiden gewinnen.
+
+
+== Chemische Eigenschaften ==
+Das wasserunlösliche, amphotere Zinndioxid löst sich in starken Säuren wie Salzsäure oder Iodwasserstoffsäure unter Bildung von entsprechenden Hexahalogenstannaten:
+
+  
+    
+      
+        
+          S
+          n
+          
+            O
+            
+              2
+            
+          
+           
+          +
+           
+          6
+           
+          H
+          I
+           
+          ⟶
+           
+           
+          
+            H
+            
+              2
+            
+          
+          [
+          S
+          n
+          
+            I
+            
+              6
+            
+          
+          ]
+           
+          +
+           
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {SnO_{2}\ +\ 6\ HI\ \longrightarrow \ \ H_{2}[SnI_{6}]\ +\ 2\ H_{2}O} }
+  Mit starken Laugen bilden sich die Salze der teils frei nicht existenten Zinnsäuren H2[Sn(OH)6] und H2SnO3 (Metazinn(IV)-säure). Die entsprechenden Alkalisalze wie Na2SnO3 oder Na2[Sn(OH)6] sind stabil und werden, wie etwa das Natriumstannat Na2[Sn(OH)6] in der Färbeindustrie eingesetzt.
+
+
+== Verwendung ==
+In der Photovoltaik wird Zinn(IV)-oxid als transparente, elektrisch leitfähige Elektrode bzw. Schicht genutzt, beispielsweise in der Grätzel-Zelle. Da reines Zinn(IV)-oxid elektrisch schlecht leitend ist, wird es dazu mit Antimon (antimondotiertes Zinnoxid, engl. antimony doped tin oxide, ATO) oder Fluor (fluordotiertes Zinnoxid, engl. fluorine doped tin oxide, FTO) versetzt (dotiert), beziehungsweise ist selbst das Dotiermittel wie beim Indiumzinnoxid (engl. indium tin oxide, ITO). Auch in Lichtleitfasern oder LC-Displays – hier dient es als transparente, elektrisch leitfähige Schicht – und in Gassensoren, wo es mit Widerstandsveränderung auf alle oxidierbaren Gase oder Dämpfe reagiert, wird Zinndioxid eingesetzt.
+Weiterhin dient es als Poliermehl für Stahl, Glas und Naturstein, als weißes, durchsichtiges Trübungsmittel bei der Herstellung von Keramikglasuren, Milchglas und Email, zur Versiegelung von Rissen in Glas und als Katalysator bei chemischen Prozessen. Früher diente Zinn(IV)-oxid als Glasur bei der Herstellung von Fayencen. Auch als Elektrodenmaterial beim Schmelzen von anorganischen Gläsern kommt es zur Anwendung. Hierbei wird es hauptsächlich als Ersatz für Molybdänelektroden beim Erschmelzen von Bleigläsern eingesetzt.
+In elektromechanischen Schaltgeräten, wie z. B. Schützen, besteht das Kontaktmaterial häufig aus Silber mit 2–14 % Massenanteil SnO2. Insbesondere seit viele Hersteller Cadmium vermeiden, wird das vorher verwendete Cadmiumoxid durch Zinnoxid ersetzt.
+
+		
+		
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+optische Eigenschaften (PDF; 400 kB)

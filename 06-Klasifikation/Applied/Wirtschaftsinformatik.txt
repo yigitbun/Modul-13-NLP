@@ -1,0 +1,186 @@
+Die Wirtschaftsinformatik beschäftigt sich mit der Digitalisierung in Wirtschaft, Verwaltung und Gesellschaft. 
+Die Wirtschaftsinformatik ist eine Wissenschaft, die sich mit Entwicklung und Anwendung von Informations- und Kommunikationssystemen in Wirtschaftsunternehmen befasst. Aus Sicht der Informatik handelt es sich bei der Wirtschaftsinformatik um eine Angewandte Informatik. Durch ihre Interdisziplinarität hat sie ihre Wurzeln in den Wirtschaftswissenschaften, insbesondere der Betriebswirtschaftslehre, und der Informatik. Erkenntnisse und Methoden der Sozialwissenschaften, im Besonderen der Soziologie und Psychologie, sowie benachbarter Wissenschaftsdisziplinen wie Kybernetik, Systemtheorie und Nachrichtentechnik sind für Forschung, Lehre und Praxis der Wirtschaftsinformatik relevant.
+Die Einordnung als Wissenschaft besitzt die Wirtschaftsinformatik nur im D-A-CH-Raum. International, und vor allem in den USA, ist die Disziplin als Information Systems (IS) bekannt.
+
+
+== Einordnung als Wissenschaft ==
+Obwohl die Wirtschaftsinformatik viele Merkmale einer sogenannten Schnittstellen- oder Brückendisziplin aufweist, die offen gegenüber anderen Disziplinen ist, hat sie einen eigenen Aussagebereich: Sie befasst sich mit Theorien, Methoden, Werkzeugen und erarbeitet intersubjektiv nachprüfbare Erkenntnisse über Informations- und Kommunikationssysteme. Sie entstand, um zunehmend komplexere Systeme entwickeln und betreiben zu können. Damit ist sie primär eine Realwissenschaft, besitzt aber auch Elemente einer Strukturwissenschaft. Da sich die Wirtschaftsinformatik mit der Entwicklung von Informationssystemen befasst, wird sie auch als Ingenieurwissenschaft verstanden. In erster Linie jedoch setzt sie sich mit Informations- und Kommunikationssystemen auseinander, die ebenso wie in der Informatik nicht zwangsläufig als computergestützte Systeme verstanden werden. Vielmehr entwickelt die Wirtschaftsinformatik für reale, soziale und wirtschaftliche Systeme Modelle und versucht, daraus Anforderungen für Informationssysteme zu formulieren und Informationsmodelle zu generieren. Sie kann daher auch als Sozialwissenschaft verstanden werden. Zur Entwicklung von Informationssystemen bedient sich die Wirtschaftsinformatik der Systemtheorie. Ökonomische Gesichtspunkte stehen dabei im Mittelpunkt. An vielen Universitätsstandorten ist die Wirtschaftsinformatik deshalb den Wirtschaftswissenschaften bzw. den Sozial- und Wirtschaftswissenschaften zugeordnet. Bei Fachhochschulen wurde die Wirtschaftsinformatik je etwa zur Hälfte in Informatik- und in wirtschaftswissenschaftliche Fachbereiche einbezogen.
+
+Weiterhin befasst sich die Wirtschaftsinformatik damit, wie aus solchen Systemen ökonomisch verwertbare Daten, Informationen und Wissen extrapoliert werden und wie diese Faktoren von Systemen bereitgestellt werden können. Dazu sei auf die rechts gezeigte Wissenspyramide verwiesen, die den Zusammenhang von o. g. Faktoren verdeutlicht. Das Management von Wissen erhielt in den letzten Jahren enormen Stellenwert in Unternehmen und Hochschulen. Vor allem durch die Entwicklung des Internets stehen effiziente Verfahren und Methoden zur Wissensgenerierung, -verwaltung und -verbreitung zur Verfügung. Insbesondere E-Learning-Systeme und Wikis stellen mächtige Werkzeuge in diesem Bereich dar.
+Wirtschaftsinformatik hat sich als eigenständiger wissenschaftlicher Studiengang oder als Schwerpunktfach in anderen Studiengängen etabliert und ist fester Bestandteil privater und öffentlicher Forschung. Nach einer Untersuchung von Ulrich Frank u. a. gab es bereits im Jahr 2002 über 200 Professuren für Wirtschaftsinformatik an Universitäten in Deutschland, Österreich und der Schweiz.
+
+
+=== Zielsetzungen der Wirtschaftsinformatik als Wirtschafts- und Ingenieurwissenschaft ===
+Eine konkretere Zielsetzung der Wirtschaftsinformatik in ihrer Eigenschaft als Wirtschaftswissenschaft oder auch Ingenieurwissenschaft ist, die Wirkungen von Informationssystemen zu erklären und die Frage nach der Optimierung der Gestaltung von Anwendungssystemen zu untersuchen. Dies zielt langfristig darauf ab, einen voll automatisierten Betrieb zu entwickeln (Mertens '95). Da eine Vollautomation jedoch nicht immer machbar oder sinnvoll ist, bleibt es häufig bei einer Teilautomation, d. h. einer Veränderung bezüglich der Arbeitsteilung zwischen Mensch und Maschine, die aber unter dem Niveau der Vollautomatisierung liegt.
+Eine konkretere Perspektive liefert die Unterscheidung von Administrations- und Dispositionssystemen, die zusammen die Gruppe der operativen Systeme bilden.
+Zehn Professoren der Wirtschaftsinformatik veröffentlichten 2010 das Memorandum zur gestaltungsorientierten Wirtschaftsinformatik. Mit dieser Positionsbestimmung identifizieren sich weitere rund 111 BWL-Professoren, die sich zumindest in einem bedeutenden Teil ihrer Forschungs- und Lehrtätigkeit mit der Wirtschaftsinformatik befassen. Das Memorandum plädiert für einen Ausbau der Gestaltungsorientierung, bei gleichzeitigem Nachweis wissenschaftlicher Rigorosität mittels anerkannter Verfahren der Erkenntnisgewinnung. Die Autoren des Memorandums verfolgen nachstehende Ziele:
+
+Regeln für rigorose Forschung und Sicherheit für die Forschenden
+Kriterien für Gutachtertätigkeit für Zeitschriften und Konferenzen
+Kriterien für die Auswahl des wissenschaftlichen Nachwuchses und Berufungsverfahren
+Kriterien für die Bewertung von Wissenschaftlern und Forschungsinstitutionen
+Positionierung der gestaltungsorientierten Wirtschaftsinformatik in der internationalen Forschung
+
+
+== Arbeitsgebiete der Wirtschaftsinformatik ==
+Die Wirtschaftsinformatik befasst sich mit Planung, Entwicklung, Implementierung, dem Betrieb, Weiterentwicklung und ökonomischen Einsatz von Informations- und Kommunikationssystemen, die zur formalisierten Unterstützung der ablaufenden Geschäftsprozesse und zur strukturierten strategischen Entscheidungsfindung in Unternehmen und in der öffentlichen Verwaltung eingesetzt werden. Nicht wirtschaftsbezogene Anwendungen wie Finite-Elemente-Systeme zur Berechnung von Spannungen in technischen Bauteilen oder Anwendungen, die aufgrund ihrer Generalisierung (beispielsweise Textverarbeitungssoftware) nicht in einem gleich bleibenden formalen Rahmen eingesetzt werden, zählen nicht zum klassischen Arbeitsgebiet der Wirtschaftsinformatik.
+
+Werkzeuge aus anderen Wissenschaften, die innerhalb der Wirtschaftsinformatik weiterentwickelt wurden:
+
+Modellierung
+Datenmodell
+Informationsmodell
+ReferenzmodellWeitere Bereiche:
+
+E-Government
+E-Learning
+E-Health
+Mobile-Business
+Very Large Business ApplicationsEs sollte jedoch beachtet werden, dass einige Unterbereiche noch keinen klaren Forschungszweig darstellen und daher noch als Schlagwörter einzustufen sind.
+
+
+== Einfluss anderer Wissenschaften ==
+
+
+=== Informatik ===
+Der für die Wirtschaftsinformatik besonders relevante Bereich der Informatik ist die Praktische Informatik. Ihre Anwendung bedeutet die Verwendung von Betriebssystemen und Rechnernetzen. Dadurch erschließen sich auch die entwicklungsrelevanten Gebiete der Praktischen Informatik. Mittels Algorithmen und Datenstrukturen werden anhand von Programmiersprachen Computerprogramme, wie z. B. Anwendungssysteme, erstellt. Durch die Planung, Analyse und Design von Software innerhalb der Softwaretechnik (Software Engineering), besteht der wissenschaftliche und professionelle Ansatz der Softwareentwicklung. Für die permanente Datenspeicherung (Persistenz) werden Datenbanken benötigt.
+
+
+=== Betriebswirtschaftslehre ===
+Betriebswirtschaftlich lässt sich die Wirtschaftsinformatik zunächst in die großen Teilbereiche der operativen Funktionsunterstützung und der strategischen Entscheidungsunterstützung aufteilen. Aufgabe der Wirtschaftsinformatik ist es, beide Bereiche so abzudecken, dass die operativen Prozesse bestmöglich unterstützt werden, dabei aber gleichzeitig möglichst viele Daten als Ausgangsbasis für strategische Entscheidungen abfallen. Von der Anwendungsseite deckt die Wirtschaftsinformatik daher die in folgender Tabelle dargestellten Funktionen ab.
+
+
+=== Weitere Einflüsse ===
+Weitere Wissenschaften, welche die Entstehung und Entwicklung der Wirtschaftsinformatik wesentlich beeinflusst haben, sind Ingenieurwissenschaft, Kommunikationswissenschaft und Systemwissenschaft sowie Psychologie und Soziologie. Es besteht auch ein enger Bezug zum Wirtschaftsingenieurwesen, vor allem im Bereich Materialwirtschaft, Produktionsplanung und -steuerung und Logistik. Mehrere der als Mitbegründer der Wirtschaftsinformatik geltende Wissenschaftler haben Wirtschaftsingenieurwesen studiert, die Interaktion zwischen Wirtschafts- und Sozialwissenschaften und Technikwissenschaften war ihnen vertraut.
+
+
+== Einfluss auf andere Wissenschaften ==
+In der Volkswirtschaftslehre hat sich der Zweig Computational Economics (Volkswirtschaftsinformatik) entwickelt, der jedoch nur einen Teil der Methoden der Informatik und Wirtschaftsinformatik nutzt, um volkswirtschaftliche Methoden zu unterstützen.
+Im Bereich der Sozialen Arbeit versucht die Sozialinformatik die Methoden und Ansätze der Wirtschaftsinformatik auf die speziellen Bedürfnisse der Sozialen Arbeit, vor allem der Dienstleistungseinrichtungen, anzupassen.
+
+
+== Geschichte ==
+Historisch gesehen geht die Wirtschaftsinformatik auf Forschung und Lehre mit den Bezeichnungen Elektronische Datenverarbeitung, Betriebliche (oder Betriebswirtschaftliche) Datenverarbeitung und zuletzt Betriebsinformatik zurück. In dieser Hinsicht unterscheidet sich die Wirtschaftsinformatik von der im englischsprachigen Raum vorherrschenden Schwesterdisziplin Information Systems (IS), die historisch stärker auf behavioristische Aspekte (z. B. Nutzung, Akzeptanz von Informationssystemen) fokussiert ist. Die rege Beteiligung deutscher Wirtschaftsinformatiker in der internationalen IS Community zeigt jedoch, dass die historischen Unterschiede zwischen den Disziplinen zunehmend verschwinden.
+
+
+=== Anfänge in den 1950er Jahren ===
+Mitte der 1950er Jahre wurden erste EDV-Lehrveranstaltungen in das Studium der Betriebswirtschaftslehre integriert (Technische Universität Berlin, Freie Universität Berlin, Universität zu Köln u. a.). 1958 wurde auf Initiative von Ernst Peter Billeter das Institut für Automation und Unternehmensforschung (IAUF) an der Universität Freiburg gegründet. 1961 publizierte Bernhard Hartmann die Monographie Betriebswirtschaftliche Grundlagen der automatisierten Datenverarbeitung, das erste wissenschaftliche Werk, welches das Bewusstsein eines spezifischen Problemfeldes dokumentiert, von dem ausgehend die Wirtschaftsinformatik entstanden ist und sich entwickelt hat. 1963 gründete Erwin Grochla das Betriebswirtschaftliche Institut für Organisation und Automation (BIFOA) an der Universität zu Köln. 1966 publizierte er die Monografie Automation und Organisation, welche die grundlegenden Probleme und Tendenzen der Auswirkungen der Automation auf die Wirtschaft und die Organisationslehre aufzeigt. Im gleichen Jahr erschien von Peter Mertens die erste Habilitationsschrift, die thematisch der Wirtschaftsinformatik zuzurechnen ist (Die zwischenbetriebliche Kooperation und Integration bei der automatisierten Datenverarbeitung, Verlag Hain, Meisenheim am Glan). 1968 wurde der erste betriebswirtschaftliche Lehrstuhl mit Ausrichtung auf Betriebliche Datenverarbeitung an der Johannes Kepler Universität Linz und 1970 der Stiftungslehrstuhl Organisationstheorie und Datenverarbeitung an der Universität Karlsruhe eingerichtet. 1971 wurde unter der Leitung von Hartmut Wedekind die erste Forschungsgruppe, die sich betriebswirtschaftlich orientiert mit der Informatik befasste, an der TU Darmstadt eingerichtet.Ab 1974 richteten die Universitäten TU Darmstadt, Johannes Kepler Universität Linz und TU Wien sowie die Fachhochschule Furtwangen den Studiengang Wirtschaftsinformatik ein. Im Verband der Hochschullehrer für Betriebswirtschaft wurde 1975 die Wissenschaftliche Kommission Betriebsinformatik gegründet (WKBI), die 1987 in Wissenschaftliche Kommission Wirtschaftsinformatik (WKWI) umbenannt wurde. 1981 wurde der erste Studien- und Forschungsführer Betriebs- und Verwaltungsinformatik im Auftrag der WKBI herausgegeben. 1983 erweiterte die Gesellschaft für Informatik ihre Fachbereiche um den Fachbereich 5 Wirtschaftsinformatik. 1988 wurde der Arbeitskreis Wirtschaftsinformatik an Fachhochschulen (AKWI) gegründet.
+Der erste Versuch, auf wissenschaftlichem Niveau eine Fachtagung der Wirtschaftsinformatik zu etablieren, war die Tagungsreihe Der Computer als Instrument der Forschung und Lehre in den Sozial- und Wirtschaftswissenschaften, initiiert von Lutz J. Heinrich, erstmals 1985 an der Johannes Kepler Universität Linz, letztmals 1989 an der Universität Innsbruck durchgeführt.
+
+
+=== Produktivitätsparadoxon in den 1970er und 1980er Jahren ===
+
+In den 1970er und 1980er Jahren investierten Wirtschaftsunternehmen so viel wie noch nie zuvor in IT-Systeme, in der Hoffnung auf erhebliche Produktivitätssteigerungen. Die erhofften Produktivitätssteigerungen blieben jedoch deutlich hinter den hohen Erwartungen zurück; tatsächlich nahmen die aggregierten Wachstumsraten der Produktivität real sogar ab.
+
+Maßgebliche Gründe für diese Verfehlungen waren:
+
+Fehler bei der Messung der Produktivität
+Zeitverzug zwischen Einführung und Implementierung der IT und Beginn von dessen Wirkung
+Management-Fehler bei der Implementierung der Informations- und Kommunikationstechnologien und fehlende Abstimmung des Betriebs und der IT aufeinander
+
+
+=== Entwicklung ab 1990 ===
+1989 wurde die erste wissenschaftliche Zeitschrift der Wirtschaftsinformatik mit der Bezeichnung WIRTSCHAFTSINFORMATIK, erster Jahrgang 1990, als Nachfolgerin der Zeitschrift Angewandte Informatik, die diesen Namen 1972 als Nachfolgerin der 1952 gegründeten Zeitschrift elektronische datenverarbeitung bekam, gegründet. Zu den Herausgebern gehörten Hans Robert Hansen, Lutz J. Heinrich, Karl Kurbel, Peter Mertens, Dietrich Seibt, Peter Stahlknecht und Norbert Szyperski.
+1991 erarbeiteten die WKWI und die Gesellschaft für Informatik Rahmenempfehlungen für Diplom-Studiengänge der Wirtschaftsinformatik an Universitäten. 1993 fand die erste offene Fachtagung Wirtschaftsinformatik an der Westfälischen Wilhelms-Universität in Münster statt und findet seitdem jährlich als die Internationale Tagung Wirtschaftsinformatik oder Multikonferenz Wirtschaftsinformatik (MKWI) statt. Ebenfalls an der Westfälischen Wilhelms-Universität fand 1997 die erste Fachtagung zu wissenschaftlichen Grundlagen der Wirtschaftsinformatik statt. Im selben Jahr gab der Arbeitskreis Wirtschaftsinformatik an Fachhochschulen zusammen mit dem Fachbereichstag Informatik eine inhaltliche Empfehlung für Studiengänge der Wirtschaftsinformatik an Fachhochschulen heraus. Im Jahr 2009 wurde die Internationale Tagung Wirtschaftsinformatik erstmals außerhalb Deutschlands in Wien (Österreich) abgehalten.
+Seit den frühen 2000er Jahren entwickelte sich aus der Wirtschaftsinformatik die Verwaltungsinformatik, die das Arbeitsfeld Öffentliche Verwaltung hat.
+
+Die erste Fakultät, in deren Bezeichnung „Wirtschaftsinformatik“ verwendet wird, wurde 2001 an der Otto-Friedrich-Universität Bamberg eingerichtet (Fakultät Wirtschaftsinformatik und Angewandte Informatik). 2004 wurde das Forschungszentrum für Wirtschaftsinformatik/Information Systems, das European Research Center for Information Systems (ERCIS) an der Westfälischen Wilhelms-Universität in Münster gegründet.2005 veröffentlichte die Gesellschaft für Informatik vom Fachbereich Wirtschaftsinformatik die erarbeiteten Rahmenempfehlungen für Bachelor- bzw. Master-Studiengänge Wirtschaftsinformatik an Universitäten. Weder 2006 noch 2007 wurde eine eingereichte Wirtschaftsinformatik-Skizze zur Förderung im Rahmen der Exzellenzinitiative zur Antragstellung aufgefordert. 2007 wurde von einer Fachkommission im Auftrag der Wissenschaftlichen Kommission Wirtschaftsinformatik Rahmenempfehlungen für die Universitätsausbildung in Wirtschaftsinformatik erarbeitet, die von der Gesellschaft für Informatik bestätigt wurde.
+Von der Universität Duisburg-Essen wurde 2010 das internationale Studierenden-Austauschnetzwerk IS:link gegründet, das exklusiv Studierenden der Wirtschaftsinformatik die Möglichkeit geben soll, ein effizientes Auslandssemester an angeschlossenen Partneruniversitäten zu absolvieren und um damit der zunehmenden interkulturellen Vernetzung – vor allem im Bereich der Wirtschaftsinformatik – beizutragen.
+
+
+== Problemstellungen in Unternehmen durch Wirtschaftsinformatik ==
+Wie das Produktivitätsparadoxon in den 1970er und 1980er Jahren aufzeigt, kann es zu erheblichen Problemen bei der Einführung von IT-Systemen und der Durchführung von IT-Projekten (z. B. Software-Projekten) in Unternehmen kommen. Dabei sind folgende Problembereiche häufig anzutreffen:
+
+Anforderungsproblematik: unrealistische Projektziele, unkontrollierte Ausdehnung des Projektumfangs ohne einen Plan, der eine solche Ausdehnung erlaubt;
+Schätzungsproblematik: unangemessene Zeitplanung, kein vorgesehener Prozess für eine Neuschätzung bei einer Veränderung des Projektablaufs, keine vernünftigen Überprüfungen;
+Qualitätsproblematik: stichprobenartige Qualitätstests statt eines übergreifenden Kontrollprozesses, der Qualität im gesamten Projekt implementiert sichert;
+Teamproduktivitätsproblematik: schwache Teamproduktivität, die dazu führt, dass viele Arbeitsprozesse wiederholt werden müssen, da das ursprüngliche Ergebnis ungenügend ist;
+Projektmanagementproblematik: fehlende oder fehlerhafte Planung, Leistungswerte, Einschätzung des Einflusses von Änderungen und Problemen etc.;
+Evaluierungsproblematik: mangelnde zielbezogene Bewertung und Beurteilung von Objekten auf Grundlage eines Systems entscheidungsrelevanter Eigenschaften (Evaluierungskriterien);
+Kulturproblematik: andere, nichtwestliche Kulturen haben andere Vorstellungen von Arbeitsprozessen und Arbeitsbeziehungen; bspw. wird in einigen traditionellen ostasiatischen Kulturen so viel Wert auf gute Beziehungen gelegt, dass auftretende Probleme nicht explizit oder unzureichend benannt oder verschleiert werden.
+
+
+== Studium ==
+
+
+=== Aktuelle Studiensituation ===
+In Deutschland, Liechtenstein, Österreich und der Schweiz wird Wirtschaftsinformatik als Studiengang an Universitäten, Fachhochschulen und Berufsakademien angeboten.
+Seit 1999 können im deutschsprachigen Raum die Abschlüsse Bachelor of Science und Master of Science bzw. Bachelor of Arts und Master of Arts in Wirtschaftsinformatik erworben werden, die die früheren Diplome ersetzen. Nicht zuletzt aufgrund der von der Politik geforderten Profilbildung von Hochschulen bietet fast jeder Studiengang irgendwelche Besonderheiten. Die Struktur der Studienmodelle kann in eine reguläre Struktur – so wie sie an den meisten Hochschulen implementiert ist – und eine spezielle Struktur unterschieden werden.
+
+Reguläre Studienmodelle:
+Bachelor: 6 bis 8 Semester. Einige Studiengänge enthalten fakultativ bzw. obligatorisch ein oder mehrere Auslands- oder Praxissemester.
+Master: weitere 2 bis 4 Semester. Entweder Vertiefung eines Bachelor in Wirtschaftsinformatik oder zur Erweiterung der Kenntnisse im Bereich Wirtschaftsinformatik ohne vorhergehendes Studium der Wirtschaftsinformatik. Zusätzlich gibt es noch verschiedene Masterstudiengänge, die sich mit einem Teilgebiet der Wirtschaftsinformatik beschäftigen. Ein Auslandssemester wird oder mehrere Auslandssemester werden insbesondere im Masterstudium zunehmend integraler Bestandteil der Curricula, um dem internationalen Umfeld Rechnung zu tragen, in dem die Ökonomie sowie IT stattfinden.Spezielle Studienmodelle:
+Integrierte Formen, die einen Erwerb von Bachelor und Master in vier Jahren ermöglichen.
+In Österreich auch der Diplom-Ingenieur (Dipl.-Ing.) nach 10 Theoriesemestern in Bachelor/Master Struktur.
+Einige Hochschulen bieten die Möglichkeit, berufsbegleitend einen Bachelor oder Master zu erwerben. Dazu gehören zum einen Angebote als berufsbegleitendes Präsenzstudium (z. B. Abendstudium), zum anderen existieren diverse Angebote des Fernstudiums an einer Fernuniversität oder Fernfachhochschule im Bereich Wirtschaftsinformatik.
+In den letzten Jahren sind vermehrt auch duale Studiengänge an Universitäten, Fachhochschulen und Berufsakademien entstanden.Die Unterrichtssprache ist im deutschsprachigen Raum überwiegend Deutsch. Einige Studiengänge bieten optional Veranstaltungen in Fremdsprachen, meist Englisch an, einige Studiengänge verlangen innerhalb eines bilingualen Studiensystems einen vorgegebenen Anteil an englischsprachig erworbenen Credit points oder müssen vollständig in englischer Sprache bewältigt werden. Für die Zulassung zu diesen fremdsprachigen Studiengängen sind i. d. R. entsprechende Sprachkenntnisse in Form eines international anerkannten Testzertifikats nachzuweisen.
+Auch an Berufsakademien, teilweise im tertiären Bildungsbereich, oder Verwaltungs- und Wirtschaftsakademien wird eine entsprechende Ausbildung angeboten. Zudem bieten private Akademien, die selber nicht berechtigt sind akademische Abschlüsse zu vergeben, in Kooperation mit staatlichen Hochschulen ebenfalls Studiengänge im Bereich Wirtschaftsinformatik an.
+Des Weiteren gibt es die Möglichkeit, Wirtschaftsinformatik als Fachrichtung oder Schwerpunktfach innerhalb eines Studiums der Betriebswirtschaftslehre, Wirtschaftspädagogik, Informatik, der Informationswissenschaft, der Volkswirtschaftslehre oder des Wirtschaftsingenieurwesen zu studieren.
+
+
+=== Ausgelaufene Studienformen ===
+Vorherige akademische Abschlüsse an Universitäten, Hochschulen und Fachhochschulen sind der
+
+Diplom-Wirtschaftsinformatiker (FH): 6 bis 7 Theoriesemester, sowie 1 bis 2 Semester außerhalb des Studiums in einem Unternehmen
+Univ. Diplom-Wirtschaftsinformatiker (abgekürzt Dipl.-Wirt.-Inf., Dipl.-Wirtsch.-Inf., Dipl.-Wirt.-Inform. oder Dipl.-Wirtsch.-Inform.): Regelstudienzeit 9 bis 10 Semester – praktisch oft mindestens 11 Semester, sowie meist 1 Praktikumssemester
+Mag. rer. soc. oec., DI/Dipl.-Ing., Österreich: Je nach Universität und Studienplan etwa acht bis zehn Theoriesemester, wobei diese Studienpläne 2001 abgeschafft wurden, aber noch beendet werden können.Teilweise werden die Bezeichnungen der Abschlüsse noch hochschulspezifisch ergänzt.
+
+
+=== Promotion ===
+Nach einem abgeschlossenen Diplom- oder Masterstudium kann innerhalb eines Promotionsstudiums an Universitäten der Grad des Doktors oder Ph.D. erlangt werden, in der Regel im Fachgebiet der Wirtschaftsinformatik. Für Absolventen der Wirtschaftsinformatik sind aber auch Doktoratsstudien in anderen Fachgebieten, wie zum Beispiel im Bereich der Betriebswirtschaftslehre, Informatik oder Volkswirtschaftslehre möglich.
+
+
+== Berufsausbildung zum Wirtschaftsinformatiker ==
+
+
+=== Deutschland ===
+Fachschulen und Berufsfachschulen, Handelsschulen und Berufskollege bieten die meist zweijährige schulische Ausbildung Staatlich geprüfter Wirtschaftsinformatiker oder Staatlich geprüfter Informatiker – Fachrichtung Wirtschaft sowie Staatlich geprüfter Assistent für Informatik (Berufsfachschulen und Berufskollegs) an.
+Die Bildungs- und Technologiezentren der Handwerkskammern bieten eine Weiterbildung für Betriebsinformatiker zum Wirtschaftsinformatiker (HWK) bzw. Betriebswirt für Informationstechnik (HWK) an.
+
+
+=== Österreich ===
+In Österreich ist Wirtschaftsinformatik (WINF) – hier auch Digital Business genannt – ein Pflichtfach in berufsbildenden Schulen und bildet einen Teil des Unterrichtskanons im Informatikunterricht.
+
+
+=== Schweiz ===
+Seit 1986 bildet die Fachhochschule Westschweiz HES-SO Wallis-Wallis Bachelor-Abschlüsse in Wirtschaftsinformatik aus. Dieser Ausbildungsgang findet an der Hochschule für Wirtschaft in Siders statt.
+Es existiert eine Lehre zum Informatiker EFZ, die Spezialisierung erfolgt entweder durch die Weiterbildung zum dipl. Wirtschaftsinformatiker HF an einer Höheren Fachschule oder über einen Studiengang an einer Fachhochschule. Als erste Hochschule in der Schweiz verfügt die Hochschule Luzern über ein eigenes Departement Informatik mit Studiengängen in Informatik, Wirtschaftsinformatik und Digital Ideation.
+
+
+== Berufliche Perspektiven von Wirtschaftsinformatikern mit Hochschulabschluss ==
+Absolventen eines Masterstudiums der Wirtschaftsinformatik können in der Forschung als Doktorand an einer Universität tätig werden. In der Wirtschaft gibt es verschiedene Einsatzgebiete, die je nach Berufserfahrung variieren können. Ein typischer Einsatzbereich des Wirtschaftsinformatikers ist die Beratung. Dort kann er in der strategischen aber auch der taktischen IT-Beratung tätig werden. Strategische Berufsfelder sind z. B. in der IT-Strategie, im IT-Portfoliomanagement oder der Unternehmensarchitektur zu finden, wohingegen sich Wirtschaftsinformatiker auf der taktischen Ebene z. B. der IT-Architektur, insbesondere der Analyse, dem Design, den Tests und der Abnahme von IT-basierten Lösungen oder generell dem Projektmanagement zuwenden.
+Daneben existieren verschiedene Möglichkeiten in der Industrie in Führungspositionen (CIO, Chief Architect, Projektleiter, IT-Stratege) oder in wichtigen, leitenden Positionen im Bereich der IT (Enterprise Architect, Solution Architect, Projektmanager, Testmanager, Test Architect, Business Analyst, Geschäftsprozessmodellierer) tätig zu werden.
+
+
+== Organisationen, Verbände und Vereine ==
+Bundesverband Deutscher Volks- und Betriebswirte – Fachgruppe Wirtschaftsinformatik
+Gesellschaft für Informatik – Fachbereich Wirtschaftsinformatik
+Verband der Hochschullehrer für Betriebswirtschaft – Wissenschaftliche Kommission Wirtschaftsinformatik (WKWI)
+Arbeitskreis Wirtschaftsinformatik an Fachhochschulen (Dachverband der Wirtschaftsinformatik an Fachhochschulen)
+
+
+== Siehe auch ==
+Kategorie:Wirtschaftsinformatiker
+European Research Center for Information Systems (ERCIS)
+Verbraucherinformatik
+
+
+== Literatur ==
+Paul Alpar, Heinz L. Grob, Peter Weimann, Robert Winter: Anwendungsorientierte Wirtschaftsinformatik. 5. Auflage. Vieweg, Wiesbaden 2008, ISBN 978-3-8348-0438-9.
+Otto K. Ferstl, Elmar J. Sinz: Grundlagen der Wirtschaftsinformatik. 5. Auflage. Oldenbourg, München/ Wien 2006, ISBN 3-486-57942-8.
+Joachim Fischer, Wilhelm Dangelmaier, Ludwig Nastansky; Leena Suhl: Bausteine der Wirtschaftsinformatik. 4. Auflage. Schmidt, Berlin 2008, ISBN 978-3-503-06610-0.
+Hans Robert Hansen, Gustaf Neumann: Wirtschaftsinformatik. Band 1, 9. Auflage. Utb, 2005, ISBN 3-8252-2669-7.
+Lutz J. Heinrich, Armin Heinzl, Rene Riedl: Wirtschaftsinformatik – Einführung und Grundlegung. 4. Auflage. Springer, Heidelberg u. a. 2011, ISBN 978-3-642-15426-3.
+Lutz J. Heinrich: Geschichte der Wirtschaftsinformatik – Entstehung und Entwicklung einer Wissenschaftsdisziplin. Springer, Heidelberg u. a. 2011, ISBN 978-3-642-16858-1. (2. Auflage. Springer Gabler, Berlin/ Heidelberg 2012, ISBN 978-3-642-28142-6)
+Peter Mertens u. a.: Grundzüge der Wirtschaftsinformatik. 10. Auflage. Springer, Berlin 2010, ISBN 978-3-642-14726-5.
+
+
+== Weblinks ==
+
+Literatur über Wirtschaftsinformatik im Katalog der Deutschen Nationalbibliothek
+Das Projekt WIGE – Wirtschaftsinformatik-Genealogie (Entwicklungsgeschichte der Wirtschaftsinformatik als Wissenschaftsdisziplin)
+Linkkatalog zum Thema Wirtschaftsinformatik bei curlie.org (ehemals DMOZ)
+Enzyklopädie der Wirtschaftsinformatik
+
+
+== Einzelnachweise ==

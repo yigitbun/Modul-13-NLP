@@ -1,0 +1,77 @@
+Protactinium(IV)-oxid ist eine chemische Verbindung aus Protactinium und Sauerstoff mit der Formel PaO2. Es ist ein schwarzes, kristallines Pulver. Es weist ein kubisches Kristallsystem auf, hat die Raumgruppe Fm3m (Raumgruppen-Nr. 225)Vorlage:Raumgruppe/225, mit einem Gitterparameter a = 550,5 pm und vier Formeleinheiten pro Elementarzelle. Der Strukturtyp ist der CaF2-Typ (Fluorit) und die Koordinationszahlen sind Pa[8], O[4].
+
+
+== Darstellung ==
+Protactinium(IV)-oxid kann durch Reduktion von Protactinium(V)-oxid mit strömendem, absolut trockenem Wasserstoff bei 1550 °C dargestellt werden.
+
+  
+    
+      
+        
+          
+            Pa
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            PaO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {Pa2O5 + H2 -> 2 PaO2 + H2O}}}
+  
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen, die eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielt. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Literatur ==
+Boris F. Myasoedov, Harold W. Kirby, Ivan G. Tananaev: Protactinium. (pdf) In: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements. Springer, Dordrecht 2006, ISBN 1-4020-3555-1, S. 161–252.
+
+
+== Einzelnachweise ==

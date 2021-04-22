@@ -1,0 +1,18 @@
+Eine Materialgruppe (auch Werkstoffgruppe genannt) fasst unterschiedliche Einzelteile zusammen, die aus demselben Grundmaterial bzw. Rohstoff hergestellt werden. Die Unterscheidung von Materialgruppen kann frei festgelegt werden und kann relativ grob oder auch fein sein, dies hängt von dem jeweiligen Zweck ab. Beispiele für Materialgruppen: Eisen oder eisenhaltiges Metall, Kupfer, Kunststoff, Gummi, Leder, Holz usw.
+Für international produzierende Unternehmen wie bspw. die Automobilindustrie, ist es wichtig, die zur Produktion benötigten Ressourcen entsprechend zu bündeln und dadurch besser planen und bewerten zu können. Dadurch soll langfristig die Versorgungssicherheit, die Beschaffung bzw. der Einkauf der Materialien zur Produktion, gewährleistet sowie Einsparungen bei den Einkaufspreisen erzielt werden. Eine besondere Rolle spielen hierbei in letzter Zeit die Seltenen Erden, deren Verfügbarkeit zunehmend schwieriger und wichtiger wird.
+
+
+== Siehe auch ==
+Beschaffungsorganisation
+Beschaffungsprinzip
+Lieferantenstruktur
+Supply-Chain-Management
+
+
+== Literatur ==
+Garcia Sanz u. a. (Hrsg.): Die Automobilindustrie auf dem Weg zur globalen Netzwerkkompetenz. Springer, Berlin 2007, ISBN 978-3-540-70783-7. 
+Ulli Arnold: Beschaffungsmanagement. 2. Auflage. Schäffer-Poeschel, Stuttgart 1997, ISBN 3-7910-9181-6. 
+Gerhard Heß: Supply-Strategien in Einkauf und Beschaffung. Systematischer Ansatz und Praxisfälle. 2. Auflage. Gabler, Wiesbaden 2010, ISBN 978-3-8349-1991-5. 
+
+
+== Einzelnachweise ==

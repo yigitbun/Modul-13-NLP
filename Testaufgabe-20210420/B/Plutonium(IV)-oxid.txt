@@ -1,0 +1,225 @@
+Plutonium(IV)-oxid, meistens als Plutoniumdioxid bezeichnet, ist das chemisch stabilste Oxid des Plutoniums. Es ist ein kristalliner gelb-brauner Feststoff mit hoher Schmelztemperatur.
+
+
+== Eigenschaften ==
+Plutoniumdioxid ist wenig reaktiv und wird von Wasser oder salzhaltigem Wasser fast nicht angegriffen. Es kann auch zu keramischem Material gesintert werden.
+Plutoniumdioxid weist ein kubisches Kristallsystem auf, hat die Raumgruppe Fm3m (Nr. 225)Vorlage:Raumgruppe/225, die Elementarzellen haben als Gitterparameter a = 540 pm, der Strukturtyp ist der CaF2-Typ (Fluorit) und die Koordinationszahlen sind Pu[8], O[4].
+Plutoniumdioxid  ist ein olivgrünes bis graugrünes Pulver. Einkristalle, die sich zum Beispiel aus der Schmelze oder aus der Zersetzung von Plutonium(IV)-sulfat gewinnen lassen, liegen als schwarze glänzende Kristalle vor. Mikrokugeln, die sich durch Einschmelzen von Plutoniumdioxid-Pulver in einer Plasmaflamme darstellen lassen, sind rotbraun bis bernsteingelb.
+
+
+== Darstellung ==
+Plutoniumdioxid entsteht spontan durch die Oxidation von Plutoniummetall in einer oxidierenden Atmosphäre bei Normaltemperatur und -druck.
+Bei der Wiederaufarbeitung von Kernbrennstäben wird es gewonnen, indem Plutonium(IV)-oxalat Hexahydrat oder Decahydrat bei Temperaturen ab 1000 °C kalziniert wird. Auch beim Erhitzen von Plutonium(IV)-nitrat und Plutoniumperoxid entsteht es.
+
+  
+    
+      
+        
+          
+            Pu
+            
+              2
+            
+            
+              
+            
+          
+          
+            (
+            
+              C
+              
+                2
+              
+              
+                
+              
+            
+            
+              O
+              
+                4
+              
+              
+                
+              
+            
+            )
+          
+          ⋅
+          10
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            PuO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          3
+          
+          CO
+          +
+          3
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          10
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {Pu2(C2O4) . 10 H2O + O2 -> 2 PuO2 + 3 CO + 3 CO2 + 10 H2O}}}
+  
+  
+    
+      
+        
+          
+            Pu
+            
+              2
+            
+            
+              
+            
+          
+          
+            (
+            
+              C
+              
+                2
+              
+              
+                
+              
+            
+            
+              O
+              
+                4
+              
+              
+                
+              
+            
+            )
+          
+          ⋅
+          6
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            PuO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          CO
+          +
+          2
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          6
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {Pu2(C2O4) . 6 H2O -> PuO2 + 2 CO + 2 CO2 + 6 H2O}}}
+  
+
+
+== Verwendung ==
+Gesintertes Plutoniumdioxid wird in Radionuklidbatterien verwendet und als Material für Brennstäbe eingesetzt.
+
+
+== Sicherheitshinweise ==
+
+Einstufungen nach der CLP-Verordnung liegen nicht vor, obwohl die chemische Giftigkeit von Plutonium bekannt ist. Wichtig sind die auf der Radioaktivität beruhenden Gefahren. Plutoniumdioxid ist je nach Art der verwendeten Plutoniumisotope unterschiedlich radioaktiv und durch die beim radioaktiven Zerfall entstehende Wärme bei kurzlebigen Alphastrahlern auch heiß.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+David L. Clark, Siegfried S. Hecker, Gordon D. Jarvinen, Mary P. Neu: Plutonium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 813–1264 (doi:10.1007/1-4020-3598-5_7).

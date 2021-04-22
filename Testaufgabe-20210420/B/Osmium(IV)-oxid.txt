@@ -1,0 +1,128 @@
+Osmium(IV)-oxid ist eine anorganische chemische Verbindung des Osmiums aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Osmium(IV)-oxid kann durch Reduktion von Osmiumtetroxid in einem Wasserstoff-Stickstoff-Gasstrom oder durch Reaktion von Kaliumhexachloroosmat K2OsCl6 mit Natriumcarbonat bei hohen Temperaturen gewonnen werden.Einkristalle des Oxides lassen sich durch eine CVT-Methode (Chemical Vapor Transport) herstellen. Hierfür wird zunächst elementares Osmium mit Natriumchlorat in einer abgeschmolzenen und evakuierten Ampulle in einer 2-Stufen-Umsetzung bei zunächst 300 °C und dann 650 °C zum polykristallinen Oxid umgesetzt. Die Ampulle mit dem Oxid wird dann in einen 2-Zonen-Ofen eingebracht, sodass je die Hälfte der Ampulle in einer der Zonen liegt. Während die eine Hälfte der Ampulle auf 960 °C aufgeheizt wird, wird die andere bei 900 °C gehalten. Nach 2 Tagen Reaktionszeit (bei anfänglich eingesetzten 0,15 g elementarem Osmium) lässt man die Ampulle abkühlen und erhält nach dem Öffnen etwa 2 mm große goldene Einkristalle der Zielverbindung.
+
+  
+    
+      
+        
+          3
+          
+          Os
+          +
+          2
+          
+          
+            NaClO
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          3
+          
+          
+            OsO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          NaCl
+        
+      
+    
+    {\displaystyle {\ce {3Os + 2NaClO3 -> 3OsO2 + 2NaCl}}}
+  
+
+  
+    
+      
+        
+          
+            OsO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          
+            OsO
+            
+              4
+              
+                (
+                g
+                )
+              
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {OsO2 + O2 <=> OsO4_{(g)}}}}
+  
+
+
+== Eigenschaften ==
+Osmium(IV)-oxid ist gekauft ein schwarzer Feststoff, der unlöslich in Wasser ist, während die frisch hergestellte Verbindung sowohl in poly- als auch einkristalliner Form eine goldene Farbe aufweist. Es geht an Luft langsam in Osmiumtetroxid über und kann pyrophor mit Luftsauerstoff reagieren. Es besitzt eine Kristallstruktur vom Rutiltyp (a = 451 pm, c = 319 pm). Das Dihydrat ist ein tiefschwarzes Pulver, das wie das Anhydrat zur Osmiumtetroxid-Bildung an Luft neigt. In Salzsäure ist es löslich zu Dihydrogenhexachloroosmat H2[OsCl6].
+
+
+== Einzelnachweise ==

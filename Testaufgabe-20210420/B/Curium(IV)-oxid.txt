@@ -1,0 +1,127 @@
+Curium(IV)-oxid (auch Curiumdioxid) ist eine chemische Verbindung der Elemente Curium und Sauerstoff. Es besitzt die Summenformel CmO2. Da alle Isotope des Curiums nur künstlich hergestellt sind, besitzt es keine natürlichen Vorkommen. Es entsteht unter anderem implizit in Kernreaktoren beim Bestrahlen von Urandioxid (UO2) bzw. Plutoniumdioxid (PuO2) mit Neutronen.
+
+
+== Darstellung ==
+Curium(IV)-oxid kann direkt aus den Elementen dargestellt werden. Hierzu wird metallisches Curium an Luft oder in einer Sauerstoffatmosphäre geglüht.
+
+  
+    
+      
+        
+          Cm
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              →
+              
+                Δ
+                T
+              
+            
+          
+          
+            CmO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Cm + O2 ->[\Delta T] CmO2}}}
+  Für Kleinstmengen bietet sich das Glühen von Salzen des Curiums an. Meistens werden hierzu Curium(III)-oxalat (Cm2(C2O4)3) oder Curium(III)-nitrat (Cm(NO3)3) herangezogen.
+Eine weitere Möglichkeit stellt die Umsetzung von Curium(III)-oxid (Cm2O3) unter Sauerstoffatmosphäre bei 650 °C dar.
+
+  
+    
+      
+        
+          2
+          
+          
+            Cm
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              →
+              
+                Δ
+                T
+              
+            
+          
+          4
+          
+          
+            CmO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 Cm2O3 + O2 ->[\Delta T] 4 CmO2}}}
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Curium(IV)-oxid ist ein schwarzer Feststoff. Es kristallisiert im kubischen Kristallsystem in der Fluorit-Struktur in der Raumgruppe Fm3m (Raumgruppen-Nr. 225)Vorlage:Raumgruppe/225 und die Koordinationszahlen sind Cm[8], O[4]. Der Gitterparameter beträgt 536 pm. Die Bildungsenthalpie bei 25 °C wird auf 167 ± 5 J/(mol·K) geschätzt.
+
+
+=== Chemische Eigenschaften ===
+Die Verbindung beginnt ab etwa 380 °C sich zu zersetzen. Hierbei wird zunächst unter Sauerstoffabgabe eine Verbindung der Summenformel CmO1,95 gebildet, aus welcher ab 430 °C unter Reduktion Curium(III)-oxid entsteht. Unter Sauerstoffatmosphäre ist Curiumdioxid jedoch auch bei höheren Temperaturen stabil (siehe auch Darstellung).
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen und eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielen. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Gregg J. Lumetta, Major C. Thompson, Robert A. Penneman, P. Gary Eller: Curium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 1397–1443 (doi:10.1007/1-4020-3598-5_9).

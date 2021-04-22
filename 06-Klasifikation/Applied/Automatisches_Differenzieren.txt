@@ -1,0 +1,2408 @@
+Das automatische Differenzieren bzw. Differenzieren von Algorithmen ist ein Verfahren der Informatik und angewandten Mathematik. Zu einer Funktion in mehreren Variablen, die als Prozedur in einer Programmiersprache oder als Berechnungsgraph gegeben ist, wird eine erweiterte Prozedur erzeugt, die sowohl die Funktion als auch einen oder beliebig viele Gradienten bis hin zur vollen Jacobi-Matrix auswertet. Wenn das Ausgangsprogramm Schleifen enthält, darf die Anzahl der Schleifendurchläufe nicht von den unabhängigen Variablen abhängig sein.
+Diese Ableitungen werden z. B. für das Lösen von nichtlinearen Gleichungssystemen mittels Newton-Verfahren und für Methoden der nichtlinearen Optimierung benötigt.
+Das wichtigste Hilfsmittel dabei ist die Kettenregel sowie die Tatsache, dass zu den im Computer verfügbaren Elementarfunktionen wie sin, cos, exp, log die Ableitungen bekannt und genauso exakt berechenbar sind. Damit wird der Aufwand zur Berechnung der Ableitungen proportional (mit kleinem Faktor) zum Aufwand der Auswertung der Ausgangsfunktion.
+
+
+== Berechnung von Ableitungen ==
+Aufgabe: Gegeben sei eine Funktion
+
+  
+    
+      
+        f
+        :
+        
+          
+            R
+          
+          
+            n
+          
+        
+        →
+        
+          
+            R
+          
+          
+            m
+          
+        
+        ,
+        x
+        ↦
+        y
+      
+    
+    {\displaystyle f\colon \mathbb {R} ^{n}\to \mathbb {R} ^{m},x\mapsto y}
+  Gesucht ist der Code/die Funktion für Richtungsableitungen oder die volle Jacobi-Matrix
+
+  
+    
+      
+        
+          
+            
+              ∂
+              f
+            
+            
+              ∂
+              x
+            
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    ∂
+                    
+                      y
+                      
+                        i
+                      
+                    
+                  
+                  
+                    ∂
+                    
+                      x
+                      
+                        j
+                      
+                    
+                  
+                
+              
+            
+            ]
+          
+          
+            i
+            =
+            1..
+            m
+            ,
+            j
+            =
+            1..
+            n
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial f}{\partial x}}=\left[{\tfrac {\partial y_{i}}{\partial x_{j}}}\right]_{i=1..m,j=1..n}}
+  Verschiedene Ansätze hierfür sind:
+
+Versuche, eine geschlossene, analytische Form für f zu finden und bestimme 
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                f
+              
+              
+                ∂
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {\partial f}{\partial x}}}
+   durch Differentiation „auf Papier“. Implementiere dann den Code für 
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                f
+              
+              
+                ∂
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {\partial f}{\partial x}}}
+   von Hand.
+Problem: Zu schwierig, zeitaufwendig, fehleranfällig
+Vorteile: sehr effizient, hohe Genauigkeit
+Erzeuge die Berechnungsvorschrift für f in einem Computeralgebrasystem und wende die dort zur Verfügung stehenden Mittel zum symbolischen Differenzieren an. Exportiere dann den Code für 
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                f
+              
+              
+                ∂
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {\partial f}{\partial x}}}
+   in seine eigentliche Umgebung.
+Problem: Zeitaufwendig, skaliert nicht, zu kompliziert für größere Programme/Funktionen
+Bestimme eine numerische Approximation der Ableitung. Es gilt für kleines h
+
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                
+                  f
+                  
+                    k
+                  
+                
+              
+              
+                ∂
+                x
+              
+            
+          
+        
+        =
+        
+          lim
+          
+            h
+            →
+            0
+          
+        
+        
+          
+            
+              
+                f
+                
+                  k
+                
+              
+              (
+              x
+              +
+              h
+              )
+              −
+              
+                f
+                
+                  k
+                
+              
+              (
+              x
+              )
+            
+            h
+          
+        
+        ≈
+        
+          
+            
+              
+                f
+                
+                  k
+                
+              
+              (
+              x
+              +
+              h
+              )
+              −
+              
+                f
+                
+                  k
+                
+              
+              (
+              x
+              )
+            
+            h
+          
+        
+      
+    
+    {\displaystyle {\tfrac {\partial f_{k}}{\partial x}}=\lim _{h\to 0}{\frac {f_{k}(x+h)-f_{k}(x)}{h}}\approx {\frac {f_{k}(x+h)-f_{k}(x)}{h}}}
+  .
+Problem: Wahl der optimalen Schrittweite h, ungenau, eventuell Instabilität
+Vorteil: einfache Berechnung
+Stelle die Berechnungsvorschrift als Berechnungsbaum, d. h. als arithmetisches Netzwerk, dar und erweitere diesen unter Verwendung der Kettenregel zu einem Berechnungsbaum für Funktionswert und Ableitung 
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                f
+              
+              
+                ∂
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {\partial f}{\partial x}}}
+  .
+
+
+== Die Idee der automatischen Differentiation (AD) ==
+Jedes Programm, das eine Funktion 
+  
+    
+      
+        f
+        (
+        x
+        )
+        :
+        
+          
+            R
+          
+          
+            n
+          
+        
+        →
+        
+          
+            R
+          
+          
+            m
+          
+        
+        ,
+        x
+        ↦
+        y
+      
+    
+    {\displaystyle f(x)\colon \mathbb {R} ^{n}\to \mathbb {R} ^{m},x\mapsto y}
+   auswertet, kann als eine Abfolge von Zwischenschritten beschrieben werden, in denen Zwischenergebnisse auf elementare Weise umgewandelt werden. Man kann sich dies so vorstellen, dass es eine (potentiell unendliche) Folge von Zwischenwerten 
+  
+    
+      
+        (
+        
+          t
+          
+            1
+          
+        
+        ,
+        
+          t
+          
+            2
+          
+        
+        ,
+        
+          t
+          
+            3
+          
+        
+        ,
+        …
+        )
+      
+    
+    {\displaystyle (t_{1},t_{2},t_{3},\dots )}
+   gibt und Funktionen 
+  
+    
+      
+        
+          q
+          
+            k
+          
+        
+        :
+        
+          
+            R
+          
+          
+            n
+            +
+            k
+            −
+            1
+          
+        
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle q_{k}\colon \mathbb {R} ^{n+k-1}\to \mathbb {R} }
+  , die aber nur von ein oder zwei Variablen wirklich abhängen. Die Funktion wird ausgewertet, indem am Anfang 
+  
+    
+      
+        (
+        
+          t
+          
+            1
+          
+        
+        ,
+        
+          t
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            n
+          
+        
+        )
+        =
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle (t_{1},t_{2},\dots ,t_{n})=(x_{1},x_{2},\dots ,x_{n})}
+   gesetzt wird und nacheinander
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  t
+                  
+                    n
+                    +
+                    1
+                  
+                
+                =
+              
+              
+                
+                  q
+                  
+                    1
+                  
+                
+                (
+                
+                  t
+                  
+                    1
+                  
+                
+                ,
+                …
+                ,
+                
+                  t
+                  
+                    n
+                  
+                
+                )
+              
+            
+            
+              
+                
+                  t
+                  
+                    n
+                    +
+                    2
+                  
+                
+                =
+              
+              
+                
+                  q
+                  
+                    2
+                  
+                
+                (
+                
+                  t
+                  
+                    1
+                  
+                
+                ,
+                …
+                ,
+                
+                  t
+                  
+                    n
+                  
+                
+                ,
+                
+                  t
+                  
+                    n
+                    +
+                    1
+                  
+                
+                )
+              
+            
+            
+              
+                …
+              
+              
+            
+            
+              
+                
+                  t
+                  
+                    n
+                    +
+                    K
+                  
+                
+                =
+              
+              
+                
+                  q
+                  
+                    K
+                  
+                
+                (
+                
+                  t
+                  
+                    1
+                  
+                
+                ,
+                …
+                ,
+                
+                  t
+                  
+                    n
+                  
+                
+                ,
+                
+                  t
+                  
+                    n
+                    +
+                    1
+                  
+                
+                ,
+                …
+                ,
+                
+                  t
+                  
+                    K
+                    −
+                    1
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}t_{n+1}=&q_{1}(t_{1},\dots ,t_{n})\\t_{n+2}=&q_{2}(t_{1},\dots ,t_{n},t_{n+1})\\\dots &\\t_{n+K}=&q_{K}(t_{1},\dots ,t_{n},t_{n+1},\dots ,t_{K-1})\end{aligned}}}
+  bestimmt wird. Dies kann so eingerichtet werden, dass die Funktionswerte von f sich in den zuletzt ausgewerteten Zwischenergebnissen befinden, d. h. am Ende wird noch 
+  
+    
+      
+        (
+        
+          y
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          y
+          
+            m
+          
+        
+        )
+        =
+        (
+        
+          t
+          
+            K
+            −
+            m
+            +
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          t
+          
+            K
+          
+        
+        )
+      
+    
+    {\displaystyle (y_{1},\dots ,y_{m})=(t_{K-m+1},\dots ,t_{K})}
+   zugeordnet.
+AD beschreibt eine Menge von Verfahren, deren Ziel es ist, ein neues Programm zu erzeugen, das die Jacobimatrix von f, 
+  
+    
+      
+        J
+        =
+        
+          
+            
+              
+                ∂
+                f
+              
+              
+                ∂
+                x
+              
+            
+          
+        
+        ∈
+        
+          
+            R
+          
+          
+            m
+            ×
+            n
+          
+        
+      
+    
+    {\displaystyle J={\tfrac {\partial f}{\partial x}}\in \mathbb {R} ^{m\times n}}
+   auswertet.  Die Eingabevariablen x heißen unabhängige Variablen, die Ausgabevariable(n) y abhängige Variablen. Bei AD unterscheidet man mindestens zwei verschiedene Modi.
+
+Vorwärtsmodus (engl. Forward Mode)
+Rückwärtsmodus (engl. Reverse Mode)
+
+
+=== Vorwärtsmodus ===
+Im Vorwärtsmodus berechnet man das Matrizenprodukt
+
+  
+    
+      
+        J
+        S
+        ,
+         
+        S
+        ∈
+        
+          
+            R
+          
+          
+            n
+            ×
+            p
+          
+        
+      
+    
+    {\displaystyle JS,~S\in \mathbb {R} ^{n\times p}}
+  der Jacobi-Matrix mit einer beliebigen Matrix 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   (Seedmatrix), ohne vorher die Komponenten der Jacobi-Matrix zu bestimmen.
+
+
+==== Beispiel 1 ====
+
+  
+    
+      
+        p
+        =
+        n
+        
+        
+          und
+        
+        
+        S
+        =
+        
+          I
+          
+            n
+          
+        
+        ⇒
+      
+    
+    {\displaystyle p=n\quad {\text{und}}\quad S=I_{n}\Rightarrow }
+   AD berechnet JIm Vorwärtsmodus werden Richtungsableitungen entlang des Kontrollflusses der Berechnung von f transportiert. Für jede skalare Variable v wird in dem AD-erzeugten Code ein Vektor Dv erzeugt, dessen i-te Komponente die Richtungsableitung entlang der i-ten unabhängigen Variablen enthält.
+
+
+==== Beispiel 2 ====
+Berechne eine Funktion
+
+ 
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                [
+                
+                  y
+                  
+                    1
+                  
+                
+                ,
+                
+                  y
+                  
+                    2
+                  
+                
+                ,
+                b
+                ]
+                =
+                f
+                
+                  (
+                  
+                    
+                      x
+                      
+                        1
+                      
+                    
+                    ,
+                    
+                      x
+                      
+                        2
+                      
+                    
+                    ,
+                    a
+                  
+                  )
+                
+                
+                  {
+                  
+                  
+                
+              
+            
+            
+              
+              
+                
+                b
+                =
+                
+                  x
+                  
+                    1
+                  
+                
+                +
+                
+                  x
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+              
+                
+                
+                  y
+                  
+                    1
+                  
+                
+                =
+                a
+                ⋅
+                sin
+                ⁡
+                (
+                b
+                )
+              
+            
+            
+              
+              
+                
+                
+                  y
+                  
+                    2
+                  
+                
+                =
+                b
+                ⋅
+                
+                  y
+                  
+                    1
+                  
+                
+              
+            
+            
+              
+              
+                
+                  
+                  
+                  }
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&[y_{1},y_{2},b]=f\left(x_{1},x_{2},a\right)\left\{\right.\\&\quad b=x_{1}+x_{2}\\&\quad y_{1}=a\cdot \sin(b)\\&\quad y_{2}=b\cdot y_{1}\\&\left.\right\}\end{aligned}}}
+  
+
+Eine automatische Differentiation im Vorwärtsmodus hätte eine Funktion
+
+ 
+  
+    
+      
+        [
+        
+          y
+          
+            1
+          
+        
+        ,
+        
+          y
+          
+            2
+          
+        
+        ,
+        D
+        
+          y
+          
+            1
+          
+        
+        ,
+        D
+        
+          y
+          
+            2
+          
+        
+        ,
+        b
+        ]
+        =
+        
+          f
+          
+            A
+            D
+          
+        
+        
+          (
+          
+            
+              x
+              
+                1
+              
+            
+            ,
+            
+              x
+              
+                2
+              
+            
+            ,
+            D
+            
+              x
+              
+                1
+              
+            
+            ,
+            D
+            
+              x
+              
+                2
+              
+            
+            ,
+            a
+          
+          )
+        
+      
+    
+    {\displaystyle [y_{1},y_{2},Dy_{1},Dy_{2},b]=f_{AD}\left(x_{1},x_{2},Dx_{1},Dx_{2},a\right)}
+  
+
+zum Ergebnis:
+
+ 
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                [
+                
+                  y
+                  
+                    1
+                  
+                
+                ,
+                
+                  y
+                  
+                    2
+                  
+                
+                ,
+                D
+                
+                  y
+                  
+                    1
+                  
+                
+                ,
+                D
+                
+                  y
+                  
+                    2
+                  
+                
+                ,
+                b
+                ]
+                =
+                
+                  f
+                  
+                    A
+                    D
+                  
+                
+                
+                  (
+                  
+                    
+                      x
+                      
+                        1
+                      
+                    
+                    ,
+                    
+                      x
+                      
+                        2
+                      
+                    
+                    ,
+                    D
+                    
+                      x
+                      
+                        1
+                      
+                    
+                    ,
+                    D
+                    
+                      x
+                      
+                        2
+                      
+                    
+                    ,
+                    a
+                  
+                  )
+                
+                
+                  {
+                  
+                  
+                
+              
+            
+            
+              
+              
+                
+                b
+                =
+                
+                  x
+                  
+                    1
+                  
+                
+                +
+                
+                  x
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+              
+                
+                D
+                b
+                =
+                D
+                
+                  x
+                  
+                    1
+                  
+                
+                +
+                D
+                
+                  x
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+              
+                
+                
+                  y
+                  
+                    1
+                  
+                
+                =
+                a
+                ⋅
+                sin
+                ⁡
+                (
+                b
+                )
+              
+            
+            
+              
+              
+                
+                D
+                
+                  y
+                  
+                    1
+                  
+                
+                =
+                a
+                ⋅
+                cos
+                ⁡
+                (
+                b
+                )
+                ⋅
+                D
+                b
+              
+            
+            
+              
+              
+                
+                
+                  y
+                  
+                    2
+                  
+                
+                =
+                b
+                ⋅
+                
+                  y
+                  
+                    1
+                  
+                
+              
+            
+            
+              
+              
+                
+                D
+                
+                  y
+                  
+                    2
+                  
+                
+                =
+                D
+                b
+                ⋅
+                
+                  y
+                  
+                    1
+                  
+                
+                +
+                b
+                ⋅
+                D
+                
+                  y
+                  
+                    1
+                  
+                
+              
+            
+            
+              
+              
+                
+                  
+                  
+                  }
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&[y_{1},y_{2},Dy_{1},Dy_{2},b]=f_{AD}\left(x_{1},x_{2},Dx_{1},Dx_{2},a\right)\left\{\right.\\&\quad b=x_{1}+x_{2}\\&\quad Db=Dx_{1}+Dx_{2}\\&\quad y_{1}=a\cdot \sin(b)\\&\quad Dy_{1}=a\cdot \cos(b)\cdot Db\\&\quad y_{2}=b\cdot y_{1}\\&\quad Dy_{2}=Db\cdot y_{1}+b\cdot Dy_{1}\\&\left.\right\}\end{aligned}}}
+  
+
+
+=== Rückwärtsmodus ===
+Der Rückwärtsmodus besteht aus zwei Phasen.
+
+Das Originalprogramm wird ausgeführt und gewisse Daten werden abgespeichert.
+Das Originalprogramm wird rückwärts ausgeführt. Dabei werden Richtungsableitungen transportiert und es werden die Daten aus Phase 1 verwendet.In Phase 2 wird für jede skalare Variable v ein Vektor 
+  
+    
+      
+        
+          a
+          
+            v
+          
+        
+      
+    
+    {\displaystyle a_{v}}
+   eingeführt. Dieser Vektor enthält in der i-ten Komponente die i-te Richtungsableitung (in Richtung von v). Die Saatmatrix befindet sich in 
+  
+    
+      
+        
+          a
+          
+            y
+          
+        
+      
+    
+    {\displaystyle a_{y}}
+  . Im Rückwärtsmodus erhält man als Ergebnis ein Produkt
+
+  
+    
+      
+        S
+        J
+        ,
+        S
+        ∈
+        
+          
+            R
+          
+          
+            p
+            ×
+            m
+          
+        
+      
+    
+    {\displaystyle SJ,S\in \mathbb {R} ^{p\times m}}
+  
+
+
+==== Beispiel 1 ====
+
+  
+    
+      
+        p
+        =
+        m
+        
+        
+          und
+        
+        
+        S
+        =
+        
+          I
+          
+            m
+            ×
+            m
+          
+        
+        
+        ⟹
+        
+      
+    
+    {\displaystyle p=m\quad {\text{und}}\quad S=I_{m\times m}\implies }
+   AD berechnet J
+
+
+==== Beispiel 2 ====
+Für jede Rechenvorschriftszeile 
+  
+    
+      
+        s
+        =
+        g
+        
+          (
+          
+            u
+            ,
+            v
+          
+          )
+        
+      
+    
+    {\displaystyle s=g\left(u,v\right)}
+   werden die Ableitungen von u und v auf folgendem Wege von s ergänzt:
+
+  
+    
+      
+        
+          
+            
+              
+                a
+                _
+                u
+              
+              
+                
+                =
+                a
+                _
+                u
+                +
+                
+                  
+                    
+                      ∂
+                      g
+                    
+                    
+                      ∂
+                      u
+                    
+                  
+                
+                a
+                _
+                s
+              
+            
+            
+              
+                a
+                _
+                v
+              
+              
+                
+                =
+                a
+                _
+                v
+                +
+                
+                  
+                    
+                      ∂
+                      g
+                    
+                    
+                      ∂
+                      v
+                    
+                  
+                
+                a
+                _
+                s
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}a\_u&=a\_u+{\frac {\partial g}{\partial u}}a\_s\\a\_v&=a\_v+{\frac {\partial g}{\partial v}}a\_s\end{aligned}}}
+  Gesucht sind die 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle x_{1}}
+  - und 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x_{2}}
+  -Ableitungen von 
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+      
+    
+    {\displaystyle y_{2}}
+  .
+Diese werden jeweils als 
+  
+    
+      
+        a
+        _
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle a\_x_{1}}
+   und 
+  
+    
+      
+        a
+        _
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a\_x_{2}}
+   bezeichnet.
+Der Wert 
+  
+    
+      
+        a
+        _
+        
+          y
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a\_y_{2}}
+   wird mit 1 initialisiert,
+alle anderen 
+  
+    
+      
+        a
+        
+          _
+          
+            …
+          
+        
+      
+    
+    {\displaystyle a\__{\ldots }}
+  -Werte werden mit 0 initialisiert.
+
+  
+    
+      
+        
+          
+            
+              
+                b
+              
+              
+                
+                =
+                
+                  x
+                  
+                    1
+                  
+                
+                +
+                
+                  x
+                  
+                    2
+                  
+                
+              
+              
+              
+                
+                (
+                1
+                )
+              
+            
+            
+              
+                
+                  y
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                a
+                ⋅
+                sin
+                ⁡
+                (
+                b
+                )
+              
+              
+              
+                
+                (
+                2
+                )
+              
+            
+            
+              
+                
+                  y
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                b
+                ⋅
+                
+                  y
+                  
+                    1
+                  
+                
+              
+              
+              
+                
+                (
+                3
+                )
+              
+            
+            
+              
+                
+                   aus (3) :
+                
+              
+              
+            
+            
+              
+                a
+                _
+                b
+              
+              
+                
+                =
+                a
+                _
+                b
+                +
+                
+                  y
+                  
+                    1
+                  
+                
+                ⋅
+                a
+                _
+                
+                  y
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                a
+                _
+                
+                  y
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                a
+                _
+                
+                  y
+                  
+                    1
+                  
+                
+                +
+                b
+                ⋅
+                a
+                _
+                
+                  y
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                
+                   aus (2) :
+                
+              
+              
+            
+            
+              
+                a
+                _
+                b
+              
+              
+                
+                =
+                a
+                _
+                b
+                +
+                a
+                ⋅
+                cos
+                ⁡
+                (
+                b
+                )
+                ⋅
+                a
+                _
+                
+                  y
+                  
+                    1
+                  
+                
+              
+            
+            
+              
+                
+                   aus (1) :
+                
+              
+              
+            
+            
+              
+                a
+                _
+                
+                  x
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                a
+                _
+                
+                  x
+                  
+                    1
+                  
+                
+                +
+                1
+                ⋅
+                a
+                _
+                b
+              
+            
+            
+              
+                a
+                _
+                
+                  x
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                a
+                _
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                1
+                ⋅
+                a
+                _
+                b
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}b&=x_{1}+x_{2}&&(1)\\y_{1}&=a\cdot \sin(b)&&(2)\\y_{2}&=b\cdot y_{1}&&(3)\\{\text{ aus (3) :}}&\\a\_b&=a\_b+y_{1}\cdot a\_y_{2}\\a\_y_{1}&=a\_y_{1}+b\cdot a\_y_{2}\\{\text{ aus (2) :}}&\\a\_b&=a\_b+a\cdot \cos(b)\cdot a\_y_{1}\\{\text{ aus (1) :}}&\\a\_x_{1}&=a\_x_{1}+1\cdot a\_b\\a\_x_{2}&=a\_x_{2}+1\cdot a\_b\end{aligned}}}
+  
+
+
+=== Effizienzbetrachtungen ===
+Die Effizienz von AD-Algorithmen hängt vom Modus und dem Parameter p ab. Die Wahl des Modus und des Parameters p hängt davon ab, wofür die Jacobimatrix berechnet wird. Es bezeichne
+
+Für die beiden vorgestellten Modi gilt
+
+Vorwärtsmodus: 
+  
+    
+      
+        
+          
+            
+              T
+              
+                J
+                S
+              
+            
+            
+              T
+              
+                f
+              
+            
+          
+        
+        ≈
+        p
+        ,
+        
+          
+            
+              M
+              
+                J
+                S
+              
+            
+            
+              M
+              
+                f
+              
+            
+          
+        
+        ≈
+        p
+      
+    
+    {\displaystyle {T_{JS} \over T_{f}}\approx p,{M_{JS} \over M_{f}}\approx p}
+  
+Rückwärtsmodus: 
+  
+    
+      
+        
+          
+            
+              T
+              
+                S
+                J
+              
+            
+            
+              T
+              
+                f
+              
+            
+          
+        
+        ≈
+        p
+        ,
+        
+          
+            
+              M
+              
+                S
+                J
+              
+            
+            
+              M
+              
+                f
+              
+            
+          
+        
+        ≈
+        
+          T
+          
+            f
+          
+        
+      
+    
+    {\displaystyle {T_{SJ} \over T_{f}}\approx p,{M_{SJ} \over M_{f}}\approx T_{f}}
+  
+
+
+== Die Berechnung als Kette von Berechnungen ==
+Gegeben: 
+  
+    
+      
+        s
+        =
+        g
+        
+          (
+          
+            u
+            ,
+            v
+          
+          )
+        
+      
+    
+    {\displaystyle s=g\left(u,v\right)}
+  , Frage: Wie verändert sich die Ableitung von s während der zweiten Phase, um die Ableitungen von u und v zu erhalten?
+
+  
+  
+    
+      
+        a
+        _
+        u
+        =
+        a
+        _
+        u
+        +
+        
+          
+            
+              ∂
+              g
+            
+            
+              ∂
+              u
+            
+          
+        
+        a
+        _
+        s
+      
+    
+    {\displaystyle a\_u=a\_u+{\partial g \over \partial u}a\_s}
+  
+  
+  
+    
+      
+        a
+        _
+        v
+        =
+        a
+        _
+        v
+        +
+        
+          
+            
+              ∂
+              g
+            
+            
+              ∂
+              v
+            
+          
+        
+        a
+        _
+        s
+      
+    
+    {\displaystyle a\_v=a\_v+{\partial g \over \partial v}a\_s}
+  
+
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   wird als Sequenz von Programmen interpretiert. Im Beispiel „Optimierung eines Tragflügels“ umfasst die Berechnung die folgenden Schritte.
+
+Überlagerung des Tragflügels mit sogenannten „Mode-Funktionen“Berechnung eines Gitters, das um den Tragflügel herum gelegt wirdLösung der Navier-Stokes-Gleichungen auf dem Gitter und Berechnung der Integrals der selbigen..Insgesamt ergibt sich die Funktion
+
+  
+  
+    
+      
+        f
+        =
+        f
+        
+          (
+          
+            G
+            
+              (
+              
+                A
+                
+                  (
+                  x
+                  )
+                
+              
+              )
+            
+          
+          )
+        
+        →
+        
+          
+            
+              ∂
+              f
+            
+            
+              ∂
+              x
+            
+          
+        
+        =
+        
+          
+            
+              ∂
+              f
+            
+            
+              ∂
+              G
+            
+          
+        
+        
+          
+            
+              ∂
+              G
+            
+            
+              ∂
+              A
+            
+          
+        
+        
+          
+            
+              ∂
+              A
+            
+            
+              ∂
+              x
+            
+          
+        
+      
+    
+    {\displaystyle f=f\left(G\left(A\left(x\right)\right)\right)\rightarrow {\partial f \over \partial x}={\partial f \over \partial G}{\partial G \over \partial A}{\partial A \over \partial x}}
+  
+
+Mit einem naiven Ansatz würde man drei Matrizen 
+  
+    
+      
+        
+          
+            
+              ∂
+              f
+            
+            
+              ∂
+              G
+            
+          
+        
+      
+    
+    {\displaystyle {\partial f \over \partial G}}
+  ,
+  
+    
+      
+        
+          
+            
+              ∂
+              G
+            
+            
+              ∂
+              A
+            
+          
+        
+      
+    
+    {\displaystyle {\partial G \over \partial A}}
+  ,
+  
+    
+      
+        
+          
+            
+              ∂
+              A
+            
+            
+              ∂
+              x
+            
+          
+        
+      
+    
+    {\displaystyle {\partial A \over \partial x}}
+   berechnen und dann zwei Matrizenmultiplikationen durchführen. Der Nachteil des Vorwärtsmodus ist allerdings:
+
+  
+  
+    
+      
+        
+          T
+          
+            
+              
+                
+                  ∂
+                  f
+                
+                
+                  ∂
+                  G
+                
+              
+            
+            ⋅
+            S
+          
+        
+        ≈
+        17428
+        ⋅
+        
+          T
+          
+            f
+            
+              (
+              G
+              )
+            
+          
+        
+      
+    
+    {\displaystyle T_{{\partial f \over \partial G}\cdot S}\approx 17428\cdot T_{f\left(G\right)}}
+  
+
+im Rückwärtsmodus würde analog
+
+  
+  
+    
+      
+        
+          T
+          
+            S
+            ⋅
+            
+              
+                
+                  ∂
+                  f
+                
+                
+                  ∂
+                  G
+                
+              
+            
+          
+        
+        ≈
+        17428
+        ⋅
+        
+          T
+          
+            f
+            
+              (
+              G
+              )
+            
+          
+        
+      
+    
+    {\displaystyle T_{S\cdot {\partial f \over \partial G}}\approx 17428\cdot T_{f\left(G\right)}}
+  
+
+gelten. Ein besserer Ansatz ist, das Ergebnis einer Berechnung jeweils als Saatmatrix der folgenden einzusetzen.
+
+Wähle 
+  
+    
+      
+        
+          I
+          
+            8
+            x
+            8
+          
+        
+        ∈
+        
+          
+            R
+          
+          
+            8
+            x
+            8
+          
+        
+      
+    
+    {\displaystyle I_{8x8}\in \mathbb {R} ^{8x8}}
+   als Saatmatrix der ersten Rechnung
+Das Ergebnis der ersten Rechnung als Saatmatrix der zweiten Rechnung
+Das Ergebnis der zweiten Rechnung als Saatmatrix der dritten Rechnungalso
+
+  
+    
+      
+        
+          
+            
+              ∂
+              A
+            
+            
+              ∂
+              x
+            
+          
+        
+        
+          I
+          
+            8
+            ×
+            8
+          
+        
+        ∈
+        
+          
+            R
+          
+          
+            8
+            ×
+            200
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial A}{\partial x}}I_{8\times 8}\in \mathbb {R} ^{8\times 200}}
+  
+
+  
+    
+      
+        
+          
+            
+              ∂
+              G
+            
+            
+              ∂
+              A
+            
+          
+        
+        
+          
+            
+              ∂
+              A
+            
+            
+              ∂
+              x
+            
+          
+        
+        ∈
+        
+          
+            R
+          
+          
+            8
+            ×
+            17428
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial G}{\partial A}}{\frac {\partial A}{\partial x}}\in \mathbb {R} ^{8\times 17428}}
+  
+
+  
+    
+      
+        
+          
+            
+              ∂
+              f
+            
+            
+              ∂
+              G
+            
+          
+        
+        
+          
+            
+              ∂
+              G
+            
+            
+              ∂
+              x
+            
+          
+        
+        ∈
+        
+          
+            R
+          
+          
+            8
+            ×
+            1
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial f}{\partial G}}{\frac {\partial G}{\partial x}}\in \mathbb {R} ^{8\times 1}}
+  Da die Zeilenzahl jeder Matrix 8 (p=8) ist, erhöht sich der Zeit- und Speicherbedarf gegenüber der regulären Auswertung von 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+   um höchstens 8.
+
+
+== Literatur ==
+Andreas Griewank, Andrea Walther (2008): Evaluating Derivatives: Principles and Techniques of Algorithmic Differentiation, Second Edition, SIAM, xxii + 438 Seiten, ISBN 978-0-89871-659-7
+George F. Corliss; Andreas Griewank (1993): "Operator Overloading as an Enabling Technology for Automatic Differentiation" (PDF; 227 kB), Technical Report MCS-P358-0493, Mathematics and Computer Science Division, Argonne National Laboratory
+
+
+== Weblinks ==
+Portal autodiff.org mit Programmierwerkzeugen zum Thema
+Übersicht über Softwaretools

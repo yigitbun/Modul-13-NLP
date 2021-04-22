@@ -1,0 +1,60 @@
+Dysprosium(III)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide.
+
+
+== Geschichte ==
+Im Jahr 1878 wurden Erbiumerze entdeckt, die neben diesem auch Holmium- und Thulium(III)-oxid enthielten. Der französische Chemiker Paul Émile Lecoq de Boisbaudran konnte während der Arbeit mit Holmium(III)-oxid im Jahre 1886 in Paris noch Dysprosium(III)-oxid isolieren und entdeckte damit das Element Dysprosium.
+
+
+== Gewinnung und Darstellung ==
+Dysprosium(III)-oxid kann durch Verbrennung von Dysprosium an Luft gewonnen werden.
+
+  
+    
+      
+        
+          4
+           
+          D
+          y
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          D
+          
+            y
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ Dy+3\ O_{2}\longrightarrow 2\ Dy_{2}O_{3}} }
+  
+
+
+== Eigenschaften ==
+
+Dysprosium(III)-oxid ist ein weißes, leicht hygroskopisches Pulver, das unlöslich in Wasser und stark magnetisch ist. Es besitzt eine kubische Kristallstruktur. Es reagiert mit Säuren unter Kationenbildung, welche ihrerseits in Wasser schwach sauer reagieren.
+
+
+== Verwendung ==
+Dysprosium(III)-oxid wird für spezielle Zwecke in Glas, Leuchtstoffen, Lasern und Halogen-Metalldampflampen eingesetzt. Es wird weiterhin in Cermets für Kernreaktor-Steuerstäbe verwendet. Als Dotierungsmittel für Bariumtitanatoxid-Kondensatoren wird es für kleine Kondensatoren hoher Kapazität eingesetzt. Aufgrund seiner magnetischen Eigenschaften ist es für Motoren und Generatoren interessant.
+
+
+== Einzelnachweise ==

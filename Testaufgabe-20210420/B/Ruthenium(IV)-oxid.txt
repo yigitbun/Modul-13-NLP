@@ -1,0 +1,173 @@
+Ruthenium(IV)-oxid ist eine chemische Verbindung des Rutheniums aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Ruthenium(IV)-oxid kann zum Beispiel durch Hydrolyse von Rutheniumhalogeniden (z. B. Ruthenium(III)-chlorid) gewonnen werden.Einkristalle des Oxides lassen sich durch eine CVT-Methode (Chemical Vapor Transport) herstellen. Hierfür wird zunächst Ruthenium-Schwamm im Sauerstoffstrom bei 1000 °C zum polykristallinen Oxid umgesetzt. Dieses Oxid wird dann in einem 3-Zonen-Ofen im Sauerstoffstrom bei 1190 °C in ein flüchtiges Oxid überführt, welches sich dann in einer kälteren Region des Rohres bei 1090 °C wieder zu Sauerstoff und Ruthenium(IV)-oxid zersetzt, wobei 3 bis 4 mm große Einkristalle der Zielverbindung entstehen. Für die Umsetzung von 2 g des polykristallinen Ausgangsmaterials wird eine Reaktionszeit von etwa 15 Tagen benötigt.
+
+  
+    
+      
+        
+          2
+          
+          
+            RuO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          2
+          
+          
+            RuO
+            
+              3
+              
+              
+                (
+                g
+                )
+              
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2RuO2 + O2 <=> 2RuO_{3(g)}}}}
+  
+  
+    
+      
+        
+          
+            RuO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          
+            RuO
+            
+              4
+              
+              
+                (
+                g
+                )
+              
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {RuO2 + O2 <=> RuO_{4(g)}}}}
+  
+
+
+== Eigenschaften ==
+Wasserfreies Ruthenium(IV)-oxid ist blauschwarz und geruchlos. Es besitzt eine Rutil-Kristallstruktur.
+Daneben existiert auch eine schwarze, hydratisierte Form, welche oberhalb von 75 °C Kristallwasser abspaltet.
+
+
+== Verwendung ==
+Ruthenium(IV)-oxid wird für die Beschichtung von Titan-Anoden, wie sie beispielsweise für die Chloralkali-Elektrolyse benötigt werden, und  in der Elektronikindustrie verwendet.
+Außerdem wird Rutheniumoxid in Widerstandsthermometern für extrem tiefe Temperaturen verwendet.Weitere Anwendung findet es im Bereich der Mikroelektronik als Wirksubstanz in Widerstandspasten für die Dickschichttechnik.
+
+
+== Einzelnachweise ==

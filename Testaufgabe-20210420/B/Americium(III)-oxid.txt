@@ -1,0 +1,141 @@
+Americium(III)-oxid ist ein Oxid des Elements Americium. Es besitzt die Summenformel Am2O3. Da alle Isotope des Americiums nur künstlich hergestellt sind, besitzt Americium(III)-oxid keine natürlichen Vorkommen.
+
+
+== Darstellung ==
+Americium(III)-oxid kann durch thermische Zersetzung von Americium(IV)-oxid im Vakuum erhalten werden:
+
+  
+    
+      
+        
+          4
+          
+          
+            AmO
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              →
+              
+                Δ
+                T
+              
+            
+          
+          2
+          
+          
+            Am
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4 AmO2 ->[\Delta T] 2 Am2O3 + O2}}}
+  Ein weiterer Weg ist durch die Reduktion von Americium(IV)-oxid mit molekularem Wasserstoff gegeben:
+
+  
+    
+      
+        
+          2
+          
+          
+            AmO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            Am
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2 AmO2 + H2 -> Am2O3 + H2O}}}
+  
+
+
+== Eigenschaften ==
+Americium(III)-oxid ist ein rotbrauner Feststoff und hat einen Schmelzpunkt von 2205 °C. Es sind drei Modifikationen bekannt. Die α-Form kristallisiert im hexagonalen Kristallsystem in der Raumgruppe P3m1 (Raumgruppen-Nr. 156)Vorlage:Raumgruppe/156 und den Gitterparametern a = 380,5 pm und c = 596 pm. Die β-Form des Americium(III)-oxids weist ein monoklines Kristallsystem mit den Gitterparametern a = 1438 pm, b = 352 pm, c = 892 pm auf. Das in γ-Mangan(III)-oxid-Form kristallisierende γ-Americium(III)-oxid besitzt den Gitterparameter a = 1103 pm und die Raumgruppe Ia3 (Nr. 206)Vorlage:Raumgruppe/206.
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen und eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielen. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Wolfgang H. Runde, Wallace W. Schulz: Americium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 1265–1395 (doi:10.1007/1-4020-3598-5_8).

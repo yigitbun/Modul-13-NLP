@@ -1,0 +1,72 @@
+Chrom(VI)-oxid, auch Chromtrioxid (CrO3), ist ein Oxid des Chroms. Es ist ein dunkelroter Feststoff, der hygroskopisch und in Wasser leicht löslich ist. Die wässrige Lösung reagiert stark sauer (Chromsäure). Von dem Stoff geht eine Reihe von Gefahren aus.
+
+
+== Eigenschaften ==
+
+Chrom(VI)-oxid bildet rotviolette, geruchlose, nadelförmige Kristalle. In viel Wasser löst es sich unter Bildung von gelber Chromsäure (H2CrO4). In wenig Wasser bilden sich auch kondensierte Chromsäuren. 
+Beim Glühen von Chrom(VI)-oxid zersetzt es sich und bildet Chrom(III)-oxid und Sauerstoff:
+
+  
+    
+      
+        
+          4
+           
+          C
+          r
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          2
+           
+          C
+          
+            r
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ CrO_{3}\longrightarrow 2\ Cr_{2}O_{3}+3\ O_{2}} }
+  Chrom(VI)-oxid ist ein sehr gutes Oxidationsmittel, das z. B. mit Ethanol oder anderen organischen Stoffen explosionsartig reagiert.
+Die Kristallstruktur von Chrom(VI)-oxid besteht aus Ketten eckenverknüpfter Tetraeder, die deutlich in Kettenrichtung verzerrt sind.
+
+
+== Synthese/Darstellung ==
+Chrom(VI)-oxid wird durch Ausfällen aus einer konzentrierten Chromatlösung mit konzentrierter Schwefelsäure hergestellt.
+
+
+== Verwendung ==
+In der Galvanotechnik, in Holzschutzmitteln, zur Herstellung von Chrom(IV)-oxid, Kaliumdichromat und Ammoniumdichromat, als starkes Oxidationsmittel (Jones-Oxidation).
+Bei unfachmännischer Gerbung wird bzw. wurde Chrom VI verwendet.
+
+
+== Sicherheitshinweise und gesetzliche Regelungen ==
+Chrom(VI)-oxid ist brandfördernd und erhöht die Feuergefahr bei Berührung mit brennbaren Stoffen. Beim Mischen mit brennbaren Substanzen besteht Explosionsgefahr. Chrom(VI)-oxid ist sehr giftig, bereits 0,6 g, oral eingenommen, können tödlich sein. Beim Verschlucken sind Verdauungsstörungen, Nierenschäden, Krämpfe und Lähmungen die Folge. Wässrige Lösungen von Chrom(VI)-oxid sind stark ätzend. Auch der Feststoff führt bei Kontakt mit Haut und Schleimhäuten zu schweren Verätzungen. Chrom(VI)-oxid ist umweltgefährlich und stark wassergefährdend (Wassergefährdungsklasse 3).
+Es wurde im Dezember 2010 aufgrund seiner Einstufung als krebserzeugend (Carc. 1A) und mutagen (Muta. 1B) in die Kandidatenliste der besonders besorgniserregenden Stoffe (Substance of very high concern, SVHC) aufgenommen.
+Im April 2013 wurde Chrom(VI)-oxid danach in das Verzeichnis der zulassungspflichtigen Stoffe mit dem Ablauftermin für die Verwendung in der EU zum 21. September 2017 aufgenommen.
+Als Chrom(VI)-Verbindung unterliegt Chrom(VI)-oxid außerdem den Beschränkungen im Anhang XVII, Nummer 47 und 72 der REACH-Verordnung (in Deutschland umgesetzt durch die Chemikalien-Verbotsverordnung).
+
+
+== Einzelnachweise ==

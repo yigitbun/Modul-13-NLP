@@ -1,0 +1,192 @@
+Silber(I)-oxid (Ag2O) ist eine chemische Verbindung aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Silber(I)-oxid ist das Reaktionsprodukt des Edelmetalls Silber mit Sauerstoff.
+
+  
+    
+      
+        
+          4
+           
+          A
+          g
+          +
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          A
+          
+            g
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {4\ Ag+\ O_{2}\longrightarrow 2\ Ag_{2}O} }
+  Man gießt zu Silbernitrat-Lösung Natronlauge oder Kalilauge. Silberoxid fällt im Alkalischen als brauner Niederschlag aus:
+
+  
+    
+      
+        
+          2
+           
+          A
+          
+            g
+            
+              +
+            
+          
+          +
+          2
+           
+          O
+          
+            H
+            
+              −
+            
+          
+          ⟶
+           
+          A
+          
+            g
+            
+              2
+            
+          
+          O
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ Ag^{+}+2\ OH^{-}\longrightarrow \ Ag_{2}O+\ H_{2}O} }
+  
+
+
+== Eigenschaften ==
+Silber(I)-oxid ist ein braunes Pulver, das bei Einwirkung von Sonnenlicht nachdunkelt. Feuchtes Silber(I)-oxid ist sehr
+wenig lichtempfindlich und zersetzt sich beim Trocknen etwas. Es besitzt eine Kristallstruktur vom Cu2O-Typ mit der Raumgruppe Pn3m (Raumgruppen-Nr. 224)Vorlage:Raumgruppe/224 (a = 475,2 pm) und eine Bildungsenthalpie von −30,5 kJ/mol.
+Aufschlämmungen von Silberoxid in Wasser reagieren deutlich alkalisch, da in Umkehrung der obigen Reaktion Silber- und Hydroxidionen gebildet werden.
+In Umkehrung der Synthesereaktion wird Silber(I)-oxid beim Erhitzen wieder in die Elemente Silber und Sauerstoff zersetzt (Thermolyse).
+
+  
+    
+      
+        
+          2
+           
+          A
+          
+            g
+            
+              2
+            
+          
+          O
+           
+          
+            
+              →
+              
+                Δ
+                
+                  
+                    T
+                  
+                
+              
+            
+          
+           
+          4
+           
+          A
+          g
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Ag_{2}O\ {\xrightarrow {\Delta {\mathit {T}}}}\ 4\ Ag+O_{2}} }
+  An der Luft reagiert Silber(I)-oxid mit Kohlenstoffdioxid zu Silbercarbonat:
+
+  
+    
+      
+        
+          A
+          
+            g
+            
+              2
+            
+          
+          O
+          +
+           
+          C
+          
+            O
+            
+              2
+            
+          
+          ⟶
+           
+          A
+          
+            g
+            
+              2
+            
+          
+          C
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Ag_{2}O+\ CO_{2}\longrightarrow \ Ag_{2}CO_{3}} }
+  
+
+
+== Verwendung ==
+In der präparativen organischen Chemie wird Silber(I)-oxid in einer Variante der Williamson-Ethersynthese verwendet.
+
+Silber(I)-oxid ist in Wärmeleitpaste zur Weiterleitung der Prozessorwärme an den Kühlkörpern im Computer enthalten, da es eine hohe Wärmeleitfähigkeit besitzt.
+Silber(I)-oxid ist Bestandteil der Silberoxid-Zink-Batterie, die in Armbanduhren und anderen Kleingeräten eingesetzt wird.
+
+
+== Einzelnachweise ==

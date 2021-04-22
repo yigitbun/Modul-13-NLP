@@ -1,0 +1,28 @@
+Ex ante ist die zeitliche Perspektive in Analysen oder Beurteilungen, die künftige Ereignisse, Sachverhalte oder Zustände bewerten sollen. 
+
+
+== Allgemeines ==
+Ex ante bedeutet in deutsch „im Voraus, von vorneherein“, ex post bedeutet in deutsch „im Nachhinein, nachträglich“. Beide lateinischen Wortpaare betreffen den Zeitpunkt, an welchem ein Ereignis oder Sachverhalt betrachtet wird. Soll beispielsweise die künftige Marktentwicklung eines Börsenkurses prognostiziert werden, liegt eine „ex ante“-Analyse vor. Wie sich später der Börsenkurs rückwirkend betrachtet in der Vergangenheit tatsächlich verändert hat, ist Aufgabe einer „ex post“-Analyse. Insbesondere Rechtswissenschaft und Wirtschaftswissenschaften befassen sich häufig mit diesen zeitlichen Perspektiven.
+
+
+== Rechtswissenschaft ==
+Beispielsweise wird im deutschen Insolvenzrecht der Gläubigerschutz präventiv („ex ante“) und nachträglich („ex post“) betrieben. Als Zeitpunkt gilt hierbei etwa die Unternehmenskrise oder der Insolvenzantrag des Unternehmens. Dem präventiven Gläubigerschutz dienen beispielsweise Ausschüttungssperre, Mindestkapital oder Kreditsicherheiten und sonstige Maßnahmen (etwa Sanierung), um einer Krise der Gesellschaft vorzubeugen. Ist das Unternehmen in die Insolvenz geraten, greift noch der „ex post“-Gläubigerschutz wie etwa die Eigenkapitalersatzregeln (§ 39 Abs. 1 InsO), Aussonderungsrecht (§ 47 InsO) oder die Insolvenzanfechtung (etwa aus § 135 Abs. 1 InsO). Erkennbar ist eine Entwicklung, den Gläubigerschutz „ex post“ in das Stadium der Insolvenz zu verlagern. Im US-Insolvenzrecht findet der Gläubigerschutz überwiegend „ex post“ über das Eigenkapitalersatzrecht (§ 519 c US-Bankruptcy code), die Durchgriffshaftung, die Insolvenzanfechtung und über Treuepflichten der Unternehmensführung gegenüber den Gläubigern statt.
+
+
+== Wirtschaftswissenschaften ==
+Zur Kennzeichnung der unterschiedlichen Betrachtungsweisen führte die Wirtschaftswissenschaft das Begriffspaar „ex ante“ und „ex post“ in die Theorie ein. Ex ante-Größen sind entsprechend am Anfang einer Rechnungsperiode erwartete oder geplante Größen, ex post-Größen sind am Ende der Periode realisierte Größen.In den Wirtschaftswissenschaften kommt es unter anderem darauf an, zu welchem Zeitpunkt eine getroffene Entscheidung beurteilt wird. Zum Zeitpunkt der Entscheidung geht der Entscheidungsträger davon aus, dass die mit seiner Entscheidung verbundenen Erwartungen sich in Zukunft erfüllen werden („ex ante“-Betrachtung); er hat hierzu die Eintrittswahrscheinlichkeiten künftiger Ereignisse geprüft. Hat sich die Entscheidung auf den Umweltzustand ausgewirkt, kann „ex post“ nachträglich beurteilt werden, ob und inwieweit sich die ökonomischen Größen tatsächlich durch die getroffene Entscheidung erwartungsgemäß verändert haben.
+Fehlinvestitionen sind das klassische Beispiel in den Wirtschaftswissenschaften für die Erklärung der ex ante- und ex post-Betrachtung. Bei einer Investitionsentscheidung geht der Entscheidungsträger davon aus, dass die im Investitionsplan enthaltenen Erwartungen auch eintreffen werden („ex ante“). Bei einer Erweiterungsinvestition wird beispielsweise erwartet, dass diese voll ausgelastet wird. Die Entscheidung wird umgesetzt und zeigt sich in der Bilanz als Erhöhung des Anlagevermögens. Später kommt es jedoch unerwartet zu einer Rezession mit einem Nachfragerückgang, der eine Unterbeschäftigung der Investition mit sich bringt. Die Umsatzerlöse reichen nicht mehr zur Amortisation der Investition aus. Im Nachhinein („ex post“) stellt sich die Investitionsentscheidung als Fehlentscheidung und die Investition als Fehlinvestition heraus.
+Die durch die vergangene Entscheidung verursachten Kosten waren zum Entscheidungszeitpunkt („ex ante“) entscheidungsrelevante Kosten und werden dann zu versunkenen Kosten, wenn auf sie in einer gegenwärtigen oder künftigen Entscheidungssituation nicht mehr Einfluss ausgeübt werden kann und sie sich nachträglich als irreversible Kosten herausstellen („ex post“).Bei Abweichungsanalysen werden vor allem zwei Abweichungen untersucht, die ex ante- und die ex post-Abweichungen. Ex ante-Abweichungen sind die Unterschiede aus dem Vergleich geplanter Größen und den später beobachteten Ist-Größen. Ex post-Abweichungen sind die Differenzen aus im Nachhinein festgelegten Größen und den Ist-Größen derselben Periode. Diese Unterscheidung spielt unter anderem bei der Preisabweichung eine Rolle, wo die Differenz zwischen den Ist- und den Sollkosten, also zwischen geplanten und tatsächlichen Kosten der Produktionsfaktoren untersucht wird.   
+
+
+== Siehe auch ==
+ex nunc („von nun an“)
+ex tunc („von Anfang an“)
+Latein im Recht
+Rückschaufehler, schränkt die Qualität einer Ex-ante-Sicht ein, soweit er auftritt
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

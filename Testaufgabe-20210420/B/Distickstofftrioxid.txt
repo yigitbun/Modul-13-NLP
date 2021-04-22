@@ -1,0 +1,106 @@
+Distickstofftrioxid ist eine chemische Verbindung mit der Formel N2O3 aus der Gruppe der Stickoxide. Es ist das formale Anhydrid der Salpetrigen Säure. Unterhalb von 3 °C liegt es als tiefblaue Flüssigkeit vor, die bei −100,7 °C zu einem blassblauen Feststoff erstarrt.
+
+
+== Eigenschaften ==
+Distickstofftrioxid ist bei Normdruck oberhalb von −40 °C instabil, da es beim Sieden in Stickstoffmonoxid NO und Stickstoffdioxid NO2 (bzw. dessen Dimer N2O4) dissoziiert. Dadurch steigt der Siedepunkt der Mischung bis auf +3 °C an.
+
+ΔfH0gas: 91,2 kJ·mol−1
+S0gas, 1 bar: 314,63 J·(mol·K)−1
+
+
+== Herstellung ==
+Distickstofftrioxid wird durch Kontakt gleicher Mengen Stickstoffmonoxid (NO) und Stickstoffdioxid (NO2) erzeugt, wobei die Mischung unter −21 °C abgekühlt wird. Die beiden Gase reagieren miteinander und verbinden sich zu der tiefblauen Flüssigkeit Distickstofftrioxid mit der Formel N2O3.
+Eine bequeme Herstellungsmethode ist, pulverförmiges Arsentrioxid mit Salpetersäure zu versetzen:
+
+  
+    
+      
+        
+          2
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          +
+          A
+          
+            s
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          A
+          s
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ HNO_{3}+As_{2}O_{3}+2\ H_{2}O\longrightarrow 2\ H_{3}AsO_{4}+N_{2}O_{3}} }
+  Es entsteht auch bei 20 °C als Gas, wenn man festes Natriumnitrit in konz. Salpetersäure reagieren lässt.
+
+
+== Verwendung ==
+Distickstofftrioxid ist das Anhydrid der Salpetrigen Säure HNO2. Diese entsteht auch, wenn Distickstofftrioxid in Wasser (H2O) eingebracht wird. Sie zerfällt jedoch bei nicht zeitnaher Weiterverarbeitung zu Stickstoffmonoxid NO sowie Salpetersäure HNO3. Nitrite, die Salze der Salpetrigen Säure, werden manchmal durch Zugabe von Distickstofftrioxid zu den jeweiligen Basen hergestellt.
+
+
+== Sicherheitshinweise ==
+Die  Zerfallsprodukte von Distickstofftrioxid sind giftig beim Einatmen.
+Bei Kontakt mit dem Auge sind schwere Schädigungen die Folge.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Datenblatt über Stickstoffoxide bei der Australischen Regierung
+Distickstofftrioxid bei Webelements
+Oxides of nitrogen - synthesis and uses
+Ivtantermo - dinitrogen trioxide table of values

@@ -1,0 +1,343 @@
+Rhenium(VI)-oxid ReO3 ist eine chemische Verbindung und zählt zu den Oxiden des Rheniums. Es ist ein roter kristalliner Feststoff. Bekannt ist Rhenium(VI)-oxid vor allem wegen seiner Kristallstruktur, die als Strukturtyp verwendet wird. Rhenium(VI)-oxid ist das einzige stabile Oxid der Mangangruppe in der Oxidationsstufe +VI.
+
+
+== Gewinnung und Darstellung ==
+Rhenium(VI)-oxid lässt sich durch Reduktion aus Rhenium(VII)-oxid gewinnen. Die Reaktion ist beispielsweise mit Kohlenstoffmonoxid bei etwa 200 °C oder elementarem Rhenium bei 400 °C möglich.
+
+  
+    
+      
+        
+          
+            Re
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              7
+            
+            
+              
+            
+          
+          +
+          CO
+          ⟶
+          2
+          
+          
+            ReO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Re2O7 + CO -> 2ReO3 + CO2}}}
+  
+
+  
+    
+      
+        
+          3
+          
+          
+            Re
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              7
+            
+            
+              
+            
+          
+          +
+          Re
+          ⟶
+          7
+          
+          
+            ReO
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {3Re2O7 + Re -> 7ReO3}}}
+  Rhenium(VI)-oxid kann durch Reaktion von Rhenium(VII)-oxid mit Dioxan und Wasser bei leichter Erwärmung gewonnen werden. Der als Zwischenprodukt entstehende Dioxankomplex wird bei 145 °C zersetzt, wobei der Komplex bei etwa 100 °C zunächst zu einer farblosen bis blaugrünen Flüssigkeit schmilzt, welche sich nach kurzer Zeit zu rotem Rhenium(VI)-oxid und flüchtigen Rhenium-freien Produkten zersetzt.
+
+  
+    
+      
+        
+          
+            Re
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              7
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          2
+          
+          
+            C
+            
+              4
+            
+            
+              
+            
+          
+          
+            H
+            
+              8
+            
+            
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            Re
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              7
+            
+            
+              
+            
+          
+          ⋅
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⋅
+          2
+          
+          
+            C
+            
+              4
+            
+            
+              
+            
+          
+          
+            H
+            
+              8
+            
+            
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Re2O7 + 2H2O + 2C4H8O2 -> Re2O7.2H2O.2C4H8O2}}}
+  
+
+  
+    
+      
+        
+          
+            Re
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              7
+            
+            
+              
+            
+          
+          ⋅
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⋅
+          2
+          
+          
+            C
+            
+              4
+            
+            
+              
+            
+          
+          
+            H
+            
+              8
+            
+            
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            ReO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          Zersetzungsprodukte
+        
+      
+    
+    {\displaystyle {\ce {Re2O7.2H2O.2C4H8O2 -> 2ReO3 + Zersetzungsprodukte}}}
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Rhenium(VI)-oxid ist ein feuchtigkeitsempfindlicher roter, purpurroter bis violetter geruchloser Feststoff, mit grünen Glanz im Durchlicht.Rhenium(VI)-oxid besitzt eine charakteristische Kristallstruktur, die der Perowskit-Struktur ähnelt. Von dieser unterscheidet es sich nur durch das fehlende Zentralatom (bei Perowskit Calcium). Dabei ist jedes Rheniumatom oktaedrisch von Sauerstoffatomen umgeben, während sich die Sauerstoffatome jeweils zwischen zwei Rheniumatomen befinden. Es ist somit eine kubisch primitive Einheitszelle mit der Raumgruppe Pm3m (Raumgruppen-Nr. 221)Vorlage:Raumgruppe/221 und dem Gitterparameter a = 374,8 pm.Rhenium(VI)-oxid hat einige metallische Eigenschaften, so ist der spezifische Widerstand sehr niedrig und nimmt mit fallenden Temperaturen ab. Auch hat Rhenium(VI)-oxid metallischen Glanz.
+
+
+=== Chemische Eigenschaften ===
+Rhenium(VI)-oxid ist in Wasser, sowie verdünnten Säuren und Basen nicht löslich. Beim Kochen in heißen Laugen disproportioniert es in ReO2 und ReO4−.
+Er reagiert mit Sauerstoff bei erhöhter Temperatur zu Rhenium(VII)-oxid. In konzentrierter Salpetersäure erfolgt Reaktion zu Perrheniumsäure. Er disproportioniert im Vakuum bei Temperaturen über 300 °C zu Rhenium(IV)-oxid und Rhenium(VII)-oxid.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. Walter de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1.
+N. N. Greenwood, A. Earnshaw: Chemie der Elemente. 1. Auflage. VCH Verlagsgesellschaft, 1988, ISBN 3-527-26169-9
+
+
+== Weblinks ==
+Rhenium(VI)-oxid bei webelements.com

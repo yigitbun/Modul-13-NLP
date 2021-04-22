@@ -1,0 +1,261 @@
+Distickstoffpentoxid ist das Anhydrid der Salpetersäure und gehört zur Gruppe der Stickoxide.
+
+
+== Darstellung ==
+Distickstoffpentoxid kann aus Salpetersäure durch Entwässern mit Phosphorpentoxid gewonnen werden.
+
+  
+    
+      
+        
+          6
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            P
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+           
+          ⟶
+           
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              4
+            
+          
+          +
+          3
+           
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {6\ HNO_{3}+P_{2}O_{5}\ \longrightarrow \ 2\ H_{3}PO_{4}+3\ N_{2}O_{5}} }
+  
+Salpetersäure reagiert mit Diphosphorpentaoxid zu Phosphorsäure und Distickstoffpentaoxid.Andere Möglichkeiten der Herstellung bestehen in der Umsetzung von salzartigen Nitraten oder konzentrierter Salpetersäure mit Nitrylfluorid (NO2F) oder von letzterer mit Fluorwasserstoff oder durch Oxidation des in der Gasphase dimer als N2O4 vorliegenden NO2 mit Ozon.
+
+  
+    
+      
+        
+          2
+           
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ NO_{2}+O_{3}\longrightarrow N_{2}O_{5}+O_{2}} }
+  Ab 1983 erfolgt die technische Synthese meist durch Elektrolyse von Salpetersäure in Anwesenheit von Distickstofftetroxid.
+
+  
+    
+      
+        
+          2
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ HNO_{3}\longrightarrow N_{2}O_{5}+H_{2}O} }
+  
+
+
+== Eigenschaften ==
+
+Distickstoffpentoxid bildet farblose Kristalle, die sich mit Wasser heftig zu Salpetersäure zersetzen.
+
+  
+    
+      
+        
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⟶
+           
+          2
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {N_{2}O_{5}+H_{2}O\ \longrightarrow \ 2\ HNO_{3}} }
+  
+Distickstoffpentoxid reagiert mit Wasser zu Salpetersäure.Die Verbindung ist löslich in Chloroform, Tetrachlormethan, Trichlorfluormethan und Sulfolan, jedoch müssen die Lösungen auf mindestens 0 °C gekühlt werden. Sie zersetzt sich bei Raumtemperatur zu NO2 und O2. Die Halbwertszeit beträgt bei 0 °C etwa 10 Tage, bei 20 °C etwa 10 Stunden. Bei schnellem Erhitzen erfolgt die Zersetzung oft explosionsartig.
+
+  
+    
+      
+        
+          2
+           
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+           
+          ⟶
+          4
+           
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ N_{2}O_{5}\ \longrightarrow 4\ NO_{2}+O_{2}} }
+  Im festen Aggregatzustand besitzt Distickstoffpentoxid die Ionenstruktur [NO2+][NO3−] und besitzt eine hexagonale Kristallstruktur mit der Raumgruppe P63/mmc (Raumgruppen-Nr. 194)Vorlage:Raumgruppe/194. Es hat sehr stark oxidierende Eigenschaften.
+
+
+== Verwendung ==
+Lösungen von reinem Distickstoffpentoxid in organischen Lösungsmitteln (z. B. Dichlormethan oder Trichlorfluormethan) stellen milde Nitrierungsmittel dar, die eine breite Anwendung gefunden haben.
+
+
+== Literatur ==
+Erwin Riedel: Anorganische Chemie. 5. Auflage. De Gruyter, Berlin 2002, ISBN 3-11-017439-1.
+
+
+== Einzelnachweise ==

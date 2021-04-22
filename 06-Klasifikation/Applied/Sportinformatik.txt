@@ -1,0 +1,28 @@
+Die Sportinformatik ist ein Arbeitsfeld der Sportwissenschaften.
+Die Sportinformatik umfasst den Umgang mit sportbezogenen Daten. Zu den Kernaufgaben gehören:
+
+Datenaufnahme
+Datenanalyse
+Modellbildung und Simulation
+Datenbanken und Expertensysteme
+Präsentation
+KommunikationAufgrund ihrer breit angelegten Aufgaben kommt die Sportinformatik in vielen Bereichen des Sports und der Sportwissenschaft zum Einsatz, wie etwa:
+
+Motorisches Lernen
+Training und Wettkampf
+Biomechanische Bewegungsanalyse
+Information(-snetze) und Dokumentationen
+Sportwissenschaftliche Theoriebildung
+Entwicklung und Implementierung sportinformatischer Werkzeuge
+Ausbildung
+Entwicklung und Verbesserung von SportgerätenDie Sportinformatik ist als eigenständige Sektion in der Deutschen Vereinigung für Sportwissenschaft (dvs) vertreten.
+
+
+== Literatur ==
+J. Perl, K. Bonath (Hrsg.): Informatik im Sport: Ein Handbuch (Vol. 117). Beiträge zur Lehre und Forschung im Sport, 117. Schorndorf: Hofmann. 1997. ISBN 3-7780-1671-7
+Martin Lames, Claudia Augste, Ole Cordes, Christoph Dreckmann, Karsten Görsdorf, Malte Siegle (Hrsg.): "Gegenstand und Anwendungsfelder der Sportinformatik: Symposium der dvs-Sektion Sportinformatik vom 22.-24. Mai 2008 in Augsburg"
+
+
+== Weblinks ==
+
+Homepage der Sektion Sportinformatik in der Deutschen Vereinigung für Sportwissenschaft (dvs)

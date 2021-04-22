@@ -1,0 +1,21 @@
+Die Domotronik (engl.: domotronic) beschäftigt sich interdisziplinär mit dem Zusammenwirken bzw. der Vernetzung von Haus-, Energie- und Kommunikationstechnologie in größeren Gebäuden und deren Anforderungen.
+Der Begriff Dom-o-tronik (Domus (lat. Haus) – o –  Elektronic) ist ein Kofferwort. Er wurde 2009 an der Fakultät für Bauingenieurwissenschaften an der Universität Innsbruck geprägt und findet seinen Ursprung in der Weiterentwicklung des Bauwesens speziell bei größeren Gebäuden in Richtung Maschinenbau und Elektrotechnik bzw. Informatik. Dies geschah aufgrund der engen Beziehung der Fakultät zum energieeffizienten Hochbau und auch dem Passivhaus. Speziell größere und komplexere Gebäude können durch das optimale und geplante Zusammenwirken des Gebäudes und seiner Komponenten an sich und durch den Einsatz domotronischer Komponenten besonders effizient realisiert werden.
+Domotronik bezeichnet eine Lehr- und Forschungsrichtung, die sich mit der intelligenten Vernetzung der Haus-, Energie- und Kommunikationstechnik mit Gebäuden befasst.
+
+
+== Begriffsdefinition ==
+Domotronik ist im Speziellen für größere Gebäude mit komplexen Anforderungen wie z. B. Krankenhäuser, Einkaufszentren oder andere großvolumige Gebäude notwendig, da hier passive Maßnahmen alleine nicht mehr genügen.
+Ziel der Domotronik ist es, Gebäude zu schaffen, die optimalen Komfort garantieren, eine gesunde Umgebung bieten, zahlreiche Dienste wie Sicherheit, Kommunikation, und Assistenzsysteme integrieren und auf Benutzer und Umwelt durch spezifische Sensoren für Besonnung, Beschattung, Licht und Wärme reagieren. Gleichzeitig können die Außenflächen des Gebäudes zur Energiegewinnung über Photovoltaik oder Solarthermie genutzt werden, damit sich ein Gebäude vom energieeffizienten über das energieautarke zum Energie erzeugenden Objekt entwickelt. Hierbei muss sowohl das Gebäude selbst in seiner Gestaltung, mit den verglasten Flächen und den Speichermassen als auch der Nutzer mit seinen Anforderungen in das Konzept der Gebäude- und Regelungstechnik eingebunden sein. Die Domotronik bietet hier ein wichtiges Bindeglied, um das Gebäude als ganzes für den Nutzer optimal, aber trotzdem mit möglichst geringem Energieaufwand betreiben zu können.
+Der wirtschaftliche Nutzen der Ambient Intelligence ist beträchtlich. Hans-Jörg Bullinger, Präsident der Fraunhofer-Gesellschaft, schätzt den erwartbaren Jahresumsatz auf 500 Milliarden Euro weltweit (Manager Magazin 7/2006).
+
+
+== Ausbildung ==
+An der Fakultät für Bauingenieurwissenschaften der Universität Innsbruck wird Domotronik als Masterstudium angeboten.
+Es werden Mathematik, Technische Mechanik, Maschinenbau, Thermodynamik, Strömungsmechanik, elektrische Schaltungen, Elektronik, Kommunikationstechnologie, Regelungstechnik, Programmieren, digitale Signalverarbeitung, Robotik, Hochbau und Werkstoffe des Bauwesens gelehrt. Die Verbindung von theoretischen und praktischen  Fertigkeiten ermöglicht dann die Realisierung von „intelligenten  Gebäuden“ sowohl im Gebäudeneubau als auch  in der Sanierung des Altbestandes.
+Eine zentrale Rolle spielt dabei einerseits die Anwendung und Weiterentwicklung von Technologien zum sparsamen und effizienten Einsatz der  benötigten Energie, andererseits die intelligente Nutzbarmachung des vorhandenen Potenzials an erneuerbaren Energien. Wirkungsgrad und Nachhaltigkeit werden so zu den  Schlüsselbegriffen, die das Studium bestimmen.
+Absolventen des Masterstudiums Domotronik haben ein integriertes Wissen aus Informatik, Elektrotechnik, Elektronik, Bautechnik, Gebäudetechnik und der Erneuerbaren Energien sowie Fähigkeiten und Fertigkeiten, die es ihnen ermöglichen, in einer Vielzahl von Anwendungsgebieten zu reüssieren.
+
+
+== Weblinks ==
+Fakultät für Bauingenieurwissenschaften/Uni Innsbruck
+Nachhaltige Gebäudesanierung

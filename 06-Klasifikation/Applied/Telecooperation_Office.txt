@@ -1,0 +1,30 @@
+Das Telecooperation Office (TECO) ist eine Forschungseinrichtung mit Sitz in Karlsruhe, die dem Karlsruher Institut für Technologie (KIT) angeschlossen ist. Sie gehört zum Institut für Telematik und wurde im Jahr 2010 mit dem neugegründeten Lehrstuhl für Pervasive Computing Systems (PCS) zusammengelegt, den momentan Michael Beigl leitet. Das TECO/PCS beschäftigt zurzeit fünf Postdoktoranden sowie neun wissenschaftliche Mitarbeiter.
+
+
+== Geschichte ==
+Das TECO wurde 1993 an der Karlsruher Institut für Technologie von Gerhard Krüger und dem Campus-based Engineering Center (CEC) der Digital Equipment Corporation (DEC) gegründet und trug damals den Titel The Telecooperation Office. Die erklärte Zielsetzung war, die Forschung und Entwicklung der angewandten Telematik in enger Zusammenarbeit mit der Industrie voranzutreiben. Am TECO wurde und wird Forschung in den Gebieten Pervasive computing und Ubiquitous computing durchgeführt, mit besonderem Fokus auf den Bereichen Drahtlose Kommunikation, Eingebettete Systeme, Situational Awareness und Mensch-Computer-Interaktion.
+1998 wurde die Digital Equipment Corporation durch Compaq übernommen, damit ging auch das CEC Karlsruhe an die SAP AG. Die Forschungskooperation des TECO mit der DEC wurde daraufhin mit der SAP AG als Partner weitergeführt. Im Bereich der angewandten Telematik arbeitet das TECO seitdem eng mit dem SAP Research Center Karlsruhe zusammen. Wilfried Juling übernahm die Leitung des TECO.
+Im April 2010 wurde am Institut für Telematik der neue Lehrstuhl für Pervasive Computing Systems (PCS) gegründet. Die entstandene Shared New Field Professorship des KIT und der SAP hat Michael Beigl inne. Das TECO wurde dem neuen PCS-Lehrstuhl als Forschungslabor zugeordnet und trägt seitdem den vollen Namen TECO: Technology for Pervasive Computing.
+Durch das im Jahr 2014 gegründete Smart Data Innovation Lab (SDIL) bietet das TECO Big Data-Forschern die Möglichkeit eine breite Palette von Big Data- und In-Memory-Technologien einzusetzen. Industrie und Wissenschaft arbeiten eng zusammen um verborgene Werte in Big Data zu finden und daraus Smart Data zu erzeugen. Projekte konzentrieren sich auf strategische Forschung in den Bereichen Industrie 4.0, Energie, Smart Cities und personalisierte Medizin.Seit 2017 beheimatet das TECO das Smart Air Quality Network (SmartAQNet), dessen Hauptziel die Entwicklung eines Gesamtsystems zur Erfassung, Visualisierung und Vorhersage der räumlichen Verteilung von Luftschadstoffen in städtischen Atmosphären, die relevant für den aktuellen Aufenthalt der Bürger sind.
+
+
+== Forschung ==
+Kernfeld der Arbeit und Kompetenz der TECO-Forschungsgruppe ist die allgegenwärtige, rechnergestützte Informationsverarbeitung (Ubiquitous computing). Im aktuellen Forschungs-Fokus stehen hierbei die folgenden Bereiche:
+
+Digital Artifact Computing
+Netzwerke
+Handheld-Computing
+Mensch-Computer-Interaktion, englisch Human Computer Interaction (HCI)
+Kontextsensitivität
+Medizinische InformatikDie TECO-Forschungsgruppe gehört dem Institut für Telematik an, zeichnet sich jedoch durch ihre besondere Nähe zur Industrie aus. Sowohl das Gründungsmodell, als auch die Teilnahme an industriellen Projekten führte zu einer Vielzahl an Partnern in der Soft- und Hardware-Industrie.
+
+
+== Bemerkenswerte Forschungsbeiträge ==
+Der erste Browser für ein mobiles Endgerät, der „PocketWeb“, wurde 1994 am TECO für den Apple Newton entwickelt.Die „MediaCup“-Kaffeetasse wurde 1998 als Forschungsgegenstand entwickelt und stellt ein Beispiel für eine Ubiquitous-Computing-Anwendung dar. Das Projekt zeigte bereits früh, wie Objekte des Alltags mit Computer- und Kommunikationstechnologie ausgestattet werden können, um Kontextinformationen einer Umgebung erfassen und übertragen zu können.Das TECO war 1999 Initiator und Ausrichter der ersten HUC/Ubicomp-Konferenz, aus der mit der Konferenzserie International Conference on Ubiquitous Computing (Ubicomp) eine der wichtigsten jährlichen Konferenzen im Bereich Ubiquitous computing entstanden ist.Auf der im vorigen Punkt genannten Konferenz wurde das „Point & Click“ Paradigma vorgestellt, dass am TECO im Bereich Mensch-Computer-Interaktion entwickelt wurde und heute ein gängiges Verfahren für die Steuerung ubiquitärer Endgeräte darstellt.Die am TECO entwickelten Smart-Its bildeten die Plattform für das erste Europäische drahtlose Sensornetzwerk im privaten Sektor.
+
+
+== Quellen ==
+
+
+== Weblinks ==
+Laufende und abgeschlossene Forschungsprojekte des TECO (englisch)

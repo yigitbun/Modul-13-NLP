@@ -1,0 +1,92 @@
+Germanium(IV)-oxid ist eine chemische Verbindung aus der Gruppe der Germaniumverbindungen und Oxide.
+
+
+== Vorkommen ==
+Germanium(IV)-oxid kommt natürlich in Form des Minerals Argutit vor.
+
+
+== Gewinnung und Darstellung ==
+Germanium(IV)-oxid entsteht beim starken Glühen von Germanium oder Germaniumdisulfid in einer Sauerstoff-Atmosphäre.
+
+  
+    
+      
+        
+          G
+          e
+          +
+          
+            O
+            
+              2
+            
+          
+          →
+          G
+          e
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Ge+O_{2}\rightarrow GeO_{2}} }
+  Sehr einfach ist auch die Hydrolyse von Germanium(IV)-chlorid. Im Gegensatz zum Silicium, welches bei der Hydrolyse von Siliciumtetrachlorid zunächst Kieselsäuren bildet, entstehen beim Germanium keine stabilen Hydroxide, sondern das hydratfreie Germaniumdioxid.
+
+  
+    
+      
+        
+          G
+          e
+          C
+          
+            l
+            
+              4
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          →
+          G
+          e
+          
+            O
+            
+              2
+            
+          
+          +
+          4
+           
+          H
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {GeCl_{4}+2\ H_{2}O\rightarrow GeO_{2}+4\ HCl} }
+  
+
+
+== Eigenschaften ==
+Germanium(IV)-oxid kommt in mehreren Kristallstrukturen parallel zu denen von Siliziumdioxid vor. Hexagonales GeO2 (Schmelzpunkt 1115 °C, Dichte 4,7 g/cm³) besitzt die gleiche Struktur wie α-Quarz und entsteht bei der Hydrolyse von Germaniumchlorid und der Zersetzung von Germanaten. Das tetragonale GeO2 (als Mineral Argutit, Schmelzpunkt 1086 °C, Dichte 6,239 g/cm³) besitzt eine Rutil ähnliche Struktur (wie Stishovit) und entsteht durch mehrstündiges Erhitzen von Germanium(IV)-oxid mit Wasser unter Druck und bei höheren Temperaturen oder beim Eindampfen einer wässrigen Germanium(IV)-oxid-Lösung mit etwas Ammoniumfluorid. Das amorphe GeO2 entspricht Quarzglas (Dichte 3,637 g/cm³) und entsteht immer beim Abkühlen einer Schmelze von Germanium(IV)-oxid. Die Rutil-Modifikation kann bei 1033 °C in die lösliche Quarz-analoge Form überführt werden. Diese Modifikation ist im Gegensatz zu den anderen etwas in Wasser löslich, wobei die Lösung deutlich sauer reagiert (Bildung von Germaniumsäure). In Säuren löst sich Germanium(IV)-oxid nur schwierig (in starker Salzsäure leicht), in Laugen (z. B. Alkalilauge) dagegen leicht, wobei Germanate entstehen.
+
+
+== Verwendung ==
+Germanium(IV)-oxid wird zur Produktion von im Infraroten durchlässigen optischen Gläsern verwendet. In der Polyesterchemie kommt es als Katalysator bei der Herstellung von bestimmten nicht vergilbenden Polyesterfasern und -granulaten zum Einsatz, speziell für recyclingfähige PET-Flaschen. Es dient auch als Ausgangsmaterial zur Herstellung von Germanaten wie Hafniumgermanat HfGeO4.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,28 @@
+Computer Output on Laserdisk (auch Computer Output to LaserDisk, verbreitetes Akronym COLD) beschreibt ein Verfahren zur Übernahme von Ausgabedatenströmen wie Druckdaten (englisch Computer Output), die in DV-Systemen erzeugt werden, in ein Archivsystem.
+Der Begriff geht auf die Mitte der 1980er Jahre zurück. Zu dieser Zeit wurden Ausgaben aus Rechnersystemen häufig in Gestalt von „COM“ Computer Output on Microfilm archiviert. Mit dem Aufkommen digital-optischer Speichermedien wurde gezielt das „COLD“-Verfahren gegen den Mikrofilm positioniert. Der Begriff „COLD“ sollte die Assoziation wecken, ein vergleichbares, aber moderneres Verfahren als „COM“ zu nutzen. Der Begriffsbestandteil „LaserDisk“ geht zurück auf die vom Anwender selbst beschreibbare Version eines Produktes der Firma Philips (LD Laserdisc), das jedoch bereits Mitte der 1990er Jahre nicht mehr am Markt war. Der auf dieses Produkt zurückgehende Begriff wird jedoch in der Dokumentenmanagement-Branche weiter benutzt. Er steht inzwischen für unterschiedliche Verfahren der automatischen Verarbeitung von Datenströmen, Listen, Postausgang usw. Hierfür wird im angloamerikanischen Sprachgebrauch zunehmend der Begriff Enterprise Report Management, bzw. das Akronym ERM verwendet.
+
+
+== Eingangspost versus Ausgangspost ==
+Mit den ersten kommerziellen Archivsystemen in den 1980er Jahren wurde zunächst die Eingangspost (in Papierform) über Scanner digitalisiert, und als Rasterbild abgelegt. Auf die Archivierung der Ausgangspost, also der selbst erzeugten Dokumente, wurde zunächst verzichtet. Mit der Zunahme der vorgangs- oder kundenorientierten Archivierung wuchs der Bedarf, auch Ausgangspost mit abzulegen. Da diese Dokumente üblicherweise auf Druckern erzeugt wurden, bot sich an, die Druckdaten selbst zu archivieren. Da diese Daten typischerweise in größeren Läufen erstellt werden (Spool-Dateien), hat sich das spezialisierte Verfahren der Archivierung dieser Druckdaten entwickelt. Dabei kommen unterschiedliche Strategien zum Einsatz: Abspeicherung als Rohdaten, die durch Aufruf von Layout-Ressourcen in ein anzeigefähiges Dokument gewandelt werden, Abspeicherung in Listenform für strukturierte Berichte und Auswertungen sowie strukturierte Anzeige der Daten in Anwendungen, und Wandlung des Datenstroms in einzelne PDF- oder TIFF-Objekte, die den versendeten Ausgangsdokumenten bildlich entsprechen.
+
+
+== Anfänge der COLD-Archivierung ==
+Druckdaten waren in den 1970er und 1980er Jahren üblicherweise einfache Zeilendaten, die ähnlich einer Schreibmaschine, Zeile für Zeile wiedergeben und am Seitenende ein Steuerzeichen zum Wechsel der Seite enthielten. Zur Archivierung wurden aus diesen Daten Indexwerte an festen Positionen abgegriffen, um etwa die Rechnungs- oder Kundennummer zu ermitteln. Eine solche feste Position war beispielsweise Zeile 8, Spalte 40 bis 48. Das Archivsystem speicherte diese Druckdaten als eine Datei zusammen mit diesen Indexwerten und der Position der Seite innerhalb dieser Datei. Zur Anzeige wurde dann die einzelne Seite aus dieser Datei herauskopiert und an einem Computer-Terminal angezeigt. Diese Funktionen waren üblicherweise Bestandteile des Lieferumfangs eines Archivsystems.
+
+
+== Moderne COLD-Systeme ==
+Mit Anfang der 1990er Jahre wurden die Anforderungen auch im Massendruck immer komplexer und entsprechend optimierte Druckdatenströme wie PCL, PostScript oder AFP entwickelt, die aufwändige Layouts ermöglichen. Die Speicherung solcher Druckdaten als einzelne Datei war daher nicht mehr in jedem Fall praktikabel. Entsprechend bieten moderne COLD-Systeme folgende Grundfunktionen:
+
+Separieren der Dokumente mit unterschiedlicher Seitenzahl,
+Index-Ermittlung über frei definierbare Logik,
+Konvertierung der Druckdaten in ein archivgeeignetes Format wie zum Beispiel TIFF oder PDF/A,
+Erstellen von speziellen Importdateien für unterschiedliche Archivsysteme.Damit ist die COLD-Archivierung zu einer wichtigen Komponente von Enterprise-Content-Management-Systemen geworden, die als Nachfolger der frühen elektronischen Archivsysteme anzusehen sind. COLD dient hier sowohl zur Aufbereitung der Ausgabe für verschiedene Formate als auch als Eingang für die Bereitstellung der Postausgänge in einer gesamtheitlichen Sicht auf alle elektronischen Dokumente (virtuelle Akte). COLD-Verfahren werden ferner für die Migration von Datenspeichern und die automatisierte Überführung von Bewegungsdaten in Dokumentenmanagement-Lösungen benutzt.
+
+
+== Siehe auch ==
+Dokumentenmanagement
+Dokumenten-Technologien
+Elektronische Archivierung
+Enterprise Content Management
+Output Management
+VOI Verband Organisations- und Informationssysteme e. V. (ehemals „Verband Optische Informationssysteme“)

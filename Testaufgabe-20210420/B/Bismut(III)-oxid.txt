@@ -1,0 +1,303 @@
+Bismut(III)-oxid ist eine chemische Verbindung (ein Oxid) aus Bismut und Sauerstoff. Sie ist die wichtigste industriell verwendete Bismutverbindung.
+
+
+== Vorkommen ==
+Natürlich kommt Bismut(III)-oxid in dem Mineral Bismit (Wismutocker) vor, wird jedoch meist als Nebenprodukt bei der Verhüttung von Kupfer-, Zinn- und Bleierzen gewonnen.
+
+
+== Gewinnung und Darstellung ==
+Gewonnen werden kann Bismut(III)-oxid durch Verbrennung von Bismut.
+
+  
+    
+      
+        
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          +
+          4
+           
+          B
+          i
+          ⟶
+          2
+           
+          B
+          
+            i
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {3\ O_{2}+4\ Bi\longrightarrow 2\ Bi_{2}O_{3}} }
+  Analysenreines Bismut(III)-oxid erhält man durch Erhitzen von reinstem Bismut(III)-nitrat-pentahydrat bis auf 700 °C.
+
+  
+    
+      
+        
+          2
+           
+          B
+          i
+          (
+          N
+          
+            O
+            
+              3
+            
+          
+          
+            )
+            
+              3
+            
+          
+          ⋅
+          5
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          B
+          
+            i
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            N
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          10
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ Bi(NO_{3})_{3}\cdot 5H_{2}O\longrightarrow Bi_{2}O_{3}+3\ N_{2}O_{5}+10\ H_{2}O} }
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Bismut(III)-oxid kommt in vier verschiedenen Kristallstrukturen (α-δ) vor, wovon bei Raumtemperatur die monokline α-Variante vorliegt.
+
+
+=== Chemische Eigenschaften ===
+Bismut(III)-oxid ist unlöslich in Wasser und den üblichen organischen Lösungsmitteln, aber löslich in nicht zu verdünnten Säuren und in starken konzentrierten Laugen bei Glycerin-Zusatz. Mit anderen Metalloxiden geht Bismut(III)-oxid leicht feste Lösungen ein, so löst geschmolzenes Bismut(III)-oxid jedes Metalloxid und korrodiert sogar Platin.
+Mit Salz- oder Flusssäure reagiert Bismut(III)-oxid zu Bismut(III)-chlorid bzw. Bismut(III)-fluorid.
+
+  
+    
+      
+        
+          B
+          
+            i
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          6
+           
+          H
+          C
+          l
+          ⟶
+          2
+           
+          B
+          i
+          C
+          
+            l
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Bi_{2}O_{3}+6\ HCl\longrightarrow 2\ BiCl_{3}+3\ H_{2}O} }
+  
+
+  
+    
+      
+        
+          B
+          
+            i
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          6
+           
+          H
+          F
+          ⟶
+          2
+           
+          B
+          i
+          
+            F
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Bi_{2}O_{3}+6\ HF\longrightarrow 2\ BiF_{3}+3\ H_{2}O} }
+  
+
+
+== Verwendung ==
+Bismut(III)-oxid wird verwendet:
+
+Als Ausgangsstoff zur Herstellung von Bismut (Reduktion von Bismut(III)-oxid mit Kohle)
+  
+    
+      
+        
+          
+            2
+            
+            B
+            
+              i
+              
+                2
+              
+            
+            
+              O
+              
+                3
+              
+            
+            +
+            3
+            
+            C
+            →
+            3
+            
+            C
+            
+              O
+              
+                2
+              
+            
+            +
+            4
+            
+            B
+            i
+          
+        
+      
+    
+    {\displaystyle {\rm {2\,Bi_{2}O_{3}+3\,C\rightarrow 3\,CO_{2}+4\,Bi}}}
+  Als Chemikalie für Feuerwerke
+In Festoxidbrennstoffzellen
+In Gläsern
+Als Katalysator in der Keramikindustrie
+Als arzneilicher Wirkstoff zur Eradikation von Helicobacter pylori
+
+
+== Siehe auch ==
+Bismut(III,V)-oxid Bi4O7
+Bismut(V)-oxid Bi2O5
+
+
+== Literatur ==
+Römpp Chemie Lexikon (9.), S. 439.
+
+
+== Einzelnachweise ==

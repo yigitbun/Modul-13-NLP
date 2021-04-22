@@ -1,0 +1,32 @@
+Prozedurale Synthese oder prozedurale Generierung bezeichnet in der Informatik Methoden zur Erzeugung von Programminhalten wie Texturen, virtuellen Welten, 3D-Objekten und sogar Musik in Echtzeit und während der Ausführung des Computerprogramms, ohne dass diese Inhalte vor der Benutzung vom Entwickler fest angelegt und in ihrer endgültigen Form an den Nutzer weitergegeben werden. Dabei werden die Inhalte keineswegs zufällig erzeugt, sondern die Generierung folgt deterministischen Algorithmen, um bei gleichen Ausgangsbedingungen immer wieder dieselben Inhalte erzeugen zu können. Dadurch eröffnet sich dem Entwickler die Möglichkeit, äußerst umfangreiche und komplexe Inhalte zeit- und platzsparend zu entwickeln und weiterzugeben.
+Prozedurale Synthese ist nicht mit prozeduraler Programmierung zu verwechseln.
+
+
+== Anwendungsbeispiele ==
+Besonders in Computerspielen findet die prozedurale Synthese Anwendung, um weitläufige und komplexe Welten und Landschaften zu erzeugen, die bei jedem Start des Spiels gleich aussehen, sich jedoch auch leicht über die Parameter der Synthese verändern und erweitern lassen.
+Es seien im Folgenden einige exemplarische Beispiele genannt:
+
+Frühe Beispiele für die Verwendung prozeduraler Synthese sind Elite (1984) und  The Sentinel (1986). Die acht Spielgalaxien in Elite werden aus sechs Bytes prozedural generiert, inklusive Koordinaten, Planetennamen, Größe usw. In der Fortsetzung von Frontier: Elite 2 (1993) wurde eine virtuelle Milchstraße mit 100.000.000.000 (100 Milliarden) Sonnensystemen prozedural generiert.In der Weltraum-Simulation Space Engine werden unkartografierte Regionen des Universums prozedural generiert. So ist es möglich, dass Space Engine Galaxien mit je mehreren Milliarden Sternen und Planeten füllt und deren Oberflächen ebenfalls prozedural berechnet, dabei aber der Speicherplatzverbrauch nur 500 MB beträgt.In The Elder Scrolls IV: Oblivion wird die Vegetation der Spielwelt prozedural generiert. Dies ist ein Beispiel für eine hybride Verwendung der prozeduralen Synthese: Position und Eigenschaften der Vegetation werden durch die Synthese bestimmt, die Texturen der Stämme und Blätter werden dann jedoch aus von Künstlern während der Entwicklung des Spiels entworfenen Bilddateien geladen, anstatt ebenfalls synthetisiert zu werden.Das zukünftige MMORPG Infinity: The Quest For Earth basiert auf einer realistisch dimensionierten, prozedural generierten Galaxie mit Milliarden von Planetensystemen, die jeweils unzählige astronomische Objekte wie Planeten und Asteroiden umfassen. Die gewaltigen Ausmaße und Anzahlen von möglichst einzigartigen Objekten (im Entwicklungsstand von Juli 2007 wurde allein für die Identifikation der Asteroiden pro Sonnensystem ein sogenannter Octree (ein Baum mit acht Kindknoten pro Knoten) mit 14 Ebenen verwendet, der pro Knoten viele Hundert bis einige Tausend Asteroiden verwalten konnte, was insgesamt eine Objektzahl in der Größenordnung von 
+  
+    
+      
+        
+          10
+          
+            15
+          
+        
+      
+    
+    {\displaystyle 10^{15}}
+   pro Octree ermöglicht) macht es buchstäblich unmöglich, für jede Entität Position und Aussehen zu bestimmen. Das Spiel wird von einem einzigen Programmierer, Flavien Brebion, (und einigen zuarbeitenden Künstlern und Modellierern) entwickelt.Das Spiel Minecraft arbeitet ebenfalls mit prozeduraler Synthese, wobei noch weitere Prozeduren wie die Perlin-Noise-Funktion angewandt werden, um die theoretisch unbegrenzte Landschaft zu erzeugen. Die prozedurale Synthese wird hier nur durch einen Zufallswert, der auf der Uhrzeit basiert, sowie von verschiedenen Variablen begrenzt. Ebenfalls kann durch die prozedurale Synthese zum einen wiederum sehr viel Speicherplatz gespart und zum anderen erst die Individualität des Spiels durch die unvorhersehbaren Welten gegeben werden.Besondere Bedeutung hat die prozedurale Synthese in der Demoszene, in der möglichst komplexe Programme mit möglichst wenig Speicherbedarf das Entwicklungsziel darstellen. So hat der komplett auf prozeduraler Generierung basierende Ego-Shooter .kkrieger der deutschen Demogruppe Farbrausch trotz überraschend guter grafischer Qualität und Spielumfang einen Speicherbedarf von lediglich knapp 96 Kilobyte, was grob einem Fünfzigtausendstel des Speicherbedarfs eines modernen kommerziellen Shooters entspricht (Rechengrundlage: eine DVD-5). Die Entwickler gehen davon aus, dass das Spiel bei Verzicht auf die prozedurale Synthese etwa 200 bis 300 Megabyte beansprucht hätte. kkrieger gewann im Jahr 2006 den Innovationspreis der Jury des Deutschen Entwicklerpreises.Der im Oktober 2009 erschienene Shooter Borderlands stellt dem Nutzer etwa 17 Millionen prozedural erstellte Schusswaffen zur Verfügung, die auch unterschiedliche Eigenschaften haben.Das auf der E3 2014 vorgestellte Spiel No Man’s Sky erstellt anhand weniger Prototypen Modelle für Bäume, Dinosaurier oder Raumschiffe.  Ebenfalls werden einzelne Planeten sowie das gesamte Sonnensystem durch prozedurale Synthese erzeugt. Dadurch ist es möglich, über eine Trillion  (= 1018) Planeten zu erstellen.In Star Citizen (2015) werden ganze Planeten prozedural erstellt.
+
+
+== Siehe auch ==
+Referenzielle Transparenz
+Streaming von der Festplatte als Hilfsmittel für die hybride prozedurale Synthese ohne unterbrechenden Ladebildschirm
+Bildsynthese
+Textursynthese
+
+
+== Einzelnachweise ==

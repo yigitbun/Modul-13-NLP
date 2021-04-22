@@ -1,0 +1,20 @@
+Californium(III)-oxid ist ein Oxid des Elements Californium. Es besitzt die Summenformel Cf2O3. Da alle Isotope des Californiums nur künstlich hergestellt sind, besitzt Californium(III)-oxid keine natürlichen Vorkommen.
+
+
+== Eigenschaften ==
+Californium(III)-oxid ist ein gelbgrüner Feststoff mit einem Schmelzpunkt von 1750 °C und bildet zwei Modifikationen. Die kubisch-raumzentrierte Modifikation bildet ein Kristallgitter mit a = 1083,9 ± 0,4 pm. Die Übergangstemperatur zwischen dem kubisch-raumzentrierten und dem monoklinen Cf2O3 beträgt etwa 1400 °C.Die Bildungsenthalpie bei 25 °C wurde auf −1652,6 ± 10,3 kJ·mol−1 bestimmt.
+
+
+== Verwendung ==
+Seine Anwendung findet es vor allem bei der Herstellung von 252Cf-Neutronenquellen. Dazu wird 252Cf(III) zunächst als Californiumoxalat (Cf2(C2O4)3) gefällt, getrocknet und anschließend zum dreiwertigen Oxid geglüht.
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen und eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielen. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Richard G. Haire: Californium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 1499–1576 (doi:10.1007/1-4020-3598-5_11).

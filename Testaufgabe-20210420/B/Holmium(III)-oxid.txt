@@ -1,0 +1,129 @@
+Holmium(III)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide.
+
+
+== Geschichte ==
+1878 entdeckten die Schweizer Chemiker Marc Delafontaine und Jacques-Louis Soret das Element Holmium spektroskopisch durch seine abweichenden Absorptionslinien. 1879 entdeckte der schwedische Chemiker Per Teodor Cleve das neue Element unabhängig von den beiden Schweizern und isolierte es als gelbes Oxid aus unreinem Erbiumoxid. Cleve wendete eine von Carl Gustav Mosander entwickelte Methode an; er trennte zunächst alle bekannten Verunreinigungen ab, bevor er versuchte, den Rest zu trennen. Er erhielt einen braunen Rest, den er Holmia nannte, sowie einen grünen Rest, der den Namen Thulia erhielt.
+Erst 1911 gelang dem schwedischen Chemiker Holmberg die Gewinnung von reinem Holmiumoxid.
+
+
+== Vorkommen ==
+Holmium(III)-oxid kommt natürlich in Spuren in den Mineralien Gadolinit, Monazit und in anderen Seltenerdmineralien vor.
+
+
+== Gewinnung und Darstellung ==
+Holmium(III)-oxid entsteht bei der Oxidation von Holmium:
+
+  
+    
+      
+        
+          4
+           
+          H
+          o
+           
+          +
+           
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+           
+          2
+           
+          H
+          
+            o
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ Ho\ +\ 3\ O_{2}\longrightarrow \ 2\ Ho_{2}O_{3}} }
+  Es kann auch durch thermale Zersetzung von Holmiumsalzen wie Holmiumnitrat oder Holmiumoxalat gewonnen werden.
+
+  
+    
+      
+        
+          H
+          
+            o
+            
+              2
+            
+          
+          (
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              3
+            
+          
+          ⟶
+          2
+           
+          H
+          
+            o
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          6
+           
+          C
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Ho_{2}(C_{2}O_{4})_{3}\longrightarrow 2\ Ho_{2}O_{3}+6\ CO} }
+  
+
+
+== Eigenschaften ==
+
+Holmium(III)-oxid ist ein gelblicher Feststoff, der unlöslich in Wasser ist. Er reagiert mit Säuren unter Kationenbildung, welche ihrerseits in Wasser schwach sauer reagieren.
+
+
+== Verwendung ==
+Holmium(III)-oxid wird als Zusatz in Gläsern für optische Filter verwendet, da es in schmalen Frequenzbereichen im sichtbaren und UV-Licht eine starke Absorption zeigt. Es wird auch bei der Herstellung von Halogen-Metalldampflampen verwendet.
+
+
+== Literatur ==
+D. W. Allen: Holmium oxide glass wavelength standards. In: Journal of Research of the National Institute of Standards and Technology. Band 112, Nr. 6, 2007, S. 303–306 (Abstract; Volltext; PDF). 
+
+
+== Einzelnachweise ==

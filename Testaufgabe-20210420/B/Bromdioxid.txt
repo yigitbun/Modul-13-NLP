@@ -1,0 +1,50 @@
+Bromdioxid ist eine chemische Verbindung aus der Gruppe der Bromoxide.
+
+
+== Gewinnung und Darstellung ==
+Bromdioxid kann durch Ozonisieren von Brom in Trichlorfluormethan oder durch Einwirkung einer Glimmentladung auf
+ein Brom-Sauerstoff-Gemisch bei tiefen Temperaturen gewonnen werden.
+
+  
+    
+      
+        
+          B
+          
+            r
+            
+              2
+            
+          
+          +
+          2
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          B
+          r
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Br_{2}+2\ O_{2}\longrightarrow 2\ BrO_{2}} }
+  Es wurde erstmals 1937 von R. Schwarz und M. Schmeißer isoliert.
+
+
+== Eigenschaften ==
+Bromdioxid ist ein bei tiefer Temperatur ein gelber fester Stoff. Er ist dimer und hat keinen bestimmten Schmelzpunkt, sondern zersetzt sich bei einer um 0 °C liegenden Temperatur in Brom und Sauerstoff. Bei zu rascher Erwärmung kann eine Explosion eintreten.
+
+
+== Einzelnachweise ==

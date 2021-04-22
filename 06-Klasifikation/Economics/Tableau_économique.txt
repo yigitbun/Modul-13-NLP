@@ -1,0 +1,41 @@
+Das Tableau économique (deutsch ökonomische Tabelle; vollständig: Analyse du Tableau économique, deutsch Analyse der ökonomischen Tabelle) ist ein vom Physiokraten François Quesnay verfasster Aufsatz, der sich erstmals in der Volkswirtschaftslehre mit der Darstellung des Wirtschaftskreislaufs auseinandersetzte.
+
+
+== Allgemeines ==
+Quesnay befasste sich hierin mit der Agrarproduktion, die in seinem Kreislaufmodell mit den Prämissen eines freien Handels, freier Preisbildung, einem kapitalistischen Pachtsystem und dem Güterstrom bzw. Geldstrom zwischen drei Klassen ablief. Quesnay übergab das Tableau économique im Dezember 1758 seinem König Ludwig XV., dessen Leibarzt er war, in Schloss Versailles. Quesnay überreichte es zusammen mit den „Maximes générales du Gouvernement économique d’un royaume agricole et notes sur ces Maximes“ (deutsch Grundsätze der Wirtschaftspolitik für ein Agrarkönigreich und Anmerkungen zu diesen Grundsätzen). Seine Grundannahme war der Agrarstaat, in welchem die Herstellung von Agrarprodukten den Wirtschaftsprozess beherrschte.
+
+
+== Inhalt ==
+Der Arzt Quesnay adaptierte sein Modell eines Wirtschaftskreislaufs vom Blutkreislauf. Am Wirtschaftskreislauf nahmen Quesnay zufolge drei Klassen als Wirtschaftssubjekte teil, nämlich die Landwirte und Bodenpächter als produktive Klasse (französisch classe productive), die unproduktive „sterile“ Klasse (französisch classe stérile) forme die Agrarprodukte der produktiven lediglich um (Handel, Handwerk und Gewerbe), während zwischen beiden Klassen die Grundbesitzer (französisch classe des propriétaires) stehen. Allein von der Landwirtschaft als Sektor der Urproduktion gehe die Agrarproduktion aus, auf der die Wertschöpfung aufbaue. Ein Teil der Agrarprodukte wird von den Bauern durch Selbstversorgung verbraucht (Saatgut für Pflanzen, Futtermittel für Nutztiere oder Nahrungsmittel für den Privathaushalt), der große Rest gehe an die sterile Klasse zwecks Weiterverarbeitung und Handel und an die Grundbesitzer für Pachtzahlungen. Die sterile Klasse erwirbt von der erzielten Handelsspanne (der Differenz der Verkaufspreise aus dem Handel und den Kaufpreisen der Vorleistungsgüter) Agrarprodukte für den Eigenverbrauch.Die hieraus resultierenden Geld- und Güterströme ergaben Quesnays Wirtschaftskreislauf der Produktion, Verteilung und Verwendung, der optisch wie ein Zickzack-Muster aussah. Ludwig XI. zeigte sich interessiert, der Marquis de Mirabeau veranlasste Quesnay zu einer verständlicheren Version, die 1759 als zweite und dritte Auflage erschien.
+Das Tableau économique stellt eine zirkuläre, miteinander verflochtene stationäre Wirtschaft dar und erklärt sowohl die Produktionsprozesse als auch die Verteilung und Verwendung des Reichtums.
+
+
+== Rezeption ==
+
+Trotz späterer Auflagen, die dem fachkundigen Leser verständlicher sein sollten, gab die Interpretation des Tableaus noch einige Rätsel auf. Karl Marx behauptete 1886 in seinem Beitrag zum Anti-Dühring, diese zufriedenstellend gelöst zu haben. Eine weitere Auseinandersetzung mit den Lehren Quesnays und der Physiokraten findet sich in Marxens Theorien über den Mehrwert. Darin lobte Marx das Tableau als „höchst genialer Einfall, unstreitig der genialste, dessen sich die politische Ökonomie bisher schuldig gemacht hat“.
+
+Joseph Schumpeter nahm 1961 zur Vorstellung eines stationären Wirtschaftskreislaufs Stellung:
+Als bedeutender Unterstützer dieser Kreislaufbetrachtung kann insbesondere Wassily Leontief mit seiner 1936 veröffentlichten Input-Output-Analyse angesehen werden. Allen Oakley bemerkte hingegen 1990, dass Schumpeter selbst mit seiner eigenen Theorie der wirtschaftlichen Entwicklung das Marxsche Reproduktionsschema sowie dessen Weiterentwicklung durch Rudolf Hilferding und Otto Bauer genauso wie die durch Adolph Lowe und Fritz Burchardt ignoriert habe, was zur Einseitigkeit der dynamischen Analyse Schumpeters geführt habe. Im Januar 2008 behaupteten zwei niederländische Ökonomen, das Rätsel um das Tableau gelöst zu haben.
+
+
+== Bedeutung ==
+Obwohl sein Analysegegenstand – die feudale Agrarwirtschaft – längst der Vergangenheit angehört, hat das Tableau Économique bis heute kaum an Erkenntniswert eingebüßt. Zu François Quesnays bahnbrechenden Leistungen zählen die Strukturierung der Gesellschaft in ökonomisch-funktionale Klassen, die Analyse der Wirtschaft mittels eines potentiell quantifizierbaren formalen Modells und die positiv-rationale Begründung wirtschaftspolitischer Handlungsnormen auf der Grundlage deduktiv gewonnener Einsichten. Es bildet die heutige Grundlage der Volkswirtschaftlichen Gesamtrechnung und Ökonometrie. 
+
+
+== Werkausgaben ==
+François Quesnay: Tableau économique, et maximes générales du governement économiques. Versailles 1758
+François Quesnay: Analyse du Tableau économique, Journal de l'agriculture, commerce, arts et finances. 1766
+François Quesnay: Tableau économique. (3. Ausg., 1759). Hrsg., eingel. u. übers. von Marguerite Kuczynski. Berlin : Akademie-Verl. 1965
+Wassily Leontief: Quesnays "Tableau économique" und die Einsatz-Ausstoss-Analyse. Frankfurt/Main Düsseldorf : Verl. Wirtschaft u. Finanzen. ISBN 3-87881-021-0
+
+
+== Literatur ==
+Birger P. Priddat: ‚Le concert universel‘. Die Physiokratie. Eine Transformationsphilosophie des 18. Jahrhunderts. Marburg: Metropolis 2001
+
+
+== Weblinks ==
+FRANÇOIS QUESNAY (1694-1774), JUIN 1766: ANALYSE DE LA FORMULE ARITHMÉTIQUE DU TABLEAU ÉCONOMIQUE DE LA DISTRIBUTION DES DÉPENSES ANNUELLES D'UNE NATION AGRICOLE
+Prof. Dr. Fritz Helmedag / Dr. Urs Weber, TU Chemnitz: Die Kreislaufdarstellung des Tableau Économique. (PDF-Datei; 47 kB)
+
+
+== Einzelnachweise ==

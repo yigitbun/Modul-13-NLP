@@ -1,0 +1,23 @@
+Die Symmetrix Remote Data Facility (SRDF) ist eine Software des Unternehmens EMC², die den unterbrechungsfreien Betrieb von wichtigen IT-Systemen gewährleisten soll. Heute gilt sie als Standard unternehmensweiter Anwendungen und Geschäftsprozesse für den unterbrechungsfreien Betrieb.
+Zu den Anwendungsmöglichkeiten zählen bspw. Data-Warehousing, Abgleich von Datenbanken in der Groupware, Daten-Migration oder Disaster Recovery.
+SRDF spiegelt dabei automatisch und in Echtzeit den Datenbestand eines primären Symmetrix-Speichersystems auf ein zweites, räumlich getrenntes Symmetrix-Speichersystem.
+SRDF beschreibt ursprünglich eine Technik zur Replikation von logischen Devices zwischen zwei entfernten EMC² Symmetrix Storagesystemen. Es wird unterschieden zwischen synchroner Replikation (SRDF/S) und asynchroner Replikation (SRDF/A). Es wurde im Jahre 1993 von EMC auf den Markt gebracht. Inzwischen wird die Technik auch verwendet, um zwischen einer Symmetrix und einem anderen SAN Speicher oder einer IP-Adresse zu replizieren.
+
+
+== Arbeitsweise ==
+SRDF legt logische Paare von einer Logical Unit Number (LUN) oder einer Gruppe von LUNs von jedem Disk-Array fest und repliziert Daten von einem zum anderen synchron, semi-synchron oder asynchron. Ein etabliertes Paar von LUNs kann aufgeteilt werden, so dass separaten Rechnern die gleichen Daten vorliegen und unabhängig voneinander nutzen können (z. B. für eine Datensicherung). Danach kann der asynchrone Stand wieder synchronisiert werden.
+Im synchronen Modus (SRDF/S) wartet das primäre Array darauf, bis die sekundäre Array jede Schreiboperation durchgeführt und bestätigt hat, bevor sie die nächste Schreiboperation anstößt zu schreiben. Damit ist die replizierte Kopie der Daten immer so aktuell wie die primäre. Doch die daraus resultierende Latenz erhöht sich signifikant mit der zunehmenden Entfernung zwischen den Replikationsstandorten.
+Im semi-synchronen Modus empfängt die Anwendung die Bestätigung der ersten Schreiboperation aus dem lokalen Cache. Die zweite Schreiboperation wird erst durchgeführt, wenn die vorherige Schreiboperation vom Remote-Cache bestätigt wurde. Diese Form des SRDF ist schneller als der Synchron-Modus.
+Asynchrone SRDF (SRDF/A) Replikationen auf den sekundären Array sind in den Delta-Sets enthalten, die in definierten Abständen übertragen werden. Obwohl die Remote-Kopie der Daten nie so aktuell ist wie die primäre Kopie, kann diese Methode Replikation von Daten über große Entfernungen und mit stark reduzierten Anforderungen an die Bandbreite angewandt werden.
+Andere Formen der SRDF Implementierung existieren, um diese in Cluster-Umgebungen zu integrieren und mehrere Replikationspaare von mehreren LUNs synchron zu halten wie bei den Daten- und Protokolldateien einer Datenbank-Anwendung.
+
+
+== Siehe auch ==
+ROWA-Verfahren
+Merge-Replikation
+Primary Copy
+
+
+== Weblinks ==
+EMC SRDF product family
+EMC Storage Product Knowledge Sharing

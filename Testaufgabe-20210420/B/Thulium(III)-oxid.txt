@@ -1,0 +1,128 @@
+Thulium(III)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide.
+
+
+== Geschichte ==
+Thulium(III)-oxid wurde 1879 von dem schwedischen Chemiker Per Teodor Cleve zusammen mit Holmium in Erbia (Erbiumoxid) entdeckt (siehe Geschichte des Holmiums), nachdem er bereits 1874 die Anwesenheit mehrerer Verunreinigungen in diesem festgestellt hatte.
+
+
+== Vorkommen ==
+Thulium(III)-oxid kommt in sehr geringer Konzentration in den Mineralien Monazit (0,002 %) und Bastnäsit (0,0008 %) vor. Die Weltproduktion von Thulium in Form von Thuliumoxid beträgt etwa 50 Tonnen im Jahr.
+
+
+== Gewinnung und Darstellung ==
+Thulium(III)-oxid kann durch Verbrennung von Thulium an Luft gewonnen werden.
+
+  
+    
+      
+        
+          4
+           
+          T
+          m
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          T
+          
+            m
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ Tm+3\ O_{2}\longrightarrow 2\ Tm_{2}O_{3}} }
+  Es kann auch durch thermale Zersetzung von Thuliumoxalat, Thuliumcarbonat oder Thuliumacetat bei Temperaturen um 700 °C gewonnen werden.
+
+  
+    
+      
+        
+          T
+          
+            m
+            
+              2
+            
+          
+          (
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              3
+            
+          
+          ⟶
+          T
+          
+            m
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          3
+           
+          C
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Tm_{2}(C_{2}O_{4})_{3}\longrightarrow Tm_{2}O_{3}+3\ CO_{2}+3\ CO} }
+  
+
+
+== Eigenschaften ==
+Thulium(III)-oxid ist ein weißer bis leicht grünlicher Feststoff. Er besitzt eine kubische Kristallstruktur.
+
+
+== Verwendung ==
+Thulium(III)-oxid verändert die optischen Eigenschaften von Glas. Tm-dotierte Glasfaser wird für 1,8 μm-Laser verwendet.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,36 @@
+Apoditrysia ist ein Taxon der Schmetterlinge (Lepidoptera) aus der Unterordnung Glossata.
+
+
+== Merkmale ==
+Die Monophylie dieses Taxons ist durch die charakteristische Struktur des zweiten Sternums begründet. Die Apodeme sind verkürzt, haben eine vergrößerte Basis und erscheinen nicht als bloße Verlängerungen der Venulae, den längs verlaufenden Rippen am Sternum.Bei vielen Arten der Apoditrysia sind die verlängerten anterolateralen Ecken des zweiten Sternums ein weiteres charakteristisches Merkmal, es ist jedoch unklar, ob dies ebenso eine Autapomorphie der Apoditrysia darstellt oder nicht. Es wurde darüber hinaus auch angenommen, dass das Fehlen der Sporne an den Terga durch Rückbildung ebenso eine Autapomorphie darstellt, manche Untergruppen, wie etwa die Zygaenoidea, Alucitoidea oder Epermenioidea besitzen jedoch noch solche Sporne.
+
+
+== Systematik ==
+Die verwandtschaftlichen Verhältnisse innerhalb der Apoditrysia sind bislang noch unklar. Minet (1986), geht davon aus, dass der Großteil der der Apoditrysia zugeordneten Überfamilien das Monophylum Obtectomera bildet, wenngleich mittlerweile bei den Epermenioidea und Alucitoidea die Zuordnung zu den Obtectomera nach einer Revision durch Minnet (1991) wieder revidiert wurde. Dieser Meinung schließt sich Kristensen (2003) an. Da von den verbleibenden Überfamilien außerhalb der Obtectomera die Tortricoidea mit Abstand die größte Gruppe stellt, werden sie alle gemeinsam als „tortricoide Gruppe“ bezeichnet.
+Überfamilie Galacticoidea
+Überfamilie Zygaenoidea, z. B. Widderchen
+Überfamilie Sesioidea, z. B. Glasflügler
+Überfamilie Cossoidea, z. B. Weidenbohrer
+Überfamilie Choreutoidea
+Überfamilie Tortricoidea, z. B. Wickler
+Überfamilie Urodoidea
+Überfamilie Schreckensteinioidea
+Überfamilie Epermenioidea
+Überfamilie Alucitoidea
+Überfamilie Pterophoroidea, z. B. Federmotten
+restliche Überfamilien: Obtectomera
+
+
+=== Molekularphylogenetische Studie (März 2013) ===
+Eine groß angelegte Studie, die im März 2013 veröffentlicht wurde, hat die Ordnung der Schmetterlinge auf Verwandtschaftsbeziehungen untersucht. In dieser Studie gibt es bezüglich Apoditrysia einige Unterschiede zu älteren Systematiken. Immidae wird in Apoditrysia angesiedelt aber nicht in Obtectomera. Pterophoroidea, Alucitoidea und Epermenioidea werden in Obtectomera angesiedelt. Douglasiidae wird als Schwestertaxon von Schreckensteiniidae eingeordnet und Millieriidae wird als Schwestertaxon von Immidae eingeordnet.
+Das Kladogramm bezüglich Apoditrysia sieht wie folgt aus:
+
+
+== Belege ==
+
+
+=== Einzelnachweise ===
+
+
+=== Literatur ===
+Niels P. Kristensen: Lepidoptera, moths and butterflies. In: Maximilian Fischer (Hrsg.): Handbook of Zoology. 1. Auflage. Band 4 – Arthropoda: Insecta, Teilband 35. de Gruyter, Berlin / New York 1998, ISBN 3-11-015704-7 (englisch).

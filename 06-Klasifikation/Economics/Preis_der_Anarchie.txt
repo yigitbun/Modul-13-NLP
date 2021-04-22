@@ -1,0 +1,27 @@
+Der Preis der Anarchie ist ein Begriff der Wirtschaftswissenschaft und Spieltheorie, der die Auswirkung von eigennützigem Verhalten auf die Effizienz eines Systems misst. Dabei wird das System als ein Spiel modelliert und die Effizienz ist eine Funktion, die jeder Strategiekombination eine Zahl zuordnet.
+Der Begriff wurde von Koutsoupias und Papadimitriou genannt, aber die Idee ist älter. Verwandte Konzepte sind die Güte von Approximationsalgorithmen und die Kompetitivität von Online-Algorithmen.
+
+
+== Definition ==
+Der Begriff kommt vom Englischen "Price of Anarchy" und bezeichnet das Verhältnis zwischen dem Gewinn im gesamten System bei eigennützigem Verhalten der Spieler und dem optimalen Gewinn. Dabei meint eigennütziges Verhalten meist eine Wahl von Strategien, die einem Nash-Gleichgewicht entspricht, d. h. jeder Spieler wählt für sich selbst die optimale Strategie in der Annahme, dass alle anderen Spieler bei ihrer aktuellen Strategie bleiben. Im Gegensatz dazu wird der optimale Gewinn durch eine sozial optimale Wahl der Strategien erreicht, welche den Gewinn des gesamten Systems maximiert.
+
+
+== Beispiel Routenplanung ==
+Bei der Routenplanung lässt sich gut das Verhältnis zwischen sozial optimaler Planung und eigennützigem Verhalten erkennen. Im Allgemeinen werden Routen so geplant, dass jede einzelne Person unter Kenntnis der aktuellen Verkehrslage die beste Route für sich selbst auswählt. Dies entspricht einem Nash-Gleichgewicht.
+Daraus ergibt sich ein gewisses Paradox im Straßenverkehr: Der Bau von Schnellstraßen verkürzt nicht immer die gesamte Stauzeit in einem System. So wurde im Jahr 1990 als Umweltaktion von New Yorks Commissioner die 42te Straße mit dem meisten Stau für einen Tag gesperrt. Überraschenderweise führte dies bei gleichem Verkehrsaufkommen zu insgesamt weniger Stau in der Stadt, obwohl eine der meistgenutzten Straßen entfiel. Dies ist auch als Braess-Paradox bekannt. Es lässt sich dadurch erklären, dass durch das Hinzufügen neuer Straßen die sozial optimale Stauzeit im System nur sinken kann. Bei eigennützigem Verhalten kann das Hinzufügen einer neuen Straße die Nash-Gleichgewichte durchaus verschlechtern, z. B. indem alle die neue große Straße nutzen und es dort zu großen Staus kommt.
+Nehmen wir an, dass der Stau auf einer Straße affin von der Verkehrsmenge auf der Straße abhängt, so können wir den Preis der Anarchie begrenzen. D.h. in einem solchen System beträgt das Verhältnis zwischen dem schlechtesten Ergebnis eines Nash-Gleichgewichts und der sozial optimalen Reisezeit höchsten 
+  
+    
+      
+        4
+        
+          /
+        
+        3
+      
+    
+    {\displaystyle 4/3}
+  .
+
+
+== Einzelnachweise ==

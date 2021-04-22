@@ -1,0 +1,145 @@
+Rhenium(IV)-oxid ist eine anorganische chemische Verbindung des Rheniums aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Rhenium(IV)-oxid kann durch Reaktion von Rhenium mit Rhenium(VI)-oxid gewonnen werden.
+
+  
+    
+      
+        
+          R
+          e
+          +
+          2
+           
+          R
+          e
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          3
+           
+          R
+          e
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Re+2\ ReO_{3}\longrightarrow 3\ ReO_{2}} }
+  Ebenfalls möglich ist die Darstellung durch Erhitzen von Ammoniumperrhenat in einem Strom von trockenem Stickstoff, Argon oder im Vakuum, wobei je nach Temperatur die monokline oder orthorhombische Modifikation entsteht.
+
+  
+    
+      
+        
+          2
+           
+          N
+          
+            H
+            
+              4
+            
+          
+          R
+          e
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          2
+           
+          R
+          e
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            N
+            
+              2
+            
+          
+          +
+          4
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ NH_{4}ReO_{4}\longrightarrow 2\ ReO_{2}+N_{2}+4\ H_{2}O} }
+  Durch Reduktion von Rhenat(VII)-Lösungen erhält man es als Oxidhydrat, das sich leicht dehydratisieren lässt.Einkristalle des β-Oxides lassen sich durch eine CVT-Methode (Chemical Vapor Transport) herstellen. Hierfür wird zunächst Rhenium(VI)-oxid mit elementarem Rhenium unter Zugabe einiger mg Iod in einer abgeschmolzenen und evakuierten Ampulle bei 500 °C zum polykristallinen Oxid umgesetzt. Das grau-schwarze Oxid wird dann mit etwa 1 % Iod in eine neue Ampulle eingeschmolzen und diese in einen 2-Zonen-Ofen eingebracht, sodass je die Hälfte der Ampulle in einer der Zonen liegt. Während die eine Hälfte der Ampulle auf 850 °C aufgeheizt wird, wird die andere bei 825 °C gehalten. Nach 3 Tagen Reaktionszeit (bei anfänglich eingesetzten 0,5 g Oxid) lässt man die Ampulle abkühlen und erhält nach dem Öffnen etwa 2 bis 3 mm große schwarze Einkristalle der Zielverbindung, die oftmals verzwillingt vorliegen. Sollten selbige, durch Oxidationsprozesse bei der Abkühlung, oberflächliche rote Verfärbungen aufweisen, können diese durch Spülen mit kalter verdünnter Salpetersäure entfernt werden
+
+  
+    
+      
+        
+          R
+          e
+          
+            O
+            
+              2
+            
+          
+          +
+           
+          
+            I
+            
+              2
+            
+          
+          ⇌
+          R
+          e
+          
+            O
+            
+              2
+            
+          
+          
+            I
+            
+              2
+              (
+              g
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {ReO_{2}+\ I_{2}\rightleftharpoons ReO_{2}I_{2(g)}} }
+  
+
+
+== Eigenschaften ==
+Rhenium(IV)-oxid ist ein grauschwarzer Feststoff. Die unter 300 °C entstehende und beständige α-Modifikation wandelt sich bei Temperaturen über 300 °C irreversibel in die β-Modifikation um. Die α-Modifikation hat eine monokline Kristallstruktur (a = 558 pm, b = 481 pm, c = 558 pm, β = 120,9°) vom Molybdän(IV)-oxid bzw. Wolfram(IV)-oxid-Typ. Die β-Modifikation besitzt eine orthorhombische Kristallstruktur mit der Raumgruppe Pbcn (Raumgruppen-Nr. 60)Vorlage:Raumgruppe/60 und den Gitterparametern a = 480,9 pm, b = 564,3 pm und c = 460,1 pm. Beide Modifikationen zeigen metallische Leitfähigkeit. Sie sind unlöslich in Wasser, Basen, nichtoxidierenden Säuren. In Halogenwasserstoffsäuren sind sie löslich, mit Wasserstoffperoxid und Salpetersäure reagieren sie unter Bildung von Perrheniumsäure. Mit Sauerstoff erfolgt bei erhöhter Temperatur eine Umsetzung zu Rhenium(VII)-oxid und im Vakuum bei Temperaturen über 850 °C eine Disproportionierung zu Rhenium und Rhenium(VII)-oxid. Mit Metall(II)-oxiden bildet es Doppeloxide Me(II)ReO3 mit Perowskit-Struktur. Es existiert auch ein Hydrat, das in Form eines braunschwarzen röntgenamorphen Pulver vorliegt. Es verliert bei 500 °C im Vakuum Wasser und geht in die wasserfreie Form über.
+
+
+== Einzelnachweise ==

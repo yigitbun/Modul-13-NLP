@@ -1,0 +1,34 @@
+Medieninformatik ist ein Teilgebiet der Informatik, das Anfang der 1990er-Jahre vor dem Hintergrund der Digitalisierung von Text, Bild, Audio und Video entstanden ist („Digitales Zeitalter“). Durch neue Technologien und die Konvergenz der Medien sind neue Technologien, Märkte, Anwendungen, Tätigkeitsfelder und Berufsbilder entstanden. In den 1990er-Jahren beherrschte der Begriff Multimedia die Diskussion.
+Die Medieninformatik ist stark interdisziplinär angelegt und hat insbesondere Berührungspunkte zur angewandten Informatik mit dem Schwerpunkt Multimedia, zur Medientheorie, Medienökonomie, Mediengestaltung, Medienpsychologie, Kognitionswissenschaften oder Mediendidaktik.
+Je nach Hochschule und Abschluss werden den einzelnen Teilgebieten der Medieninformatik unterschiedlich starke Bedeutung zugemessen. An manchen Hochschulen liegen die Schwerpunkte auf den Informatik-Grundlagen und deren praktischer Anwendung im Bereich der Medientechnik. An anderen Hochschulen werden hingegen eher Kompetenzen vermittelt, die dazu befähigen sollen, sich auf gestalterische Weise mit jenen Mediensystemen auseinanderzusetzen, welche durch die Digitalisierung von Printmedien, audiovisuellen Medien und digitalen Kommunikationstechnologien hervorgegangen sind. Diese digitalisierten Medien werden häufig unter dem Schlagwort Neue Medien subsumiert.
+
+
+== Entstehungsgeschichte ==
+Medieninformatik ist als Fachgebiet und Studiengang im deutschsprachigen Raum an der Fakultät Digitale Medien der Hochschule Furtwangen entstanden. Hier wurde zum Sommer 1990 erstmals ein Diplom-Studiengang Medieninformatik eingerichtet. Als Pioniere der Medieninformatik bauten zunächst Fritz Steimer und im weiteren Verlauf Michael Kerres und Martin Aichele neben dem europaweit ersten Studiengang hier erstmals auch eine umfangreiche Studio- und Laborumgebung auf. Wegweisend war die interdisziplinäre und anwendungsorientierte Anlage des Studiengangs, der neben typischen Informatikgrundlagen auch Fächer wie Medienkonzeption, Mediengestaltung und Mediendidaktik umfasste.
+Seit ca. 1996 entstanden eine Reihe von Studiengängen und Forschungsansätzen, die neben den medien- und produktionstechnischen Fragen die Informatik mit medienwissenschaftlichen Ansätzen verknüpfen. Dabei stehen neben medientheoretischen und medienphilosophischen Ansätzen vor allem
+auch Fragen der Mensch-Computer-Interaktion sowie der Mensch-Mensch-Kommunikation mit Hilfe von Computern im Vordergrund. Der Computer wird dabei selbst als Medium zwischen Mensch und Computeranwendung und auch zwischen kommunizierenden und kooperierenden Menschen verstanden. Nachdem der Computer bis dahin jahrzehntelang als Ressource und Werkzeug wahrgenommen worden war, wird er seitdem mehr und mehr als aktives und flexibles (programmierbares) Medium verstanden.
+Seit 2007 gibt es eine Fachgruppe Medieninformatik in der Gesellschaft für Informatik, die sich mit Lehre, Forschung und Anwendung in diesem Gebiet auseinandersetzt und Fachleute aus Wissenschaft und Wirtschaft zu Publikationen, Workshops und Konferenzen zusammenbringt. Die Fachgruppe versteht unter Medieninformatik ein relativ breites Feld von Teilgebieten der Informatik, das sich mit dem Fortschreiten der technischen Entwicklung verbreitert. So wächst zum Beispiel mit der steigenden Verbreitung von Augmented Reality, Mixed Reality und Virtual Reality seit Mitte der 2010er Jahre auch deren Relevanz und die Relevanz der Computergrafik innerhalb der Medieninformatik.
+
+
+== Ausbildung ==
+Medieninformatik kann mittlerweile an vielen Hochschulen als eigener Studiengang oder im Rahmen des Studiums der Informatik, Wirtschaftsinformatik und Medienwissenschaft unter unterschiedlichen Fachbezeichnungen belegt werden. Berufsfachschulen und Berufskollegs bieten eine (meist zweijährige) schulische Ausbildung mit staatlichem Abschluss an. Medieninformatik ist auch Bestandteil des Studiengangs Digitale Medien.
+
+
+== Siehe auch ==
+digitale Medien, Multimedia, Neue Medien, interaktive Medien
+Multimedia Computing, Entertainment Computing
+Medienkonvergenz, Technologische Konvergenz
+
+
+== Literatur ==
+Kai Bruns, Klaus Meyer-Wegener (Hrsg.): Taschenbuch der Medieninformatik. Fachbuchverlag Leipzig im Carl Hanser Verlag 2005, ISBN 3-446-40299-3.
+Michael Herczeg: Einführung in die Medieninformatik. Oldenbourg, München 2006, ISBN 3-486-58103-1.
+Roland Schmitz (Hrsg.): Kompendium Medieninformatik. Springer, Berlin 2007, ISBN 3540366296.
+Rainer Malaka, Andreas Butz, Heinrich Hußmann: Medieninformatik – Eine Einführung. Pearson, München 2009, ISBN 978-3-8273-7353-3.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Fachgruppe Medieninformatik der Gesellschaft für Informatik e.V. (GI) im Fachbereich Mensch-Computer-Interaktion (MCI)

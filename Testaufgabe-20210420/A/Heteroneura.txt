@@ -1,0 +1,31 @@
+Heteroneura ist ein Taxon der Schmetterlinge (Lepidoptera) aus der Unterordnung Glossata. Es umfasst mehr als 99 % aller bekannten Schmetterlingsarten und ist das Schwestertaxon von Exoporia.
+
+
+== Merkmale ==
+Die Monophylie ist anhand folgender Autapomorphien begründet: Die Flügeladern Sc und R der Hinterflügel sind bereits kurz nach der Flügelbasis verwachsen, die Ader Rs ist ungeteilt. Die Männchen haben ein aus mehreren Borsten zusammengesetztes „verbundenes“ Frenulum. Das Jugum der Vorderflügel ist zurückgebildet und zeigt nur etwas über den Flügelumriss hinaus. Der dorsale Arm des Tentoriums ist bei den Imagines stark zurückgebildet. Der Rücken des Prothorax trägt die mittige Sklerotisierung hinter den paarweise angeordneten „Hauptwarzen“ und die Brücke zwischen den Hüften (Coxen) der Vorderbeine ist ausgebildet. Das Mesosternum hat eine durch die Naht abgegrenzte querverlaufende Furche („Mesoclidium“), welche mit der Prospina verwachsen ist. Es sind zwei getrennte vordere Einführungen für die Mesofurco-Metafurca-Muskeln ausgebildet. Der Arm des Metaprescutum und das erste Sternum am Hinterleib sind verdeckt.Die Embryonalentwicklung zeigt die „fault-type“-Ausbildung von Amnion und Serosa. Das Keimblatt ist ins Eidotter getaucht und eine temporäre epithelartige Membran, die durch die äußere Eigelb-Kerne/Vitellophagen gebildet wird, fehlt.
+Obige Autapomorphien rechtfertigen nach Kristensen (2003) die Monophylie des Taxons, obwohl bei den Weibchen der Exoporia und der Ditrysia ähnliche Genitalstrukturen ausgebildet sind. Diese scheinen sich jedoch durch Konvergenz ausgebildet zu haben. Auch das Fehlen von mit Muskeln und Hakenkränzen versehenen Bauchbeinen bei den Raupen der Nepticuloidea wird mit einer vermutlichen Weiterentwicklung auf Grund der endophagen Lebensweise begründet.
+
+
+== Systematik ==
+Die Verwandtschaftsverhältnisse innerhalb der Heteroneura sind noch nicht vollständig ergründet und es liegen derzeit mehrere unterschiedliche Ansätze dazu vor. Auch ist unklar, ob die Ditrysia und die verbleibenden Überfamilien als Monotrysia Schwestergruppen bilden. Molekulargenetische Untersuchungen legen zumindest nahe, dass die Ditrysia inklusive der Tischerioidea ein Monophylum bilden. Die Subtaxa der Heteroneura werden aus diesem Grund nur aufgelistet:
+Überfamilie Nepticuloidea
+Überfamilie Incurvarioidea
+Überfamilie Palaephatoidea
+Überfamilie Tischerioidea
+Überfamilie Simaethistoidea
+restliche Überfamilien: Ditrysia
+
+
+=== Molekularphylogenetische Studie (März 2013) ===
+Eine groß angelegte Studie, die im März 2013 veröffentlicht wurde, hat die Ordnung der Schmetterlinge auf Verwandtschaftsbeziehungen untersucht.
+Das Kladogramm bezüglich Heteroneura sieht wie folgt aus:
+
+
+== Belege ==
+
+
+=== Einzelnachweise ===
+
+
+=== Literatur ===
+Niels P. Kristensen: Lepidoptera, moths and butterflies. In: Maximilian Fischer (Hrsg.): Handbook of Zoology. 1. Auflage. Band 4 – Arthropoda: Insecta, Teilband 35. de Gruyter, Berlin / New York 1998, ISBN 3-11-015704-7 (englisch).

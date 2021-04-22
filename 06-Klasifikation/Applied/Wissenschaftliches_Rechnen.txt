@@ -1,0 +1,35 @@
+Wissenschaftliches Rechnen oder Simulationswissenschaft versteht sich als Interdisziplinärer Ansatz für die Entwicklung von Modellen, Algorithmen und Software, um mithilfe der Computersimulation Fragestellungen aus den Natur-, Ingenieur- und Wirtschaftswissenschaften beantworten zu können. Das Hochleistungsrechnen ist dabei ein entscheidender Schlüssel. Das wissenschaftliche Rechnen bündelt dazu die Angewandte Mathematik, insbesondere die Numerische Mathematik, sowie die Informatik.Die englische Bezeichnung Computational Science and Engineering (CSE) wird auch synonym in der deutschen Sprache verwendet. Spezifizierend werden auch andere Begriffe verwendet wie Scientific Computing bzw. Computational Science (CS) wenn Naturwissenschaften und Computational Engineering bzw. Computational Engineering Science wenn Ingenieurwissenschaften im Fokus stehen.
+Manchmal wird die Ingenieurinformatik mit Computational Engineering gleichgesetzt. Jedoch versteht sich die Ingenieurinformatik als eine übergreifende Schnittstelle zwischen Informatik und dem Ingenieurwesen, da Software zunehmend die ingenieurtechnischen Anwendungen durchdringt.
+
+
+== Motivation ==
+Klassisch basiert die Forschung in vielen Natur- und Ingenieurwissenschaften auf zwei Säulen, der Theorie und dem Experiment. Beim wissenschaftlichen Rechnen tritt die numerische Simulation neben diese beiden Säulen. Das Ziel des wissenschaftlichen Rechnens ist es, die Anzahl teurer Experimente zu verringern oder diese komplett zu ersetzen, da beim wissenschaftlichen Rechnen am Computer Experimente durchgeführt werden können, die real nicht möglich oder unwirtschaftlich wären.
+
+
+== Besondere Förderung der Wissenschaft und Forschung in Deutschland ==
+Im Rahmen der Exzellenzinitiative wurden folgende Graduiertenschulen und Exzellenzcluster gefördert:
+
+RWTH Aachen: Aachen Institute for Advanced Study in Computational Engineering Science
+Technische Universität Darmstadt: Graduate School of Computational Engineering (Graduiertenschule CE)
+Universität Heidelberg/IWR
+Universität Stuttgart das Forschungszentrum "Stuttgart Research Centre for Simulation Technology"Der Studiengang CE an der Uni Erlangen-Nürnberg sowie der Studiengang CSE an der Technischen Universität München werden durch das Elitenetzwerk Bayern gefördert.
+Die Entwicklung des Bachelor-Studienganges CSE in Ulm wird von der Stiftung Mercator und der Volkswagen-Stiftung im Rahmen des Programmes "Bologna – Zukunft der Lehre" gefördert. Der Ulmer Studiengang stellt durch die vorhandene Kooperation von Universität Ulm und Hochschule Ulm eine Besonderheit dar.
+
+
+== Siehe auch ==
+Computermathematik
+Technomathematik
+
+
+== Literatur ==
+Carsten Burstedde: Was ist eigentlich Wissenschaftliches Rechnen? In: Forschung & Lehre. März 2013, S. 216–217. Im Internet
+Richard Crandall: Topics in advanced scientific computation. Springer-Verlag, 1996, ISBN 0387944737.
+Richard Crandall: Projects in scientific computation. Springer-Verlag, 2000, ISBN 0387950095.
+Richard Crandall: Introduction to scientific computation: A primer. Springer-Verlag, 2009, ISBN 0387948406.
+
+
+== Weblinks ==
+Hans-Joachim Bungartz, Christoph Zenger: Wissenschaftliches Rechnen – eine interdisziplinäre Disziplin in: aviso – Zeitschrift für Wissenschaft und Kunst in Bayern, Ausgabe 1/98. [2]
+
+
+== Einzelnachweise ==

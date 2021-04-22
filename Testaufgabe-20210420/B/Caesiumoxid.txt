@@ -1,0 +1,105 @@
+Caesiumoxid ist eine chemische Verbindung des Caesiums und zählt zu den Oxiden. Es ist ein orangefarbener Feststoff.
+
+
+== Gewinnung und Darstellung ==
+Caesiumoxid lässt sich nicht direkt aus den Elementen gewinnen, da hierbei Caesiumhyperoxid entsteht. Stattdessen können Caesiumperoxid oder Caesiumnitrat mit elementarem Caesium umgesetzt werden. Auch die Reaktion von Caesiumnitrat mit Caesiumazid zu Caesiumoxid und Stickstoff ist möglich.
+
+  
+    
+      
+        
+          C
+          
+            s
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          C
+          s
+          ⟶
+          2
+           
+          C
+          
+            s
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Cs_{2}O_{2}+2\ Cs\longrightarrow 2\ Cs_{2}O} }
+  
+
+  
+    
+      
+        
+          C
+          s
+          N
+          
+            O
+            
+              3
+            
+          
+          +
+          5
+           
+          C
+          s
+          
+            N
+            
+              3
+            
+          
+          ⟶
+          3
+           
+          C
+          
+            s
+            
+              2
+            
+          
+          O
+          +
+          8
+           
+          
+            N
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CsNO_{3}+5\ CsN_{3}\longrightarrow 3\ Cs_{2}O+8\ N_{2}} }
+  
+
+
+== Eigenschaften ==
+Caesiumoxid ist ein orangefarbener bis roter Feststoff. Bei Erhitzung erfolgt Farbvertiefung bis fast schwarz. An Luft zerfließt er allmählich unter Entfärbung. Er kristallisiert im Gegensatz zu den anderen Alkalimetalloxiden nicht in einer anti-Fluorit, sondern in einer trigonalen anti-Cadmiumchloridstruktur mit der Raumgruppe R3m (Raumgruppen-Nr. 166)Vorlage:Raumgruppe/166 mit den Gitterparametern a = 4,256 Å und c = 18,99 Å.Die Standardbildungsenthalpie von Caesiumoxid beträgt ΔHf0 = −346 kJ/mol.
+
+
+== Verwendung ==
+Caesiumoxid ist ein Cokatalysator für Vanadiumoxid-Titanoxid-Katalysatoren, die für Gasphasenoxidationen genutzt werden. Mit diesen können aus aromatischen Kohlenwasserstoffen Carbonsäuren und Carbonsäureanhydride hergestellt werden.Photokathoden können aus Caesiumoxid, das mit kleinen Silberpartikeln vermischt ist, hergestellt werden.
+
+
+== Einzelnachweise ==

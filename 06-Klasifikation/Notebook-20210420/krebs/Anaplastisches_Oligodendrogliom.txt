@@ -1,0 +1,21 @@
+Das Anaplastisches Oligodendrogliom ist ein neuroepithelialer Tumor mit unterschiedlicher Dignität, der vermutlich von den Oligodendrozyten ausgeht, einem Zelltyp der Glia. In der Klassifikation von Hirntumoren der Weltgesundheitsorganisation (WHO) werden anaplastische Oligodendrogliome dem Grad III zugeordnet. Im Verlauf der Erkrankung können sie zu einem Glioblastom WHO-Grad IV entarten. Der weit überwiegende Teil der Oligodendrogliome tritt sporadisch auf, ohne eine gesicherte Ursache und ohne Vererbung innerhalb einer Familie.
+
+
+== Übersicht ==
+Das (maligne) anaplastische Oligodendrogliom gehört zur Gruppe der diffusen Gliome und entsteht im zentralen Nervensystem (Gehirn und Rückenmark) aus Vorläuferzellen der Oligodendrozyten. Dieser Tumor kommt vornehmlich im mittleren Erwachsenenalter auf mit einem Häufigkeitsgipfel im 4. und 5. Lebensjahrzehnt (ca. 0,11/100.000 Neuerkrankungen pro Jahr).
+
+
+== Diagnose ==
+Das wichtigste diagnostische Verfahren ist die Magnetresonanztomographie (MRT). Gelegentlich erfolgt außerhalb der Routinediagnostik eine Darstellung des Stoffwechsels im Gewebe mittels Positronen-Emissions-Tomographie (PET). Die Sicherung der Diagnose erfolgt durch eine feingewebliche Untersuchung im Anschluss an eine Operation. Anaplastische Oligodendrogliome weisen oft einen Verlust von Genmaterial auf. Etwa 50 bis 60 % der anaplastische Oligodendrogliome WHO Grad III weisen kombinierte Allelverluste auf dem kurzen Arm von Chromosom 1 (1p) und dem langen Arm von Chromosom 19 (19q) auf. Diese Veränderung wird meist als „1p/19q-Co-Deletion“ bezeichnet. Sie ist für die Patienten als günstig zu werten und macht ein Ansprechen auf Strahlen- oder Chemotherapie wahrscheinlicher. Anaplastischen Oligodendrogliome weisen eine erhöhte Zahl an Tumorzellen auf, die Tumorzellen und ihre Kerne variieren deutlich im Aussehen. Zudem sind nach der WHO-Klassifikation auch Nekrosen und proliferierende Gefäße erlaubt, sodass es diagnostische Überschneidungen mit dem Glioblastom gibt.
+
+
+== Therapie ==
+Die Gewebeentnahme im Rahmen einer Operation dient der Sicherung der Diagnose eines anaplastischen Oligodendroglioms. Daneben kann eine Operation dazu beitragen, Symptome, die der Tumor verursacht, zu reduzieren. Es wird eine möglichst komplette Entfernung des im MRT sichtbaren Tumors bevorzugt, sofern die Lage des Tumors dies erlaubt. Da die Zellen eines anaplastischen Oligodendroglioms bei Diagnosestellung bereits in das umliegende gesunde Hirngewebe eingewandert sind, ist eine vollständige operative Entfernung aller Tumorzellen nicht möglich. Deshalb ist im Anschluss an eine Operation immer eine weitere Behandlung notwendig. Für die Nachbehandlung kommt eine Strahlen- und eine Chemotherapie mit Temozolomid oder einer Kombination von Procarbazin, Lomustin und Vincristin (PCV-Schema) in Frage. Bei der Auswahl der Therapie und der Therapiekombinationen spielt der Marker „1p/19q-Codeletion“ eine zunehmend bedeutende Rolle.
+Seit 1975 werden in der Chemotherapie des anaplastischen Oligodendroglioms die genannten Substanzen Procarbazin, Lomustin und Vincristin angewendet. Seitdem werden regelmäßig neue Therapiemöglichkeiten im Rahmen von Therapiestudien erprobt, um die Behandlung zu verbessern.
+
+
+== Verlauf und Prognose ==
+Bei anaplastischen Oligodendrogliomen des WHO Grades III ist eine definitive Heilung nicht möglich. Verglichen mit dem anaplastischen Astrozytom ist der Verlauf aber günstiger. Die relative Überlebensrate nach 5 Jahren: Alter 20–44, 71 %. Alter 45–54, 61 %. Alter 55–64, 46 %.
+
+
+== Einzelnachweise ==

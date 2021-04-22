@@ -1,0 +1,243 @@
+Das wirtschaftswissenschaftliche Gleichgewicht kennzeichnet einen Ruhezustand, in welchem Wirtschaftssubjekte keine Veranlassung haben, ihr Marktverhalten zu ändern, weil sie sich optimal an die relevanten Marktdaten angepasst haben.
+
+
+== Allgemeines ==
+Der Gleichgewichtsbegriff ist dem mechanischen Gleichgewicht der Physik entlehnt. Erst bei einer exogenen Datenänderung (Marktstörung) ergibt sich für Wirtschaftssubjekte ein Anlass zur Revidierung ihres Verhaltens. In der vom Gleichgewicht bestimmten Wirtschaftstheorie wird das Konzept auf Unternehmen, Staaten und deren Untergliederungen (Haushaltsgleichgewicht) und Privathaushalte angewandt, für den Markt gibt es das Marktgleichgewicht, in der gesamten Volkswirtschaft das Allgemeine Gleichgewichtsmodell (Totalanalyse, etwa das Arrow-Debreu-Modell) und das gesamtwirtschaftliche Gleichgewicht. Im Außenhandel spricht man vom außenwirtschaftlichen Gleichgewicht.
+
+
+== Arten ==
+Es gibt stabiles, labiles und indifferentes Gleichgewicht:
+Stabiles Gleichgewicht liegt vor, wenn endogene Kräfte (Marktteilnehmer) auf exogene Marktstörungen in einer Weise reagieren, dass eine Rückkehr zum vorherigen Gleichgewicht möglich ist. Ein Gleichgewicht muss stabil sein, soll es ökonomische Bedeutung haben. Andernfalls ist keine Schlussfolgerung möglich, dass ein wirtschaftliches System dem Gleichgewicht zustrebt.
+Beim labilen Gleichgewicht bewirkt eine Marktstörung eine fortschreitende Entfernung vom ursprünglichen Gleichgewicht, so dass eine Tendenz in nicht näher definierbare Ungleichgewichtszustände erfolgt.
+Beim indifferenten Gleichgewicht wird das ursprüngliche Gleichgewicht durch eine Störung nicht wieder erreicht, denn es fehlen Kräfte, die eine Rückkehr zum Gleichgewicht ermöglichen. Ein instabiles Gleichgewicht ist ebenso unwahrscheinlich wie ein Ungleichgewicht.Das stabile Gleichgewicht ist definitionsgemäß zeitlich beständig, während ein ungleichgewichtiger Zustand lediglich vorübergehenden Charakter hat. Der Gleichgewichtszustand ist ein wichtiges Kriterium in der Theorie. Beträgt beispielsweise der Gleichgewichtspreis bei vollständiger Konkurrenz 10 Euro und der aktuelle Preis aber nur 7 Euro, so kann – ceteris paribus – eine Preissteigerung vorhergesagt werden.
+Die Tatsache, dass Gleichgewichte keine Tendenz besitzen, sich zu verändern, bedeutet keinesfalls, dass das Gleichgewicht einen idealen oder wünschenswerten Zustand darstellt.
+
+
+== Gesamtwirtschaftliches Gleichgewicht ==
+Das gesamtwirtschaftliche Gleichgewicht ist in Deutschland ein Staatsziel gemäß § 1 StabG, wonach Bund und Länder bei ihren wirtschafts- und finanzpolitischen Maßnahmen die Erfordernisse des gesamtwirtschaftlichen Gleichgewichts zu beachten haben. Die Maßnahmen sind dem Gesetz zufolge so zu treffen, dass sie im Rahmen der marktwirtschaftlichen Ordnung gleichzeitig Preisniveaustabilität, zu einem hohen Beschäftigungsstand und außenwirtschaftlichem Gleichgewicht bei stetigem und angemessenem Wirtschaftswachstum führen. Dieses Magische Viereck besteht jedoch aus Zielen, die zueinander im Zielkonflikt stehen und deshalb nicht alle gleichzeitig und gleichwertig erfüllt werden können. 
+
+BeispielBeträgt das Bruttoinlandsprodukt 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+   1000 Euro und der Konsum 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   800 Euro, so liegt die Ersparnis 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   bei 200 Euro, denn es gilt 
+
+  
+    
+      
+        Y
+        =
+        C
+        +
+        S
+      
+    
+    {\displaystyle Y=C+S}
+  .Wird die Ersparnis durch Investitionen 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   von 200 Euro verwendet, dann entspricht das Bruttoinlandsprodukt der effektiven Nachfrage 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  , es liegt gesamtwirtschaftliches Gleichgewicht bei Vollbeschäftigung vor. Betragen nun die Investitionen nicht 200 Euro, sondern lediglich 150 Euro, bestehen ex ante Ungleichgewichte (
+  
+    
+      
+        I
+        <
+        S
+      
+    
+    {\displaystyle I<S}
+   und 
+  
+    
+      
+        D
+        <
+        Y
+      
+    
+    {\displaystyle D<Y}
+  ). Durch 
+  
+    
+      
+        I
+        <
+        S
+      
+    
+    {\displaystyle I<S}
+   werden Anpassungsvorgänge ausgelöst, die 
+  
+    
+      
+        Y
+        ,
+        C
+        ,
+        S
+      
+    
+    {\displaystyle Y,C,S}
+   so lange vermindern, bis 
+  
+    
+      
+        S
+        =
+        I
+      
+    
+    {\displaystyle S=I}
+  . Auf diesem niedrigeren Niveau ergibt sich ein neues Gleichgewicht: 
+  
+    
+      
+        D
+        =
+        Y
+      
+    
+    {\displaystyle D=Y}
+  . Das notwendige ex post-Gleichgewicht 
+  
+    
+      
+        I
+        =
+        S
+      
+    
+    {\displaystyle I=S}
+   wird durch unfreiwillige Lagerinvestitionen hergestellt. Auf diese Weise erklärte John Maynard Keynes 1936, dass auch ein gesamtwirtschaftliches Gleichgewicht bei Unterbeschäftigung möglich ist.
+
+
+== Wirtschaftliche Aspekte ==
+Datenänderungen oder Marktstörungen, die ein bestehendes Marktgleichgewicht beseitigen, können plötzliche Angebotsüberschüsse, Angebotslücken, Nachfrageüberhänge oder Nachfragelücken sein. Auch Angebots- oder Bedarfsverschiebungen auf Teilmärkten stören dort ein bestehendes Marktgleichgewicht. 
+Ein Marktgleichgewicht ist dadurch gekennzeichnet, dass die Menge des Angebots 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   gleich der Nachfragemenge 
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   ist (
+  
+    
+      
+        A
+        =
+        D
+      
+    
+    {\displaystyle A=D}
+  ). Es ist ein stabiles Marktgleichgewicht auf dem Gütermarkt, weil die Unternehmer bei zu geringem Angebot ihre Marktpreise erhöhen und deshalb die Nachfrage der Verbraucher sinkt oder umgekehrt. Eine derartige Angebotslücke kann jedoch auch eine (erst mittelfristig mögliche) Produktionssteigerung zur Folge haben, so dass Anpassungsprozesse ausgelöst werden, die eine Rückkehr zum ursprünglichen Gleichgewichtszustand ermöglichen. Damit übernimmt der Preis eine Markträumungsfunktion, bei der es weder Überbestände noch Fehlmengen gibt. Besteht jedoch ein permanenter Angebotsüberschuss, kann das Preisniveau sinken, ohne dass je ein Gleichgewicht zu erwarten ist; es liegt eine Depression vor, die ebenfalls eine Störung darstellt wie Rezession, Aufschwung oder Boom. 
+Auf dem Geldmarkt heißt der Angebotsüberhang Geldüberhang und der Nachfrageüberhang Geldlücke. Ein Geldmarktgleichgewicht liegt vor, wenn das Geldangebot 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   der Geldnachfrage 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   entspricht:
+
+  
+    
+      
+        M
+        =
+        L
+      
+    
+    {\displaystyle M=L}
+  .Stimmen Geldnachfrage und Geldangebot nicht überein, liegt entweder eine Geldlücke (
+  
+    
+      
+        M
+        <
+        L
+      
+    
+    {\displaystyle M<L}
+  ) oder umgekehrt ein Geldüberhang (
+  
+    
+      
+        M
+        >
+        L
+      
+    
+    {\displaystyle M>L}
+  )
+vor. Letzterer führt zu einer Senkung des Zinsniveaus, bis die Geldnachfrage auf das Zinsniveau der Geldmenge angestiegen ist, dann besteht ein neues Gleichgewicht auf dem Geldmarkt. Geldlücke oder Geldüberhang erzeugen inflatorische oder deflatorische Wirkungen auf dem Gütermarkt und werden deshalb im Rahmen der Geldpolitik von den Zentralbanken durch Steuerung des Geldangebots beseitigt. 
+In dynamischen Modellen (wie etwa der neoklassischen Wachstumstheorie) wird unter Gleichgewicht häufig ein stationärer Zustand verstanden, in dem sich zentrale Variablen – in der Wachstumstheorie typischerweise die Kapitalintensität – nicht (mehr) verändern.
+
+
+== Siehe auch ==
+Nash-Gleichgewicht
+striktes Nash-Gleichgewicht
+Gleichgewicht in korrelierten Strategien
+
+
+== Literatur ==
+Arnis Vilks, Neoklassik, Gleichgewicht und Realität. Eine Untersuchung über die Grundlagen der Wirtschaftstheorie. Physica, Heidelberg 1991, ISBN 3-7908-0569-6.
+Chiang, A. C., and Kevin Wainwright. "Fundamental methods of mathematical economics." McGraw-Hill, New York (2005). ISBN 978-0071238236. Kapitel 3.
+
+
+== Weblinks ==
+Gleichgewicht – Artikel im Gabler Wirtschaftslexikon
+
+
+== Einzelnachweise ==

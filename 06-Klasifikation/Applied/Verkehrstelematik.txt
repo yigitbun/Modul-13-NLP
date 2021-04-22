@@ -1,0 +1,94 @@
+Verkehrstelematik ist der Einsatz von Telematik im Verkehr. Sie beschäftigt sich mit der Erfassung, Verarbeitung und Darstellung von Daten zu Fahrzeugen mit ihrem zu transportierenden Inhalt, dem Versand und Empfang von Personen oder Gütern. Die Verkehrstelematik unterstützt die Koordinierung innerhalb von oder zwischen Verkehrssystemen wie Straßen-, Schienen-, Schiffs- und Luftverkehr.
+
+
+== Begriff ==
+Verkehrstelematik bzw. der international gebräuchliche Begriff ITS (englisch Intelligent Transportation Systems) bezeichnet das Erfassen, Übermitteln, Verarbeiten und Nutzen verkehrsbezogener Daten mit dem Ziel der Organisation, Information und Lenkung des Verkehrs unter Nutzung von Informations- und Kommunikationstechnologien.Verkehrspolitisch besteht gegenüber Verkehrstelematik eine sehr hohe Erwartung. Verkehrstelematik soll dazu beitragen, das Verkehrsgeschehen effizienter, ökologischer und sicherer abwickeln zu können, vorhandene Infrastruktur optimal zu nutzen, die Verkehrsteilnehmer umfassend, aktuell und leicht zugänglich zu informieren und den Verkehr gezielt und dynamisch zu steuern bzw. zu verlagern. Umfassende und aktuelle Verkehrsinformation, die auf Verkehrstelematik basiert, soll zum Umstieg auf ökologische Verkehrsmittel anregen und somit verkehrs- und umweltpolitische Ziele unterstützen. Im Logistikbereich dient Verkehrstelematik der effizienten Organisation und dynamischen Planung von Transportprozessen. Auch zur Abwicklung monetärer Steuerungsmaßnahmen (Bemautung, Citymaut) werden Verkehrstelematik-Applikationen eingesetzt.
+Für einzelne Verkehrsmodi (z. B. motorisierter Individualverkehr) bestehen bereits umfangreiche Verkehrstelematiklösungen. Intermodale Lösungen (also die Verbindung von motorisiertem Individualverkehr, öffentlichem Verkehr, Radfahren und zu Fuß gehen) bestehen bereits vereinzelt auf regionaler Ebene; auf nationaler und internationaler Ebene laufen zahlreiche Projekte in diese Richtung. Die zentralen Herausforderungen sind dabei aber nach wie vor verschiedene Standards, Schnittstellen, Datenqualitäten und organisatorische Zuständigkeiten auf regionaler, nationaler und internationaler Ebene sowie zwischen den verschiedenen Modi.
+
+
+== Ziele ==
+Nach einer Studie des ADAC stehen Autofahrer in Deutschland durchschnittlich rund 65 Stunden im Jahr im Verkehrsstau, Tendenz steigend. Im Stau werden jährlich rund 14 Milliarden Liter Kraftstoff zu viel verbraucht, die zugunsten von Natur und Umwelt vermieden werden könnten. Des Weiteren schadet der Stau der Wirtschaft allgemein (die Mineralölkonzerne ausgenommen), z. B. durch verlorene Arbeitszeit. Aus diesen Gründen (Sauberkeit, Verkehrssicherheit, Effizienz) kümmert sich die Europäische Kommission um das Thema Intelligent Transport Systems (ITS).Durch gezielten Einsatz der Verkehrstelematik lassen sich die vorhandenen Verkehrswege besser ausnutzen. So kann dem Kraftfahrer rechtzeitig und aktuell bekannt gegeben werden, was ihn auf seiner gewählten Route erwartet und wie er etwaige Engpässe und Problemstellen umgehen kann. Verkehrsmeldungen im Rundfunk ist dazu in der Regel nur eingeschränkt in der Lage, da er meist nur jede halbe Stunde berichtet und manche Staus, die er ansagt, zwischenzeitlich nicht mehr vorhanden sind oder der Fahrer nicht mehr die Möglichkeit hat, eine andere Strecke zu wählen.
+Zu beachten ist allerdings, dass Optimierungen im Ablauf des Straßenverkehrs regelmäßig zur Folge haben, dass Verkehrswiderstände im Netz sinken. Das kann sowohl an den betroffenen Stellen als auch insgesamt zu Mehrverkehr und Stadtflucht führen. Dadurch erhöhen sich Gesamt-Kraftstoffverbrauch und Schadstoffausstoß, das Ziel Umweltschutz wird in Frage gestellt.
+
+
+== Einsatzgebiete ==
+Eines der größten Einsatzgebiete der Telematik ist die Verkehrstelematik. Hierunter fallen alle elektronischen Steuerungssysteme, mit deren Hilfe Verkehr koordiniert wird. Hier liegen viele Hoffnungen zur Verkehrsvermeidung, doch auch hier wird bis zu einem möglichen Masseneinsatz noch einige Zeit vergehen.
+Folgende Ziele sollen mit der Verkehrstelematik erreicht werden:
+
+Steigerung der Effizienz der vorhandenen Verkehrsinfrastruktur
+Vermeidung von Staus sowie Leer- und Suchfahrten
+Kombination der Vorteile der einzelnen Verkehrsträger (Schiene, Straße, Wasser, Luft) und Verschmelzung zu einem integrierten Gesamtkonzept (Modal Split)
+Erhöhung der Verkehrssicherheit, daraus resultierend Verringerung der Unfälle und der Staugefahr
+Verringerung der Umweltbelastung (insbesondere CO2) durch Steuerung des Verkehrs und des Fahrverhaltens (EcoDrive-System)
+Überwachung der Fracht, z. B. Monitoring der Temperatur im Frachtraum
+
+
+=== Individualverkehr ===
+Der Autoverkehr ist wohl neben dem Schienenverkehr das größte Einsatzgebiet der Verkehrstelematik.
+An deutschen Autobahnen werden an neuralgischen Punkten zunehmend Wechselverkehrszeichen installiert. Mit deren Hilfe können Verkehrsströme beeinflusst werden, z. B. durch Warnhinweise oder Geschwindigkeitsbeschränkungen, aber auch Umleitungsempfehlungen. Voraussetzung ist allerdings das Vorliegen von Verkehrsdaten, die durch optische, induktive oder andere Verfahren erfasst werden. In einer Verkehrsleitzentrale werden die Daten gesammelt und in Verkehrsinformationen verarbeitet. So lässt sich z. B. eine Höchstgeschwindigkeit errechnen, die einen reibungsloseren Verkehrsfluss gewährleistet. Auch bei schlechter Witterung beschränken diese Anlagen die Maximalgeschwindigkeit. Unfälle konnten so um 30 %, schwere Unfälle sogar um 50 % gesenkt werden.
+Seit Herbst 1997 existiert der sogenannte RDS/TMC. Hinter dieser Abkürzung verbirgt sich der englische Ausdruck Radio Data System/Traffic Message Channel. Es handelt sich hierbei um einen Verkehrswarndienst, durch den sich Stau- und Gefahrensituationen per Datenübertragung über UKW z. B. im geeigneten Autoradio jederzeit gezielt und beliebig wiederholbar abrufen lassen. Dadurch wird die Sicherheit erhöht und der Verkehr gleichmäßiger auf verschiedene Straßen verteilt.
+Relativ bekannt und in zunehmendem Maße verbreitet sind Navigationssysteme in Straßenfahrzeugen. Anstatt sich mit dem Straßenatlas oder dem heimischen Computer eine Route zu suchen, wird der Fahrer über Satellitennavigation zum Ziel geleitet. Auf diese Weise wird der durch „Verfahren“ entstehende Verkehr sowie ein Teil des Suchverkehrs geringer, denn in modernen Systemen sind z. B. Parkhäuser mitverzeichnet. Eine Kombination aus aktuellen Verkehrsnachrichten, Echtzeit-Bewegungsdaten und Satellitennavigation kann bereits heute die optimale Wegstrecke finden. Gerade dann, wenn Fahrer oft ihnen unbekannte Strecken fahren, helfen solche Systeme. Dies ist z. B. beim Güter- und Taxiverkehr sowie beim Pannendienst und beim Notruf der Fall.
+
+Verkehrsstromanalysen stützen sich auf Daten verschiedener Sensoren für Verkehrsfluss und -dichte. Daraus lassen sich Reisezeiten errechnen (und diese Information durch Verkehrsbeeinflussungsanlagen in Echtzeit an die Lenker vor Ort weitergeben), oder es liegen auswertbare Daten für die Verkehrsplanung eines Raumes vor.
+In Zukunft sollen Daten auch via „kooperativer Systeme“ von I2V (Infrastructure to Vehicle) und C2C / V2V (Car to Car bzw. Vehicle to Vehicle) ausgetauscht werden. Auf der Straße bedeutet Kooperation, dass Fahrzeuge untereinander und mit der Infrastruktur kommunizieren. Die Daten, die im Fahrzeug vorhanden sind, werden erfasst und zu einem zentralen Rechner geschickt, der sie auswertet. Mit diesen Daten kann z. B. festgestellt werden, ob es regnet oder sich gerade ein Stau bildet (Scheibenwischer eingeschaltet = Regen, häufiges Bremsen = Stau). Die kooperativen Systeme sollen den Fahrer besser bei ihren Aufgaben unterstützen. Das System soll mittels eines Funknetzwerkes realisiert werden, das die Daten vom Fahrzeug zu einem zentralen Rechner schickt und auswertet. Der Zentralrechner ermittelt eine Fahrempfehlung, die dem einzelnen Fahrer speziell übermittelt wird. Das Ziel von kooperativen Systemen ist, dass die Infrastruktur besser genutzt bzw. geplant und damit die Sicherheit im Straßenverkehr erhöht wird. Die offizielle Definition für kooperative Systeme im Straßenverkehr der Europäischen Kommission lautet: „Straßenbetreiber, Infrastruktur, Fahrzeuge, ihre Fahrer und andere Straßenbenutzer kooperieren, um eine möglichst effiziente, sichere und angenehme Fahrt zu ermöglichen. Zwischen Fahrzeugen und Infrastruktur kooperierende Systeme werden über die Möglichkeiten isolierter Systeme hinaus zur Erreichung dieser Zielsetzung beitragen.“
+Die Einführung einer kilometerabhängigen Straßenbenutzungsgebühr ist eine Möglichkeit zum Kostenausgleich durch den motorisierten Individualverkehr. Auch hier können Telematiksysteme bei der Erfassung behilflich sein.In vielen Städten ist bereits die Einführung von verkehrsabhängig geschalteten Lichtsignalanlagen (LSA) erfolgt. Auf diese Weise sollen die Signalphasen nach Bedarf geregelt werden. Dies entlastet die Umwelt durch weniger Abgase. In diesem Zusammenhang muss auch das Hintereinanderschalten mehrerer Ampeln zur „Grünen Welle“ genannt werden.
+Kommunal betriebene Verkehrsleitsysteme reduzieren den Parksuchverkehr. Durch Parkleitsysteme und P+R-Informationssysteme wird die Innenstadt vom motorisierten Individualverkehr etwas entlastet.
+Eine neue Erscheinungsform stellen auch mobile Gemeinschaften dar. Sie teilen Ihre Telemetrie-Daten im Netzwerk mit allen anderen Teilnehmern. Dadurch wird es möglich, neue Karten auf Basis von GPS-Daten zu erstellen und aktuell zu halten. Ebenfalls werden Geschwindigkeits- und Stauinformationen geteilt und daraufhin alternative Routen vorgeschlagen. Unfälle und außerordentliche Vorkommnisse können ebenfalls manuell erfasst und mit dem Netzwerk geteilt werden.
+
+
+=== Öffentlicher Personennahverkehr (ÖPNV) ===
+In allen größeren Verkehrsunternehmen, insbesondere in Verkehrsverbünden, regelt ein telematisches Betriebsleitsystem (RBL) den präzisen und reibungslosen Ablauf im ÖPNV.
+ÖPNV-Fahrzeuge können durch Vorrangschaltungen an Ampeln bevorrechtigt werden. Wenn die Fahrzeuge nur noch an den Haltestellen halten, wird eine Erhöhung der Reisegeschwindigkeit erreicht, die die Anzahl der benötigten Fahrzeuge reduzieren kann. Oft trifft man auch Busspuren mit eigenen Signalanlagen an.
+Sowohl im Nahverkehr der Verkehrsverbünde als auch im Fernverkehr der Bahn setzen sich immer mehr elektronische Informations-, Buchungs- und Reservierungssysteme durch. So soll der Kunde zum Umsteigen auf öffentliche Verkehrsmittel angehalten und dadurch eine nachhaltige Verkehrsreduzierung erreicht werden. Ab 2018 soll das integrierte Auskunftssystem DELFI über den öffentlichen Personenverkehr über Verbunds- und Bahngrenzen hinaus Auskünfte erteilen.
+Auch der gesamte Bereich der technisch realisierten Zugsicherungssysteme zählt zur Verkehrstelematik und stellt damit das älteste und wohl auch umfangreichste Einsatzgebiet dar. So zählen auch die technische Sicherung eines Bahnüberganges durch Signalanlagen bzw. Warnanlagen dazu.
+
+
+=== Güterverkehr ===
+Beim Güterverkehr kommt zum erstrebten reibungslosen, termingerechten Ablauf vor allen Dingen ein funktionierender Warenumschlag zwischen den Verkehrsträgern und an kundenspezifischen Schnittstellen dazu. Auch hier wird ein Betriebsleitsystem eingesetzt, das die Koordination übernimmt. So soll die Fahrtenanzahl verringert und der Umstieg auf Schiene und Binnenschifffahrt erleichtert werden.Einen weiteren großen Unterschied bildet der ausgeprägte Einsatz von telematischen Logistiksystemen. Funk- und satellitengestützte Flottenmanagementsysteme, auch „Telematiksysteme“ genannt, erleichtern das Auffinden von Frachtgut (dies ist in den USA bei UPS bereits für jeden Kunden per Internet möglich), sorgt für eine verbesserte Nutzung des Transportraums und reduziert Leerfahrten und Umwege.
+In Güterverkehrszentren wird der Güterfernverkehr mit den City-Logistiksystemen gekoppelt. Besonders in der Stadt können so Wegstrecken optimiert und eine stadtgerechte Fahrzeugwahl vereinfacht werden.
+Telematik wird im Flottenverkehr ebenfalls zur Ermittlung wertvoller Kenngrößen genutzt. Grundlage dafür ist die Verknüpfung und Erfassung verschiedener Sensordaten aus dem Zugfahrzeug und dem Sattelauflieger. Als Daten dienen hierfür heutzutage entweder Informationen, die direkt über den Fahrzeug-CANBUS an das Flottenmanagementsystem gesendet werden, oder Daten von externen Sensoren, die nachträglich, z. B. per Funk, an das Telematiksystem angeschlossen worden sind. Diese Daten können ausgewertet werden und geben Auskunft, ob beispielsweise die Temperatur im Frachtraum innerhalb eines erlaubten Bereiches (z. B. +1 °C bis +10 °C) geblieben ist.
+In diesem Zusammenhang sei der branchenweit vertretene FMS-Standard zu erwähnen. Dieser Standard definiert eine Anzahl von Parametern, die über ein Telematiksystem eingelesen und verarbeitet werden können. Diese umfassen z. B. die Stellung des Bremspedals und die Motordrehzahlen.
+
+
+=== Schienengüterverkehr ===
+Verkehrstelematik findet ebenfalls Anwendung im europäischen Schienengüterverkehr. Bis zur Jahrtausendwende gab es im europäischen Schienenverkehr kein funktionierendes Ortungssystem auf Wagenebene. Dies führte zum scheinbaren Verschwinden von teilweise ganzen Zügen, da einzelne Güterwagen nicht geortet werden konnten. Ausgehend von Versuchsfahrten in den späten 1990er Jahren rüstet die DB Cargo Güterwagen und Transportbehältnisse mit einem autarken Telematik-System zur Lokalisierung von Güterwagen seit 2003 aus. Dieses Telematik-System kombiniert die Eigenschaften des Satellitenortungssystems GPS mit den Möglichkeiten des Mobilfunknetzes GSM. Das Telematik-System überwacht die Transporteinheit inklusive angeschlossener Sensoren und meldet alle Daten über die GSM-Netze an einen zentralen Kommunikationsserver der Deutschen Bahn.
+
+
+=== Schifffahrt und Luftfahrt ===
+In beiden Transportsystemen spielt die Sicherheit durch Telematik-Anwendungen eine besondere Rolle. So überwachen Radarsysteme sowohl den Luft- als auch den Seeraum. Die Schifffahrt im Bereich des Küsten- und Binnenschiffsverkehrs wird zunehmend über das Automatic Identification System (AIS) gelenkt und überwacht. Gleichzeitig tauschen die Schiffe über AIS untereinander Navigations- und Reisedaten aus. Die von der Europäischen Organisation zur Sicherung der Luftfahrt in Brüssel koordinierte Luftraumüberwachung soll das geplante Luftverkehrsaufkommen und die Kapazitäten aufeinander abstimmen. Nach Auskunft des Flughafens München wird der Luftraum jedoch noch immer von relativ vielen kleinräumigen Zentralen überwacht. Hier besteht also mit Sicherheit noch Handlungsbedarf. Auch die Produktivität und die Auslastung soll mithilfe von IuK-Techniken verbessert werden.
+Satellitensysteme werden zur Erstellung von elektronischen Seekarten, Streckenflugrouten und Landemanövern benutzt. Auch der Transport von Gefahrgut profitiert von diesen Systemen.
+
+
+== Normen und Standards ==
+Folgende Normungskomitees befassen sich mit Verkehrstelematik:
+
+ISO TC 204
+CEN TC 278Folgende Standards wurden im Bereich der Verkehrstelematik entwickelt:
+
+ACP (Motorola)
+GATS (ATX Group/Vodafone)
+GTP (Telematics Forum)
+NGTP (BMW, Connexis, Wireless Car)
+
+
+== Siehe auch ==
+Verkehrslagedienst
+Verkehrswissenschaften
+Floating Car Data (FCD)
+COOPERS – Cooperative Systems for Intelligent Road Safety
+
+
+== Literatur ==
+Günter Halbritter, Torsten Fleischer, Christel Kupsch: Strategien für Verkehrsinnovationen. Umsetzungsbedingungen – Verkehrstelematik – internationale Erfahrungen. Edition Sigma, Berlin 2008, ISBN 978-3-89404-584-5.
+Hannes Hartenstein, Peter Vortisch (Hrsg.) u. a.: Verkehrstelematik. Schwerpunktthemenheft der Zeitschrift it – Information Technology, Vol. 50, 2008 Heft 4.
+Martin Krugmeister: Analyse des Anwendungspotentials und des Nutzens der Verkehrstelematik für wirtschaftliche Verkehrslösungen im Personenverkehr, 2004, ISBN 3-89825-712-6
+Ralf Laufer: Qualitätsmodell und -analyse in der Verkehrstelematik. In: zfv, Heft 1/2011, S. 18–29, ISSN 1618-8950
+
+
+== Weblinks ==
+
+Telematik III: Verkehrstelematik (SS 2006). Vorlesung des Lehrstuhls für Angewandte Telematik/e-Business der Universität Leipzig
+Themendienst eLogistics Lösungen (PDF) Deutsche Bahn
+
+
+== Einzelnachweise ==

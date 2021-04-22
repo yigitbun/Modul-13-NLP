@@ -1,0 +1,23 @@
+Die Palaephatidae sind eine Familie der Schmetterlinge. Sie leben mit wenigen Arten in Südamerika und Australien.
+
+
+== Merkmale ==
+Palaephatidae sind kleine Schmetterlinge mit einer Flügelspannweite zwischen 8 und 36 Millimetern, mit langgestreckten, schmalen Flügeln (Ausnahme: Gattung Azaleodes mit breiten Flügeln). Der Kopf trägt abstehende Schuppen, Chaetosemata fehlen, Ocellen kommen nur bei einer Gattung (Sesommata) vor. Die fadenförmigen Antennen erreichen etwa die halbe Länge bis beinahe die Länge der Vorderflügel. Mandibeln sind vorhanden (urtümliches, plesiomorphes Merkmal bei den Schmetterlingen), aber rudimentär und nicht funktionstüchtig. Auch ein Saugrüssel ist vorhanden, er ist kurz, aber funktionstüchtig. Die langen Maxillarpalpen sind fünf-, selten viersegmentig, die Labialpalpen dreisegmentig, diese werden im Leben etwas nach oben gebogen getragen. An den Laufbeinen am Thorax trägt die Vordertibia keinen, die Mitteltibia zwei, die Hintertibia vier Sporne. Die Flügel sind meist langgestreckt oval, etwas zugespitzt, die Hinterflügel genauso breit oder etwas breiter wie die Vorderflügel und immer mehr als doppelt so lang wie breit. Der Koppelungsmechanismus aus Frenulum und Retinaculum ist vorhanden und funktionstüchtig, das Frenulum besteht beim Männchen aus einer, beim Weibchen aus zwei bis vier Borsten. Die Flügel sind beschuppt und zusätzlich mit kleinen Härchen (Mikrotricha) besetzt, die Männchen einiger Gattungen tragen spezialisierte Duftschuppen auf den Flügeln, die manchmal in Taschen verborgen sind, in diesen Fällen ist die Flügeladerung modifiziert. Im Vorderflügel entspricht die Aderung beinahe dem Grundplan und ist kaum reduziert, der Radius ist fünfästig, die Media dreiästig. Die beiden Analadern fusionieren zur Spitze hin und bilden eine Gabel. Der Hinterleib (Abdomen) trägt offene Stigmen an den ersten sieben Segmenten, ein rudimentäres Stigmenpaar ist am achten Segment vorhanden. Der Aedeagus des Männchens ist zwischen den Gattungen extrem variabel aufgebaut. In Ruhestellung sitzen die Falter mit den Flügeln dachförmig über dem Hinterleib zusammengelegt.
+Über Raupen und Puppen der Familie ist fast nichts bekannt, Raupen sind bisher nur von zwei Arten gefunden worden. Sie tragen Bauchbeine an den Abdominalsegmenten drei bis sechs. Diese besitzen Hakenkränze, deren Anordnung kranzförmig, nicht ganz kreisförmig geschlossen ist.
+
+
+== Lebensweise ==
+Die Lebensweise der meisten Arten ist unbekannt, sie sind fast nur von Fängen an Lichtfallen oder Streifnetzfängen bekannt. Alle australischen Arten wurden im oder nahe bei Regenwäldern gefangen. Die südamerikanischen Arten leben in kühlfeuchten Nothofagus-Wäldern, vor allem in den südlichen Ketten der Anden. Raupen der in Argentinien lebenden Sesommata holocapna wurden auf Zweigen des Strauchs Diostea juncea (Verbenaceae) beobachtet, wo sie Zweige mit Seide zusammenspinnen, möglicherweise nimmt sie auch abgestorbene Blätter als Nahrung an. Die australische Ptyssoptera tryphera lebt auf Zweigen von Persoonia levis (Proteaceae), wo sie ebenfalls Blätter zu einem Schlupfwinkel zusammenspinnt.
+
+
+== Phylogenie und Systematik ==
+Aus Südamerika sind  fünf Gattungen beschrieben, aus Australien zwei, die Gattungen Azalaeodes und Ptyssoptera. Insgesamt sind bisher 57 Arten beschrieben worden (Stand: 2011).
+Die Palaephatidae sind innerhalb der Schmetterlinge morphologisch isoliert, so dass sie in eine eigene (monotypische) Überfamilie Palaephatoidea gestellt werden. Nach morphologischen Kriterien ist ihre Schwestergruppe die Familie der Schopfstirnmotten (Tischeriidae, Tischerioidea), oder Nepticuloidea und Tischerioidea zusammengenommen. Eine solche Gruppierung erscheint auch nach molekularen Stammbäumen (anhand homologer DNA-Sequenzen) möglich, für eine sichere Bestimmung der Verwandtschaftsverhältnisse ist allerdings die Datenbasis noch nicht ausreichend.
+
+
+== Quellen ==
+Donald R. Davis (1986): A New Family of Monotrysian Moths from Austral South America (Lepidoptera: Palaephatidae), with a Phylogenetic Review of the Monotrysia. Smithsonian Contributions to Zoology Number 454.
+Ian Francis Bell Common: Moths of Australia. Brill Scientific Publishers, 1990. ISBN 978-90-04-09227-3
+
+
+== Einzelnachweise ==

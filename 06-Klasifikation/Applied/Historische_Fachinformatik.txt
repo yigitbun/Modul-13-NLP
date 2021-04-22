@@ -1,0 +1,16 @@
+Die Historische Fachinformatik und Dokumentation beschäftigt sich mit formalen Verfahren im Bereich der historischen Wissenschaften. Einerseits unterstützt sie damit den gesamten Forschungsprozess, von der Dokumentation der Quellen und/oder Phänomene über deren Analyse bis hin zur Darstellung der Gegenstände von Dokumentationen oder der Ergebnisse von Analysen. Andererseits wirkt sie aufgrund ihres grund- und integrativwissenschaftlichen Tätigkeitsfeldes in Theorie, Methode und Anwendung auf die („historischen“) Einzeldisziplinen zurück.
+Durch die gesellschaftliche Relevanz etwa im Bereich des Wissenstransfers zeichnet sie auch für das Bild der Geschichtswissenschaften in der Öffentlichkeit verantwortlich.
+Die wichtigsten Werkzeuge bilden Computersysteme – ihr Einsatz bedingt etwa die Entwicklung entsprechender Software, Design und Realisierung komplexer Informations- und Analysesysteme.
+Durch spezielle Forschungsprozesse und Arbeitstechniken kann so eine neue Qualität historischer bzw. grundwissenschaftlicher Forschung erreicht werden.
+Zu den Pionieren dieser Fachrichtung zählt der Tübinger Ägyptologe Wolfgang Schenkel, der bereits 1965 mit Hilfe der EDV „Untersuchungen zur spätägyptischen Grammatik“ und später eine „Konkordanz der ägyptischen Sargtexte“ durchführte. Aktuell wird in der Ägyptologie das „Ägyptische Wörterbuch“ als web-basiertes virtuelles Wörterbuch umgesetzt, wobei relationale Datenbanken und eine XML-Dokumenttypdefinition (DTD) eingesetzt werden sollen.
+Während in Skandinavien und im angelsächsischen Raum die Historische Fachinformatik ein selbstverständlicher Teil der Geistesinformatik (dort meist als humanities computing bezeichnet) ist, hat sie sich im deutschen Sprachraum erst mit den Aktivitäten des Grazer Forschungsinstitutes für Historische Grundwissenschaften (insbesondere Ingo H. Kropac) und Manfred Thallers (jetzt Institut für Historisch-Kulturwissenschaftliche Informationsverarbeitung der Universität zu Köln) etablieren können.
+
+
+== Literatur ==
+Guido Koller: Geschichte digital. Historische Welten neu vermessen. Kohlhammer, 2016 ISBN 978-3-17-028929-1
+
+
+== Weblinks ==
+HFI – Abteilung für Historische FachInformatik und Dokumentation, Universität Graz
+HKI – Institut für Historisch-Kulturwissenschaftliche Informationsverarbeitung, Universität zu Köln
+NHFI – Netzwerk Historische Fachinformatik

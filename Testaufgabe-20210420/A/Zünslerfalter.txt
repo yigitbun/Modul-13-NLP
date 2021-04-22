@@ -1,0 +1,46 @@
+Die Zünslerfalter  (Pyraloidea) sind mit etwa 16.000 beschriebenen Arten weltweit eine der größten Überfamilien der Schmetterlinge (Lepidoptera). Die vermutete Artenzahl beträgt aber etwa das Doppelte.
+
+
+== Merkmale ==
+Flügelform und -zeichnung sowie Sitzhaltung der Falter variiert. Ihre Vorderflügellänge reicht von 5 bis 75 Millimeter, die Mehrzahl der Arten hat aber eine Flügellänge unter 15 Millimetern. In Mitteleuropa gehören der Buchsbaumzünsler und Ostrinia palustralis mit Vorderflügellängen von etwa 20 Millimeter zu den größten Vertretern der Zünslerfalter. Die meisten Arten besitzen am Kopf Labialpalpen, Maxillarpalpen und einen Saugrüssel.
+Merkmale, die die Monophylie dieser Gruppe begründen, sind die Struktur der paarigen Tympanalorgane an der Bauchseite des zweiten Hinterleibssegmentes (nur wenige Arten besitzen zurückgebildete oder keine Tympanalorgane), der Saugrüssel ist an der Basis beschuppt, die Adern R3 und R4 der Vorderflügel sind an der Basis oder auf ihrer gesamten Länge miteinander vereint und im Hinterflügel sind die miteinander vereinten Adern Sc+R1 der Ader Rs genähert oder basal mit dieser vereint.
+Die Eier sind abgeflacht, ei- oder linsenförmig und haben eine dünne Schale, die nur unscheinbar strukturiert ist.
+
+
+== Vorkommen ==
+Arten der Pyraloidea findet man auf der ganzen Welt, auch auf entlegenen Inseln, wie beispielsweise den Azoren oder Hawaii Archipeln, sowie von der Küste bis in die nivale Zone des Hochgebirges. Sie fehlen lediglich in der Antarktis. Wie bei vielen anderen Organismengruppen auch kommen die meisten Arten in den niedrigen und mittleren Höhenlagen der Tropen vor, wobei die Neotropis die meisten Arten sowie auch die nur dort vorkommenden Chrysauginae, Linostinae und Midilinae aufweist. Einige Arten wurden durch den Menschen weltweit verbreitet, so z. B. Plodia interpunctella. Manche artenreiche Gattungen, wie Udea aus der Unterfamilie Spilomelinae oder Eudonia der Scopariinae sind mit endemischen Arten sowohl auf den Kontinenten als auch auf entlegenen Inseln der Ozeane weit verbreitet. Andere Gattungen sind über eine gesamte Klimazone verbreitet, wie etwa Agathodes und Synclera der Spilomelinae, in den Tropen der Alten und Neuen Welt.
+
+
+== Lebensweise ==
+Die Raupen primitiver Arten der Pyralidae ernähren sich von Pilzen und/oder trockenen bzw. faulenden tierischen oder pflanzlichen Materialien. Die oligophagen Raupen einiger primitiver Crambidae ernähren sich von Kryptogamen, wie Algen, Moosen, Farnen und Flechten. Es wird vermutet, dass die Anpassung der ursprünglichsten Arten der Falter an diese ursprünglichen Pflanzengruppen deswegen erfolgte, da die Falter bereits zu einer Erdgeschichtlichen Zeit existierten, in der sich Samenpflanzen noch nicht entwickelt hatten. Unabhängig davon ernährt sich der überwiegende Teil der Arten der Pyraloidea von Nackt- und Bedecktsamern. Darüber hinaus gibt es auch einige Arten, die sich räuberisch von Pflanzenläusen und anderen Insekten ernähren, oder als Parasiten mit und von nestbildenden Insekten leben.
+Unter den Schmetterlingen zeigen die Arten der Pyraloidea eine der größten Breite an verschiedenen Lebensweisen. Die überwiegende Mehrzahl von Raupen der Überfamilie lebt aber versteckt. Sie rollen, falten oder weben Blätter zusammen, bauen Tunnel oder Röhren aus Sand, Ausscheidungen oder gesponnener Seide, bohren in Ästen, Wurzeln, Trieben, Knospen, Früchten, Samen oder Pflanzengallen, leben als Minierer oder versteckt in Insektennestern. Die Raupen der Unterfamilie Acentropinae sind sogar an das Leben unter Wasser angepasst.
+
+
+== Die Falter und der Mensch ==
+Einige Arten gelten in der Land-, Forst- und Vorratswirtschaft sowie der Imkerei als ernstzunehmende Schädlinge. Darunter sind in der Landwirtschaft der Maiszünsler (Ostrinia nubilalis), in der Forstwirtschaft die Harzzünsler der Gattung Dioryctria, in der Vorratswirtschaft die Mehlmotte (Ephestia kuehniella) und die Dörrobstmotte (Plodia interpunctella) sowie in der Imkerei die Kleine Wachsmotte (Achroia grisella) zu nennen.
+Nur wenige Arten gelten für den Menschen direkt als nützlich, dabei handelt es sich meist um jene Arten, die im Zuge des Biologischen Pflanzenschutzes gegen Unkräuter eingesetzt werden.
+
+
+== Gefährdung und Schutz ==
+Die Zünslerfalter wurden in der Vergangenheit überwiegend aus der Perspektive ihrer wirtschaftlichen Bedeutung für den Menschen betrachtet. Das sind in Mitteleuropa die Schädlinge in der Land-, Forst- und Vorratswirtschaft sowie der Imkerei. Allein in Deutschland kommen aber 272 Arten der Zünslerfalter vor. Von diesen sind 18 Arten als Neozoen einzustufen. Von den übrigen 254 Arten sind 114 Arten (44,7 %) in der Roten Liste der gefährdeten Tiere Deutschlands enthalten.
+
+
+== Systematik ==
+Die Struktur der Tympanalorgane variiert innerhalb der Zünslerfalter. Es gibt zwei Bauplantypen mit jeweils mehreren distinkten Merkmalen. Diese zwei Bauplantypen werden als zwei distinkte evolutionäre Linien interpretiert, die in der Zoologie zunächst als Pyraliformes und Crambiformes sowie später als zwei Familien klassifiziert werden:
+Pyralidae
+CrambidaeDiese frühe Aufspaltung der Zünslerfalter in zwei Großgruppen wird durch molekulargenetische Untersuchungen bestätigt.
+In alten, nach Ähnlichkeiten begründeten Klassifikationen wurden den Pyraloidea auch die Familien der Pterophoridae, Thyrididae, Tineodidae, Hyblaeidae, Oxychirotidae, Alucitidae und Dudgeoneidae zugerechnet. Diese besitzen aber keine Tympanalorgane und sind zum Teil nicht einmal unmittelbar mit den Zünslerfaltern verwandt.
+Für die Bestimmung der mitteleuropäischen Arten eignen sich insbesondere die Werke von Hannemann (1964) und Slamka (1995) sowie die Bestimmungshilfe des Lepiforums.
+Ältere Werke wie die von Eckstein (1933) oder die Bearbeitungen der Zünslerfalter Großbritanniens durch Goater (1986) und Sterling, Parsons & Lewington (2012) sind nur bedingt für die Bestimmung der mitteleuropäischen Arten geeignet, weil sie einen Großteil der in Mitteleuropa vorkommenden Arten nicht enthalten.
+
+
+== Quellen ==
+
+
+=== Einzelnachweise ===
+
+
+== Weblinks ==
+Global Information System on Pyraloidea (GlobIZ)
+Lepiforum - Übersicht über die Pyraloidea Mitteleuropas
+Pyraloidea bei Fauna Europaea

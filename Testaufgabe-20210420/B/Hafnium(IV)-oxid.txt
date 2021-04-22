@@ -1,0 +1,31 @@
+Hafniumdioxid ist eine chemische Verbindung aus den Elementen Hafnium und Sauerstoff. Es gehört zur Stoffklasse der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Hafniumdioxid wird durch Glühen des Hydroxids, Oxalats, Oxidchlorids oder Sulfats bei 600–1000 °C dargestellt. Die Hydrolyse von Hf(OR)4 (R = i-Amyl) liefert hochreines Hafniumdioxid.
+
+
+== Eigenschaften ==
+
+Hafniumdioxid ist in reinem Zustand ein weißes, mikrokristallines Pulver mit monokliner Kristallstruktur, das einen sehr hohen Schmelz- und Siedepunkt sowie eine Dichte von 9,68 g·cm−3 hat. Der Brechungsindex beträgt 1,95 bis 2,00, die Dielektrizitätskonstante der amorphen Form liegt im Bereich von 20 bis 25. Das Oxid ist praktisch unlöslich in Wasser und organischen Lösungsmitteln.
+Es besitzt eine hohe Härte, eine geringe Wärmeausdehnung und ist chemisch Zirkoniumdioxid (ZrO2) sehr ähnlich. Die Verbindung hat eine monokline Kristallstruktur mit der Raumgruppe P21/c (Raumgruppen-Nr. 14)Vorlage:Raumgruppe/14. Bei 1720 °C geht sie in eine Modifikation mit tetragonalem Kristallsystem mit der Raumgruppe P42/nmc (Nr. 137)Vorlage:Raumgruppe/137 und bei 2600 °C in eine kubische Form mit der Raumgruppe Fm3m (Nr. 225)Vorlage:Raumgruppe/225 über. Die tetragonale Form kann durch Dotierung (zum Beispiel mit Silicium, Germanium, Zink, Titan, Phophor, Aluminium) stabilisiert werden. Die Formen unterscheiden sich auch in der Dielektrizitätskonstante. So besitzt die monokline Form eine Dielektrizitätskonstante von 16–18, die tetragonale Form von 30 und die kubische Form von 70. Einige Quellen berichten auch von einer weiteren orthorhombischen Form.
+
+
+== Ferroelektrisches Hafniumoxid ==
+In dünnen dielektrischen Hafniumdioxid-Schichten kann mittels Dotierung und der Erzeugung von Schichtspannungen eine ferroelektrische orthorhombische Kristallphase erzeugt werden. Aufgrund der bereits weiten Verbreitung von Hafniumoxid als High-k-Dielektrika und der sehr guten CMOS-Kompatibilität ergeben sich neue Anwendungen als Halbleiterspeicher (FeFET, FRAM, FeCap). Solche ferroelektrische Hafniumoxid-Schicht ermöglichen die Herstellung sehr schneller und energieeffizienter nichtflüchtiger Halbleiterspeicher, vor allem für den Einsatz in mobilen Endgeräten und dem Internet der Dinge. Erste ferroelektrische Speicher auf Basis der ferroelektrischen Verbindung Blei-Zirkonat-Titanat (PZT) konnten sich auf Grund mangelnder Skalierbarkeit und der schweren Integration von Blei in den CMOS-Prozess nicht durchsetzen. Ferroelektrisches Hafniumoxid ermöglicht eine wesentliche Verringerung der Strukturgröße im Vergleich zu PZT unter Verwendung bereits etablierter Materialien, sodass bereits ferroelektrische Feldeffekttransistoren (FeFET) mit 28 nm Gatelänge hergestellt werden konnten.
+
+
+=== Entstehung der ferroelektrischen Kristallphase ===
+Mit Atomlagenabscheidung hergestellte amorphe dünne Hafniumdioxidschichten (< 20 nm) kristallisieren nach der Temperung in der nicht ferroelektrischen monoklinen Phase. Mit Hilfe von Metallelektroden, die die Hafniumdioxid-Schicht umschließen, kann eine Spannung in der Schicht von mehreren Gigapascal induziert werden. Diese ermöglicht beim Abkühlen die Transformation der monoklinen Kristallphase in die orthorhombische und tetragonale. Diese Transformation kann durch Dotierung der Schicht mit zum Beispiel Silizium, Yttrium und Zirkon unterstützt werden. Die orthorhombische Phase weist eine nicht zentrosymmetrische Kristallachse auf. Diese ermöglicht die Positionsänderung von Sauerstoffionen zwischen zwei stabilen Gitterplätzen im Kristallgitter durch Einwirken eines elektrischen Felds und erzeugt einen dielektrischen Verschiebungsstrom (Polarisation). Der Einfluss der Schichtspannung auf die Kristallphase sinkt mit steigender Schichtdicke, sodass dicke Schichten trotz Metallelektroden in der monoklinen Phase kristallisieren und die remanente Polarisation sinkt. Dünne Schichten im Bereich 10 bis 15 nm weisen hingegen die besten ferroelektrischen Eigenschaften auf. Bei diesen Schichtdicken ist jedoch der Einfluss eines eventuellen Leckstromes durch die Schicht nicht zu vernachlässigen.
+
+
+=== Zirkonoxiddotiertes Hafniumoxid ===
+Das Mischoxid aus dem monoklinen Hafniumoxid und Zirkonoxid zeigt über einen breiten Mischungsbereich von ca. 25–75 % Zirkonoxidanteil im Hafniumoxid ferroelektrisches Verhalten. Dabei wird eine maximale remanente Polarisation bei 50 % Zirkonoxidanteil erreicht. Beginnend beim puren Hafniumoxid findet mit steigender Zirkonbeimischung eine Phasentransformation von der paraelektrischen monoklinen Phasen des Hafniumoxid in die ferroelektrische orthorhombische Phase des Hafniumzirkonoxids statt. Ein weiterer Anstieg der Zirkonkonzentration führt zu einer weiteren Phasentrantransformation in die antiferroelektrische tetragonale Phase statt, welche auch das reine Zirkonoxid zeigt.
+
+
+== Verwendung ==
+Verwendet wird Hafniumdioxid in der Halbleiterproduktion als High-k-Dielektrikum oder als Vergütungs- oder Spiegelmaterial in der optischen Industrie.
+Aufgrund seiner gegenüber Siliciumdioxid erhöhten Dielektrizitätskonstante kann Hafniumdioxid als Werkstoff z. B. bei der Produktion von Halbleiterbausteinen mit 45 nm-Struktur das bisher verwendete Siliciumdioxid ersetzen, um CMOS-kompatible Speicher und FeFETs zu fertigen.
+
+
+== Einzelnachweise ==

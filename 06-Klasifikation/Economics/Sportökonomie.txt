@@ -1,0 +1,142 @@
+Unter Sportökonomie wird die Anwendung von volkswirtschaftlichen sowie betriebswirtschaftlichen Instrumenten auf einzelne Sportbereiche verstanden.
+
+
+== Einordnung ==
+Die Sportökonomie ist eine Teildisziplin der Sportwissenschaften und im Arbeitskreis Sportökonomie e.V. organisiert, der als eigene Sektion in der Deutschen Vereinigung für Sportwissenschaft (dvs) fungiert. Die Sportökonomie orientiert sich vornehmlich an den Fragen und Methoden der Sozialwissenschaften und Wirtschaftswissenschaften und wendet diese für das Sportsystem an. Weitere wichtige Verknüpfungen bestehen zur allgemeinen Soziologie und zur Sportsoziologie, sowie zur Sportökologie und zur Sportethik.
+
+
+== Methoden und Arbeitsfelder ==
+Die Sportökonomie verfolgt einen deskriptiven und einen normativen Ansatz.
+
+Der deskriptive Ansatz fokussiert die wissenschaftliche Analyse ökonomischer Aspekte des Sports.
+Der normative Ansatz versucht, anhand ökonomischer Effizienzkriterien, einzelne Akteure des Sportsystems (Verbände, Vereine, Trainer, Sportler usw.) zu beraten.Anhand betriebswirtschaftlicher Instrumente ist es möglich, den Sport aus einzelwirtschaftlicher Sicht zu betrachten. Hierbei spielen die Knappheit von Ressourcen sowie die Unterscheidung zwischen Sportdienstleistung, Konsum- und Investitionsgütern die zentrale Rolle.Ferner wird der Sport mithilfe von volkswirtschaftlichen Instrumenten auf das Zusammenspiel der Märkte analysiert und somit gesamtwirtschaftlich betrachtet.
+Der Sport wird mithilfe von volkswirtschaftlichen Instrumenten auf das Zusammenspiel der Märkte analysiert und somit wird hier die Gesamtwirtschaft betrachtet.
+In der Makroökonomik werden unter anderem der Arbeitsmarkt und das Wirtschaftswachstum untersucht.
+Die Mikroökonomik befasst sich dagegen mit der Preisbildung auf Märkten sowie das Verhalten der Unternehmen und der Haushalte. Zudem wird in diesem Bereich unter anderem die Distribution und Allokation knapper Ressourcen analysiert.
+Zudem ist hier noch die Distribution und Allokation knapper Ressourcen zu betrachten.
+
+
+== Güterarten in der Sportökonomik ==
+Durch öffentliche Güter im Sport entstehen positive externe Effekte, welche allen Bürgern zugutekommen.
+Der aktive Sport verbessert unter anderem die eigene Gesundheit, hilft bei der Integration und der Senkung der Kriminalitätsrate, da die Akteure mit sportlichen Aktivitäten beschäftigt sind. Jedoch hat nicht nur der aktive Sport seine Vorteile, sondern auch der passive Sport, denn dieser stärkt den Zusammenhalt und die Integration wird gefördert. Aufgrund des positiven externen Effektes kann das öffentliche Sportgut als Grundlage für eine Rechtfertigung einer Subventionierung dienen. Ein öffentliches Gut ist zum Beispiel die lokale Identität oder das nationale Prestige.Kollektive Güter kommen dagegen nur einem Teil der Bevölkerung zugute. Ein Beispiel hierfür sind die Sportartikelindustrie und die Medien, die sich auf den Sport spezialisiert haben. Speziell bei Teamsportarten, ist das Trittbrettfahrerverhalten bei diesem Gütertyp ein großes Problem.Ein Clubgut im Sport ist zum Beispiel eine Sportanlage oder ein Stadion eines Vereins. Im Beispiel Fußball wird ersichtlich, dass ein Clubgut sowohl Anreize wie auch Probleme schaffen kann. Ein Anreiz dieses Gutes kann zum Beispiel ein volles Stadion sein, denn ein volles Stadion zieht mehr Zuschauer an, als ein leeres. Jedoch kommt es hierbei schnell zu Überfüllungen, ein Problem, das beispielsweise über den Preis und die Menge der Zuschauertickets reguliert werden kann.Öffentliche Sportplätze sind Allmendegüter. Bei dieser Güterart ist die Übernutzung von Allmendegütern durch rational handelnde, egoistische Menschen ein Problem.Als private Güter werden in der Sportökonomik unter anderem eigene Sportgeräte eingestuft.Auch im Sport sind meritorische Güter zu finden. Dieser Gütertyp wird von den Konsumenten nicht in dem erwünschten Umfang konsumiert, da der Nutzen meist unterschätzt wird. Ein Beispiel hierfür ist die Unterschätzung des gesundheitlichen Nutzens, der durch langjährigen Sport entsteht. Um diesen gesundheitlichen Effekt zu fördern, nutzt der Staat das Nudging.Durch Externalitäten entstehen Probleme für den effizient funktionierenden Markt, da keine optimale Ressourcen-Allokation möglich ist. Das Problem hierbei ist, dass eine zu hohe Produktion von negativen externen Effekten stattfindet und die Produktion von positiven externen Effekten zu gering ist. Ein Beispiel für negative Externalitäten ist die Umweltverschmutzung, die durch Stau oder Beschädigungen entsteht. Das steigende Image eines Ortes oder die Einnahmen durch Sporttourismus sind wiederum Beispiele für positive externe Effekte, die durch Sportveranstaltungen entstehen können.In der Sportökonomik existiert unter anderem auch ein Produktverband. Die Zuschauer schauen den Akteuren im Wettkampf zu (Clubgut) und zudem berichten lokale Medien über diesen Wettkampf (öffentliches Gut). Sponsoren und Werbende sind bei einem Wettkampf als private Güter zu identifizieren. Wenn aktive Sportler den Sport aus Spaß konsumieren, so wird dieser als Konsumgut gezählt. Jedoch betreibt ein Akteur den Sport aus gesundheitlichen Gründen, so wird der Sport als Potentialgut gesehen. Ein Kapitalgut stellen die Sponsoren dar, denn diese werben um Käufer. Da es eine große Vielzahl an Gütertypen und Gruppen bei einem Produktverband gibt, stellt sich die Frage, wie viel der einzelne Betroffene zahlen muss.
+
+
+== Unsicherheit und Zufall ==
+Eine Besonderheit der Sportökonomie ist die erwünschte Unsicherheit der Nachfrager in Bezug auf das Sportergebnis. Diese Unsicherheit ist von den Nachfragern gewünscht, damit die Aufrechterhaltung der Spannung gegeben wird und somit ein Charakterzug des sportlichen Wettbewerbs. Passive Sportkonsumenten erhoffen sich eine hohe Substitutionskonkurrenz, womit eine Steigerung der Unsicherheit wie auch der Spannung einhergeht. Denn je höher die Unsicherheit ist, desto größer ist die Attraktivität eines Wettkampfes. Zudem bleibt die Spannung eines Wettkampfes erhalten, wenn in diesem Wettbewerb keine Manipulation vorhanden ist.Im sportlichen Wettbewerb ist eine Unterscheidung von unterschiedlichen Unsicherheiten möglich. Zum einen gibt es die kurzfristige Unsicherheit, diese bezieht sich auf das Ergebnis eines einzelnen Wettkampfes. Die mittelfristige Unsicherheit ist vorhanden, wenn es um die Position eines Akteurs oder eines Teams in einem Wettkampf bzw. Liga geht. Die langfristige Unsicherheit bezieht sich auf aufeinanderfolgende Wettkämpfe.Aber auch der Erfolgsfaktor Zufall lässt einen Wettkampf spannend gestalten. Der Zufall kann entweder keinen Einfluss auf das Wettkampfergebnis haben oder die Ergebnisunterschiede werden vergrößert. Aufgrund dieses Faktors lassen sich Wettkampfergebnisse nicht sicher prognostizieren. Zufall setzt sich im Sport, wie beispielsweise im Fußball, aus der Tagesform der Akteure und dem Glück zusammen. Ein offenes Ergebnis ist durch diesen Faktor möglich, auch wenn finanzielle Unterschiede zwischen den Vereinen existieren.
+
+
+== Angebot an Sport ==
+Eine Kooperation zwischen Konkurrenten ist bei sportlichen Aktivitäten wichtig, damit ein Wettkampf und vor allem die erwünschte (Ergebnis-)Unsicherheit gewährleistet werden kann. Vereine kooperieren miteinander, sind im Wettkampf dennoch Konkurrenten. Dieses Phänomen wird auch Kooperenz genannt. Dieses Verhalten ist wichtig, damit es allen Akteuren in einem Wettkampf möglich ist, ihren Nutzen zu maximieren. Jedoch wird der Entscheidungsumfang der Sportler durch begrenzte Ressourcen limitiert.Das Ziel der Sportvereine ist es, den eigenen Nutzen zu maximieren sowie die Zahlungsfähigkeit aufrechtzuerhalten. Jedoch ist für die Maximierung des Sieges ein hoher Ertrag erforderlich, da der Sieg nur maximiert werden kann, indem in die eigenen Sportler investiert wird. Vereine bezahlen die Akteure über deren Wertgrenzprodukt, damit diese einen Anreiz haben. Zudem werden Vereine von Mäzenen unterstützt, damit das Geld in die eigenen Sportler investiert werden kann.
+
+
+=== Kosten ===
+Da die Hauptkosten eines Sportvereins die Personalkosten darstellen und Regeln des Wettkampfes die Minimierung des Inputs begrenzen, sollte die genutzte Sportanlage maximal ausgelastet werden. Dies kann beispielsweise durch niedrige Eintrittspreise oder durch Preisdifferenzierung passieren. Jedoch kann dies bei Kleinst- und Dienstleistungsbetrieben zu einem ruinösen Wettbewerb führen. Wenn das Ziel eines dieser Unternehmen die Einkommenssicherung ist und die Preise sinken, dann muss zwangsweise das Angebot erweitert werden. Jedoch ist bei den Vereinen auch eine Co-Creation möglich, das heißt, bei Wettkämpfen können Leistungen zentral vermarktet werden.
+
+
+== Nachfrage nach Sport ==
+Da Sport in der Regel in Gruppen konsumiert wird, ist diese aktive oder passive Aktivität meist ein sozialer Konsum. Aus diesem Grund wird das emotionale und altruistische Verhalten sichtbar.Ökonomische Determinanten der Sportnachfrage stellen der Preis und die Verfügbarkeit des jeweiligen nachgefragten Gutes, die Opportunitätskosten, das Einkommen der Nachfrager und der Preis von Substitutionsgüter dar.Die Nachfrage nach Sport wird auch durch den Faktor Zeit und Geld eingeschränkt, deswegen ist Sport nur begrenzt substituierbar und meistens komplementär. Bei Haushalten mit niedrigem Einkommen wirkt vorwiegend der Substitutionseffekt und bei einem hohen Einkommensniveau gibt es einen Einkommenseffekt, da die Freizeit ein normales oder superiores Gut darstellt.
+Aktiver Sport kann unter anderem als Konsumkapital gesehen werden, da Sport eine Investition in die eigene Gesundheit darstellt. Das heißt, auch wenn hohe Opportunitätskosten entstehen, ist die Investition in die Gesundheit rentabel, da der aktive Sportler länger Geld verdienen oder länger seine Freizeit genießen kann.
+Auch wird bei der Nachfrage nach Sport ein optimales Bedürfnisniveau angestrebt. Bei einer Unter- oder Überforderung entstehen dadurch neue Bedürfnisse.
+Bei einer Unterforderung entsteht Langeweile, da eine gewisse Anstrengung gesucht wird. Dies ist im aktiven wie auch im passiven Sport möglich.
+Mithilfe des Sports wird unter anderem versucht eine eigene Identität zu finden oder sich mit einem sportlichen Akteur zu identifizieren. Die Identitätssicherung sowie Emotionen spielen im Sport eine essenzielle Rolle.
+Eine Besonderheit der Sportökonomik im Vergleich zu der Wirtschaft stellt die nicht Sättigung und der steigende Grenznutzen dar. Dies ist durch eine erhöhte Konsumfähigkeit möglich, da der Konsum an Spaß bei der nächsten sportlichen Aktivität gesteigert wird und es deshalb keine Sättigung gibt.
+
+
+=== Preise ===
+Unelastische und inverse Nachfragen sind weitere Besonderheiten, welche die Sportökonomik auszeichnet. Eine unelastische Nachfrage ist bei den Eintrittskarten im Profisport zu finden. Dagegen handelt es sich bei Prestigesportarten um eine inverse Nachfragefunktion, da diese Sportarten nicht für die breite Masse gedacht sind, sondern immer nur für bestimmte Personengruppen. Aber nicht nur Preise der nachgefragten Sportart spielen eine wichtige Rolle in der Sportökonomik, auch Preise der Komplementär- und Substitutionsgüter müssen beachtet werden. Häufig kann der Sport mit anderen Freizeitgütern kombiniert werden. Ein Beispiel hierzu ist das gemeinsame konsumieren von Genussmitteln nach der sportlichen Aktivität. Aber auch andere Komplementärgüter sind für den Sport wichtig. Hierzu zählen unter anderem die passende Sportbekleidung und Ausrüstung sowie Anlagen. Hierdurch entsteht ein zusammengesetzter Preis. Die Höhe der Fixkosten bestimmt, ob die gewünschte Sportart überhaupt durchgeführt wird; und die variablen Kosten entscheiden darüber, in welcher Häufigkeit dieser Sport betrieben wird. Die Preise für Substitutionsgüter müssen berücksichtigt werden, da Sport häufig als Mittel zum Zweck genutzt wird, um andere Ziele zu erreichen. Wenn die Ziele durch andere Substitutionsgüter erreicht werden können und der Preis des Substitutionsgutes niedriger als der Preis des Sportes ist, dann entscheidet sich der Konsument gegen den Sport.
+
+
+=== Präferenzen ===
+Präferenzen spielen bei der Entscheidung der Nachfrage nach Sport eine entscheidende Rolle. Diese werden unter anderem auch durch vergangenen Konsum gebildet. Das heißt, positive oder negative Erfahrungen können über den zukünftigen Sportkonsum entscheiden. Die Präferenzen können zudem unter anderem abhängig von Geschlecht, Alter, Herkunft oder Bildung sein. Zudem können diese einen staatlichen Eingriff rechtfertigen, wenn die Präferenzen eines Individuums nicht stabil sind. Das heißt, das Individuum ist aufgrund seines sozialen Umfeldes in seiner Wahlmöglichkeit eingeschränkt.
+
+
+== Ökonomische Eigenschaften des sportlichen Wettbewerbs ==
+
+
+=== Eigenschaften ===
+Ein Charakterzug des sportlichen Wettbewerbs ist die relative Stärke, das heißt, wenn ein Akteur seine Leistung verbessert, dann werden andere Akteure des gleichen Wettkampfes schlechtergestellt, es sei denn, sie haben ihre Leistung auch verbessert. Bei einem Ranglisteneffekt wird mindestens ein anderer Akteur von seinem Rang verdrängt, wenn sich die Leistung eines Sportlers verbessert. Dieser Effekt tritt auf, wenn sich auf einem Rangplatz nur ein Akteur befinden kann. Da die Nachfrage der Sportler auf die vorderen Rangplätze größer ist als auf die hinteren Rangplätze, wird dieser Charakterzug des sportlichen Wettbewerbs auch Superstareffekt genannt.
+
+
+=== Individualsportarten ===
+Bei Individualsportarten sind alle Akteure untereinander Konkurrenten und die Grenzproduktivität ist nur abhängig von der eigenen Leistung. Da die Zuschauer von Individualsportarten eine Präferenz für hochklassige Akteure haben sind diese stets um einen Sieg bemüht und aus diesem Grund auch sehr engagiert. Die Präferenzen lassen sich aus der Nachfrage bilden, hierbei ist erkennbar, dass ein wichtiger Faktor der Nachfrage die Leistung und die Anstrengung der teilnehmenden Akteure darstellt.
+Eine Organisation oder ein Verein möchte seinen Gewinn maximieren, dies ist unter anderem auch durch die Berücksichtigung der Zuschauerpräferenzen möglich. Gewinne des Veranstalters setzen sich aus den verkauften Tickets, dem Merchandising und die Erträge aus den Fernsehübertragungsrechten zusammen. Dem Veranstalter ist es möglich den höchsten Erwartungswert zu erzielen, indem er sich risikoneutral verhält. Ein weiteres Kriterium, um den Gewinn des Veranstalters zu erhöhen, ist die Qualitätssteigerung des Wettbewerbs. Diese Qualitätssteigerung kann durch steigende Anstrengung erzielt werden. Damit der Veranstalter eine steigende Anstrengung der Akteure gewährleisten kann, kann er sich bestimmte Anreizmechanismen zunutze machen.
+
+
+==== Anreizmechanismen ====
+Ein systematischer Anreizmechanismus ist der Winner-Takes-All-Wettbewerb. Bei diesem Anreizmechanismus gelten folgende Annahmen: Akteure haben identische Fähigkeiten und sie besitzen individuelle Rationalität. Zudem wird unterstellt, dass Veranstalter und Organisatoren ihren Gewinn maximieren wollen und das eine Anreizkompatibilität gegeben ist. Das Anstrengungsniveau der Akteure steigt, wenn das Preisgeld erhöht wird oder aber auch wenn der Sportler Siegeschancen hat. Durch eine Erhöhung der Teilnehmerzahl wird zwar die aggregierte Anstrengung gesteigert, nicht jedoch das Anstrengungsniveau eines einzelnen Akteurs. Deshalb wird bei diesem Mechanismus die maximale Anstrengung nur erreicht, wenn zwei Akteure gegeneinander im Wettkampf stehen. Zudem ist hier auch eine zusätzliche Belohnung für das Erreichen eines bestimmten Leistungsniveau möglich.Ein asymmetrischer Anreizmechanismus ist der Wettbewerb mit mehreren Akteuren. Bei diesem Anreizmechanismus ist das Problem, dass es zu keiner Leistungsmaximierung kommen wird. Die schwächeren Sportler werden ihre Leistungen nicht völlig ausschöpfen, da diese keine Chancen auf den Sieg haben und darauf hin werden die stärkeren Akteure auch nicht ihre komplette Leistung nutzen. Eine Leistungsniveau Steigerung der schwächeren Teilnehmer könnte durch die Belohnung des zweiten Platzes erreicht werden. Mithilfe von Screening kann der Veranstalter einen asymmetrischen Wettbewerb ausschließen, da die Organisatoren ein homogenes Teilnehmerfeld aufstellen lassen. Durch unterschiedliche Gestaltung des Preisgeldes ist es möglich das Anstrengungsniveau der Akteure zu erhöhen. Existiert in einem Wettkampf ein ähnliches Leistungsniveau, so ist es sinnvoll unterschiedlich hohe Preise zu vergeben. Jedoch bei unterschiedlich leistungsstarken Teilnehmern, sollten sich die Preise ähneln.
+
+
+=== Teamsport ===
+Bei Teamsportarten besteht eine Kooperation im eigenen Team und eine Konkurrenz zu anderen Mannschaften. Hier ist die Grenzproduktivität abhängig von allen Akteuren in einem Team. Als Nachteil stellt sich das Trittbrettfahrerverhalten heraus, da bei diesem Sporttyp die individuelle Grenzproduktivität nicht gemessen werden kann. Die Leistung des einzelnen Individuums kann nur sehr schwer oder gar nicht von dem Teamergebnis abgeleitet werden.
+
+
+==== Probleme ====
+Bei einem Teamsport besteht das Problem der Informationsasymmetrie, da es nicht sichtbar ist, ob der Akteur seine Leistung maximiert. Der Verein des Akteurs ist der Principal und der Sportler wird als Agent identifiziert.
+Es besteht auch die Moral Hazard Problematik, da der Sportler das höchstmögliche Gehalt anstrebt und der Verein den maximalen Erfolg erzielen möchte.Die Adverse Selection ist bei externen Neuzugängen ein Problem, denn dem Externen ist es möglich bis zum Vertragsabschluss negative Eigenschaften oder geringere Leistungsmöglichkeiten wie eigentlich erwartet für sich zu behalten. Das Problem hierbei ist, dass der Verein den externen Akteur unter Vertrag nimmt, aber dieser nicht die erwarteten Leistungen erbringen kann oder will.
+
+
+==== Mögliche Lösungen ====
+Für den Verein ist es hilfreich Kontrollmechanismen zu verwenden, damit die Informationsasymmetrie behoben oder zumindest reduziert werden kann.
+Das Trittbrettfahrerverhalten sowie das Moral Hazard Problem ist mithilfe durch von Anreizmechanismen durch den Verein reduzierbar. Wird ein höherer Anreiz zur Leistung geschaffen, ist eine bessere Leistung sowie ein höheres Kooperationsverhalten zu erwarten.Um die Adverse Selection zu senken, kann der jeweilige Verein Screening betreiben. Das heißt den externen Akteur vor Vertragsbeginn auf Wettkämpfen beobachten und/oder ärztliche Untersuchungsergebnisse verlangen. Zudem ist es für den Verein vorteilhaft, den eigenen Nachwuchs zu fördern, denn diese Leistungen sind für den Verein besser zu beobachten. Aber auch die externen Akteure können Signaling oder Selbstauslese betreiben.
+
+
+== Liga ==
+Sportligen sind natürliche Monopole, da auf diesem Markt Marktzutrittsbarrieren existieren. Aus diesem Grund ist ein Zutritt zum entsprechenden Markt nicht so einfach möglich. Eine Liga kann zudem auch als Kartell bezeichnet werden. Denn sie besitzt Eigenschaften, wie die Güterabgrenzung von anderen Gütern, sie ist teilweise substituierbar und kann mit anderen Ligen im Wettbewerb stehen. Kein oder nur geringer technischer Fortschritt ist hier vorhanden. Zudem tritt die Liga unter anderem als Preiskartell auf dem Fernsehrechtemarkt auf und sie legt die Spielregeln und den Spielplan fest, das heißt, sie agiert hier als Marktaufteilungskartell. Durch die Festlegung der Teilnehmeranzahl besitzt die Liga auch das Mengenkartell. Jedoch ist es durch Cheating möglich, den Kartellmarkt zusammenbrechen zu lassen.
+
+
+== Arbeitsmarkt der Sportler ==
+Ein ruinöser Gehälterwettbewerb ist vor allem bei den erfolgreichen Profisportlern sichtbar, da diese die Schlüsselressource für den Erfolg sind und somit auch die wichtigste Ressource für den Zuschauersport.
+
+
+=== Nachfrage nach Sportlern ===
+Die sportlichen Akteure haben die Möglichkeit ihr Gehalt bei den jeweiligen Vereinen selbst auszuhandeln. Jedoch je geringer das Gehalt eines Sportlers, desto größer kann der Kader des Vereins aufgestellt werden. Aber der technische Fortschritt kann den Kader verkleinern, da dieser Fortschritt die Verletzungsgefahr und die Häufigkeit einer Verletzung minimiert und es den Akteuren somit möglich ist, einen höheren Prohibitivlohn zu verlangen.
+
+
+=== Angebot an Sportlern ===
+Übersteigt der Substitutionseffekt den Einkommenseffekt, so wird auch das Gehalt steigen, dies führt zu einem erhöhten Angebot der Akteure. Jedoch kommt es zu einer Reduzierung des Angebots, wenn die Opportunitätskosten steigen. Wenn sich das Leistungsniveau des Sportlers steigert, so wird entweder der Kader verkleinert und der Lohn gesenkt oder es wird der Kader vergrößert und auch der Lohn steigt. Dies ist jedoch abhängig ob es sich um einen indirekten oder direkten Produktivitätseffekt handelt. Bei einer direkten Produktivitätssteigerung werden für das gleiche Ergebnis weniger Sportler benötigt. Anders ist dies bei einer indirekten Produktivitätssteigerung, denn hier sinkt der Grenzertrag, worauf hin sich auch der Preis reduziert. Folge der Preisreduzierung ist eine erhöhte Nachfrage nach Wettbewerb und dies lässt die Nachfrage nach Akteuren steigen.
+
+
+=== Gehalt der sportlichen Akteure ===
+Da sich Vereine meist als Monopson verhalten, können diese aufgrund von vertraglichen Regulierungen niedrige Gehälter an die Sportler zahlen. Spielerbindungsinstrumente sind unter anderem die Reserve Clause, Draft System, Negotiation List, Salary Caps, Final Offer Arbitration und das Transfersystem mit Ablösesumme. Da diese Bindungsinstrumente die Marktmacht der Vereine fördert, hat eine Konkurrenzliga positive Auswirkungen auf die Gehälter der Akteure, wenn diese unter der Grenzproduktivität bezahlt werden. Da sich aufgrund der Konkurrenzliga ein Gleichgewicht einstellt, werden die Sportler nach ihrer Grenzproduktivität bezahlt. Infolge der Verschiebung des Gleichgewichtes wird die Menge der Akteure sowie der Lohn gesteigert. Aber auch eine Gewerkschaft der Sportler kann durch Marktmacht und Verhandlungsgeschick zu einer vorteilhafteren Lohnfindung führen. Wenn eine Gewerkschaft besteht, so existiert auf der Angebotsseite ein Monopol und auf der Nachfragerseite besteht ein Monopson.
+
+
+=== Das Coase-Theorem und die Sportökonomik ===
+Wenn alle Bedingungen des Coase-Theorems erfüllt sind, wird sich der Akteur immer für den Verein entscheidet, bei welchem seine Wertgrenzproduktivität am größten ist. Jedoch wird die Allokation der Sportler verändert, sobald nicht alle Bedingungen gegeben sind. Vereine sind jedoch aus Sicht der Akteure nicht homogen, sondern heterogen. Das heißt, der Sportler würde eventuell auf ein höheres Gehalt verzichten, wenn dieser andere Einflüsse priorisiert. Solche Einflüsse können andere Teampartner oder Reputationen darstellen.
+
+
+=== Vergütungssystem ===
+Das Vergütungssystem soll das Leistungsniveau eines Spielers steigern und aus diesem Grunde auch anreizkompatibel sowie Transparent sein, damit keine Manipulation im Nachhinein möglich ist. Schnelle Reaktionen auf Erfordernisse und die Wirtschaftlichkeit, also die Minimierung der Kosten, sind weitere wichtige Faktoren für ein funktionierendes Vergütungssystem.
+
+
+==== Prämien ====
+Die Punktprämie belohnt die Kooperation im Team, da diese abhängig von den erzielten Punkten der Mannschaft ist. Diese Prämie bekommt jeder Teilnehmer des Teams in gleicher Höhe.
+Der interne Wettkampf und der Anreiz wird durch die Auflaufprämie gesteigert, da diese Prämie individuell ausgehandelt wird und abhängig von der Anzahl der Wettkämpfe ist, die ein einzelner Akteur leistet.
+Die Jahresleistungsprämie wird vor Saisonbeginn ausgehandelt und ist, genauso wie die Auflaufprämie, unabhängig vom Team.
+Die Torprämie ist besonders beim Fußball eine individuelle Prämie, welche die individuellen Leistungen vergüten soll.
+
+
+== Ausbildung und Studiengänge ==
+In Deutschland existieren verschiedene Berufsausbildungen und Studiengänge, die eine Ausbildung im Bereich Sportökonomie und in dem thematisch verwandten Bereich des Sportmanagements bieten. Studiengänge werden von staatlichen und privaten Fachhochschulen und Universitäten angeboten. Im Jahr 2016 existieren 27 Bachelor- und 24 Masterstudiengänge an deutschen Hochschulen.
+
+
+== Siehe auch ==
+Deutsche Sportökonomie Arena
+
+
+== Literatur ==
+Frank Daumann: Grundlagen der Sportökonomie. 1. Auflage, UTB Stuttgart 2011, ISBN 978-3-8252-3184-2.
+Peter Röthig u. a. (Hrsg.): Sportwissenschaftliches Lexikon. Hofmann, Schorndorf 2003, ISBN 3-7780-4497-4.
+Frank Daumann: Grundlagen der Sportökonomie. 2., überarbeitete und erweiterte Auflage, UVK Verlagsgesellschaft mbH, Konstanz und München 2015
+Heinz-Dieter Horch, Manfred Schubert, Stefan Walzel:Besonderheiten der Sportbetriebslehre, Springer Gabler; Springer-Verlag Berlin Heidelberg 2014
+Martin-Peter Büch :Sportökonomische Ansätze zur Erklärung sportlicher Sachverhalte, BISp-Jahrbuch 1999, S. 63–69, 2000
+Jörn Quitzau, Erfolgsfaktor Zufall im Profifußball:Quantifizierung mit Hilfe informationseffizienter Wettmärkte, Diskussionspapier / Universität der Bundeswehr Hamburg, Fächergruppe Volkswirtschaftslehre ; Nr. 20, 2003
+Michael Drewes (2002) : Effizienzprobleme in europäischen Sportligen?,Wirtschaftsdienst, ISSN 0043-6275, Vol. 82, Iss. 2, pp. 114-120
+
+
+== Weblinks ==
+Homepage der Sektion Sportökonomie in der Deutschen Vereinigung für Sportwissenschaft e.V.
+Homepage des Arbeitskreis Sportökonomie e.V.
+Homepage des Berufsverbandes für Sportökonomie und Sportmanagement in Deutschland e. V.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,127 @@
+Datenverarbeitung (DV) bezeichnet den organisierten Umgang mit Datenmengen mit dem Ziel, Informationen über diese Datenmengen zu gewinnen oder diese Datenmengen zu verändern.
+Daten werden in Datensätzen erfasst, nach einem vorgegebenen Verfahren durch Menschen oder Maschinen verarbeitet und als Ergebnis ausgegeben. Eine systematische Datenverarbeitung ist die Grundlage für Statistik, Handel, Technik, Wirtschaft, Wissenschaft und Verwaltung.
+
+
+== Manuelle Datenverarbeitung ==
+In der Antike wurden Techniken zur effizienten Bewältigung von Verwaltungsaufgaben entwickelt. Beispiele sind der Kerbstock, Keilschriften und Tontafeln, aber auch die Knotenschrift Quipu in Mittelamerika. Die weitere Verfeinerung führte zu Dokumenten (z. B. Formulare, Fragebögen, Lieferscheine), die in durch Gesetze oder Arbeitsanweisungen vorgeschriebener Weise tabellarisch in Karteikästen oder Konten erfasst, bearbeitet und abgelegt wurden.
+
+
+== Maschinelle Datenverarbeitung ==
+
+Als der Pionier der elektromechanischen Datenverarbeitung gilt Herman Hollerith, „Vater der Datenverarbeitung, Großvater der IBM“, der Lochkarten einsetzte, um die Datenmengen der Volkszählung 1890/1891 in den USA zu bewältigen. Die dafür entwickelte Tabelliermaschine sowie der Lochkartensortierer und der Lochkartenlocher wurden im Laufe der Zeit um weitere Maschinen wie den Lochkartenmischer und den Lochkartenstanzer vervollständigt und die Lochkartentechnik weiter verbessert.
+
+
+=== Grundoperationen der maschinellen Datenverarbeitung ===
+Die Grundoperationen dieser Technikstufe lassen sich für alle Formen der Datenverarbeitung verallgemeinern. So wurden/werden Formulare im Einwohnermeldeamt gezählt, namentlich dem Alphabet nach sortiert, Spaltenwerte im Formular addiert, Durchschnitte errechnet und durch Vergleiche von ausgefüllten Formularen werden tabellarisch Statistiken aufgestellt.
+
+
+==== Zählen ====
+
+Zunächst waren Holleriths Maschinen ein Werkzeug der Statistik. Bei der Volkszählung konnten sie weitaus mehr Merkmale erfassen, sortieren und verarbeiten, als es eine rein manuelle Zählung allein aus Zeitgründen ermöglichte. Effizient konnten zum Beispiel Daten nach Geschlecht, Rasse, Religion und Haarfarbe erfasst, verknüpft und ausgewertet werden.
+Neben weiteren Zählungen sind unter Regie von DEHOMAG zum Beispiel die Volkszählungen 1933 in Preußen und 1939 in Deutschland dokumentiert.
+Statistiken waren nicht nur für Volkszählungen interessant. Versicherungen, Banken, Wirtschaft und statistische Reichs-, Bundes- und Landesbehörden setzten diese Maschinen ein.
+
+
+==== Addition, Subtraktion ====
+
+Mit der Tabelliermaschine lernte der Maschinenpark der Nachfolge-Unternehmen von Holleriths Tabulating Machine Company (1924 International Business Machines Corporation, kurz IBM) in den 1920er Jahren die Addition und Subtraktion. Dadurch erschlossen sich Aufgabengebiete wie Buchhaltung und Materialwirtschaft.
+
+
+==== Multiplikation, Division ====
+Seit Mitte der 1930er Jahre sind Multiplikation und Division dokumentiert, wodurch sich Buchhaltungsaufgaben wie Faktura, Zinsrechnung und Gehaltsabrechnung automatisieren ließen.
+
+
+==== Drucken ====
+1920 führte CTR einen „printing Tabulator“, eine druckende Tabelliermaschine ein.
+
+
+==== Speichern von Verarbeitungsergebnissen ====
+Ergebnisse aus der Verarbeitung wurden – um für spätere Verarbeitungstermine wieder als Eingabe verwendet zu werden – ebenfalls auf Lochkarten ausgegeben. Dazu wurde ein Lochkartenstanzer, ein Peripheriegerät des Rechnersystems, verwendet, der über Ausgabebefehle des Verarbeitungsprogramms angestoßen wurde.
+
+
+==== Mischen / Vergleichen ====
+
+Mit dem Lochkartenmischer war es möglich, Karten aus unterschiedlichen Datenstapeln zu mischen oder zu trennen, um sie so der nachfolgenden Verarbeitung zuzuführen.
+
+
+== Elektronische Datenverarbeitung ==
+
+
+=== Elektronenröhre ===
+1954 kam der Rechenstanzer IBM 604 mit einem Röhrenrechenwerk auf den deutschen Markt; ein „Vorzeichen des nahenden elektronischen Zeitalters“. Nur ein Jahr später, 1955, wurde der erste „echt“ programmierbare Computer mit Elektronenröhren, der Magnettrommelrechner IBM 650, vorgestellt. Computer wurden bis dahin für mathematisch-technische Berechnungen gebraucht.
+
+
+=== Transistor ===
+Laut IBM geht der Begriff Mittlere Datentechnik auf die Einführung des Satellitenrechners IBM 1401 am 5. Oktober 1959 zurück. Dieser war in Transistortechnik mit Kernspeicher aufgebaut und verwendete als Datenmedium Lochkarten und wahlweise Magnetbänder. Er war ein für die damalige Zeit vergleichsweise kompaktes System, das auch autonom arbeitete und so kostengünstige Einstiege in die Datenverarbeitung erlaubte.
+
+
+==== RPG ====
+
+Zeitgleich wurde 1959 die Programmiersprache RPG vorgestellt. Diese half die per Tabelliermaschinen oder Lochkartenmischern erarbeiteten Lösungen auf die neue Technik zu übertragen.
+
+
+== Dialogcomputer ==
+
+
+=== Integrierte Schaltkreise ===
+Mit dem Aufkommen rotierender Datenspeicher wurde die Magnettrommel noch eher als Hauptspeicherersatz eingesetzt, die Magnetplatten – Disketten, Fest-, Fest-, Wechsel- oder reine Wechselplatten – förderten eine Organisation der Daten in Dateien, die durch entsprechende Betriebssysteme verwaltet wurden.
+
+DOS – “Disk Operating System” – war ursprünglich eine allgemeine Bezeichnung von Software für Großrechner und Rechner der mittleren Datentechnik in den späten sechziger Jahren.
+
+
+=== Datenbank ===
+„Das Zeitalter der Datenbank-Systeme markierte zu Beginn der siebziger Jahre die Systemfamilie IBM/370“.
+
+durch geschicktes Abspeichern wurde der Zugriff auf einen Datensatz beschleunigt, es musste nicht mehr ein Lochkartenstapel selektiv u. U. mehrfach sortiert werden, bis Teilmengen des Datenstapels bis hin zum einzelnen Datensatz als Ergebnis anfielen.
+Techniken wie Indices beschleunigten den Zugriff auf einzelne Datensätze, Datenbankstrukturen sorgten für die Verknüpfung unterschiedlicher Datenquellen (sei es Adressdaten inkl. Kundennummer mit Umsatzdaten nach Kundennummer).Die Daten der Lochkartenstapel wurden nun in einzelnen Dateien gespeichert oder gleich in Tabellen in einer Datei. Es entstanden Datenbankstrukturen, und dadurch wurde es möglich Datenverknüpfungen viel schneller also quasi gleichzeitig vorher auf einem oder mehreren Terminals auszugeben. Dies in Real Time
+
+
+== Informationsgesellschaft ==
+
+Jede Firma verarbeitet Daten. Bund, Länder, Städte und Gemeinden funktionieren nur auf Grund einer ausgefeilten Datenverarbeitung, dazu gibt es das statistische Bundesamt, Landesämter für Datenverarbeitung und Statistik. Gesetze (sei es Steuern, Agentur für Arbeit usw.) werden spätestens bei den Ausführungsbestimmungen (gegossen z. B. ins Bundesgesetzblatt) „datenverarbeitungskonform“ gestaltet. Die Elektronische Steuererklärung für Firmen ist ein Muss, jeder Bürger bekommt eine Steuernummer. Den Bürgern stehen über die Massenmedien und deren Informationssysteme Informationen aus aller Welt in ungeheurer Fülle und in kürzester Zeit zur Verfügung, und über das Internet findet der Benutzer über Suchmaschinen tausende von potenziellen Treffern in Sekundenbruchteilen oder kann über Wikis und Blogs Informationen nahezu grenzenlos gewinnen und bereitstellen. All dies sind Beispiele dafür, wie sich die Datenverarbeitung in breiten Schichten und in allen Altersgruppen moderner Gesellschaften eingeführt hat und fortentwickelt.
+
+
+== Datenverarbeitung als Rechtsbegriff ==
+Datenverarbeitung ist ein gängiger Rechtsbegriff. Dort vorrangig findet er im Bereich des Datenschutzrechtes Verwendung.
+
+
+=== Datenverarbeitung als Rechtsbegriff innerhalb der EU ===
+Der Rechtsbegriff „Datenverarbeitung“ ist ein zentraler Bestandteil des EU-Datenschutzrechtes. Er wird u. a. in der Richtlinie 95/46/EG (Datenschutzrichtlinie) verwendet und dort auch unter Artikel 2 lit. b legaldefiniert. Danach versteht man hierunter „jeden mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Speichern, die Organisation, die Aufbewahrung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Benutzung, die Weitergabe durch Übermittlung, Verbreitung oder jede andere Form der Bereitstellung, die Kombination oder die Verknüpfung sowie das Sperren, Löschen oder Vernichten“. Auch wenn die Richtlinie 95/46/EG (Datenschutzrichtlinie) durch die Verordnung 2016/679 (Datenschutz-Grundverordnung) aufgehoben worden ist, so wurde der Rechtsbegriff „Datenverarbeitung“ weitestgehend übernommen. Die Legaldefinition befindet sich in Artikel 4 Nr. 2 DSGVO: "jeden mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung".
+
+
+=== Datenverarbeitung als Rechtsbegriff in Deutschland ===
+Der Rechtsbegriff „Datenverarbeitung“ wird auch im deutschen Rechtsraum verwendet. Er findet Erwähnung u. a. im Telemediengesetz (z. B. § 13 TMG). Eine Legaldefinition enthält § 3 Absatz 4 BDSG. Danach versteht man unter einer Datenverarbeitung das „Speichern, Verändern, Übermitteln, Sperren und Löschen personenbezogener Daten“. Der gesetzliche Datenverarbeitungsbegriff umfasst also fünf Varianten.
+Für die einzelnen Varianten hält das Bundesdatenschutzgesetz die folgenden Definitionen bereit:
+
+Speichern
+ist „das Erfassen, Aufnehmen oder Aufbewahren personenbezogener Daten auf einem Datenträger zum Zwecke ihrer weiteren Verarbeitung oder Nutzung“ (§ 3 Absatz 4 Satz 2 Nr. 1 BDSG)
+Verändern
+von Daten ist „das inhaltliche Umgestalten gespeicherter personenbezogener Daten“ (§ 3 Absatz 4 Satz 2 Nr. 2 BDSG)
+Übermitteln
+von Daten ist „das Bekanntgeben gespeicherter oder durch Datenverarbeitung gewonnener personenbezogener Daten an einen Dritten in der Weise, dass (a)die Daten an den Dritten weitergegeben werden od. (b) der Dritte zur Einsicht oder zum Abruf bereitgehaltene Daten einsieht oder abruft“ (§ 3 Absatz 4 Satz 2 Nr. 3 BDSG)
+Sperren
+von Daten ist „das Kennzeichnen gespeicherter personenbezogener Daten, um ihre weitere Verarbeitung oder Nutzung einzuschränken“ (§ 3 Absatz 4 Satz 2 Nr. 4 BDSG)
+Löschen
+von Daten ist „das Unkenntlichmachen gespeicherter personenbezogener Daten“ (§ 3 Absatz 4 Satz 2 Nr. 5 BDSG)
+
+
+== Literatur ==
+Geschichte der Datenverarbeitung. Universität Erlangen
+Horst Völz: Das ist Information. Shaker Verlag, Aachen 2017, ISBN 978-3-8440-5587-0.
+Horst Völz: Wie wir wissend wurden. Nicht Alles ist Information. Shaker Verlag, Aachen 2018, ISBN 978-3-8440-5865-9.
+Claus Bliefert, J. Kwiatkowski (Hrsg.): Datenverarbeitung in den Naturwissenschaften. VCH, Weinheim 1989.
+G. Böhm: Grundbegriffe der Datenverarbeitung. 2. Auflage. VCH, Weinheim 1992.
+
+
+== Weblinks und Quellen ==
+Von Hollerith zu IBM – Die Geschichte der kommerziellen Datenverarbeitung Referat
+Bundesdatenschutzgesetz (BDSG) – Gesetzestext a.F.
+IBM Punch Card Systems in the U.S. Army (englisch)
+Heinz Nixdorf Museumsforum zeigt Hollerithmaschine
+Von Hollerith zu IBM – Herman Holleriths Tabelliermaschinen
+Herman Hollerith (1860–1929)
+robotrontechnik
+Thomas Watson Jr.: Von der Tabelliermaschine zu IBMs System/360
+
+
+== Einzelnachweise ==

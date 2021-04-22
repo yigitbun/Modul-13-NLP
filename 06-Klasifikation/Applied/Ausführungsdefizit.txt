@@ -1,0 +1,14 @@
+In der Mensch-Computer-Interaktion ist das Ausführungsdefizit (englisch gulf of execution  ‚Kluft der Ausführung‘) die Lücke zwischen den Zielen des Nutzers und der physikalischen Ausführung, die zur Erreichung des Ziels tatsächlich nötig sind. Das Ziel der Gebrauchstauglichkeit ist es, diese Kluft durch Vereinfachung der Anzahl an nötigen Schritten zu minimieren und den Arbeitsablauf nicht zu unterbrechen. Mit anderen Worten „die Differenz zwischen der Formulierung der zielrelevanten Aktionen seitens des Anwenders (Handlungsspezifikation) und den Aktionen, die das System erlaubt“. Zuerst erwähnte Donald Norman gulf of execution und gulf of evaluation in seinem Buch User Centered System Design: New Perspectives on Human-computer Interaction.
+
+
+== Beispiel ==
+Ein Zuschauer einer Sendung oder Streams möchte diese am Computer aufzeichnen. Der einfache Gedanke dahinter wäre, einen Knopf zu drücken und mit wiederholtem Drücken die Aufnahme zu stoppen. In Wirklichkeit sind jedoch mehrere Schritte notwendig.
+
+Aufnahmetaste drücken und die Aufnahme starten
+Auswahl eines Senders bzw. Kanals
+Auswahl eines Fenster am PC
+Aufnahmetaste drücken und die Aufnahme beenden
+Dateinamen, Format und Speicherort wählen.
+
+
+== Einzelnachweise ==

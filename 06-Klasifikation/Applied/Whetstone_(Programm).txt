@@ -1,0 +1,14 @@
+Whetstone (englisch für „Wetzstein“) ist ein Benchmark-Programm, um die Geschwindigkeit und Effizienz von Computern vergleichbar zu messen.
+Als Ergebnis liefert das Programm eine Zahl, welche die „whetstone instructions per seconds“, also die „Whetstone-Instruktionen pro Sekunde“, angibt. Diese Maßeinheit wird kurz auch WIPS genannt. Inzwischen wird allerdings in GigaWIPS (kurz GWIPS) gerechnet (siehe dazu auch Vorsätze für Maßeinheiten).
+
+
+== Geschichte ==
+Der Whetstone-Benchmark wurde im Jahr 1976 im National Physical Laboratory entwickelt, um die Leistung eines dort entwickelten Computers zu ermitteln. Ursprünglich war das Programm in Algol 60 geschrieben, doch entstand im Jahr 1987 die erste C-Version, außerdem existieren noch Versionen in Fortran.
+
+
+== Weitere Details ==
+Der Whetstone-Benchmark verwendet für seine Messungen Gleitkommazahl-Operationen, aber auch Ganzzahl-Arithmetik und Zugriffe auf Feld-Elemente.
+
+
+== Siehe auch ==
+Dhrystone

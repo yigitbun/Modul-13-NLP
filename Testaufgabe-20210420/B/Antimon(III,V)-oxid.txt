@@ -1,0 +1,142 @@
+Antimon(III,V)-oxid, auch Antimon(III)-antimonat(V) oder Diantimontetroxid, ist eine Antimonverbindung mit der Summenformel Sb2O4. Es gehört zur Stoffklasse der Oxide. Diantimontetroxid ist ein weißes, in der Hitze gelbes Pulver, das in Wasser unlöslich ist.
+
+
+== Vorkommen ==
+In der Natur kommt Antimon(III,V)-oxid in Form des Minerals Cervantit vor. Fundstellen sind unter anderem in Rumänien, Bolivien und Spanien.
+
+
+== Gewinnung und Darstellung ==
+Antimon(III,V)-oxid bildet sind auf mehrere Weisen. Antimon(V)-oxid wandelt sich bei 800 °C unter Sauerstoffabgabe in Diantimontetroxid um. Dabei kommt es jedoch nicht zum Schmelzen der Verbindung.
+
+  
+    
+      
+        
+          2
+          
+          
+            Sb
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            Sb
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              4
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          
+            ↑
+          
+        
+      
+    
+    {\displaystyle {\ce {2Sb2O5 -> 2Sb2O4 + O2 ^}}}
+  Auch aus Antimon(III)-oxid entsteht Diantimontetroxid, wenn es über 500 °C an der Luft erhitzt wird.
+
+  
+    
+      
+        
+          2
+          
+          
+            Sb
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            Sb
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2Sb2O3 + O2 -> 2Sb2O4}}}
+  
+
+
+== Eigenschaften ==
+In Antimon(III,V)-oxid sind keine vierwertigen Ionen vorhanden, vielmehr ist es ein Mischoxid von Antimon(III)- und Antimon(V)-oxid. Der häufig verwendete Name Antimon(IV)-oxid ist darum chemisch nicht ganz korrekt.
+Es sind zwei Modifikationen, α- und β-Antimon(III,V)-oxid bekannt. Bei einer Temperatur von 1130 °C wandelt sich die α- in die β-Form um. α-Antimon(III,V)-oxid kristallisiert im orthorhombischen Kristallsystem mit den Gitterparametern a = 5,43 Å, b = 4,81 Å und c = 11,78 Å sowie vier Formeleinheiten pro Elementarzelle. Die β-Form ist monoklin mit den Gitterparametern a = 12,06 Å, b = 4,84 Å, c = 5,38 Å und β = 104,56°, sowie vier Formeleinheiten pro Elementarzelle.Es liegen dabei Schichten aus SbO5-Oktaedern vor, die ein fünfwertiges Antimonatom im Zentrum besitzen. Dies sind über ihre Ecken miteinander verknüpft. Die Schichten sind untereinander über die dreiwertigen Antimonatome verknüpft.Löslich ist Diantimontetroxid in konzentrierter Schwefelsäure und Salzsäure. Dagegen löst sich die Verbindung nicht in Wasser und verdünnten Säuren und Laugen.
+
+
+== Einzelnachweise ==

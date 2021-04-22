@@ -1,0 +1,179 @@
+Magnesiumoxid (Magnesia), veraltet auch Bittererde, ist das Oxid des Magnesiums. Das Salz besitzt die Formel MgO und besteht aus Mg2+- und O2−-Ionen. Es kristallisiert in der Natriumchlorid-Struktur.
+
+
+== Vorkommen ==
+In der Natur kommt Magnesiumoxid als vulkanisches Mineral Periklas vor. Es sind weiße bis graue, durch Einschlüsse auch dunkelgrüne, glasglänzende reguläre Kristalle der Härte 5,5 bis 6 (nach Mohs).
+
+
+== Darstellung und Gewinnung ==
+Magnesiumoxid entsteht durch das Verbrennen von Magnesium an der Luft. Diese Reaktion verläuft mit −592,8 kJ·mol−1 aus der festen Phase bzw. mit −608,4 kJ·mol−1 aus der flüssigen Phase stark exotherm.
+
+  
+    
+      
+        
+          2
+           
+          M
+          g
+          +
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+           
+          2
+           
+          M
+          g
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ Mg+\ O_{2}\longrightarrow \ 2\ MgO} }
+  Es kann auch durch die Reaktion von Ethanoldampf und Magnesium bei erhöhter Temperatur erhalten werden. Hierbei entsteht neben Magnesiumoxid Ethan.
+
+  
+    
+      
+        
+          
+            C
+            
+              2
+            
+          
+          
+            H
+            
+              5
+            
+          
+          O
+          H
+          +
+          M
+          g
+          →
+          
+          
+            C
+            
+              2
+            
+          
+          
+            H
+            
+              6
+            
+          
+          +
+          M
+          g
+          O
+        
+      
+    
+    {\displaystyle \mathrm {C_{2}H_{5}OH+Mg\rightarrow \,C_{2}H_{6}+MgO} }
+  Weiterhin wird MgO durch Kalzinierung von Magnesiumhydroxid Mg(OH)2, Magnesiumsulfat oder Magnesiumcarbonat MgCO3 gewonnen, beispielsweise als Nebenprodukt bei der Meerwasseraufbereitung, bei dem durch Fällung mit Calciumhydroxid Magnesiumhydroxid gewonnen wird.
+
+  
+    
+      
+        
+          M
+          g
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+          ⟶
+           
+          M
+          g
+          O
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Mg(OH)_{2}\longrightarrow \ MgO+\ H_{2}O} }
+  
+
+  
+    
+      
+        
+          M
+          g
+          C
+          
+            O
+            
+              3
+            
+          
+          ⟶
+           
+          M
+          g
+          O
+          +
+           
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {MgCO_{3}\longrightarrow \ MgO+\ CO_{2}} }
+  Da Magnesiumoxid ursprünglich durch Kalzinierung hergestellt wurde, wird es auch heute noch Magnesia usta, gebranntes Magnesia, genannt.
+
+
+== Eigenschaften ==
+
+Magnesiumoxid bildet farblose Kristalle in der Natriumchlorid-Struktur. Es besitzt einen hohen Schmelzpunkt von etwa 2800 °C. Wird es aus der thermischen Umsetzung anderer Magnesiumverbindungen gewonnen, so hängt das chemische Verhalten sehr stark von der Herstellungstemperatur und dem Herstellungsverfahren ab. Beim Kalzinieren von natürlich vorkommendem Magnesiumcarbonat (Magnesit) bei etwa 800 °C entsteht sogenannter „kaustisch gebrannter Magnesit“. Während des Brennvorgangs entweicht das Kohlenstoffdioxid, jedoch ist die Temperatur zu niedrig, um ein Sintern zuzulassen. Die entstehenden Magnesiumoxidkörner haben daher noch die äußere Form des Magnesiumcarbonats, sind porös und durch die große innere Oberfläche sehr reaktionsfähig. Mit Wasser entsteht in kurzer Zeit durch Hydratation Magnesiumhydroxid. Die Reaktion einiger in Wasser gelöster Magnesiumsalze mit kaustisch gebranntem Magnesit führt zur Auskristallisation einer steinharten Masse. Ist das Magnesiumsalz Magnesiumchlorid MgCl2, so spricht man von Sorelzement.
+Bei 1700 °C bis 2000 °C bildet sich Sintermagnesia, oberhalb von 2800 °C (etwa im Lichtbogenofen) Schmelzmagnesia. Beide Sorten reagieren kaum noch mit Wasser.
+Sintermagnesia wird auch als „totgebrannte Magnesia“ bezeichnet, ein stark verdichtetes Material mit großen Primärkristallen und geringer Reaktivität, welches vielfach zur Herstellung von Feuerfest-Produkten verwendet wird.
+Im Gegensatz zu Branntkalk wird Magnesia bislang nicht industriell im mittleren Temperaturbereich oberhalb von 1000 °C hergestellt.
+
+
+== Verwendung ==
+Es wird Lebensmitteln als Säureregulator oder Trennmittel zugesetzt.
+Es ist in der EU als Lebensmittelzusatzstoff der Bezeichnung E 530 ohne Höchstmengenbeschränkung (quantum satis) für Lebensmittel allgemein zugelassen.
+Für technische Anwendungen wird Magnesiumoxid in leicht verunreinigter Form als kaustisch gebrannter Magnesit (KM) angeboten und dient zur Gewinnung von Buntmetallen, Stahlveredlern und Glas.
+Vermischt mit Magnesiumchlorid oder -sulfatlösungen wird kaustisch gebrannter Magnesit als sogenannter Sorelzement etwa zur Herstellung von Industriefußböden verwendet. Solcher Magnesiazement verbindet sich gut mit organischen porösen Substanzen wie Holz, Kork und Leder. Im Bausektor kommt Magnesiumoxid auch als Bindemittel für mineralische Ortschäume zum Einsatz.Kaustisch gebrannter Magnesit wird auch in der Dünge- und Futtermittelindustrie als Magnesiumträger verwendet.
+In der Medizin wird Magnesiumoxid zur Substitutionstherapie verwendet.
+Sintermagnesia wird aufgrund des hohen Schmelzpunkts von 2800 °C zur Herstellung von Magnesia-Kohlenstoff-Steinen verwendet, die zu den basischen Feuerfestmaterialien zählen.
+Endprodukte sind etwa feuerfeste Auskleidungen von Laborgeräten, Gefäßen wie Konvertern, Elektrolichtbogenöfen, Gießpfannen in der Stahlerzeugung, isolierende Umhüllung von Thermoelementen und Isolierröhrchen zwischen Heizfaden und Kathode von Elektronenröhren.
+Magnesiumoxid wird auch zur Entkieselung von Wasser sowie als Adsorptionsmittel und Vulkanisierungsverzögerer in der organischen Chemie eingesetzt.
+Zur Boraxperlen-Probe werden gesinterte Magnesiastäbchen von 1–2 mm Durchmesser eingesetzt, deren genutztes Ende leicht abzubrechen ist.
+Gepresstes feines Pulver aus MgO wird auch als Tafelkreide in der Schule benutzt.
+
+
+== Abgrenzung ==
+Das im Klettersport sowie beim Geräteturnen verwendete "Magnesia" ist kein Magnesiumoxid, sondern im Wesentlichen Magnesiumcarbonat mit Magnesiumhydroxid.
+
+
+== Einzelnachweise ==

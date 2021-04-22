@@ -1,0 +1,113 @@
+Schwefelmonoxid ist eine anorganische chemische Verbindung des Schwefels aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Schwefelmonoxid kann durch Reaktion von Schwefel mit Schwefeldioxid in einer elektrischen Entladung gewonnen werden.
+
+  
+    
+      
+        
+          S
+          +
+          S
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          S
+          O
+        
+      
+    
+    {\displaystyle \mathrm {S+SO_{2}\longrightarrow 2\ SO} }
+  Ebenfalls möglich ist die Darstellung durch Verbrennen von Schwefel in reinem Sauerstoff bei vermindertem Druck.
+
+  
+    
+      
+        
+          
+            S
+            
+              2
+            
+          
+          +
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          S
+          O
+        
+      
+    
+    {\displaystyle \mathrm {S_{2}+O_{2}\longrightarrow 2\ SO} }
+  
+
+
+== Eigenschaften ==
+Schwefelmonoxid ist ein farbloses, unbeständiges Gas. Es ist nur bei geringen Drücken (< 1 mbar) beständig. Bei höheren Drücken bzw. beim Kondensieren mit flüssiger Luft entstehen orangerote bis kirschrote plastische Produkte, die beim Erwärmen unter Schwefeldioxid-Abspaltung zu gelben Polyschwefeloxiden disproportionieren.
+
+  
+    
+      
+        (
+        n
+        +
+        x
+        )
+        
+        
+          S
+          O
+        
+        ⟶
+        
+          
+            S
+          
+          
+            n
+          
+        
+        
+          
+            O
+          
+          
+            n
+            −
+            x
+          
+        
+        +
+        x
+        
+        
+          
+            S
+            O
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle (n+x)\;\mathrm {SO} \longrightarrow \mathrm {S} _{n}\mathrm {O} _{n-x}+x\;\mathrm {SO} _{2}}
+  Schwefelmonoxid ist ein hochreaktives Molekül, das wie Sauerstoff in einem Triplett-Grundzustand vorliegt.
+
+
+== Einzelnachweise ==

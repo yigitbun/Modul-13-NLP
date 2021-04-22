@@ -1,0 +1,71 @@
+Gallium(III)-oxid ist eine chemische Verbindung des Galliums und zählt zu den Oxiden. Der farblose, kristalline Feststoff kommt in fünf Modifikationen vor.
+
+
+== Gewinnung und Darstellung ==
+Gallium(III)-oxid lässt sich durch Entwässerung von Galliumhydroxid bei 500 °C gewinnen.
+
+  
+    
+      
+        
+          2
+           
+          G
+          a
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+          
+            
+              →
+              
+                △
+              
+            
+          
+          G
+          
+            a
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ↑
+        
+      
+    
+    {\displaystyle \mathrm {2\ Ga(OH)_{3}{\xrightarrow {\triangle }}Ga_{2}O_{3}+3\ H_{2}O\uparrow } }
+  Eine Alternative ist die Zersetzung von Galliumnitrat bei 200 °C. Die beiden Darstellungswege führen zu unterschiedlichen Modifikationen, die sich bei höheren Temperaturen zur stabilsten β-Modifikation umsetzen.
+
+
+== Eigenschaften ==
+Die Modifikationen des Gallium(III)-oxid bezeichnet man mit den griechischen Buchstaben α bis ε. Die stabilste ist die monokline β-Modifikation. Wird Galliumhydroxid entwässert, bildet sich zunächst die γ-Modifikation, deren Struktur eine Spinellstruktur mit Galliumdefekten ist. Bei längerem Erhitzen geht diese in die α-Ga2O3-Modifikation mit Korundstruktur und schließlich in β-Ga2O3 über.Beim Reaktionsweg über Galliumnitrat bildet sich zunächst die Bixbyit-artige δ-Modifikation, die sich beim stärkeren Erhitzen über die orthorhombische ε-Phase ebenfalls in β-Ga2O3 umwandelt.Mehrere Galliumoxidmodifikationen zeigen fotokatalytische Aktivität bei der Zersetzung aromatischer Verbindungen wie Benzol oder Toluol. Sie ist höher als die des häufig eingesetzten Titan(IV)-oxids.
+
+
+== Verwendung ==
+Gallium(III)-oxid ist Ausgangsstoff für die Herstellung von Gadolinium-Gallium-Granat für Magnetblasenspeicher.
+
+
+== Einzelnachweise ==

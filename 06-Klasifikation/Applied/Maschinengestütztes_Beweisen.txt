@@ -1,0 +1,74 @@
+Maschinengestütztes Beweisen (oder missverständlicher: automatisches Beweisen; ein Teilgebiet der automatischen Deduktion) basiert auf der Verwendung von Computerprogrammen zur Erzeugung und Überprüfung von mathematischen Beweisen logischer Theoreme. Im Unterschied zu einem Computerbeweis wird versucht, den gesamten formalen Beweis bestehend aus Schritten und Zwischenergebnissen zu konstruieren.
+
+
+== Computerbeweis ==
+
+
+=== Methode ===
+Man verwendet den Begriff insbesondere für Beweise, die folgendes Schema aufweisen: Zunächst wird gezeigt, dass das allgemeine Problem P gilt, wenn eine andere Eigenschaft E gilt, wenn also P auf E reduziert werden kann. Entscheidend ist dabei, dass E durch Aufzählen endlich vieler (meist sehr vieler) Fälle entschieden werden kann.
+Die Reduktion von P auf E ist üblicherweise ein ganz normaler, informeller mathematischer Beweis. Erst im nächsten Schritt kommt der Computer ins Spiel: Man schreibt ein Programm, das alle Fälle aufzählt (generate) und dann jeweils überprüft, ob für sie E tatsächlich gilt (test). Im Grunde wird E also durch eine Brute-Force-Methode entschieden. Aus beiden Teilen folgt dann die Behauptung P.
+
+
+=== Einwände gegen Computerbeweise ===
+Computerbeweise sind z. T. unter Mathematikern umstritten. Neben psychologischen und technischen Einwänden gibt es dabei auch methodische.
+
+Ein psychologischer Einwand ist das Ideal einer kurzen, logischen Begründung, die von jedermann leicht nachvollzogen werden kann. Solche Beweise werden allerdings in der mathematischen Praxis immer seltener. Die Monsterbeweise der aktuellen mathematischen Forschung können von einem einzelnen Menschen nicht mehr in allen Teilen (einschließlich der benutzten Hilfssätze) nachvollzogen werden.
+Ein technischer Einwand ist, dass der Compiler oder die Hardware Fehler haben kann. Dieser Einwand wird aufgrund der bisherigen praktischen Erfahrung aber als eher hypothetisch eingestuft, denn die bisher bekanntgewordenen Fehler von Hardware oder Compilern bezogen sich meist nicht auf Integer-Funktionen oder logische Funktionen, sondern waren eher im Bereich der Floating-Point-Arithmetik aktiv, wie z. B. der bekannte Pentium-FDIV-Bug des Intel-Pentium-Prozessors. Für Computerbeweise werden aber meist lediglich logische und diskrete Mechanismen verwendet. Durch Wiederholungen auf verschiedenen Rechnern und in verschiedenen Implementierungen kann dieses Risiko zusätzlich minimiert werden.
+Methodisch problematisch ist die Frage, ob das Programm den unterliegenden Algorithmus korrekt implementiert, ob der Algorithmus in der generate-Phase alle Fälle aufzählt, und die test-Phase tatsächlich die Eigenschaft E für diesen Fall zusichert. Hier besteht also ein Programmverifikationsproblem.
+
+
+== Maschinengestütztes Beweisen ==
+
+
+=== Methode ===
+Es wird ein mathematischer Beweis formalisiert, d. h. soweit in eine Folge von logischen Einzelschritten zerlegt, dass diese von einem Computerprogramm nachvollzogen werden können. Beweisprüfung ist ein universelles, nur logikabhängiges Problem, während  "generate-and-test"-Algorithmen problemspezifisch sind. Es gibt daher gute Gründe dafür, warum maschinengeprüften formalen Beweisen mehr zu trauen ist als Computerbeweisen.
+
+
+=== Problematik und theoretische Grenzen ===
+Die Frage, ob ein formaler Beweis jedes Theorems in einer gegebenen Logik konstruiert werden kann, heißt Entscheidungsproblem. Abhängig von der zugrundegelegten Logik kann das Entscheidungsproblem von trivial bis unlösbar variieren. Für den Fall der Aussagenlogik ist das Problem entscheidbar (d. h. ein Beweis ist immer erzeugbar, wenn das Theorem logisch gültig ist, andernfalls wird die Ungültigkeit festgestellt), allerdings NP-vollständig. Dagegen ist Prädikatenlogik erster Stufe lediglich semi-entscheidbar, das heißt unter Verwendung von unbeschränkten Zeit- und Speicherressourcen kann ein gültiges Theorem bewiesen, ein ungültiges allerdings nicht immer als solches erkannt werden. Logik höherer Stufe (HOL) ist weder entscheidbar noch (bezüglich sogenannter Standardmodelle) vollständig.
+
+
+=== Automatische Theorembeweiser ===
+Trotz dieser theoretischen Grenzen sind praktisch verwendbare Automatische Theorembeweiser (ATPs) implementiert worden, die viele schwierige Probleme in diesen Logiken lösen können.
+Speziell für den Bereich der Prädikatenlogik erster Stufe gibt es eine Reihe von erfolgreichen Systemen. Praktisch alle dieser Verfahren generieren einen Beweis durch Widerspruch und beruhen theoretisch auf einer Variante des Satzes von Herbrand. Die für den Widerspruch notwendigen Instanzen werden über Unifikation erzeugt. Ein erster Kalkül dieser Art ist der von John Alan Robinson 1965 eingeführte Resolutionskalkül. Auch heutige Beweiser beruhen zum großen Teil auf Erweiterungen und Verfeinerungen dieser Idee, so z. B. dem Superpositionskalkül. In diesen Kalkülen werden aus einer initialen Menge von Klauseln durch Anwendung von Schlussregeln sukzessive neue Konsequenzen hergeleitet (d. h. die Menge wird saturiert), bis der Widerspruch durch Herleitung der offensichtlich unerfüllbaren leeren Klausel explizit wird.
+Während Theorembeweiser Beweise für Theoreme aus Axiomen über Inferenzschritte ableiten und in irgendeiner Form mathematische Beweise nachbilden, werden bei der Modellprüfung (model checking) zumeist raffiniert implementierte Techniken benutzt, Beweiszustände brute-force aufzuzählen und Suchräume von Beweiszuständen systematisch abzusuchen. Manche Systeme sind auch Hybride, die sowohl interaktive Beweisverfahren als auch Modellprüfung einsetzen.
+
+
+=== Interaktive Theorembeweiser ===
+Ein einfacheres, aber verwandtes Problem ist die Beweisüberprüfung, wo für einen gegebenen formalen Beweis nachgeprüft wird, ob er ein gegebenes Theorem tatsächlich beweist. Hierfür muss lediglich jeder einzelne Beweisschritt nachgeprüft werden, was in der Regel durch einfache Funktionen möglich ist.
+Interaktive Theorembeweiser, auch Beweisassistenten genannt, erfordern Hinweise für die Beweissuche, die von einem menschlichen Benutzer dem Beweissystem gegeben werden müssen. Abhängig vom Automatisierungsgrad kann dann ein Theorembeweiser im Wesentlichen auf einen Beweisprüfer reduziert werden oder selbstständig bedeutsame Teile der Beweissuche automatisch durchführen. Interaktive Beweiser werden mittlerweile für vielfältige Aufgaben eingesetzt, deren Anwendungsbereich von reiner Mathematik über theoretische Informatik bis zu praktischen Problemen der Programmverifikation reicht.
+
+
+== Wissenschaftliche und industrielle Anwendungen ==
+Bedeutende mathematische Beweise, die durch interaktive Theorembeweiser überprüft wurden, sind der Beweis des Vier-Farben-Satzes durch Georges Gonthier (der den älteren Computerbeweis durch Appel und Haken ablöst) sowie der formalisierte Beweis der Keplerschen Vermutung durch das Flyspeck-Projekt (2014). Aber auch automatische Theorembeweiser haben mittlerweile einige interessante und schwierige Probleme lösen können, deren Lösung in der Mathematik längere Zeit unbekannt war. Allerdings sind solche Erfolge eher sporadisch, die Bearbeitung von schwierigen Problemen erfordert zumeist interaktive Theorembeweiser.
+Die industrielle Verwendung von Theorembeweisern oder Modellprüfern konzentriert sich zurzeit noch schwerpunktmäßig auf die Verifikation von integrierten Schaltkreisen und Prozessoren. Seitdem Fehler mit schweren wirtschaftlichen Auswirkungen in kommerziellen Prozessoren bekannt geworden sind (siehe Pentium-FDIV-Bug), werden ihre Recheneinheiten zumeist verifiziert. In den neuesten Prozessor-Versionen von AMD, Intel und anderen sind Theorembeweiser und Modellprüfer eingesetzt worden, um viele kritische Operationen in ihnen zu beweisen. Neuerdings werden Theorembeweiser auch zunehmend für die Software-Verifikation eingesetzt; große Projekte umfassen die Teil-Verifikation von Microsofts Hyper-V oder eine weitgehende Verifikation des L4 (Mikrokernel).
+
+
+== Verfügbare Implementierungen ==
+Verfügbare Implementierungen für automatische Theorembeweiser sind z. B. Simplify oder Alt-Ergo. Sie zeigen, wie auch die neueren Systeme Z3 oder CVC-4, auf der (Un-)erfüllbarkeit von Formeln über entscheidbaren Hintergrundtheorien (Satisfiability modulo Theories).
+Auf klassischer Prädikatenlogik basieren die bekannten Beweiser SPASS, E, und Vampire. Lean ist ein neueres System, das auf Typentheorie (CoC) basiert. 
+Beispiele für interaktive Theorembeweiser sind Isabelle und Coq, die Logiken höherer Stufe (HOL bzw. CC) verwenden.
+Das Theorem Prover Museum ist eine Initiative, die Beweiser als wichtige kulturelle und wissenschaftliche Artefakte für die wissenschaftshistorische Forschung zu erhalten. Es macht viele der oben erwähnten Systeme im Quellcode zugänglich.
+
+
+== Beispiele für Beweistechniken ==
+Resolution
+Termersetzung
+Modellprüfung
+Induktion
+Binäre Entscheidungsdiagramme
+
+
+== Literatur ==
+Thomas C. Hales Formal Proof (PDF; 524 kB), 55:11, Notices of the American Mathematical Society, 1370–1382, 2008.
+Georges Gonthier: Formal Proof—The Four-Color Theorem, 55:11, Notices of the American Mathematical Society, 1384–1393, 2008.
+Dirk Leinenbach, Thomas Santen: Verifying the Microsoft Hyper-V Hypervisor with VCC, in: FM 2009: Formal Methods, Lecture Notes in Computer Science Volume 5850 (2009), 806–809, 2009. doi:10.1007/978-3-642-05089-3_51.
+Leonid Ryzhyk, John Keys, Balachandra Mirla, Arun Raghunath, Mona Vij, Gernot Heiser: Improved Device Driver Reliability Through Hardware Verification Reuse (PDF; 225 kB).
+M. Nakao, M. Plum, Y. Watanabe (2019) Numerical Verification Methods and Computer-Assisted Proofs for Partial Differential Equations (Springer Series in Computational Mathematics).
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+ÜberblicksdarstellungenFrederic Portoraro: Automated Reasoning. In: Edward N. Zalta (Hrsg.): Stanford Encyclopedia of Philosophy.

@@ -1,0 +1,26 @@
+Die Betriebsinformatik ist die Lehre um die Erschaffung eines empirischen Workflow-Systems auf Basis informations- und kommunikationstechnischer Systeme zur Schaffung und Unterhaltung und Weiterentwicklung von betrieblichen Geschäfts- und Informationsprozessen. Betriebsinformatik wird zuweilen als Teilgebiet der – oder als Synonym für – Wirtschaftsinformatik gesehen.
+
+
+== Entstehung ==
+Ihr institutionelles Entstehen reicht in die Jahre von 1970 bis 1980 hinein, als erste Lehrstühle und eine wissenschaftliche Kommission eingerichtet wurden.
+
+
+== Inhalte ==
+Sie bedient sich der einzelnen Sparten Hardware und Software im Einklang mit den jeweils neuesten Formen der Angewandten Informatik zum Lösen der gestellten Aufgaben.
+Um informationstechnische Systeme in betrieblichen Prozesssichten abzubilden, bedarf es Teilsichten auf die verschiedenen Ebenen der Informatik, da es gilt, kompakte Sparten auf breite betriebliche Ebenen zu projizieren. 
+Die Dynamik der Entwicklung der betrieblichen Information zwingt die Betriebsinformatik zu einer schnellen dynamischen Marktanpassung. Dies schlägt sich ebenfalls auf die Beschäftigten in der Betriebsinformatik nieder. Schnelle und immer sich neu erschaffende Wissenszyklen und Wissensgebiete erfordern ein hohes Potential an Bereitschaft zur Weiterbildung und Informationsaufnahme und direkte Orientierung an neuen Märkten, und dies großteils neben der bestehenden Tätigkeit in der IT-Sparte.
+
+
+== Einordnung ==
+Als Sonderfall steht die Betriebsinformatik schon seit den 1970er Jahren als Teilgebiet der Realwissenschaften zwischen den Ingenieurwissenschaften und den Sozialwissenschaften. Mehrere empirische und logische Deutungen an Hochschulen versuchten, dieses Gebiet als eine abgegrenzte Lehrform der Wirtschaftsinformatik darzustellen.
+
+
+== Ausbildung in Deutschland ==
+Derzeit zeigt sich die Ausbildungsform zum Betriebsinformatiker an Verwaltungs- und Wirtschaftsakademien und Handwerkskammern als gehobener stoffvermittelnder Prozess, der sich stark an Praktiker des quartären Bildungsmarktes wendet. In Teilgebieten steht der Stoff ebenfalls als Teilfach an Hochschulen zur Verfügung.
+
+
+== Ausbildung in Österreich ==
+Eine Ausbildung zum Betriebsinformatiker erfolgt in Österreich im Rahmen des Ausbildungszweigs Wirtschaftsingenieurwesen – Schwerpunkt Betriebsinformatik – an einer Höheren Technischen Lehranstalt. Die Ausbildung wird mit der Reife- und Diplomprüfung einer Berufsbildenden höheren Schule abgeschlossen und zählt gemäß OECD-Definition zu den tertiären Bildungsabschlüssen.
+
+
+== Einzelnachweise ==

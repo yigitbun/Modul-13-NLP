@@ -1,0 +1,204 @@
+Lutetium(III)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide.
+
+
+== Vorkommen ==
+Lutetium(III)-oxid kommt natürlich in sehr geringem Umfang (0,003 %) im Mineral Monazit vor.
+
+
+== Gewinnung und Darstellung ==
+Lutetium(III)-oxid kann durch Verbrennung von Lutetium mit Sauerstoff (Luft) oder am einfachsten durch Thermische Zersetzung von Lutetiumoxalat gewonnen werden.
+
+  
+    
+      
+        
+          4
+           
+          L
+          u
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          L
+          
+            u
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ Lu+3\ O_{2}\longrightarrow 2\ Lu_{2}O_{3}} }
+  
+
+  
+    
+      
+        
+          L
+          
+            u
+            
+              2
+            
+          
+          (
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              3
+            
+          
+          ⟶
+          2
+           
+          L
+          
+            u
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          6
+           
+          C
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Lu_{2}(C_{2}O_{4})_{3}\longrightarrow 2\ Lu_{2}O_{3}+6\ CO} }
+  Die Weltproduktion von Lutetium in Form von Lutetium(III)-oxid beträgt etwa 10 Tonnen pro Jahr.Lutetium(III)-oxid-Nanokristalle können durch Reaktion von Lutetiumnitrat mit Harnstoff gewonnen werden.
+
+  
+    
+      
+        
+          2
+           
+          L
+          u
+          (
+          N
+          
+            O
+            
+              3
+            
+          
+          
+            )
+            
+              3
+            
+          
+          +
+          5
+           
+          C
+          
+            H
+            
+              4
+            
+          
+          
+            N
+            
+              2
+            
+          
+          O
+          ⟶
+          L
+          
+            u
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          8
+           
+          
+            N
+            
+              2
+            
+          
+          +
+          10
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          5
+           
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Lu(NO_{3})_{3}+5\ CH_{4}N_{2}O\longrightarrow Lu_{2}O_{3}+8\ N_{2}+10\ H_{2}O+5\ CO_{2}} }
+  
+
+
+== Eigenschaften ==
+Lutetium(III)-oxid ist ein weißes Pulver, das unlöslich in Wasser ist. Es ist hygroskopisch und absorbiert auch Kohlendioxid. Es reagiert mit Säuren unter Kationenbildung, welche ihrerseits in Wasser schwach sauer reagieren. Wie die anderen dreiwertigen Oxide der schwereren Lanthanoide kristallisiert es in der kubischen Lanthanoid-C-Struktur mit a = 1039 pm und Z = 16. Es besitzt einen hohen Absorptionskoeffizienten für Röntgenstrahlen, was es als Szintillationsmaterial für medizinische Detektoren interessant macht.
+
+
+== Verwendung ==
+Lutetium(III)-oxid wird zur Herstellung von Spezialgläsern und auch als Katalysator beim Cracken, zur Alkylierung, Hydrierung und Polymerisation verwendet. Es dient auch als Ausgangsstoff zur Herstellung von Lasermaterialien. Eine Verbindung aus Lutetium(III)-oxid und Palladium(II)-oxid (erzeugt bei hohem Druck und Temperatur in Gegenwart von Kaliumchlorat) besitzt Eigenschaften die für supraleitende Materialien interessant sind.
+
+
+== Einzelnachweise ==

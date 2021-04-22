@@ -1,0 +1,37 @@
+Von einem Absturz im Zusammenhang mit Computern spricht man, wenn ein Programm(-Ablauf) auf unvorhergesehene Weise hart beendet oder auch abgebrochen wird oder (im übertragenen Sinne) nicht mehr in der vorhergesehenen Weise auf Interaktionen des Benutzers reagiert – in diesem Fall treffender (das) Einfrieren (oder englisch Freeze) genannt. Ist das abstürzende Programm Teil des Betriebssystems und führt der Abbruch zum Stillstand des ganzen Computers, spricht man von Computer- oder Systemabsturz. Führt der Absturz dagegen nicht zum Systemstillstand und handelt es sich beim abstürzenden Programm beispielsweise um ein Anwendungsprogramm, bezeichnet man dies auch als Programmabbruch oder -absturz. Ein Absturz ohne Fehlermeldung wird auch als Crash to Desktop bezeichnet.Ursache für Abstürze können beispielsweise Programmierfehler, Inkompatibilitäten, erschöpfte Systemressourcen oder Hardwarefehler sein. In vielen Fällen wird vom terminierenden Programm eine Fehlermeldung und unter Umständen weitere Diagnoseinformation ausgegeben, wie dies zum Beispiel bei einem Bluescreen oder einer Kernel panic der Fall ist.
+
+
+== Varianten und Ursachen ==
+Neben der unvorhergesehenen Beendung eines Programms spricht man auch dann von einem Absturz, wenn ein Programm oder das Betriebssystem nicht mehr reagieren. Man sagt dann auch, das System oder Programm habe sich „aufgehängt“ oder es sei „eingefroren“ (analog dem engl. „freeze“). In diesem Fall befindet sich das Programm in einer Endlosschleife, arbeitet also wiederholt dieselben Instruktionen ab, ohne dass die Endbedingung zum Verlassen dieses Programmabschnitts je erfüllt wird. Bei dieser Art von Absturz ist meist keine Diagnoseinformation verfügbar.Eine als Absturz zu bezeichnende Terminierung eines Programms erfolgt dann, wenn vom Programm selbst oder dem einer übergeordneten Instanz (beispielsweise dem Betriebssystem) erkannt wird, dass eine durchzuführende Operation so nicht korrekt sein kann. Ein sehr häufig anzutreffender derartiger Fehlertyp ist die Schutzverletzung (engl. „Protection Fault“, „Segmentation Fault“ oder „Segmentation Violation“, in einigen Betriebssystemen auch „Allgemeine Schutzverletzung“, „General Protection Fault“ genannt), die ausgelöst wird, wenn ein Programm versucht, auf Arbeitsspeicher zuzugreifen, der dem Programm nicht zugewiesen wurde. Das ist meist darauf zurückzuführen, dass ein programminterner Zeiger auf eine ungültige Speicheradresse zeigt. Dies wiederum kann verschiedenste Ursachen haben, beispielsweise kann der Speicher bereits freigegeben worden sein, ohne dass der Zeiger zurückgesetzt wurde.
+
+
+== Maßnahmen bei Abstürzen ==
+Wird beim Absturz eine Fehlermeldung ausgegeben, so sollten eventuelle Anweisungen der Meldung befolgt werden, sofern diese verständlich sind. Andernfalls sollte die Meldung notiert oder ein Screenshot erzeugt werden, falls dies möglich ist und ein Ansprechpartner bekannt ist, der bei diesem Problem weiterhelfen kann (manchmal reicht es auch die Meldung oder einen Auszug in einer Internetsuche mit anzugeben). In manchen Fällen wird auch zur Diagnose ein sogenannter Speicherauszug (Dump) erstellt, der an den Hersteller der abstürzenden Software weiterzuleiten ist. Manchmal wird auch angeboten, die Diagnoseinformation direkt über das Internet an den Hersteller weiterzuleiten.
+Falls das System oder ein Programm nicht mehr reagiert, sich also aufgehängt hat, bleibt nicht viel übrig, als das Programm abzubrechen und neu zu starten oder den Computer zurückzusetzen oder aus- und einzuschalten. Bei unixoiden Systemen hilft es auch manchmal nur den X-Server (Strg+Alt+Backspace oder S-Abf+K) zu beenden. Falls das nicht hilft, werden eine Reihe von Tastenkombinationen mit der Systemabfrage-Taste empfohlen, um Datenverluste zu vermeiden, siehe Magische S-Abf-Taste.
+
+
+== Datenverlust ==
+Häufig sind Abstürze mit Datenverlusten verbunden, da die gerade in Bearbeitung befindlichen Daten sich noch im Arbeitsspeicher befinden und nicht mehr auf ein persistentes Speichermedium wie beispielsweise die Festplatte übertragen werden können. Zur Verringerung solcher Datenverluste erstellen einige Anwendungsprogramme periodisch automatisch im Hintergrund Sicherungskopien der bearbeiteten Daten und bieten (oft beim Neustart der Anwendung) eine Wiederherstellung der jeweils zuletzt gesicherten Daten an.
+Seltener, aber noch schwerwiegender sind Fälle, wenn während des Absturzes auch persistente Daten zerstört werden. Dies kann dadurch verursacht sein, dass das abstürzende Programm sich bereits vor dem Absturz in einem instabilen oder inkonsistenten Zustand befindet und während dieser Phase beispielsweise noch fehlerhafte Schreiboperationen auf der Festplatte ausführt. Insbesondere kann auch das Dateisystem dadurch beschädigt werden. In diesen Fällen kann es auch vorkommen, dass das Anwendungsprogramm oder sogar der Computer sich nach dem Absturz nicht mehr neu starten lässt.
+
+
+== Wortherkunft ==
+Der Begriff „Absturz“ ist alleine schon deshalb naheliegend, weil das Starten und Beenden eines Computers auch als Hoch- und Herunterfahren bezeichnet wird.
+Eine mögliche Deutung ist auch, dass „Absturz“ vom englischen Begriff „crash“ abgeleitet ist. Die englische Bezeichnung wiederum könnte auf den Begriff Headcrash zurückzuführen sein, wenn bei einer Festplatte der normalerweise schwebende Schreib-/Lesekopf in Kontakt mit der rotierenden Oberfläche kommt, was zu einem Defekt der Festplatte und somit häufig auch zu einem Ausfall des gesamten Systems führt.
+
+
+== Einzelnes ==
+2014
+
+Ein Fehler in WhatsApp führte dazu, dass diese App bei Android Smartphones abstürzte.2015
+
+لُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ 冗 ist eine spezielle Zeichenkette, die Apple-iOS-Geräte wie iPhone oder iMac zum Absturz brachte.2017
+
+Ein bestimmter Dateiname lässt Windows Vista, 7 und 8.1 abstürzen.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+lexitron.de: Absturz (Memento vom 15. Dezember 2006 im Internet Archive)

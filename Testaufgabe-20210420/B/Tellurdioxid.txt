@@ -1,0 +1,318 @@
+Tellurdioxid ist eine anorganische chemische Verbindung, genauer ein Oxid des Tellurs mit der Formel TeO2. Es ist das Anhydrid der unbeständigen Tellurigen Säure (H2TeO3) und unter Normalbedingungen ein farbloser Feststoff.
+
+
+== Vorkommen ==
+
+Tellurdioxid existiert in zwei Modifikationen, die beide auch in der Natur in Form der Minerale Paratellurit (α-TeO2, tetragonal) und Tellurit (β-TeO2, orthorhombisch) auftreten. Diese beiden Modifikationen sind strukturell sehr eng miteinander verwandt und können meist durch ihre Farbe unterschieden werden, Tellurit hat häufig eine gelbe Farbe während Paratellurit in der Regel farblos ist.
+
+
+== Gewinnung und Darstellung ==
+Tellurdioxid entsteht aus elementarem Tellur durch Verbrennung an Luft in einer blauen Flamme:
+
+  
+    
+      
+        
+          T
+          e
+           
+          +
+           
+          
+            O
+            
+              2
+            
+          
+           
+          ⟶
+           
+          T
+          e
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Te\ +\ O_{2}\ \longrightarrow \ TeO_{2}} }
+  Technisch wird TeO2 durch Reaktion von Tellur mit konzentrierter Salpetersäure (HNO3) bei 400 °C hergestellt. Dabei wird elementares Tellur zu Te(IV)-oxid oxidiert, während die Salpetersäure zu Stickoxiden reduziert wird:
+
+  
+    
+      
+        
+          3
+           
+          T
+          e
+           
+          +
+           
+          4
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+           
+          ⟶
+           
+          3
+           
+          T
+          e
+          
+            O
+            
+              2
+            
+          
+           
+          +
+           
+          4
+           
+          N
+          O
+           
+          +
+           
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {3\ Te\ +\ 4\ HNO_{3}\ \longrightarrow \ 3\ TeO_{2}\ +\ 4\ NO\ +\ 2\ H_{2}O} }
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Tellurdioxid (Paratellurit) ist ein Feststoff und kristallisiert im tetragonalen Kristallsystem in der Raumgruppe P41212 (Raumgruppen-Nr. 92)Vorlage:Raumgruppe/92 mit den Gitterkonstanten a = 480 und c = 761 pm. Die Verbindung geht bei 732,6 °C in eine rote Schmelze über. Oberhalb von 1245 °C ist TeO2 ein gelbes Gas.
+
+
+=== Chemische Eigenschaften ===
+Tellurdioxid löst sich sehr schlecht in Wasser unter Bildung geringer Mengen von Telluriger Säure:
+
+  
+    
+      
+        
+          T
+          e
+          
+            O
+            
+              2
+            
+          
+           
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          
+            H
+            
+              2
+            
+          
+          T
+          e
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {TeO_{2}\ +\ H_{2}O\ \rightleftharpoons \ H_{2}TeO_{3}} }
+  Die Gleichgewichtskonstante der Reaktion ist sehr klein, das Gleichgewicht liegt weit auf der linken Seite. Die dabei entstandene Tellurige Säure ist schwach amphoter und reagiert mit starken Säuren (z. B. Salzsäure HCl) unter Bildung von Tellur(IV)-Salzen:
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          T
+          e
+          
+            O
+            
+              3
+            
+          
+           
+          +
+           
+          4
+           
+          H
+          C
+          l
+           
+          ⟶
+           
+          T
+          e
+          C
+          
+            l
+            
+              4
+            
+          
+           
+          +
+           
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}TeO_{3}\ +\ 4\ HCl\ \longrightarrow \ TeCl_{4}\ +\ 3\ H_{2}O} }
+  Reaktionen mit Basen führen zur Bildung von Hydrogentellurat(IV)- (HTeO3−) oder Tellurat(IV)-Ionen (TeO32−):
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          T
+          e
+          
+            O
+            
+              3
+            
+          
+           
+          +
+           
+          O
+          
+            H
+            
+              −
+            
+          
+           
+          ⇌
+           
+          H
+          T
+          e
+          
+            O
+            
+              3
+            
+            
+              −
+            
+          
+           
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⇌
+           
+          T
+          e
+          
+            O
+            
+              3
+            
+            
+              2
+              −
+            
+          
+           
+          +
+           
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}TeO_{3}\ +\ OH^{-}\ \rightleftharpoons \ HTeO_{3}^{-}\ +\ H_{2}O\ \rightleftharpoons \ TeO_{3}^{2-}\ +\ H_{3}O^{+}} }
+  
+
+
+== Verwendung ==
+Gläser aus Tellurdioxid haben sehr hohe Brechungsindizes und können daher in Lichtwellenleitern als Alternative zu SiO2-Gläsern eingesetzt werden. TeO2-Kristalle werden außerdem als Akustooptische Modulatoren (AOM) verwendet.
+
+
+== Sicherheitshinweise ==
+Tellurdioxid gilt als gesundheitsschädlich, vor allem durch Einatmen von TeO2-Partikeln und Staub.
+
+
+== Siehe auch ==
+Tellursäure
+Tellurate
+
+
+== Einzelnachweise ==

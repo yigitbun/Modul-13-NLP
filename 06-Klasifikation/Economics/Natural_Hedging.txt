@@ -1,0 +1,45 @@
+Natural Hedging (deutsch: „natürliche Absicherung“; von engl. to hedge [hɛdʒ], „absichern“) ist ein anglo-amerikanischer Begriff aus der Betriebswirtschaftslehre, der sich auch in der deutschen Fachsprache eingebürgert hat. Ziel des Natural Hedging ist es die Differenz zwischen Einnahmen und Ausgaben in einer gegebenen Währung zu reduzieren. Damit soll das Transaktionsrisiko vermindert werden, da die von einer Währung in eine andere zu konvertierende Summe kleiner wird, wird auch das Risiko von Verlusten aus einer solchen Konversion geringer. Im Gegensatz zum Hedging erfolgt die Absicherung nicht durch eine finanztechnische Maßnahme, sondern durch die Gestaltung der realwirtschaftlichen Verhältnisse eines Unternehmens.
+
+
+== Anpassung der Kostenstruktur nach Währung an die Erlösstruktur ==
+Es wird hier unterstellt, dass sich Kosten und Ausgaben einerseits sowie Erlöse und Einnahmen andererseits  über einen längeren Zeitraum weitgehend decken. Bei Unterschieden in der Währungsstruktur der monetären Stromgrößen ergeben Änderungen der Wechselkurse unmittelbar realisierte Wechselkursverluste oder -gewinne; entsprechende Unterschiede bei Kosten und Erlösen bewirken teilweise noch unrealisierte Wechselkursverluste oder -gewinne, die aber die Erfolgsrechnung einer Unternehmung gleichwohl belasten und damit ebenfalls ein Risiko darstellen.
+
+
+=== Durch Standortwahl ===
+Bei der Wahl eines Unternehmensstandorts kann auch ein Natural Hedging erfolgen. Dies kann dadurch erreicht werden, dass Unternehmen Produktionskapazitäten in Absatzländer verlagern, um Wechselkursschwankungen zu umgehen.
+Als Beispiel wären die Bayerischen Motorenwerke zu nennen, die ihre Kapazitäten in den USA unter anderem dazu aufgebaut haben, um mit den im US-Geschäft verdienten US-Dollar dort Angestellte zu bezahlen. Somit ist zur Lohnzahlung kein Umtausch vonnöten, Produktion und Vertrieb erfolgen in derselben Währung.
+
+
+=== Durch Beschaffungspolitik ===
+Ebenso trägt die Beschaffung von Waren und Bestandteilen in der Währung, in der auch die eigenen Leistungen an Kunden fakturiert werden, zur Risikominderung bei.
+
+
+=== Durch Wahl der Vertragswährung ===
+Unabhängig von Standort der Produktion oder der Beschaffungsquelle kann ein exportorientiertes Unternehmen seine Lieferanten und andere Vertragspartner an seinem Wechselkursrisiko dadurch beteiligen, dass für die vereinbarte Leistung ein Preis in jener Währung vereinbart wird, in der die Exporterlöse anfallen. Damit übernehmen inländische Geschäftspartner einen Teil des mit dem Export verbundenen Risikos ihres Kunden.
+Je nach Standort kann dieses Prinzip sogar auf die Löhne ausgedehnt werden. So ist es für schweizerische Unternehmen, die viele Grenzgänger beschäftigen, allenfalls interessant, diesen Mitarbeitern auf Euro lautende Arbeitsverträge anzubieten.Keine oder nur eine sehr abgeschwächte Absicherung wird erreicht, wenn zwar die Währung in der gezahlt werden muss auf jene Währung umgestellt wird in der die Einnahmen erzielt werden, aber der Betrag nicht fix festgelegt, sondern an die Entwicklung eines Wechselkurses gekoppelt wird.
+
+
+== Anpassung der Erlösstruktur nach Währung an die Kostenstruktur ==
+Rein formal könnte das Natural Hedging auch durch die Anpassung der Erlösstruktur nach Währung an die Kostenstruktur nach Währung erfolgen, d. h. man fakturiert an den Exportkunden in der eigenen Inlandswährung in der auch die meisten Kosten zu bezahlen sind.
+Da jedoch in den meisten Branchen auch ernsthafte 
+Konkurrenz aus anderen Währungsräumen besteht, bedingt eine solche Politik zusätzliche Rabatte, wenn der Wert der eigenen Währung steigt, da dies für den ausländischen Kunden sonst eine Preiserhöhung bedeutet. Im Endeffekt werden dann Wechselkursverluste nicht als solche ausgewiesen, sondern es werden stattdessen geringere Margen erzielt.
+
+
+== Erweiterte Definition ==
+In der Literatur wird der Begriff des Natural Hedging teilweise auch auf die Absicherung von Translationsrisiken ausgedehnt. In diesem Fall wird nicht die Angleichung der Struktur von Stromgrößen (Einnahmen, Ausgaben) nach Währungen, sondern von Bestandsgrößen angestrebt. Insbesondere werden Investitionen im Ausland durch Kredite in der entsprechenden Auslandswährung finanziert. Wechselkursbedingte Wertänderungen der zu bilanzierenden Vermögensgegenstände werden dadurch durch entsprechende Wertänderungen der Schulden kompensiert.
+Im Hinblick auf Zins und Tilgung von Krediten in Fremdwährung besteht wieder ein Transaktionsrisiko.
+
+
+== Literatur ==
+Managing Foreign Exchange Risks, White Paper der Export Development Canada (EDC), 2010 (englisch)
+Dr. Erik Hofmann, Philip Wessely: Natural Hedging in Supply Chains – ein alternatives Instrument zur Lieferantenfinanzierung, in: Supply Management Research – Aktuelle Forschungsergebnisse 2008 (Herausgeber: Ronald Bogaschewski, Michael Essig, Rainer Lasch, Wolfgang Stölzle), S. 127–134
+Björn Döhring: Hedging and invoicing strategies to reduce exchange rate exposure: a euro-area perspective; European Communities – Office for Infrastructur and Logistics, Brussels 2008; ISBN 978-92-79-08224-5 (englisch)
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Managing Foreign Exchange Risks, White Paper der Export Development Canada (EDC), 2010 (englisch) - PDF 381 kB wayback.archive (Memento vom 25. November 2011 im Internet Archive)
+Björn Döhring: Hedging and invoicing strategies to reduce exchange rate exposure: a euro-area perspective
+Dr. Erik Hofmann, Philip Wessely: Natural Hedging in Supply Chains – ein alternatives Instrument zur Lieferantenfinanzierung, in: Supply Management Research – Aktuelle Forschungsergebnisse 2008 (Herausgeber: Ronald Bogaschewski, Michael Essig, Rainer Lasch, Wolfgang Stölzle), S. 127–134 in der Google-Buchsuche

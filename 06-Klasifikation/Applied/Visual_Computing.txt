@@ -1,0 +1,45 @@
+Visual Computing ist ein Oberbegriff für alle Informatikdisziplinen, die sich mit Bildinformationen und 3D-Modellen beschäftigen.
+Dazu zählen Computergrafik, Bildverarbeitung, Visualisierung, Computer Vision, Virtual Reality und Augmented Reality, Videobearbeitung, aber auch Aspekte von Mustererkennung, der Mensch-Computer-Interaktion, des maschinellen Lernens und digitaler Bibliotheken. Dabei geht es um die Erfassung, Verarbeitung, Analyse und Darstellung visueller Informationen (hauptsächlich Bilder und Videos).
+Anwendungsbereiche sind z. B. industrielle Qualitätskontrolle, medizinische Bildverarbeitung und -visualisierung, Vermessung, Robotik, multimediale Systeme, Virtual Heritage, Visuelle Effekte in Film und Fernsehen, und Computerspiele.
+An mehreren deutschsprachigen Universitäten werden eigene Studiengänge aus Visual Computing angeboten.
+
+
+== Geschichte und Überblick ==
+Visual Computing ist noch ein relativ junger Begriff, der erst ab 2005 seine heutige Bedeutung erlangte, als die in der Informationstechnologie etablierten Disziplinen Computergrafik, Bildverarbeitung, Computer Vision u. ä. in ihrer Methodik und ihren Anwendungen immer näher zusammenrückten und ein Oberbegriff dafür benötigt wurde. Viele der verwendeten mathematischen und algorithmischen Methoden sind bei allen Bereichen, die Bilder verwenden, die gleichen: Bildformate, Filtermethoden, Farbmodelle, Bildmetriken und andere. Auch die Programmiermethoden auf Graphik-Hardware, die Verarbeitung großer Datenmengen, die Lehrbücher und die Kongresse, die wissenschaftlichen Communities dieser Disziplinen und die Arbeitsgruppen in Firmen vermischen sich immer mehr.
+Dazu kommt, dass Anwendungen immer öfter Techniken aus mehreren dieser Disziplinen gleichzeitig benötigen. Um detailgenaue Modelle komplexer Gegenstände zu generieren benötigt man Bilderkennung, 3D-Sensoren und Rekonstruktionsverfahren. Um diese Modelle glaubwürdig darzustellen benötigt man realistische Renderingverfahren mit komplexer Beleuchtungssimulation. Echtzeitgrafik ist die Basis für brauchbare Virtual- und Augmented-Reality-Software. Eine gute Segmentierung der Organe ist bei der 3D-Darstellung von medizinischen Scans die Basis für interaktive Manipulationen. Robotersteuerung benötigt eine Erkennung der Objekte genauso wie eine Modellierung der Umwelt. Und eine ergonomische grafische Schnittstelle mit den verwendeten Geräten ist ebenfalls notwendig.
+Wiewohl viele Aufgabenstellungen der Teildisziplinen in der wissenschaftlichen Welt (also meist unter „Laborbedingungen“) als gelöst gelten, besteht eine wesentliche Aufgabe der Gesamtdisziplin Visual Computing in der Integration der Teillösungen zu verwendbaren Produkten – das beinhaltet auch die Behandlung vieler praktischer Probleme, vom Umgang mit Hardwarevielfalt über die Verwendung echter (meist fehlerhafter oder umfangreicher) Daten bis zur Bedienung durch ungeschulte Benutzer.
+
+
+== Bereiche des Visual Computing ==
+Zumindest die folgenden Bereiche gehören zu Visual Computing. Ausführliche Beschreibungen jedes dieser Gebiete finden sich auf den jeweiligen Spezialseiten für die Begriffe.
+
+
+=== Computergrafik und Computeranimation ===
+Computergrafik ist ein Oberbegriff für alle Techniken, die Bildinformation als Ergebnis eines Berechnungsprozesses erzeugen. Mit Bildsynthese (Rendering) werden aus Beschreibungen von Objekten Bilder generiert, die je nach Anwendung meist einen Kompromiss aus Qualität und Rechenzeit darstellen. Computeranimation nennt man Computergrafik, wenn die Bilder zum Zweck der Erstellung eines Filmes erzeugt werden.
+
+
+=== Bilderkennung und Computer Vision ===
+Techniken, die aus vorhandenen Bildern Information über den Inhalt extrahieren können, fallen unter den Begriff Bilderkennung. Unter Computer Vision versteht man die Fähigkeit des Computers (oder eines Roboters), die Umgebung zu erkennen und korrekt zu interpretieren.
+
+
+=== Visualisierung und Interaktive Visuelle Analyse ===
+Der Begriff Visualisierung wird meist verwendet, wenn Daten, die aus irgendeinem Grund einer direkten Darstellung nicht zugänglich sind, möglichst anschaulich dargestellt werden. Insbesondere gilt das für Volumendaten und Daten, die keine unmittelbare geometrische Dimension haben. Mit Interaktiver Visueller Analyse kann man durch interaktive Veränderung der Darstellung unübersichtliche Datenmengen effizient untersuchen.
+
+
+=== Geometrische Modellierung und 3D-Drucker ===
+Die Repräsentation von darstellbaren Objekten im Rechner erfordert spezielle Methoden und Datenstrukturen, die unter dem Begriff Geometrische Modellierung geläufig sind. Neben beschreibenden und interaktiven geometrischen Techniken werden immer mehr auch Sensordaten zur Rekonstruktion der geometrischen Modelle verwendet. In neuerer Zeit werden auch Algorithmen zur effizienten Ansteuerung von 3D-Druckern zu Visual Computing gezählt.
+
+
+=== Bildverarbeitung und Bildbearbeitung ===
+Im Gegensatz zur Bilderkennung dient Bildverarbeitung dazu, aus Bildern bessere Bilder zu berechnen. „Besser“ kann dabei je nach Anwendung sehr unterschiedliche Bedeutungen haben. Zu unterscheiden ist davon die Bildbearbeitung, die sich mit interaktiven Methoden zur manuellen Veränderung von Bildern beschäftigt.
+
+
+=== Virtual und Augmented Reality sowie Sensorik ===
+Virtual Reality heißen alle Techniken, die dem Benutzer suggerieren, sich in einer fiktiven Umgebung zu befinden. Dazu braucht man neben guten Datenbrillen vor allem exaktes Tracking und hochqualitative Echtzeitgrafik. Bei Augmented Reality sieht man zusätzlich auch die reale Umgebung, wodurch die Anforderungen an die Genauigkeit der visuellen Darstellung und Lokalisierung erheblich steigen.
+
+
+=== Grafische Komponenten von Mensch-Maschine-Interaktion ===
+Das Mensch-Computer-Interaktion (oder englisch Human Computer Interaction) genannte Gebiet beschäftigt sich mit der benutzergerechten Gestaltung von interaktiven Systemen, wobei den grafischen Komponenten eine besondere Bedeutung zukommt, weil der visuelle Kanal des Menschen die höchste Bandbreite zur Aufnahme von Informationen hat.
+
+
+== Einzelnachweise ==

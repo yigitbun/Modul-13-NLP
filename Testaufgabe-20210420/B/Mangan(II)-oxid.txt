@@ -1,0 +1,124 @@
+Mangan(II)-oxid ist eines der Oxide des Mangans mit der Formel MnO.
+
+
+== Vorkommen ==
+Manganoxid kommt in der Natur im Mineral Manganosit vor.
+
+
+== Gewinnung und Darstellung ==
+Mangan(II)-oxid wird durch Reduktion von Mangan(IV)-oxid-haltigen Erzen mit Erdgas oder Kohle bei Temperaturen zwischen 400 und 1000 °C hergestellt. Gebildetes Mangan(II)-oxid muss unter Schutzgas abgekühlt werden, um eine Rückoxidation zum vierwertigen Mangan zu vermeiden.
+
+  
+    
+      
+        
+          M
+          n
+          
+            O
+            
+              2
+            
+          
+          +
+          C
+          O
+          ⟶
+          M
+          n
+          O
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {MnO_{2}+CO\longrightarrow MnO+CO_{2}} }
+  
+  
+    
+      
+        
+          M
+          n
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          ⟶
+          M
+          n
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {MnO_{2}+H_{2}\longrightarrow MnO+H_{2}O} }
+  Mangan(II)-oxid kann auch durch Erhitzung von Mangan(II)-carbonat MnCO3 im Vakuum gewonnen werden:
+
+  
+    
+      
+        
+          M
+          n
+          C
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          M
+          n
+          O
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {MnCO_{3}\longrightarrow MnO+CO_{2}} }
+  
+
+
+== Eigenschaften ==
+Mangan(II)-oxid kristallisiert in der kubischen Natriumchlorid-Struktur. MnO ist bei tiefen Temperaturen ein antiferromagnetischer Isolator, dessen magnetische Struktur als einer der ersten Verbindungen aufgeklärt wurde. Dafür wurden bereits 1951 Neutronenbeugungsexperimente durchgeführt, die zeigten, dass die magnetischen Momente von Mn2+ sich jeweils entgegen denen aller ihrer Nachbarn ausrichten. Das ist die Bedeutung von Antiferromagnetismus: die magnetischen Momente sind gegeneinander ausgerichtet und heben sich damit auf, das Material erscheint erst einmal nicht-magnetisch. Diese Ausrichtung bedeutet aber auch, dass alle magnetischen Momente entlang der Raumdiagonale parallel zueinander ausgerichtet sind. Das führt bei sehr tiefen Temperaturen zu einer geringen rhomboedrischen Verzerrung genau entlang dieser Richtung, die mit [111] bezeichnet wird. Oberhalb der als Néel-Temperatur bezeichneten Ordnungstemperatur von 110 K wird Mangan(II)-oxid paramagnetisch.
+
+
+== Verwendung ==
+Mangan(II)-oxid wird als Bestandteil von Gießpulver in der metallverarbeitenden Industrie, als Düngemittelzusatz bzw. Futtermittelzusatzstoff, sowie als grünes Farbpigment beim Zeugdruck verwendet.
+
+
+== Sicherheitshinweise ==
+Pulverförmiges, frisch hergestelltes Mangan(II)-oxid kann sich an der Luft selbst entzünden.
+
+
+== Einzelnachweise ==

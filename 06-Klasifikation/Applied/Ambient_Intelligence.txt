@@ -1,0 +1,18 @@
+Ambient Intelligence (kurz AmI, deutsch Umgebungsintelligenz) ist ein technologisches Paradigma, das vor allem im Zusammenhang mit dem europäischen Forschungsprogramm Information Society Technologies steht. Es ist verwandt mit dem stärker Hardware-orientierten Ansatz der US-amerikanischen Forschung, Ubiquitous Computing (dt. Rechnerallgegenwart), sowie mit dem Konzept der Industrie, dem Pervasive Computing. Im Rahmen der Innovationsinitiative der deutschen Bundesregierung werden diese Begriffe auch unter Next Generation Media zusammengefasst. Ein spezieller Forschungsbereich ist das so genannte Wearable Computing, das IT-Unterstützung in Arbeitskleidung integrieren möchte. Organic Computing wiederum strebt an, die Komplexität durch Mechanismen der Selbstorganisation beherrschbar zu machen.
+Ziel der Forschungsanstrengungen soll es sein, Sensoren, Funkmodule und Computerprozessoren massiv zu vernetzen, um so den Alltag zu verbessern. Erste Anwendungsgebiete sind zum Beispiel das intelligente Haus, dessen sämtliche Einrichtungen (Wärme, Küchenmaschinen, Rollläden etc.) sich mit (mobilen) Computern (Smartphones oder PDAs) von überall her bedienen lassen und sich adaptiv auf die Bedürfnisse der Bewohner einstellen, sowie die effizientere Nutzung der Verkehrsinfrastruktur. Sensornetze können zahllose Überwachungsaufgaben übernehmen – einerseits zum Nutzen der Menschen (Feuerschutz, Erdbebenfrühwarnung, Verkehrsflusskontrolle), andererseits könnten sie auch für zweifelhaftere Zwecke verwendet werden (Kontrolle, „gläserner Bürger“). Bspw. widmet sich die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) den Forschungsfragen, die durch AmI-Technologien in Produkten oder in der Arbeitsumgebung entstehen, wenn Arbeitsabläufe und -prozesse optimiert und hierdurch die Leistungsfähigkeit des Arbeitssystems, aber auch die Gesundheit und das Wohlbefinden der Beschäftigten beeinflusst werden können. Für Sicherheit und Gesundheit bei der Arbeit sind insbesondere Folgenabschätzungen zu den Chancen und Risiken der neuen Technologien in der Arbeitsumgebung sowie hinsichtlich der Auswirkungen auf Arbeitssysteme von Bedeutung.
+Die europäische Forschung konzentriert sich dabei auf die Entwicklung von Architekturen und Anwendungen und weniger auf die Entwicklung der technischen Grundbausteine.
+Die positive Vision ist, dass die Erweiterung nahezu aller Gegenstände um Kommunikationsfähigkeit und eine gewisse Intelligenz, dazu führt, dass unser Alltag spürbar erleichtert wird und die intelligente Umgebung uns auf natürliche Art und Weise bei Bedarf unterstützt. Das heißt, dass die Nutzung der Computerleistung nicht mehr Aufmerksamkeit erfordert, als die Ausführung anderer alltäglicher Tätigkeiten wie gehen, essen oder lesen.
+
+
+== Literatur ==
+ULD, HU Berlin: Technikfolgenabschätzung Ubiquitäres Computing und Informationelle Selbstbestimmung (TAUCIS), Studie im Auftrag des Bundesministeriums für Bildung und Forschung, 2006
+Jose Encarnação (Ed.) et al.: Ambient Intelligence. Schwerpunktthemenheft der Zeitschrift it - Information Technology, Oldenbourg Verlag, München. Vol.50(2008) Heft 1.
+
+
+== Weblinks ==
+Information Society Technologies
+https://www.heise.de/newsticker/meldung/Europaeische-Informatik-setzt-auf-Ambient-Intelligence-105653.html
+Forschungsschwerpunkt Ambient Intelligence an der TU Kaiserslautern
+Intelligentes Leben, Wohnen und Arbeiten im Alter (Memento vom 27. September 2007 im Internet Archive)
+BMWi-Programm next generation media
+Self-Adapting Applications for Mobile USers In Ubiquitous Computing Environments (MUSIC-Projekt)

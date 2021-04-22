@@ -1,0 +1,401 @@
+Palladium(IV)-oxid, auch als Palladiumdioxid bezeichnet, ist eine chemische Verbindung der Elemente Palladium und Sauerstoff. Das Oxid ist als Hydrat dunkelrot, wasserfrei dagegen schwarz, es zerfällt bei 200 °C in Palladium(II)-oxid.
+
+
+== Gewinnung und Darstellung ==
+Palladium(IV)-oxid fällt als Niederschlag beim Versetzen von PdCl62−-haltigen wässrigen Lösungen mit verdünnter Natronlauge an:
+
+  
+    
+      
+        
+          N
+          
+            a
+            
+              2
+            
+          
+          P
+          d
+          C
+          
+            l
+            
+              6
+            
+          
+          +
+          4
+           
+          N
+          a
+          O
+          H
+          ⟶
+           
+          P
+          d
+          
+            O
+            
+              2
+            
+          
+          +
+          6
+           
+          N
+          a
+          C
+          l
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Na_{2}PdCl_{6}+4\ NaOH\longrightarrow \ PdO_{2}+6\ NaCl+2\ H_{2}O} }
+  Eine Lösung von Natriumcarbonat enthält ausreichend Hydroxidionen und kann anstatt von Natronlauge verwendet werden:
+
+  
+    
+      
+        
+          N
+          
+            a
+            
+              2
+            
+          
+          P
+          d
+          C
+          
+            l
+            
+              6
+            
+          
+          +
+          2
+           
+          N
+          
+            a
+            
+              2
+            
+          
+          C
+          
+            O
+            
+              3
+            
+          
+          ⟶
+           
+          P
+          d
+          
+            O
+            
+              2
+            
+          
+          +
+          6
+           
+          N
+          a
+          C
+          l
+          +
+          2
+           
+          C
+          
+            O
+            
+              2
+            
+          
+          ↑
+        
+      
+    
+    {\displaystyle \mathrm {Na_{2}PdCl_{6}+2\ Na_{2}CO_{3}\longrightarrow \ PdO_{2}+6\ NaCl+2\ CO_{2}\uparrow } }
+  Eine weitere Synthesemethode ist die anodische Oxidation von Palladium(II)-nitrat. Die Herstellung durch Oxidation von Palladium(II)-chlorid mit Ozon verläuft mit schlechten Ausbeuten, da das Palladiumdioxid mit der als Nebenprodukt anfallenden Salzsäure teilweise weiterreagiert.
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Palladiumdioxid kristallisiert im tetragonalen Kristallsystem in der Raumgruppe P42/mnm (Raumgruppen-Nr. 136)Vorlage:Raumgruppe/136 mit den Gitterparametern a = 448 pm und c = 310 pm sowie zwei Formeleinheiten pro Elementarzelle (Rutilstruktur).
+
+
+=== Chemische Eigenschaften ===
+Beim Erhitzen gibt Palladiumdioxid Sauerstoff ab und geht bei 200 °C in Palladium(II)-oxid über, das wiederum bei 875 °C in die Elemente zerfällt.
+
+  
+    
+      
+        
+          2
+           
+          P
+          d
+          
+            O
+            
+              2
+            
+          
+           
+           
+          
+            
+              →
+              
+                
+                  −
+                  
+                    O
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  200
+                  
+                    ∘
+                  
+                
+                C
+              
+            
+          
+           
+           
+          2
+           
+          P
+          d
+          O
+           
+           
+          
+            
+              →
+              
+                
+                  −
+                  
+                    O
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  875
+                  
+                    ∘
+                  
+                
+                C
+              
+            
+          
+           
+           
+          2
+           
+          P
+          d
+        
+      
+    
+    {\displaystyle \mathrm {2\ PdO_{2}\ \ {\xrightarrow[{-O_{2}}]{200^{\circ }C}}\ \ 2\ PdO\ \ {\xrightarrow[{-O_{2}}]{875^{\circ }C}}\ \ 2\ Pd} }
+  Das Hydrat löst sich in konzentrierter Natriumhydroxidlösung unter Bildung von Hexahydroxopalladat-Ionen, die wasserfreie Substanz ist in Alkalien unlöslich.
+
+  
+    
+      
+        
+          P
+          d
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          N
+          a
+          O
+          H
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          N
+          
+            a
+            
+              2
+            
+          
+          [
+          P
+          d
+          (
+          O
+          H
+          
+            )
+            
+              6
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \mathrm {PdO_{2}+2\ NaOH+2\ H_{2}O\longrightarrow Na_{2}[Pd(OH)_{6}]} }
+  Ebenso ist das Hydrat des Palladiumdioxids in Salzsäure löslich, dabei werden Hexachlorpalladat(IV)-Ionen gebildet.
+
+  
+    
+      
+        
+          P
+          d
+          
+            O
+            
+              2
+            
+          
+          +
+          6
+           
+          H
+          C
+          l
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          [
+          P
+          d
+          C
+          
+            l
+            
+              6
+            
+          
+          ]
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {PdO_{2}+6\ HCl\longrightarrow H_{2}[PdCl_{6}]+2\ H_{2}O} }
+  Palladiumdioxid ist in Oxalsäure zunächst unter Gelbfärbung und Bildung von Dioxalatopalladat(II)-Ionen [Pd(OOC-COO)2]2− löslich, beim Kochen wird es zu elementarem Palladium reduziert.
+
+  
+    
+      
+        
+          P
+          d
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          (
+          C
+          O
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+          ⟶
+          P
+          d
+          +
+          4
+           
+          C
+          
+            O
+            
+              2
+            
+          
+          ↑
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {PdO_{2}+2\ (COOH)_{2}\longrightarrow Pd+4\ CO_{2}\uparrow +2\ H_{2}O} }
+  Auch beim Kochen mit Essigsäure entsteht elementares Palladium.
+
+
+== Einzelnachweise ==

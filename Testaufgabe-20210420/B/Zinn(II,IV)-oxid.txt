@@ -1,0 +1,105 @@
+Zinn(II,IV)-oxid (auch Zinnsesquioxid) ist eine metastabile Verbindung bestehend aus Zinn und Sauerstoff. Es besitzt die Summenformel Sn2O3.
+
+
+== Eigenschaften ==
+Zinnsesquioxid ist ein weiß-gelber Feststoff. Oberhalb von ca. 400 °C disproportioniert Sn2O3 zu metallischem Zinn und Zinn(IV)-oxid.
+
+  
+    
+      
+        
+          2
+           
+          S
+          
+            n
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          
+            
+              →
+              
+                Δ
+                T
+              
+            
+          
+           
+          S
+          n
+          +
+          3
+           
+          S
+          n
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Sn_{2}O_{3}{\xrightarrow {\Delta T}}\ Sn+3\ SnO_{2}} }
+  
+
+
+== Herstellung ==
+Das einzig bekannte Herstellungsverfahren ist die Disproportionierung bei niedrigen Temperaturen von speziell hergestelltem Zinn(II)-oxid (SnO) zu Zinn, Zinn(IV)-oxid (SnO2) und Zinnsesquioxid. 
+
+  
+    
+      
+        
+          5
+           
+          S
+          n
+          O
+          ⟶
+          2
+           
+          S
+          n
+          +
+           
+          S
+          
+            n
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+           
+          S
+          n
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {5\ SnO\longrightarrow 2\ Sn+\ Sn_{2}O_{3}+\ SnO_{2}} }
+  Das metallische Zinn kann danach durch chemische Reaktion abgetrennt werden, so dass eine Mischung aus Sn2O3 und SnO2 übrig bleibt. 
+
+
+== Einzelnachweise ==

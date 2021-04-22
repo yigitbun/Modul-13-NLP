@@ -1,0 +1,45 @@
+Die Datenlogistik bedient ein zentrales Bedürfnis der Informationstechnik: „Inhalte (Content) zu verteilen“. Das geschieht durch unterschiedliche Medien (Diskette, CD, DVD, USB-Stick) und zunehmend auch durch neue Verfahren (Internet, Download, Mail).
+Ursprünglich wird Logistik selbst als Hauptfunktion der Materialwirtschaft verstanden. Der traditionelle logistische Auftrag besteht aus sieben Anforderungen (7R):
+
+die richtige Menge
+der richtigen Objekte
+am richtigen Ort
+mit der richtigen Information
+zum richtigen Zeitpunkt
+in der richtigen Qualität
+zu den richtigen Kosten zur Verfügung zu stellen.Was „richtig“ ist, bestimmt dabei der Kunde.
+Grundsätzlich verfolgt die Datenlogistik ähnliche Ziele, konzentriert sich dabei aber primär auf digitale Medien und erbringt deutlich erweiterte Dienstleistungen: Speicherung und Aufbereitung digitaler Daten,  Produktion, Verpackung, Versand, sowie Dokumentation und Archivierung der Fertigungsprozesse.
+Es erfolgt in der Regel ein Übergang digitaler Produktionsgrundlagen (Software, Daten, Informationen, Bilder, Musik, Video) in physikalische Produkte (Diskette, CD, DVD, USB-Stick, Druckstücke), oder eine digitale Vorlage soll „verlustfrei“ vervielfältigt werden.
+Die Datenlogistik sichert den quantitativen, qualitativen und zeitlichen Erfolg der Prozesse und die räumliche Mobilität der betrachteten Objekte. (Wiki)
+Neben der Verbreitung von Inhalten in physischer Form, wächst der Bedarf an elektronischer  Datenhaltung, Bereitstellung und Verteilung [Downloadplattform, Online Update, Softwaretankstellen]. Die weltweite Verfügbarkeit und ökonomische Gründe wie Kosten und der Zeitfaktor spielen dabei eine entscheidende Rolle. 
+Bei beiden Verfahren liegt ein hoher Wert auf Sicherheit und Integrität.
+
+
+== Ursprung ==
+Die Ursprünge der Datenlogistik liegen in den frühen 70er Jahren; damals kamen die ersten mobilen digitalen Datenträger, die  Disketten in Umlauf mit den passenden Diskettenlaufwerken. Grundsätzlich wurden große Marktsegmente bedient:
+
+Spielesoftware (z. B. für Commodore C64)
+Demoprogramme
+Heftbeilagen (Chip & Co.)
+Kommerzielle Softwareprodukte
+Treibersammlungen
+Datenbanken (Campus Kunststoffdatenbank)
+
+
+== Datenlogistik als Dienstleistung ==
+Hat die Datenlogistik das Grundbedürfnis der IT nach Verteilung von Inhalten in den vergangenen 25 Jahren primär mit einer großen Anzahl physikalischer Datenträger (Diskette, CD, DVD)  befriedigt, ist aktuell ein weiterer Verfahrenswechsel, hin zur virtuellen, dynamischen Datendistribution, in vollem Gange.
+Ökonomische, aber auch ökologische Überlegungen zwingen zum Umdenken: früher stand der (oft vermeintliche) Preisvorteil der Massenproduktion im Mittelpunkt, heute wächst das Bedürfnis nach individualisierung der Produktions- und Logistikprozesse. Zunehmend erhält „ein Kunde“ sein individuelles Produkt. Das erfordert neben geänderten Produktionsprozessen auch eine Neuausrichtung der kompletten Prozesskette. Davon betroffen sind die Inhaltehersteller / -besitzer, die Dienstleister (Datenlogistiker) und die Empfänger/Kunden. 
+Zu bedienen sind unterschiedliche Märkte (Business und Consumer) und vielfältige Inhalte (Funktionssoftware, Daten, Preislisten, Werbeinhalte, Audio, Video etc.), unterteilt in kostenlose und kostenpflichtige Inhalte. 
+Allen Märkten sind gemeinsam: das hohe Bedürfnis nach Sicherheit (der richtige Inhalt beim richtigen Kunden), Geschwindigkeit (time to market), Qualität (Produktausführung und bei der Abwicklung) und natürlich auch nach vernünftigen Preisen.
+Die daraus resultierenden Herausforderungen sind:
+
+Optimierung und Normung aller Geschäftsprozesse
+Einführung on-demand-gestützter Produktionsprozesse
+Integration des Internets für den Bestellablauf
+Automatisierte Updateprozesse
+Medienneutrale Datenhaltung
+Bereitstellung von Downloadplattform (Softwaretankstellen)Datenlogistik ist damit das Management dieser Dienstleistungen.
+
+
+== Literatur ==
+Thomas Marko: Datenlogistik. Management der Informationsflüsse. BSG 1999

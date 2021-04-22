@@ -1,0 +1,64 @@
+Dichlormonoxid ist eine chemische Verbindung aus der Gruppe der Oxide und wurde 1842 erstmals von Gay-Lussac durch die Umsetzung von Chlor mit Quecksilber(II)-oxid erhalten.
+
+
+== Gewinnung und Darstellung ==
+Dichlormonoxid kann durch Reaktion von Quecksilber(II)-oxid mit Chlor gewonnen werden.
+
+  
+    
+      
+        
+          2
+           
+          C
+          
+            l
+            
+              2
+            
+          
+          +
+          n
+          H
+          g
+          O
+          ⟶
+          C
+          
+            l
+            
+              2
+            
+          
+          O
+          +
+          H
+          g
+          C
+          
+            l
+            
+              2
+            
+          
+          ⋅
+          (
+          n
+          −
+          1
+          )
+          H
+          g
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ Cl_{2}+nHgO\longrightarrow Cl_{2}O+HgCl_{2}\cdot (n-1)HgO} }
+  
+
+
+== Eigenschaften ==
+Dichlormonoxid ist ein gelbbraunes (als Flüssigkeit tiefbraun), unangenehm heftig riechendes Gas, das in Wasser unter Bildung von Hypochloriger Säure gut löslich ist. Es kann nur flüssig oder fest bei bzw. unterhalb von −78 °C aufbewahrt werden. Es ist stoßempfindlich und zersetzt sich im Licht. Es explodiert beim Berühren mit organischen Stoffen. Mit Laugen bildet es Hypochlorite. Beim Verdünnen einer gesättigten Lösung bildet sich Hypochlorige Säure.
+
+
+== Einzelnachweise ==

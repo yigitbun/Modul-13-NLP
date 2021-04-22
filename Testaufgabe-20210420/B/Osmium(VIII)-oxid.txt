@@ -1,0 +1,29 @@
+Osmium(VIII)-oxid (auch: Osmiumsäure) ist das Oxid des Elementes Osmium in seinem höchsten Oxidationszustand (+8).
+
+
+== Darstellung und Gewinnung ==
+Osmium(VIII)-oxid wird aus Osmiummetall, durch Oxidation von Osmiumlösungen mit Salpetersäure oder Natriumperoxodisulfat in Schwefelsäure hergestellt. Wegen der Flüchtigkeit und Giftigkeit kommt es in Ampullen eingeschmolzen in den Handel.
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Osmium(VIII)-oxid bildet blassgelbe Kristalle mit einem sehr niedrigen Schmelzpunkt von 40 °C und einem Siedepunkt von 130 °C. Diese Verbindung besitzt einen durchdringenden ozonähnlichen Geruch (altgriechisch ὀσμή osmē „Geruch, Gestank“), was die Namensgebung für das Metall Osmium erklärt. Osmium(VIII)-oxid besitzt eine monokline Kristallstruktur mit der Raumgruppe C2/c (Raumgruppen-Nr. 15)Vorlage:Raumgruppe/15. Die Gitterparameter sind a = 938 pm, b = 452 pm, c = 863 pm und β = 116,58°. Es löst sich nur mäßig in Wasser, jedoch sehr gut in Tetrachlorkohlenstoff CCl4.
+
+
+=== Chemische Eigenschaften ===
+Osmium(VIII)-oxid ist ein starkes Oxidationsmittel und reagiert mit reduzierenden und brennbaren Stoffen. Es wird leicht durch organische Verbindungen zu schwarzem Osmium(IV)-oxid reduziert.
+
+
+== Verwendung ==
+In der organischen Synthese kann es verwendet werden, um Alkene zu Diolen zu oxidieren (Dihydroxylierung). Dabei entsteht stereoselektiv ein Diol mit cis-ständigen OH-Gruppen. Da das Reagens sehr teuer und giftig ist, wurden die Reaktionsbedingungen inzwischen so verbessert, dass Osmium(VIII)-oxid nur in kleinen Mengen als Katalysator erforderlich ist, während Wasserstoffperoxid oder N-Methylmorpholin-N-oxid als Oxidationsmittel wirken.
+Für die Transmissionselektronenmikroskopie (TEM) wird typisch 1%ige Osmiumtetroxidlösung zum Nachfixieren und Kontrastieren von Proben aus biologischem Material verwendet. Insbesondere Lipide werden dabei optisch schwarz angefärbt.
+
+
+== Sonstiges ==
+Am 6. April 2004 berichtete die amerikanische Nachrichtenagentur ABC News, dass der britische Geheimdienst glaubte, einen Bombenanschlag unter Verwendung dieser Substanz vereitelt zu haben. Andere Quellen bezweifeln diese Darstellung, da Osmium(VIII)-oxid trotz seines hohen Schadenspotenzials für die Verwendung als Giftgas zu teuer sei.
+Am 27. Mai 2011 ereignete sich ein Unfall an der Universitätsklinik Magdeburg: Eine Flasche mit 20–50 ml 2-%-Osmiumtetroxid-Lösung ging zu Bruch. Personen kamen dadurch  nicht zu Schaden, das Haus 1 musste jedoch teilweise evakuiert werden. Die Feuerwehr reinigte den Unfallort.
+
+
+== Einzelnachweise ==

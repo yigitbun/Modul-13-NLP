@@ -1,0 +1,24 @@
+Ein Mischoxid (kurz MOX) oder Komplexoxid ist ein Stoff, der sich aus mehreren Oxiden zusammensetzt,  dessen Kristallgitter also aus Sauerstoffionen und den Kationen mehrerer Elemente besteht. Auch wenn häufig „MOX“ mit dem Uran-Plutonium-Gemisch als Kernbrennstoff gleichgesetzt wird (siehe auch Brennelementefabrik), gibt es noch viele weitere Mischoxide.
+
+
+== Anwendungen ==
+
+
+=== Elektronik ===
+Indiumzinnoxid (ITO) ist ein in der Elektronik wichtiges Mischoxid.
+Der Stoff wird für die Herstellung transparenter Elektroden in Flüssigkristallbildschirmen, organischen Leuchtdioden und Touchscreens eingesetzt. Weiterhin findet es Verwendung in Dünnschicht-Solarzellen wie auch in der Verdrahtung von Halbleitersensoren. Da ITO Infrarotstrahlung stark reflektiert, wird es vereinzelt als Wärmeschutz auf Fensterglasscheiben aufgebracht. Ebenso können verschiedenste Oberflächen, beispielsweise Kunststofffolien, mit ITO beschichtet werden, damit sie sich nicht elektrostatisch aufladen.
+
+
+=== Farbpigment ===
+Nickeltitangelb ist ein gelbes Pigment aus einem Gemisch von Nickeloxid, Titandioxid und Antimon(V)-oxid.
+
+
+=== Batterien ===
+Lithium-Nickel-Mangan-Cobalt-Oxide sind Mischoxide mit der allgemeinen Formel LiNixMnyCozO2. Die wichtigsten Vertreter sind dem Lithiumcobaltoxid LiCoO2 eng verwandt und haben wie dieses eine Schichtstruktur. Sie werden die in Lithiumionenbatterien an der Pluspolseite (beim Entladen: Kathode) als Speichermaterial für Lithiumionen verwendet.
+
+
+=== Kerntechnik ===
+In der Kerntechnik werden zum Teil MOX-Brennelemente verwendet, die aus Urandioxid UO2 und Plutoniumdioxid PuO2 bestehen. Sie werden heute in verschiedenen Ländern (nachweislich: Frankreich, Deutschland, Schweiz, Belgien, Japan) in Kernreaktoren eingesetzt, um das bei der Wiederaufarbeitung abgetrennte Plutonium zu verwerten und dabei gleichzeitig für Kernwaffen weitgehend unbrauchbar zu machen.
+
+
+== Einzelnachweise ==

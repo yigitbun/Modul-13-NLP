@@ -1,0 +1,3 @@
+Das R-auf-T-Phänomen bezeichnet die Beobachtung im EKG, dass eine ventrikuläre Extrasystole sehr früh, d. h. noch während der Repolarisation der vorangegangenen Herzaktion einfällt. Im EKG zeigt sich das dadurch, dass die R-Zacke der Extrasystole in die aufsteigende T-Welle der vorigen Herzaktion fällt.
+Weil zu diesem frühen Zeitpunkt ein Teil des Herzmuskels noch nicht erregbar (und damit refraktär) ist, kann eine vorzeitig einfallende Kammeraktion lebensbedrohliche Herzrhythmusstörung (z. B. Kammerflimmern) auslösen.
+In der Lown-Klassifikation der ventrikulären Herzrhythmusstörungen charakterisiert das R-auf-T-Phänomen die fünfte, bedrohlichste Klasse.

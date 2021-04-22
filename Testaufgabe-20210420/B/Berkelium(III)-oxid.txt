@@ -1,0 +1,77 @@
+Berkelium(III)-oxid ist ein Oxid des Elements Berkelium. Es besitzt die Summenformel Bk2O3. Da alle Isotope des Berkeliums nur künstlich hergestellt sind, besitzt Berkelium(III)-oxid keine natürlichen Vorkommen.
+
+
+== Eigenschaften ==
+Berkelium(III)-oxid entsteht aus Berkelium(IV)-oxid (BkO2) durch Reduktion mit Wasserstoff:
+
+  
+    
+      
+        
+          2
+          
+          
+            BkO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            Bk
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2 BkO2 + H2 -> Bk2O3 + H2O}}}
+  Es ist ein gelbgrüner Feststoff mit einem Schmelzpunkt von 1920 °C. Es bildet ein kubisch-raumzentriertes Kristallgitter mit a = 1088,0 ± 0,5 pm.
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen und eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielen. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+David E. Hobart. Joseph R. Peterson: Berkelium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 1444–1498 (doi:10.1007/1-4020-3598-5_10).

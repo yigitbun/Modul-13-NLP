@@ -1,0 +1,166 @@
+Dischwefelmonoxid ist eine chemische Verbindung aus der Gruppe der Schwefeloxide. Die Verbindung wurde 1933 zuerst von Peter W. Schenk dargestellt, welcher die Verbindung jedoch für Schwefelmonoxid hielt.
+
+
+== Vorkommen ==
+Dischwefelmonoxid wurde auf dem Jupitermond Io nachgewiesen.
+
+
+== Gewinnung und Darstellung ==
+96 % bis 100 % reines Dischwefelmonoxid kann durch Reaktion von Thionylchloriddampf mit Silbersulfid bei 160 °C gewonnen werden.
+
+  
+    
+      
+        
+          S
+          O
+          C
+          
+            l
+            
+              2
+            
+          
+          +
+          A
+          
+            g
+            
+              2
+            
+          
+          S
+          ⟶
+          2
+           
+          A
+          g
+          C
+          l
+          +
+          
+            S
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {SOCl_{2}+Ag_{2}S\longrightarrow 2\ AgCl+S_{2}O} }
+  Bei der Reaktion von Schwefel mit Sauerstoff oder Kupfer(II)-oxid entsteht kein reines Dischwefelmonoxid.Es entsteht auch bei der Zersetzung von Schwefelmonoxid
+
+  
+    
+      
+        
+          3
+           
+          S
+          O
+          ⟶
+          S
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            S
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {3\ SO\longrightarrow SO_{2}+S_{2}O} }
+  oder dessen Reaktion mit Schwefel.
+
+  
+    
+      
+        
+          2
+           
+          S
+          O
+          +
+          
+            S
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          
+            S
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ SO+S_{2}\longrightarrow 2\ S_{2}O} }
+  
+
+
+== Eigenschaften ==
+Dischwefelmonoxid ist ein farbloses Gas, das mit Wasser unter Bildung von Schwefel, Schwefelwasserstoff und Schwefeldioxid reagiert. Es ist nur in der Gasphase bei Drücken kleiner als 1 mBar einige Tage haltbar und polymerisiert bei höheren Drücken, in Lösungsmitteln oder bei höheren Temperaturen unter Abspaltung von Schwefeldioxid zu gelben bis orangefarbenen Polyschwefeloxiden (SnO)x. Mit Laugen und Halogenen reagiert die Verbindung.
+
+  
+    
+      
+        
+          
+            S
+            
+              2
+            
+          
+          O
+          +
+          2
+           
+          C
+          
+            l
+            
+              2
+            
+          
+          ⟶
+          S
+          O
+          C
+          
+            l
+            
+              2
+            
+          
+          +
+          S
+          C
+          
+            l
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {S_{2}O+2\ Cl_{2}\longrightarrow SOCl_{2}+SCl_{2}} }
+  
+
+
+== Einzelnachweise ==

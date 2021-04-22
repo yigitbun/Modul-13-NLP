@@ -1,0 +1,231 @@
+Diiodtetraoxid, I2O4, ist eine chemische Verbindung zwischen Sauerstoff und Iod. Es gehört in die Gruppe der Iodoxide.
+
+
+== Gewinnung und Darstellung ==
+Das Oxid entsteht durch mehrtägige Einwirkung von heißer konzentrierter Schwefelsäure auf der Iodsäure.
+
+  
+    
+      
+        
+          3
+          
+          
+            HIO
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              4
+            
+            
+              
+            
+          
+          +
+          
+            HIO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {3 HIO3 -> I2O4 + HIO4 + H2O}}}
+  Es bildet sich aus Diiodpentoxid und Iod in konzentrierter Schwefelsäure auf dem Wege über Bis(iodosyl)sulfat (IO)2SO4 gemäß: 
+
+  
+    
+      
+        
+          4
+          
+          
+            
+              (
+              IO
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          
+            SO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              4
+            
+            
+              
+            
+          
+          +
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            SO
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4(IO)2SO4 + 4 H2O -> I2O4 + I2 + 4 H2SO4}}}
+  
+
+
+== Eigenschaften ==
+Diiodtetraoxid ist ein gelbes, körniges Pulver. Ab Temperaturen von 85 °C zersetzt es sich zu Diiodpentoxid und Iod:
+
+  
+    
+      
+        
+          5
+          
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              4
+            
+            
+              
+            
+          
+          ⟶
+          4
+          
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {5 I2O4 -> 4 I2O5 + I2}}}
+  Dieser Prozess verläuft bei 135 °C umso schneller. In heißem Wasser löst es sich unter Bildung von Iodat und Iodid. Strukturell stellt die Verbindung ein Iodyliodit O2I-OIO (Iod(V,III)-oxid) dar mit gewinkelten IVO2-Einheiten (IO-Abstände 1,80 und 1,85 Å; OIO-Winkel 97°) und gewinkelten IIIIO2-Einheiten (IO-Abstände 1,93 Å, OIO-Winkel 95,8°). Beide Einheiten sind über I—O—I-Brücken zu polymeren Zick-Zack-Ketten (I2O4)x verknüpft.Diiodtetraoxid besitzt eine monokline Kristallstruktur mit der Raumgruppe P21/c (Raumgruppen-Nr. 14)Vorlage:Raumgruppe/14.
+
+
+== Einzelnachweise ==

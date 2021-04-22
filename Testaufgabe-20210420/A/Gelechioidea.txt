@@ -1,0 +1,45 @@
+Die Gelechioidea ist eine etwa 16.250 Arten in 1.425 Gattungen umfassende Überfamilie der Schmetterlinge (Lepidoptera).
+Sie umfasst in Europa etwa 2500 Arten und Unterarten. Die Tiere sind weltweit verbreitet, kommen jedoch in höheren Lagen seltener vor. Die Arten der gut abgegrenzten Überfamilie umfassen eine sehr große Bandbreite von unterschiedlichen Merkmalen. Die Abgrenzung mancher Taxa innerhalb dieser Gruppe ist noch unklar. 
+
+
+== Merkmale ==
+Die überwiegend kleinen bis mittelgroßen Falter erreichen Vorderflügellängen von etwa zwei (Siskiwita falcata) bis 35 Millimeter (Cryptophasa setiotricha). Die meisten Arten haben eine Flügellänge von 5 bis 15 Millimetern. Die Gruppe unterscheidet sich von den anderen Überfamilien durch eine überlappende Beschuppung auf der dorsalen Oberfläche des Saugrüssels, die je nach Art von der Basis bis maximal zur Hälfte des Rüssels reicht. Zwar tritt diese Beschuppung auch bei den Überfamilien Pyraloidea und Choreutoidea auf, erstere haben jedoch paarige Tympanalorgane an der Hinterleibsbasis, letztere haben nackte, klein ausgebildete ein- bis zweisegmentige Maxillarpalpen. Diese Merkmale treten bei den Gelechioidea nicht auf.
+Weitere Merkmale, die bei den meisten Arten der Gelechioidea auftreten, sind beschuppte, viergliedrige Maxillarpalpen, die entweder nach unten gerichtet und parallel oder überlappend mit der Basis des Saugrüssels sind. Die dreigliedrigen Labialpalpen sind nach oben gerichtet, ihr drittes Segment ist langgestreckt und spitz. Der Kopf ist glatt beschuppt, Jordansche Organe (Chaetosemata) sind nicht ausgebildet. Die dorsale Oberfläche an den Tarsen der Hinterbeine sind lang und schlank beschuppt. Die Fühler sind meistens fadenförmig oder bewimpert und nur selten gekämmt oder gefiedert. 
+
+
+== Verbreitung ==
+Die Verbreitung der einzelnen Familien innerhalb der Gelechioidea unterscheidet sich stark. So stellt beispielsweise die Unterfamilie der Oecophorinae die meisten Schmetterlingsarten in Australien und die zweitmeisten in Neuseeland, sie fehlt jedoch gänzlich auf Hawaii. Die Palpenmotten (Gelechiidae) sind in Nordamerika, nördlich von Mexiko deutlich stärker vertreten als Faulholzmotten (Oecophoridae) und Grasminiermotten (Elachistidae), die Unterfamilie Stenomatinae ist mit fast 1100 Arten in der Neotropis sehr stark vertreten, auf den Antillen kommen jedoch nur neun Arten vor. 
+Im Allgemeinen sind die Vertreter der Gelechioidea im Vergleich zu anderen Gruppen der Schmetterlinge mit Ausnahme einiger weniger Gebiete nur schlecht erforscht, sodass davon ausgegangen werden kann, dass in der Nearktis beispielsweise nur etwa 30 % der Palpenmotten, 10 % der Scythridinae, 20 % der Coleophorinae, 25 % der Momphinae, 60 bis 70 % der Prachtfalter (Cosmopterigidae) und 30 % der Grasminiermotten derzeit beschrieben sind. In der Neotropis ist vermutlich die Hälfte der Stenomatinae und weniger als 20 % der Palpenmotten beschrieben, in Afrika südlich der Sahara gibt es beispielsweise nur in Südafrika genauere Untersuchungen der Palpenmotten und Lecithoceridae. In Australien ist erst etwa die Hälfte der dort lebenden Arten der Oecophorinae erfasst.
+
+
+== Lebensweise ==
+Die meisten Vertreter der Überfamilie sind nacht- oder dämmerungsaktiv, es gibt jedoch auch einige Gattungen, die tagaktiv sind. Diese sind häufig sehr lebhaft gefärbt. Alpin und arktisch verbreitete Arten können tagaktiv sein, sind jedoch in der Regel sehr düster gefärbt. Die Larven ernähren sich von totem bzw. verrottendem pflanzlichem und tierischem Material, sie sind an praktisch jeder lebenden Pflanzenart und sogar an lebenden Säugetieren nachgewiesen. Bei den meisten Arten leben die Larven geschützt in einem Gespinst oder in zusammen gesponnenen Blättern. Manche Arten erzeugen Pflanzengallen an Wurzeln oder Ästen, sind Minierer, oder tragen eine selbst angefertigte Hülle zum Schutz. Die Verpuppung erfolgt meistens in der Larvenkammer, wo die Puppe auch freiliegend sein kann. Die Puppe verändert ihre Lage nicht, sie verbleibt dort bis zum Schlupf der Imago.
+Die Eier sind in der Regel vom flachen Typ, selten sind sie bei Arten der Miniersackträger (Coleophoridae) und den Scythidinae vom aufrechten Typ. Sie werden in der Regel einzeln abgelegt, bei manchen Arten werden sie in Blüten eingestochen oder in Felsspalten abgelegt. Mit Ausnahme der paläarktischen Arten ist nur wenig über die Präimaginalstadien bekannt.
+
+
+== Systematik ==
+Amphisbatidae
+Autostichidae
+Batrachedridae
+Chimabachidae – Breitflügelmotten
+Coleophoridae – Miniersackträger oder Sackträgermotten
+Cosmopterigidae – Prachtfalter
+Deoclonidae
+Elachistidae – Grasminiermotten
+Gelechiidae – Palpenmotten
+Glyphidoceridae
+Lecithoceridae
+Lypusidae
+Oecophoridae – Faulholzmotten
+Peleopodidae
+Schistonoeidae
+Stathmopodidae
+Xyloryctidae (mit der Unterfamilie Scythridinae)
+
+
+== Literatur ==
+Niels P. Kristensen: Lepidoptera, moths and butterflies. In: Maximilian Fischer (Hrsg.): Handbook of Zoology. 1. Auflage. Band 4 – Arthropoda: Insecta, Teilband 35. de Gruyter, Berlin / New York 1998, ISBN 3-11-015704-7 (englisch). 
+Malcolm J. Scoble: The Lepidoptera: Form, Function and Diversity. Oxford University Press, Oxford 1995, ISBN 0-19-854952-0 (englisch). 
+
+
+== Einzelnachweise ==

@@ -1,0 +1,102 @@
+Yttriumoxid ist eine chemische Verbindung, genauer das Oxid von Yttrium. Es ist thermodynamisch sehr stabil und beständig gegenüber vielen reaktiven Metallschmelzen wie Titan oder Uran.
+
+
+== Vorkommen ==
+Yttriumoxid kommt natürlich als Bestandteil in verschiedenen Yttriummineralen (Samarskit, Yttrobetafit) vor.
+
+
+== Gewinnung und Darstellung ==
+Yttriumoxid wird technisch durch Verglühen von z. B. Yttriumoxalat an der Luft gewonnen.
+
+  
+    
+      
+        
+          2
+           
+          
+            Y
+            
+              2
+            
+          
+          (
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          
+            Y
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          12
+           
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Y_{2}(C_{2}O_{4})_{3}+3\ O_{2}\longrightarrow 2\ Y_{2}O_{3}+12\ CO_{2}} }
+  
+
+
+== Eigenschaften ==
+Yttriumoxid hat einen Brechungsindex von 1,930 und eine kubische Kristallstruktur im C-Oxid-Typ der Lanthanoide (Raumgruppe Ia3 (Raumgruppen-Nr. 206)Vorlage:Raumgruppe/206, Gitterparameter a = 10,12 Å).
+
+
+== Verwendung ==
+Yttriumoxid wird verwendet:
+
+als Verbindung für hochtemperaturfeste Anwendungen (z. B. als Beschichtungsmaterial für Graphit in der Kerntechnik)
+als Sinterhilfsmittel für keramische Materialien
+zur Stabilisierung von Zirconium(IV)-oxid eingesetzt (z. B. für Lambda-Sonden oder in der Dentaltechnik)
+Verdünnungsmittel von Uranoxid für Brennstäbe (bildet mit Uranoxid eine feste Lösung)
+zur Gewinnung von Yttrium und anderen Yttriumverbindungen
+für optische Beschichtungen
+als Ausgangsstoff für Hochtemperatursupraleiter (YBCO)
+als Ausgangsstoff für (rote) Luminophore  für Röhrenbildschirme
+zusammen mit Thoriumdioxid zur Herstellung von IR- und UV-Licht durchlässigem Glas
+YInMn-Blau ist ein Mischoxid aus Yttrium-, Indium- und Manganoxiden, das ein sehr reines und brillantes Blau zeigt
+
+
+== Einzelnachweise ==

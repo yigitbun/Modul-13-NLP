@@ -1,0 +1,157 @@
+Die Betriebswirtschaftslehre (BWL; englisch business administration; auch Betriebsökonomie) ist eine Einzelwissenschaft innerhalb der Wirtschaftswissenschaften, die sich mit dem Wirtschaften in Betrieben (Unternehmen) befasst.
+
+
+== Allgemeines ==
+Wie ihre Schwesterdisziplin, die Volkswirtschaftslehre (VWL) (englisch economics), basiert die BWL auf der Annahme, dass Güter grundsätzlich knapp sind und dementsprechend einen wirtschaftlichen Umgang erfordern. Im Unterschied zur abstrakteren Volkswirtschaftslehre nimmt die BWL zumeist dabei die Perspektive von einzelnen Betrieben ein. Ziele sind die Beschreibung, Analyse und Erklärung sowie die konkrete Unterstützung der zumeist von mehreren Personen getragenen Entscheidungsprozesse in Unternehmen. Erkenntnisobjekt ist der Betrieb als Wirtschaftssubjekt und Entscheidungseinheit mit seinen betrieblichen Funktionen und allen wirtschaftlichen Vorgängen.
+
+
+== Geschichte ==
+Der Begriff der „Handlungswissenschaft“ bzw. „Handelswissenschaft“ als Vorläufer der BWL aus dem 17. bis 18. Jahrhundert wandelte sich im Laufe der Zeit. Mit der Gründung der Handelshochschulen ab 1898 in Leipzig, Aachen und Wien bürgert sich die Bezeichnung „Handelsbetriebslehre“ ein. Um das Jahr 1910 wird „,Privatwirtschaftslehre‘ in den amtlichen Verkehr übernommen“. Nach 1918 kommt der Begriff der „Betriebswirtschaftslehre“ erstmals auf.In der deutschsprachigen Literatur wird zuweilen davon ausgegangen, die Betriebswirtschaftslehre sei erst 1898 mit der Gründung der Handelshochschulen in Leipzig, Aachen, Köln und Wien entstanden, als das Fach in den Kanon der Wissenschaften aufgenommen wurde. Aber ihre Geschichte, von der nur wenige Zeugnisse erhalten geblieben sind, reicht zurück bis zu den um 2000 v. Chr. in den Büchern der Lebensweisheiten mehrerer Pharaonen erwähnten Handelsschulen Ägyptens, in denen Schreiben, Rechnen, Zahlungsabwicklung, Buchhaltung und Reiseplanung unterrichtet wurden.
+
+
+=== Antike ===
+Die ersten Schriften zur Betriebsführung stammen aus der Antike. Xenophon schilderte um 380 v. Chr. in seinem Oikonomikos das Prozedere des Getreidehandels, die Qualitätssteigerung der Produktion durch Arbeitsteilung und das unternehmerische Gewinnstreben. Aristoteles beschrieb um 350 v. Chr. in seiner Lehrschrift Über Haushaltung in Familie und Staat ebenfalls die Gewinnorientierung der wirtschaftenden Haushaltung und forderte ihre jederzeitige Solvenz sowie eine ausgeglichene Risikoverteilung. In seinem Werk De re rustica postulierte der Römer Columella im 1. Jahrhundert ein Controlling mittels Benchmarks, z. B. im Weinbau eine „ewige Rente“ von sechs Prozent pro Jahr.
+
+
+=== Mittelalter ===
+Im hohen Mittelalter verfasste der Syrer Scheikh Abu l´Fadl Gafar ben Ali ad Dimisqi das Buch über die Schönheiten des Handels (1174 n. Chr.). Darin erklärte er die Entstehung des Geldes, stellte eine Warenkunde zusammen, beschrieb die Warenkalkulation und begründete das Zustandekommen der Preise durch Angebot und Nachfrage.1202 veröffentlichte der aus Pisa stammende Mathematiker Leonardo Fibonacci ein Rechenbuch (IL Liber Abaci), mit dem er das aus Indien über Bagdad nach Italien gelangte dezimale Zahlensystem erstmals in italienischer Sprache vorstellte und mit Beispielen aus dem Wirtschaftsleben veranschaulichte. Die Veröffentlichung hatte erheblichen Einfluss auf die Kaufmannschaft, die mit den „indischen Zahlen“ ihre Geschäfte besser quantifizieren und Entscheidungen rechnerisch leichter nachvollziehen konnte.Die scholastische Wirtschaftslehre begann mit Thomas von Aquin (1225–1274), der allerdings kein ökonomisches Buch hinterlassen hat, sondern nur über sein Gesamtwerk verstreute wirtschaftstheoretische Aussagen. Thomas bejahte die Notwendigkeit des Handels unter der Bedingung, dass er dem Ausgleich mangelnder Waren zwischen Stadt und Land diene. Außerdem entwickelte er die Lehre des „gerechten Preises“ (lateinisch justum pretium) für beide Tauschpartner und beschäftigte sich mit der Handelsspanne. Für Thomas besitzen alle Güter einen „immanenten, inneren Wert“ (lateinisch valor intrinsecus), nicht jedoch Geld, das nur einen „aufgepfropften Wert“ (lateinisch valor impositus) besitze. Es ist nur Tauschmittel, Geldzins wird deshalb als Wucher verworfen.
+Weiter führt das Werk von Bernhardin von Siena (1380–1444), der den Handel durch die Arbeitsteilung gerechtfertigt sah und ihn als Arbeitsleistung und Risikoübernahme verstand, die zu entgelten seien. Für Antonin von Florenz (1389–1459) und deutlicher noch für Antonio Maria Venusti (um 1560) waren der Preis das Ergebnis von Angebot und Nachfrage und die Handelsspanne durch die Kosten gerechtfertigt, welche der Handel verursacht – jedenfalls solange das darin enthaltene Entgelt des Händlers einem vernünftigen Zweck zugeführt wurde, z. B. dem Unterhalt der Familie und einer standesgemäßen Lebensführung.
+
+
+=== Renaissance ===
+In der Zeit der Renaissance entstanden in Oberitalien Handschriften, in denen das Know-how der Kaufmannsfamilien bewahrt wurde, um im Zweifelsfall nachzuschlagen oder es vom Vater auf den Sohn vererben zu können. Beschrieben wurde darin das Handelsgeschäft, die wichtigsten Handelsrouten, Handelsplätze und lokale Handelsusancen sowie die Methoden der Marktbeobachtung anhand des See- und des Überlandverkehrs. Außerdem waren in den Schriften „Tarife“ aufgeführt, etwa Tabellen mit Zöllen und Gebühren, aber auch mit Umrechnungen von Münzen, Maßen und Gewichten in unterschiedliche regionale Einheiten, um den Kontoristen die komplizierte Rechenarbeit abzunehmen. Veröffentlicht wurden die Schriften nicht, denn ihr Inhalt galt als Betriebsgeheimnis.Die wirkungsvollste dieser Geheimschriften, den Libro di divisamenti di paesi e di misure di mercatantie e d’altre cose bisognevoli di sapere a mercatanti di diverse parti del mondo, verfasste um 1340 der Florentiner Kaufmann Francesco Balducci Pegolotti, der sich dabei möglicherweise auf eine 1279 verfertigte Arbeit eines unbekannten Autors aus Pisa stützte (in Frage käme die in Siena archivierte Handschrift: Hec est memoria de tucte le mercantie come carican le navi in Alexandria e il pesi come tornano duna terra addunaltra).Wirkungsvoll war Pegolottis Schrift, weil sie nicht geheim blieb. Schon bald nach ihrer Fertigstellung soll sie einem Anonymus aus Venedig als Vorlage für ein Kaufmanns-Manual gedient haben (Tarifa zoè noticia dy pexi e mexure di luogi e tere che s´adovra marcadantia per el mondo). Im Jahre 1442 nutzte Giovanni di Bernardo aus Uzzano sie als Quelle für sein Werk Practica della Mercatura, das wiederum Giorgio di Lorenzo Chiarini aus Florenz 1458 in ein Kompendium aufnahm, in dem er auch die älteste theoretische Darstellung der Buchführung wiedergab, die Benedetto Cotrugli in seinem Werk Della Mercatura et del mercante perfetto hinterlassen hatte. Vermutlich auf dieses Kompendium griff Luca Pacioli zurück, als er 1494 seine Summa de Arithmetica, Geometria, Proportioni et Proportionalita verfasste, in deren Anhang er kommerzielle Fragen abhandelte und das System der doppelten Buchführung beschrieb. Die Summa erlangte große Bekanntheit, sodass Pacioli schließlich auch die Erfindung der Doppik zugeschrieben wurde – was er selbst nie beansprucht hat. Erst 1766 veröffentlichte Gian-Francesco Pagnini della Ventura die Kopie einer Kopie von Pegolottis Text als Band 4 einer Geschichte des Florentiner Finanzwesens (Della Decima e di varie altre gravezze imposte dal Commune di Firence della Moneta e della Mercatura dei Fiorentini fino al secolo XVI), und zwar unter dem von Bernardo da Uzzano erdachten Titel, unter dem das Werk seither bekannt ist: Practica della Mercatura.
+Im deutschen Sprachraum wurde die erste mit dem Werk Pegolottis vergleichbare Schrift im Jahre 1511 verfasst. Auch sie war nur zum unternehmensinternen Gebrauch bestimmt und blieb daher geheim. Ihr Verfasser ist nicht bekannt und auch über die Identität der (vermutlich süddeutschen) Unternehmung, für die sie geschrieben wurde, kann nur spekuliert werden.Erst im Jahre 1558 brach Lorenz Meder aus Nürnberg mit der Geheimniskrämerei, indem er seine kaufmännischen Notizen über die „verborgenen Künste, so bisher noch nie an den Tag gekommen“ unter dem Titel Handel Buch veröffentlichte. In Genua aber warfen die Kollegen noch im Jahre 1638 dem Kaufmann Giovanni Domenico Peri (1584–1639) Geheimnisverrat vor, als er die ursprünglich für seine Söhne gedachte Niederschrift seines kaufmännischen Wissens unter dem Titel Il Negotiante publizierte.Heutzutage hält man den Autoren der Renaissance zuweilen vor, das kaufmännische Wissen ihrer Zeit nicht systematisch und nur lückenhaft abgehandelt, ihre persönlichen Erfahrungen zu stark in den Vordergrund gestellt und moralische Forderungen zum Verhalten von Unternehmern in ihrem persönlichen und betrieblichen Umfeld erhoben zu haben, die nicht Gegenstand der Betriebswirtschaftslehre sein könnten. Inwieweit die Kritikpunkte dem Zeitgeist oder gar dem Zweck der Aufzeichnungen geschuldet sind, mag dahingestellt bleiben. Nicht zu bestreiten ist indes, dass der Betrieb als selbstständiger Organismus betrachtet wurde, den man vorderhand qualitativ, später mittels Buchhaltung und Kalkulation auch quantitativ zu erfassen suchte, womit Kapital und Kosten zu Erkenntnisobjekten wurden – auch wenn diese Begriffe noch nicht klar definiert waren. Die Schriften der Renaissance stellen jedenfalls eine wichtige Grundlage für die Entwicklung der Handlungswissenschaft im 17. und 18. Jahrhundert dar.
+
+
+=== Zeit der systematischen Handlungswissenschaft ===
+Als Begründer der Handlungswissenschaft gilt der Franzose Jacques Savary (1622–1690), der im Jahre 1675 das erste systematisch gegliederte Lehrbuch zur Betriebswirtschaft veröffentlichte: Le parfait Négociant. Darin fasste er das gesamte kaufmännische Wissen seiner Zeit zusammen, beschrieb das Handelsgeschäft und die damit verbundenen Risiken und schlug unter anderem vor, zur bilanziellen Bewertung des betrieblichen Vermögens das Niederstwertprinzip anzuwenden und für den periodengerechten Abschluss transitorische Posten vorzusehen.Savary hatte großen Einfluss auf Paul Jacob Marperger (1656–1730) aus Nürnberg, der in seinem Hauptwerk Nothwendige und nützliche Fragen über die Kauffmannschafft ebenfalls das Handelsgeschäft beschrieb und die Handelsspanne rechtfertigte. Als Erster begründete er den wissenschaftlichen Anspruch des Fachs, indem er forderte, auf Universitäten öffentliche Professores Mercaturae zu verordnen.
+Als Savarys eigentlicher Nachfolger im deutschen Sprachraum aber gilt Carl Günther Ludovici (1707–1778), der „sein Augenmerk allein auf das Zusammentragen und systematische Aufbauen des Stoffes“ richtete und mit seinem Werk „Eröffnete Akademie der Kaufleute oder vollständiges Kaufmannslexikon die beste Sammlung seiner Zeit schuf“ (Eduard Weber), in deren Anhang sich mit dem Grundriss eines vollständigen Kaufmanns-Systems eine systematische Darstellung der Handlungswissenschaft findet, die den Stoff gliedert in die Arten der Handels- und Handelshilfsbetriebe, die produktiven Faktoren (Waren, Personen, Sachmittel) sowie die Handelstätigkeit als Ein- und Verkauf.
+Gestützt auf Ludovici, Marperger und Savary veröffentlichte Johann Carl May (1731–1784) im Jahre 1762 den Versuch einer allgemeinen Einleitung in die Handlungswissenschaften, wobei er als „Handlung“ jedwede Erwerbswirtschaft bezeichnete, also nicht nur den Warenhandel, sondern auch das Gewerbe, die Schifffahrt und sogar die Landwirtschaft. Durch das Buch, das zahlreiche Auflagen hatte, wurde das Fach vor allem bei Praktikern populär.
+Im Jahre 1785 erschien das Gemeinnützige Lehrbuch der Handlungswissenschaft für alle Klassen von Kaufleuten und Handlungsstudierenden von Johann Heinrich Jung, genannt Stilling (1740–1817), das auf den Arbeiten von May und Ludovici gründete, den Stoff aber auf neue Weise ordnete, nämlich in Tausch (Warenkunde, Geldkunde, Handelskunde) und Expedition (Frachtkunde, Zahlungskunde, Kontorkunde).
+Ihren Höhepunkt erreichte die Handlungswissenschaft, als Johann Michael Leuchs im Jahre 1804 sein Buch System des Handels veröffentlichte, das insgesamt vier Auflagen erlebte. Er gliederte den Stoff in Warenkunde, Handlung und Buchhaltung und begann, durch Anwendung der Wahrscheinlichkeitsrechnung auf „Preis- und Kursveränderungen, auf Assekuranzgeschäfte und verarbeitende Anstalten“ das Fach zu mathematisieren.
+Im 19. Jahrhundert verflachte die handlungswissenschaftliche Literatur. Stattdessen entwickelte sich das Handelsschulwesen, das die in der aufkeimenden Industrie benötigten kaufmännischen Arbeitstechniken vermittelte, die heute zur Propädeutik der BWL gerechnet werden. Die großen Werke der Handlungswissenschaftler gerieten darüber in Vergessenheit. Die vielversprechenden Ansätze von Leopold Carl Bleibtreu, Jean-Gustave Courcelle-Seneuil, Arnold Lindwurm und Arwed Emminghaus in der Mitte des 19. Jahrhunderts blieben ohne Echo. Das von ihnen beschriebene betriebliche Faktorsystem findet sich immerhin 90 Jahre später bei Erich Gutenberg wieder.
+
+
+=== 20. Jahrhundert ===
+Erst an der Wende vom 19. zum 20. Jahrhundert kam es zu einer wissenschaftlichen Neubelebung der Disziplin. Auf die Erkenntnisse der Handlungswissenschaftler und ihrer Vorläufer wurde dabei jedoch kein Bezug genommen. Man fing quasi noch einmal bei null an. Den Schwerpunkt bildeten zunächst die „propädeutischen“ Fächer (kaufmännisches Rechnen, Buchhaltung, Kontorkunde und Korrespondenz) sowie Fremdsprachen. Hinzu kamen die Betriebsorganisation sowie spezielle Lehren des Warenhandels, des Bankgeschäfts, des Transportwesens und der Versicherungen. Nach der Jahrhundertwende begann die vertiefte Analyse des betrieblichen Rechnungswesens (Kostenrechnung, Bilanz).
+Allgemein wird der Beginn einer systematischen und wissenschaftlich betriebenen Betriebswirtschaftslehre auf das Jahr 1902 datiert. Als erste spezialisierte Publikationen befassten sich die Zeitschrift für betriebswirtschaftliche Forschung (ZfbF) (1906), Zeitschrift für Handelswissenschaft und Handelspraxis (1908–1929), deren Nachfolge Die Betriebswirtschaft (1930–2016) übernahm, mit der Materie. Die Zeitschrift für Betriebswirtschaft (ZfB) folgte 1924. Für eine einheitliche Begriffsverwendung sorgte 1929 der Betriebswirt Erwin Geldmacher, der unter anderem die noch heute gültige Unterscheidung und Abgrenzung der Grundbegriffe wie Aufwand, Erfolg, Erlös, Ertrag, Leistung und Kosten vorschlug. Später kam es zu einer in die Geschichte eingegangenen Diskussion über das generelle Wesen und die zentralen Bezugspunkte der Betriebswirtschaftslehre, welche 1952 im eigentlichen Methodenstreit in der Betriebswirtschaftslehre zwischen Konrad Mellerowicz und Erich Gutenberg gipfelte. Der Streit erfolgte über den Bezug zum Wirtschaftssystem, die Stellung zur Volkswirtschaftslehre, die wissenschaftliche Methodik, das Erkenntnisobjekt, den Praxisbezug, die betrieblichen Ziele sowie schließlich über die Entwicklung der Betriebswirtschaftslehre als normative, also auf ethische und praktische Normen gerichtete oder andererseits wertfreie, rational-theoretische Wissenschaft. Das Fach wurde als kaufmännische Betriebslehre, Handelswissenschaft, Privatwirtschaftslehre, Einzelwirtschaftslehre und Handelsbetriebslehre geführt, bevor sich die Bezeichnung Betriebswirtschaftslehre seit den 1920er Jahren durchsetzte.Nach Fritz Schönpflug (1900–1936) gab es folgende Hauptströmungen der Betriebswirtschaftslehre:
+
+1. die normative Einzelwirtschaftslehre mit Johann Friedrich Schär, Rudolf Dietrich (1896–1974) und Heinrich Nicklisch.
+2. die empirisch-realistische Einzelwirtschaftslehre in technologischer Richtung mit Eugen Schmalenbach und Friedrich Leitner.
+3. die empirisch-realistische Einzelwirtschaftslehre in theoretischer Richtung mit Fritz Schmidt und Wilhelm Rieger.Nach dem Zweiten Weltkrieg ordnete Erich Gutenberg mit seinem dreibändigen Werk die BWL von Grund auf neu, indem er betriebliche Funktionen (Beschaffung, Produktion, Vertrieb, Finanzen) unterschied, Verbrauchsfunktionen in die Kostenrechnung einführte und die absatzpolitischen Instrumente (Preispolitik, Produktgestaltung, Werbung) beschrieb (Produktionsfaktoransatz). Er führte 1951 die Theorie der Anpassungsformen in die Produktionstheorie ein. Systematisch fortentwickelt wurde die BWL im deutschen Sprachraum u. a. von Hans Ulrich, der ihre Systemorientierung beleuchtete (Systemansatz), und von Edmund Heinen, der ihre Entscheidungsorientierung herausstellte sowie die Möglichkeit, betriebliche Entscheidungen mathematisch zu fundieren (Entscheidungstheoretischer Ansatz). Unter dem Einfluss der amerikanischen Managementlehren kam es in der zweiten Hälfte des 20. Jahrhunderts zur Herausbildung des Verhaltensansatzes bei Günther Schanz, der auch als Führungs- oder Managementansatz bezeichnet wird.1960 brachte Günter Wöhe zum ersten Mal das – inzwischen als Standardwerk anerkannte – Kompendium Einführung in die Allgemeine Betriebswirtschaftslehre heraus, das regelmäßig aktualisiert und seit 2008 von Ulrich Döring und seit 2016 von Gerrit Brösel weitergeführt wird. In diesem Werk, das mittlerweile ein Millionenseller ist, werden weitere Ansätze der Betriebswirtschaftslehre vorgestellt.Abhandlungen zur Geschichte der BWL und Nachdrucke bedeutender handelswissenschaftlicher Werke veröffentlicht die Vereinigung zur Förderung der Geschichte der Betriebswirtschaftslehre.
+
+
+== Gliederung ==
+Die Betriebswirtschaftslehre gliedert sich in zwei Hauptbereiche: die Allgemeine Betriebswirtschaftslehre (ABWL) und die Spezielle Betriebswirtschaftslehre (SBWL), welche wiederum in funktionale und institutionelle Betriebswirtschaftslehren unterteilt ist.
+
+
+=== Allgemeine Betriebswirtschaftslehre ===
+Die Allgemeine Betriebswirtschaftslehre (ABWL) befasst sich mit planerischen, organisatorischen und rechentechnischen Entscheidungen in Betrieben. Sie ist dabei funktions- und branchenübergreifend ausgerichtet. Die Allgemeine Betriebswirtschaftslehre gibt einen Überblick über die Wissenschaft der Betriebswirtschaftslehre und legt dabei funktions- und branchenübergreifende Zusammenhänge dar. Ziel ist es, das fachübergreifende Denken und Entscheiden zu fördern.
+
+
+=== Spezielle Betriebswirtschaftslehre ===
+Die Spezielle Betriebswirtschaftslehre (SBWL) – bisweilen auch Besondere Betriebswirtschaftslehre (BBWL) genannt – fokussiert auf ausgewählte Fragen, die jeweils nur für bestimmte Unternehmen oder Unternehmensteile relevant sind. Hierbei gab es lange nur zwei verschiedene Ansätze, die Gebiete voneinander abzugrenzen: Institutionelle Betriebswirtschaftslehren betrachten alle Funktionsbereiche, jedoch immer nur für bestimmte Betriebstypen, die sich z. B. nach Branche, Betriebsgröße und -alter unterscheiden. Funktionale Betriebswirtschaftslehren fokussieren demgegenüber jeweils einzelne Funktionsbereiche in Betrieben, unabhängig von der jeweiligen Branche. Seit 1996 setzt sich immer mehr eine stärker differenzierte Gliederung durch, die von Jürgen Weber vorgeschlagen wurde. Neben den bisherigen institutionellen oder funktionellen Betriebswirtschaftslehren gibt es noch Faktorenlehren die sich mit bestimmten Produktionsfaktoren befassen, Führungslehren behandeln die Unternehmensführung entweder des Gesamtunternehmens oder bezüglich ausgewählter Führungsteilsysteme. Zuletzt gibt es noch Querschnittsfunktionslehren auch Metaführungslehren genannt, die die Koordination der einzelnen Gebiete betrachten.
+
+Moderne EinteilungFunktionenlehren: Forschung und Entwicklung, Beschaffung, Produktionswirtschaft, Lagerung und Transport, Absatzwirtschaft, Entsorgungswirtschaft.
+Führungslehren: Informationswirtschaft, Planungslehre, Kontrolllehre, Organisation, Personalführung, Operations Research.
+Querschnittsfunktionslehren,  Metaführungslehren: Marketing, Controlling, Qualitätsmanagement, Logistik, Supply-Chain-Management, Umweltmanagement, Innovationsmanagement, Internationales Management.
+Faktorenlehren: Materialwirtschaft, Anlagenwirtschaft, Personalwesen, Finanzwirtschaft.
+Wirtschaftszweiglehren: Industriebetriebslehre, Handelsbetriebslehre, Bankbetriebslehre, … (Für weitere siehe die ältere Einteilung)Ältere EinteilungFunktionale Betriebswirtschaftslehren sind:
+
+Beschaffung, Materialwirtschaft und Logistik
+Produktionswirtschaft inkl. Operations Research und Qualitätsmanagement
+Absatzwirtschaft, Marketing und Unternehmenskommunikation
+Finanzwirtschaft (Investition und Finanzierung, Risikomanagement, Kapitalmärkte)
+Internes Rechnungswesen, Kostenrechnung, Controlling
+Externes Rechnungswesen inkl. Revisions- und Treuhandwesen sowie Wirtschaftsprüfung
+Betriebswirtschaftliche Steuerlehre
+Personalwesen, Personalentwicklung, Personalführung
+Organisation einschließlich Organisationstheorie und Organisationskultur
+Innovations- und Technologiemanagement, Change Management, Wissensmanagement
+Strategisches Management, Unternehmensführung, Unternehmensverfassung, Unternehmenspolitik, Unternehmensplanung, Unternehmensethik
+Umweltmanagement
+ManagementlehreUnternehmensführung mit unterschiedlichem Fokus:
+
+Marktorientierte Unternehmensführung oder Marketingmanagement
+Wertorientierte Unternehmensführung oder Finanzmanagement (siehe auch Shareholder Value)
+Mitarbeiterorientierte Unternehmensführung oder PersonalmanagementInstitutionelle, auf spezielle Branchen fokussierte Betriebswirtschaftslehren sind
+
+Bankbetriebslehre
+Betriebswirtschaftslehre des Tourismus
+Betriebswirtschaftslehre des Gesundheitswesens – Gesundheitswirtschaft
+Dienstleistungsmanagement
+Handelsbetriebslehre
+Immobilienwirtschaft
+Industriebetriebslehre
+Landwirtschaftliche Betriebslehre
+Medienmanagement
+Öffentliche Betriebswirtschaftslehre und Verwaltungsbetriebswirtschaftslehre
+Versicherungsbetriebslehre
+Bergwirtschaftslehre
+Sozialmanagement
+Speditionsbetriebslehre
+SportmanagementWeitere institutionelle Betriebswirtschaftslehren mit Fokus auf bestimmte Unternehmenstypen sind z. B.
+
+Betriebswirtschaftslehre kleiner und mittlerer Unternehmen (KMU)
+Unternehmensgründung/Entrepreneurship
+Internationales Management
+KonzernmanagementÜblicherweise werden in einem Studium der Betriebswirtschaftslehre noch Hilfswissenschaften gelehrt, insb.:
+
+Wirtschaftsmathematik bzw. Mathematik
+Wirtschaftsrecht bzw. Recht
+Wirtschaftsstatistik bzw. Statistik
+Wirtschaftsinformatik bzw. Informatik und InformationsmanagementBeide Ansätze haben ihre Vor- und Nachteile. Die funktionale BWL ist nur schwer in der Lage, branchenspezifische Probleme zu behandeln, liefert dafür aber branchenunabhängige Aussagen. Die Branchen-Betriebswirtschaftslehre fokussiert auf die für die Branche relevanten funktionalen Aspekte, besteht aber in weiten Teilen aus Doppelungen mit anderen Betriebswirtschaftslehren.
+
+
+=== Schnittmengen mit anderen Wissenschaften ===
+Die BWL bildet mit anderen Wissenschaften Schnittmengen. Diese Schnittmengen sind häufig bestimmte betriebswirtschaftliche Problemfelder, deren Lösung nur interdisziplinär möglich ist. Sie bilden wiederum eigenständige Lehr- und Forschungsbereiche, können oft aber auch als SBWL gewählt werden.
+
+Wirtschaftschemie
+Wirtschaftsethik
+Wirtschaftsgeografie
+Wirtschaftsgeschichte
+Wirtschaftsinformatik
+Wirtschaftsingenieurwesen
+Wirtschaftsmathematik
+Wirtschaftsstatistik
+Wirtschaftspädagogik
+Wirtschaftsphilosophie
+Wirtschaftspsychologie
+Wirtschaftsrecht
+WirtschaftssoziologieVon diesen Bereichen ist die Wirtschaftspädagogik zumeist den wirtschaftswissenschaftlichen, erziehungswissenschaftlichen oder philosophischen Fakultäten der Hochschulen zugeordnet. Die Wirtschaftsinformatik und das Wirtschaftsingenieurwesen sind uneinheitlich entweder den BWL- oder den jeweiligen technischen Fakultäten zugeordnet. Je größer die Auswahl an unterschiedlichen ingenieurwissenschaftlichen Vertiefungen ist, umso eher ist es den BWL-Fakultäten zugeordnet. Wirtschaftsmathematik und Wirtschaftsgeografie befinden sich, in der Regel, in naturwissenschaftlichen Fakultäten, wie zum Beispiel Mathematik- und Geografiefakultäten.
+
+
+== Ausbildung ==
+
+Betriebswirtschaftliche Kenntnisse werden auch im Rahmen der kaufmännischen Lehrberufe (Beispiel: Gehilfe zum Industrie-, Speditions-, Bankkaufmann usw.) vermittelt. Berufliche Weiterbildungsmöglichkeiten gibt es an Fachschulen und Fachakademien (zum Beispiel zum staatlich geprüften Betriebswirt oder Betriebswirt der Sparkasse usw.) Betriebswirtschaftliche Studienmöglichkeiten an Hochschulen (Universitäten und Fachhochschulen) werden mit akademischen Graden (Diplom-, Bachelor-, Masterabschluss) abgeschlossen. Duale Studiengänge an Berufsakademien verleihen ihren Absolventen den ‚Bachelor‘ als staatliche Abschlussbezeichnung. Wachsenden Zulauf verzeichnen in Deutschland auch die privaten Fernhochschulen und Business Schools. Eine Möglichkeit zur Grundlagenbildung bietet der Economist Pass – University/Further Education.
+
+
+== Forschungslandschaft ==
+Die betriebswirtschaftliche Forschung umfasst sowohl Grundlagen- als auch angewandte Forschung. Die Grundlagenforschung beschäftigt sich oftmals mit sehr speziellen und abstrakten Fragestellungen, die häufig formal-mathematisch modelliert oder empirisch analysiert werden. Die Präzision der wissenschaftlichen Methoden ist dabei mittlerweile auf ähnlichem Niveau wie z. B. in der Volkswirtschaftslehre oder der Psychologie. Die angewandte Forschung dient dazu, der Praxis konkrete Problemlösungen zu liefern. Empfänger der Forschung sind oft das Management, aber auch Gesetzgeber, Gesellschaft und Nichtregierungsorganisationen.
+Bekannte deutschsprachige Fachzeitschriften sind Die Betriebswirtschaft (DBW), Zeitschrift für Betriebswirtschaft (ZfB) und Schmalenbachs Zeitschrift für betriebswirtschaftliche Forschung (zfbf). In der Handelsblatt-Zeitschriftenliste 2009, die verschiedene Zeitschriftenbewertungen konsolidiert, erreichten unter den betriebswirtschaftlichen Fachzeitschriften Academy of Management Journal, Academy of Management Review, Administrative Science Quarterly, Information Systems Research, Journal of Consumer Research, Journal of Finance, Journal of Financial Economics, Journal of Marketing, Management Science und Marketing Science die höchsten Platzierungen. In seiner höchsten Kategorie 4* werden im Ranking der britischen Association of Business Schools (2010) die folgenden Zeitschriften eingeordnet: Academy of Management Journal, Academy of Management Review, Accounting Review, Accounting, Organizations and Society, Administrative Science Quarterly, Information Systems Research, Journal of Accounting and Economics, Journal of Accounting Research, Journal of Consumer Research, Journal of Finance, Journal of Marketing, Journal of Marketing Research, Management Science, Marketing Science, MIS Quarterly, Operations Research, Organization Science, Review of Financial Studies und Strategic Management Journal.Beim Handelsblatt Betriebswirte-Ranking 2009, das die Forschungsleistung von 2100 Betriebswirten in Deutschland, Österreich und der deutschsprachigen Schweiz gemessen an der Qualität der Publikationen seit 2005 analysiert, erreichten Christian Homburg, Ulrich Lichtenthaler, Adamantios Diamantopoulos, Martin Högl, Martin Weber, Armin Scholl, Nils Boysen, Andreas Herrmann, Dirk Sliwka und Stephan M. Wagner die zehn besten Plätze. Das BWL Ranking wird regelmäßig neu publiziert und ist kostenfrei einsehbar.
+
+
+== Organisationen, Verbände und Vereine ==
+Bundesverband Deutscher Volks- und Betriebswirte e. V. (bdvb) – Berufsverband für Wirtschaftsakademiker und Studierende der Wirtschaftswissenschaften
+Schmalenbach Gesellschaft für Betriebswirtschaft
+Verband der Hochschullehrer für Betriebswirtschaft e. V. – Verband der Betriebswirtschaftsprofessoren an deutschsprachigen Universitäten
+
+
+== Literatur ==
+Thomas Straub: Einführung in die Allgemeine Betriebswirtschaftslehre. 1. Auflage. Pearson Studium, München 2012, ISBN 978-3-86894-046-6. 
+Marcell Schweitzer, Alexander Baumeister (Hrsg.): Allgemeine Betriebswirtschaftslehre – Theorie und Politik des Wirtschaftens in Unternehmen. 11. Auflage. Erich Schmidt Verlag, Berlin 2015, ISBN 978-3-503-15801-0. 
+Klaus Brockhoff: Geschichte der Betriebswirtschaftslehre: Kommentierte Meilensteine und Originaltexte. 2. Auflage. Gabler-Verlag, Wiesbaden 2002, ISBN 3-409-21572-7.
+Klaus Olfert, Horst-Joachim Rahn: Einführung in die Betriebswirtschaftslehre. 12. Auflage. Herne Verlag, 2017, ISBN 978-3-470-64942-9.
+Wolfgang Domschke, Armin Scholl: Grundlagen der Betriebswirtschaftslehre: Eine Einführung aus entscheidungsorientierter Sicht. 4. Auflage. Springer, Berlin 2008, ISBN 978-3-540-85077-9. 
+Karl Lechner, Anton Egger, Reinbert Schauer: Einführung in die Allgemeine Betriebswirtschaftslehre. 25. Auflage. Linde Verlag, Wien 2010, ISBN 978-3-7073-1806-7. 
+Jean-Paul Thommen, Ann-Kristin Achleitner: Allgemeine Betriebswirtschaftslehre: Umfassende Einführung aus managementorientierter Sicht. 6. Auflage. Gabler Verlag, Wiesbaden 2009, ISBN 978-3-8349-1325-8. 
+Günter Wöhe, Ulrich Döring, Gerrit Brösel: Einführung in die Allgemeine Betriebswirtschaftslehre. 26. Auflage. Franz Vahlen, München 2016, ISBN 978-3-8006-5000-2. 
+Henner Schierenbeck: Grundzüge der Betriebswirtschaftslehre. 16. Auflage. Oldenbourg Wissenschaftsverlag, München 2008, ISBN 978-3-486-27322-9. 
+Ingo Balderjahn, Günter Specht: Einführung in die Betriebswirtschaftslehre. 7. Aufl., Schäffer-Poeschel, Stuttgart 2016, ISBN 978-3-7910-3532-1.
+Wolfgang Schmeisser et al. (Hrsg.): Neue Betriebswirtschaft: Theorien, Methoden, Geschäftsfelder. 2. überarb. Aufl., (UTB; 5327) UVK Verl. / Narr Francke Attempto Verl., München/Tübingen [2020], ISBN 978-3-8252-5327-1.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

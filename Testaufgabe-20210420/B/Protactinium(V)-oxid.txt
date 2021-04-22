@@ -1,0 +1,132 @@
+Protactinium(V)-oxid ist eine chemische Verbindung aus Protactinium und Sauerstoff mit der Formel Pa2O5. Es ist ein weißes, kristallines Pulver und kristallisiert kubisch flächenzentriert mit einer Gitterkonstante von 545,5 pm.
+
+
+== Eigenschaften ==
+Protactinium(V)-oxid tritt in mehreren polymorphen Modifikationen auf, die sich durch geeignete Wahl der Versuchsbedingungen gezielt darstellen lassen. Die kubische Form erhält man durch Ausfällung einer Pa(V)-Salzlösung, wobei sich ein Protactinium(V)-oxid-hydrat bildet, das man trocknet und an der Luft bei 600–700 °C glüht. Tetragonales Protactinium(V)-oxid entsteht aus dem Hydrat oder dem kubischen Oxid beim Erhitzen an der Luft auf 700–900 °C. Hexagonales Protactinium(V)-oxid erhält man entweder in einer Quarzampulle in Sauerstoff-Atmosphäre bei 1075 °C oder an der Luft bei 1050 °C. Dieses wandelt sich beim Erhitzen an Luft auf 1200–1500 °C teilweise
+in eine rhomboedrische Modifikation um.
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen, die eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielt. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Verwendung ==
+Durch Reaktion mit Brom(III)-fluorid oder Brom(V)-fluorid bei 600 °C kann Protactinium(V)-fluorid gewonnen werden.
+
+  
+    
+      
+        
+          3
+          
+          
+            Pa
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          10
+          
+          
+            BrF
+            
+              3
+            
+            
+              
+            
+          
+          
+            (
+            6
+            
+            
+              BrF
+              
+                5
+              
+              
+                
+              
+            
+            )
+          
+          ⟶
+          6
+          
+          
+            PaF
+            
+              5
+            
+            
+              
+            
+          
+          +
+          5
+          
+          
+            Br
+            
+              2
+            
+            
+              
+            
+          
+          
+            (
+            3
+            
+            
+              Br
+              
+                2
+              
+              
+                
+              
+            
+            )
+          
+          +
+          7
+          
+          ,
+          5
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {3 Pa2O5 + 10 BrF3 (6 BrF5) -> 6 PaF5 + 5 Br2 (3 Br2 ) + 7,5 O2}}}
+  
+
+
+== Literatur ==
+Boris F. Myasoedov, Harold W. Kirby, Ivan G. Tananaev: Protactinium. (pdf) In: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements. Springer, Dordrecht 2006, ISBN 1-4020-3555-1, S. 161–252.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,121 @@
+Neptunium(IV)-oxid, oder auch Neptuniumdioxid, ist eine chemische Verbindung aus den Elementen Neptunium und Sauerstoff. Es ist das chemisch stabilste Oxid des Neptuniums.
+
+
+== Eigenschaften ==
+Neptunium(IV)-oxid ist ein gelbgrüner bis bräunlicher kristalliner Feststoff mit einem hohen Schmelzpunkt von 2547 °C. Es ist wenig reaktiv und wird von Wasser fast nicht angegriffen. Neptuniumdioxid weist ein kubisches Kristallsystem auf, hat die Raumgruppe Fm3m (Nr. 225)Vorlage:Raumgruppe/225, die Elementarzellen haben als Gitterparameter a = 543,4 pm, der Strukturtyp ist der CaF2-Typ (Fluorit) und die Koordinationszahlen sind Np[8], O[4]. Die Standardentropie beträgt 19,19 ± 0,1 cal·mol−1·K−1.
+
+
+== Darstellung ==
+Neptunium(IV)-oxid entsteht durch thermische Zersetzung von sauerstoffhaltigen Neptuniumverbindungen, z. B. des Nitrats, Oxalats, Hydroxids oder höherer Oxide.
+
+  
+    
+      
+        
+          Np
+          
+            
+              (
+              
+                C
+                
+                  2
+                
+                
+                  
+                
+              
+              
+                O
+                
+                  4
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          ⋅
+          6
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            NpO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          4
+          
+          CO
+          +
+          4
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          6
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {Np(C2O4)2 . 6 H2O -> NpO2 + 4 CO + 4 CO2 + 6 H2O}}}
+  Es wurde 1944 als erste Verbindung des damals neuen Elements hergestellt.
+
+
+== Verwendung ==
+Bei der Wiederaufarbeitung von Kernbrennstäben fällt Neptunium(IV)-oxid als Zwischenprodukt an. Als chemisch stabilste Form des Neptuniums findet es selbst wiederum Verwendung in Kernbrennstäben. Dazu wird es (vor allem das Isotop 237Np zusammen mit unwesentlichen Mengen anderer Neptuniumisotope) vom abgebrannten Reaktorbrennstoff abgetrennt und in Brennstäbe gefüllt, die nur Neptunium(IV)-oxid enthalten. Diese werden wieder in den Kernreaktor eingesetzt, wo sie erneut mit Neutronen bestrahlt werden; aus dem 237Np wird 238Pu erbrütet.
+Durch Reaktion von Neptuniumdioxid mit Tetrachlormethan bei höheren Temperaturen gelingt die Darstellung von Neptunium(IV)-chlorid.
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen und eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielen. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. Walter de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1, S. 1972.
+Zenko Yoshida, Stephen G. Johnson, Takaumi Kimura, John R. Krsul: Neptunium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 699–812 (doi:10.1007/1-4020-3598-5_6).
+C. Keller: Die Chemie des Neptuniums, in: Fortschr. chem. Forsch., 1969/70, 13/1, S. 1–124 (doi:10.1007/BFb0051170).
+Toshiyuki Yamashita, Noriko Nitani, Toshihide Tsuji, Hironitsu Inagaki: Thermal expansions of NpO2 and some other actinide dioxides, in: J. Nucl. Mat., 1997, 245 (1), S. 72–78 (doi:10.1016/S0022-3115(96)00750-7).

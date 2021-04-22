@@ -1,0 +1,8 @@
+Die Charters Encoding Initiative (CEI) ist eine Gruppe von Wissenschaftlern, die daran arbeitet, einen Standard zur Kodierung von Urkunden des Mittelalters und der Frühen Neuzeit mit Hilfe von XML zu entwickeln. Sie entstand im Jahr 2004 auf einer Tagung in München. Die Vorschläge zur Kodierung sind als Liste und in Ausschnitten als Dokumenttypdefinition und XML-Schema verfügbar. Die Arbeitsgruppe versucht damit, Konzepte der Diplomatik mit computergestützten Informationstechnologien umzusetzen.
+
+
+== Weblinks ==
+Webseite der CEI
+
+
+== Referenzen ==

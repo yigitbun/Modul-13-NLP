@@ -1,0 +1,51 @@
+Das Mizar-System besteht aus einer formalen Sprache, um mathematische Definitionen und Beweise zu schreiben, einem Beweisassistenten, der in dieser Sprache erfasste Beweise mechanisch prüft, und einer Bibliothek formalisierter Mathematik, auf welche im Beweis neuer Theoreme zurückgegriffen werden kann. Das System wird vom Mizar Project, früher unter der Leitung seines Gründers Andrzej Trybulec, unterhalten und weiterentwickelt.
+Die Mizar Mathematical Library ist die weltweit größte Sammlung strikt formalisierter Mathematik.
+
+
+== Geschichte ==
+Das Mizar-Projekt wurde 1973 von Andrzej Trybulec begonnen im Versuch, die mathematische Fachsprache so zu rekonstruieren, dass sie von einem Computer überprüft werden kann. Das momentane Ziel, neben Weiterentwicklung des Mizar-Systems, ist die kollaborative Erstellung einer großen Bibliothek formal verifizierter Beweise, die den Großteil der modernen Mathematik abdecken soll. Dies ist ganz im Sinne des QED-Manifests.Momentan wird das Projekt unterhalten und weiterentwickelt von Forschungsgruppen der Universität Białystok (Polen), der University of Alberta (Kanada) und der Shinshū-Universität (Japan). Während das Programm zur Beweisprüfung proprietär bleibt, ist die Mizar Mathematical Library – die Bibliothek formal verifizierter Mathematik – open-source lizenziert.Papers im Zusammenhang mit dem Mizar-System erscheinen regelmäßig in Fachzeitschriften der Akademischen Gesellschaft für mathematische Formalisierung. Diese umfassen Studies in Logic, Grammar and Rhetoric, Intelligent Computer Mathematics, Interactive Theorem Proving, Journal of Automated Reasoning und das Journal of Formalized Reasoning.
+
+
+=== Name ===
+Nach den Angaben von Andrzej Trybulec ist der Doppelstern Mizar im Sternbild des großen Wagen der Namensgeber des Projekts.
+
+
+== Mizar-Sprache ==
+Das herausragende Merkmal der Mizar-Sprache ist ihre Lesbarkeit. Wie bei mathematischen Texten üblich, basiert sie auf klassischer Logik und deklarativem Stil.  Mizar-Artikel werden in gewöhnlichem ASCII verfasst, aber die Sprache wurde so entwickelt, dass sie nahe genug an der mathematischen Fachsprache ist, dass die meisten Mathematiker Mizar-Artikel ohne spezielles Training verstehen können. Dennoch erlaubt die Sprache ein erhöhtes Maß an Formalität, nötig zur automatischen Beweisprüfung.
+Damit ein Beweis akzeptiert wird, müssen alle Schritte begründet werden, entweder mit elementaren logischen Argumenten oder durch Zitierung bereits verifizierter Beweise. Daraus resultiert ein höheres Level an Ausführlichkeit als üblich in gewöhnlichen mathematischen Lehrbüchern und Publikationen. Deswegen ist ein typischer Mizar-Artikel etwa viermal länger als ein äquivalentes Paper, das in gewöhnlichem Stil verfasst wurde.
+Die Formalisierung eines Theorems in der Mizar-Sprache ist relativ arbeitsaufwändig, aber nicht unmöglich schwierig. Ist man einmal mit dem System vertraut, braucht es etwa eine Woche Vollzeitarbeit, um eine Textbuchseite formal verifizieren zu lassen. Dies deutet an, dass die Vorteile des Systems in Reichweite von angewandten Gebieten wie Wahrscheinlichkeitstheorie und Wirtschaft sind.
+
+
+== Mizar Mathematical Library ==
+The Mizar Mathematical Library (MML) enthält alle Theoreme, auf welche sich neue Artikel beziehen können. Sobald Artikel vom Beweisprüfer akzeptiert werden, werden sie weiter extern begutachtet und Stil und Wert des Beitrags untersucht. Wenn sie akzeptiert werden, werden sie im eigenen Journal of Formalized Mathematics publiziert und zur MML hinzugefügt.
+
+
+=== Breite ===
+Im Juli 2012 umfasste die MML 1150 Artikel geschrieben von 241 Autoren. Zusammen umfassen diese mehr als 10.000 formale Definitionen mathematischer Objekte und etwa 52.000 bewiesene Theoreme über diese Objekte. Mehr als 180 benannte mathematische Fakten konnten formal kodiert werden. Beispiele sind der Satz von Hahn-Banach, das Lemma von König, der Fixpunktsatz von Brouwer, der gödelsche Vollständigkeitssatz und der jordansche Kurvensatz.
+Die Breite der Abdeckung veranlasste einige Personen dazu, Mizar als eine der führenden Approximationen an das QED-Manifesto, der Kodierung der gesamten Mathematik in Computer verifizierbarer Form, vorzuschlagen.
+
+
+=== Verfügbarkeit ===
+Alle MML-Artikel sind in PDF-Form als Paper im Journal of Formalized Mathematics verfügbar.  Der gesamte Text der MML wird mit dem Mizar Proof Checker (Beweisüberprüfungsprogramm) verbreitet und kann kostenlos von der Mizar-Webseite heruntergeladen werden. In einem laufenden Projekt wurde die Bibliothek in einer experimentellen Wiki-Form verfügbar gemacht, die Bearbeitungen nur zulässt, wenn sie vom Proof Checker akzeptiert werden.Die Query-Webseite implementiert eine mächtige Suchmaschine für den Inhalt der MML. Neben anderem, kann es alle MML-Theoreme, die über einen bestimmten Typ oder Operator beweisen wurden, auflisten.
+
+
+=== Logische Struktur ===
+Die MML baut auf den Axiomen der Tarski-Grothendieck-Mengenlehre auf. Obwohl semantisch alle Objekte Mengen sind, erlaubt die Sprache die Definition und Verwendung schwacher Typen. Zum Beispiel kann eine Menge nur als Typ Nat deklariert werden, wenn seine Interne Struktur mit einer bestimmten Liste von Anforderungen konform ist. Im Gegenzug dient diese Liste als Definition der Natürlichen Zahlen und die Menge aller Mengen die mit dieser Liste konform sind wird mit NAT bezeichnet. Diese Implementation der Typen versucht die Art und Weise wie die meisten Mathematiker über Symbole denken widerzuspiegeln und so den Prozess der Kodifizierung leichter zu machen.
+
+
+== Mizar Proof Checker ==
+Distributionen des Mizar Proof Checkers für die gängigen Betriebssysteme sind frei zum Download von der Mizar-Webseite verfügbar. Die Verwendung des Proof Checkers ist kostenlos für nicht-kommerzielle Anwendungen. Die Software wurde in Free Pascal geschrieben, und der Quellcode ist für alle Mitglieder der Association of Mizar Users verfügbar.
+
+
+== Siehe auch ==
+Maschinengestütztes Beweisen
+Coq (Software)
+
+
+== Weblinks ==
+Offizielle Website
+Writing a Mizar article in nine easy steps (PDF; 285 kB), eine Einführung in die Mizar-Sprache
+Mizar in a Nutshell
+
+
+== Einzelnachweise ==

@@ -1,0 +1,37 @@
+Pyrogenes Siliciumdioxid (historisch, aber fachlich inkorrekt, auch pyrogene Kieselsäure, englisch fumed silica) ist ein synthetisch hergestelltes, kolloides Material mit definierten Eigenschaften und Teilchengröße, welches als Füllstoff in Kunststoffen verwendet wird. Es besteht vollständig aus amorphen Siliciumdioxid-Partikeln (SiO2), die zu größeren Einheiten aggregiert sind. Ähnliches gilt für gefälltes Siliciumdioxid (historisch: gefällte Kieselsäure), dieses unterscheidet sich aber in Herstellungsweise und Eigenschaften.
+
+
+== Geschichte ==
+Die Herstellung von pyrogenem Siliciumdioxid wurde 1944 bei der Degussa nach einem Verfahren von Harry Kloepfer aufgenommen.
+
+
+== Herstellungsweise und Eigenschaften ==
+Die Prozesse zur Herstellung von gefälltem und pyrogenem Siliciumdioxid werden in der folgenden Abbildung verglichen:
+
+Sowohl für gefälltes wie auch für pyrogenes Siliciumdioxid dient Sand (kristallines Siliciumdioxid) als Ausgangsstoff.
+Zur Herstellung von pyrogenem Siliciumdioxid wird der Sand zunächst mit Kohlenstoff reduziert und das entstandene Silicium anschließend mit Chlor zu Siliciumtetrachlorid umgesetzt. Der letzte Schritt ist die Hochtemperaturpyrolyse des Siliciumtetrachlorids mit Knallgas (H2 + O2). Dabei wird ein homogenes Gemisch aus dampfförmigem Siliciumtetrachlorid, Wasserstoff, Sauerstoff und einem Inertgas mit einem Brenner in einem gekühlten Verbrennungsraum verbrannt. Als Nebenprodukt bildet sich dabei Salzsäure. In der Flamme entstehen zunächst tröpfchenartige Siliciumdioxid-Partikel, die sich kettenartig aneinanderlagern und so über Verzweigungen dreidimensionale Sekundärpartikel bilden. Diese lagern sich wiederum zu Tertiärpartikeln zusammen. Dies ist in der nächsten Abbildung gezeigt:
+
+Es entsteht ein weißes Pulver mit extrem niedriger (Schütt-)dichte und hoher Oberfläche. Wenn es als Füllstoff verwendet wird, wirkt es durch seine dreidimensionale Struktur stark verdickend, thixotropisch und schützt vor Sedimentation. Es wird vermutet, dass die Beweglichkeit von Polymerketten durch starke Adsorption an die Siliciumdioxid-Partikel herabgesetzt wird. Die Thixotropie wird demnach durch Wasserstoffbrückenbindungen zwischen Primärpartikeln verursacht, die jedoch durch Scherung temporär zerstört werden. Die Partikel haben einen Durchmesser von 5 bis 50 nm, eine Oberfläche von 50 bis 600 m2/g, eine Dichte von 160 bis 190 kg/m³ und sind nicht porös.
+Wichtige Hersteller von synthetischem Siliciumdioxid sind Evonik Industries (früher Degussa, Handelsname: Aerosil), Wacker Chemie (HDK), Rhodia und W. R. Grace.
+
+
+== Einteilung ==
+Die verschiedenen Varianten des Siliciumdioxids (alle SiO2) können eingeteilt werden in natürliches, kristallines Siliciumdioxid, wie Quarzmehl; natürliches, amorphes Siliciumdioxid, wie Kieselgur (= Diatomeenerde) und synthetisches, amorphes Siliciumdioxid wie gefälltes (CAS-Nr.: 112926-00-8) und pyrogenes (CAS-Nr.: 112945-52-5 und 60842-32-2) Siliciumdioxid.
+Quarzhaltige Füllstoffe zeichnen sich durch ihre besondere Härte und chemische Beständigkeit aus (Quarz-Anteil mindestens 95 % nach DIN 55926). Natürliches, amorphes Siliciumdioxid wird als preiswerte Möglichkeit zur Verbesserung von Mattheit, Trocknung und Schleifbarkeit in Lacken verwendet. Pyrogene Kieselsäuren werden meist als Thixotropierungsmittel und nicht als Füllstoff verwendet.
+
+
+=== Eigenschaften ===
+In der folgenden Tabelle werden die Eigenschaften von pyrogenem und gefälltem Siliciumdioxid verglichen.
+Wichtige Unterschiede zwischen gefälltem Siliciumdioxid und pyrogenem Siliciumdioxid bestehen in der Größe der Partikel und der Reinheit: Gefällte Kieselsäure bewegt sich im µm-Bereich, pyrogene Kieselsäure hingegen im nm-Bereich. Zudem besteht gefällte Kieselsäure zu 93 % aus SiO2 und enthält damit mehr Verunreinigung als pyrogene Kieselsäure (99 % SiO2).
+
+
+== Gesundheitsgefahren ==
+Siliciumdioxid ist (gelöst als Kieselsäure) Bestandteil jedes Menschen (etwa 1 g). Da Siliciumdioxid (in sehr geringen Mengen) wachstumsfördernd wirkt, scheint es eine biologische Funktion zu besitzen. Kieselsäure ist nur in hohen Konzentrationen (≥ 100 mg/kg) für den Menschen toxisch. Festes Siliciumdioxid, das aufgenommen wird, kann sich lösen und als Kieselsäure ausgeschieden werden.
+Anders als Stäube von Mineralien, wie von Quarz und Cristobalit, besteht für die amorphen Produkte kein Verdacht auf Auslösung von Lungenerkrankungen (Silikose). Für pyrogenes und nassgefälltes Siliciumdioxid wurde daher ein Grenzwert für die einatembare Staubfraktion (Arbeitsplatzgrenzwert) von 4 mg/m³ festgelegt.
+
+
+== Übersichtsliteratur ==
+Evonik, „AEROSIL® – Pyrogene Kieselsäure“,  8. Auflage
+
+
+== Einzelnachweise ==

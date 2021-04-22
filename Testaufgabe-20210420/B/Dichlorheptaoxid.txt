@@ -1,0 +1,73 @@
+Dichlorheptaoxid ist eine chemische Verbindung aus der Gruppe der Chloroxide.
+
+
+== Gewinnung und Darstellung ==
+Dichlorheptaoxid ist das Anhydrid der Perchlorsäure und kann dementsprechend durch Dehydratisierung von Perchlorsäure mit Phosphorpentoxid bei Temperaturen zwischen −70 °C und 0 °C mit einer sich anschließenden Vakuum-Destillation dargestellt werden.
+
+  
+    
+      
+        
+          4
+           
+          H
+          C
+          l
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              10
+            
+          
+          ⟶
+          2
+           
+          C
+          
+            l
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+          +
+          4
+           
+          H
+          P
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ HClO_{4}+P_{4}O_{10}\longrightarrow 2\ Cl_{2}O_{7}+4\ HPO_{3}} }
+  
+
+
+== Eigenschaften ==
+Dichlorheptaoxid ist ein farbloses, sehr flüchtiges Öl. Es ist beständiger als die übrigen Chloroxide, explodiert allerdings bei Kontakt mit einer Flamme oder durch Schlag. Mit Wasser reagiert es unter Rückbildung zu Perchlorsäure. Das Molekül besitzt keine Spiegelebene, die beiden ClO3-Gruppen sind gegeneinander um 15° verdreht.
+
+
+== Einzelnachweise ==

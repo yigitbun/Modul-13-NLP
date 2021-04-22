@@ -1,0 +1,90 @@
+Ein Fingerabdruckscanner ist ein Sensor zum Abtasten eines Fingers zwecks Erzeugen eines digitalen Abbilds des Fingerabdrucks.
+
+
+== Zweck ==
+Mit einem Fingerabdruckscanner kann das Bild eines oder mehrerer Fingerabdrücke einer Person aufgenommen werden. Da man von der weitgehenden Einzigartigkeit des Fingerabdrucks einer Person ausgeht, kann anhand des Abbilds des Fingerabdrucks eine Person eindeutig identifiziert („Welche Person habe ich vor mir?“) bzw. verifiziert („Ist die Person tatsächlich identisch mit der Person, die sie zu sein vorgibt?“) werden. Fingerabdruckscanner werden deshalb häufig in Kombination mit einem automatisierten Fingerabdruckidentifizierungssystem (AFIS) eingesetzt.
+
+
+== Typen von Fingerabdruckscannern ==
+Fingerabdruckscanner lassen sich anhand unterschiedlicher Kriterien einteilen:
+
+
+=== Art der Erfassung ===
+
+Fingerprintscanner lassen sich je nach Art bzw. Verfahren zur Erfassung einteilen in:
+
+halbautomatische Fingerabdruckscanner: Bei diesem Typ muss man einen Finger über eine schmale Scannerfläche ziehen. Die Qualität des erzeugten Bilds hängt davon ab, ob bzw. wie gleichmäßig der Benutzer den Finger über die Fläche zieht und wie der Finger dabei gehalten wird. Sie werden vor allem dann eingesetzt, wenn eine sehr kompakte Bauform erforderlich ist (z. B. als integriertes Gerät in einem Notebook) und/oder wenn der Preis des Geräts eine wesentliche Rolle spielt, da halbautomatische Geräte häufig deutlich günstiger zu beziehen sind als vollautomatische Fingerabdruckscanner.
+vollautomatische Fingerabdruckscanner: Bei diesem Typ legt man einen oder mehrere Finger gleichzeitig auf eine Fläche und der Scanner erfasst die Fingerabdrücke gleichzeitig und automatisch. Da die Qualität des Fingerabdrucks hier nicht von einer Bewegung des Fingers durch den Benutzer abhängt, werden Bilder mit gleichbleibender bzw. höherer Qualität im Vergleich zu halbautomatischen Geräten produziert.
+
+
+=== Anzahl gleichzeitig erfassbarer Finger ===
+Fingerprintscanner lassen sich außerdem anhand der Anzahl gleichzeitig erfassbarer Finger einteilen in:
+
+Geräte, die nur einen Finger gleichzeitig erfassen können,
+Geräte, die zwei Finger gleichzeitig erfassen können,
+Geräte, die mehr als zwei Finger gleichzeitig erfassen können. Hier sind insbesondere sogenannte 4+4+2-Scanner verbreitet. Sie erfassen alle 10 Finger beider Hände in einem mehrstufigen Prozess:Auflegen von vier Fingern der einen Hand (4),
+Auflegen von vier Fingern der anderen Hand (4),
+Auflegen beider Daumen gleichzeitig (2).Der Benutzer wird dabei häufig durch entsprechende Anzeigen am Fingerabdruckscanner visuell durch den Prozess geführt, damit klar ist, wann welche Finger aufgelegt werden sollen. Diese Geräte werden auch als „Tenprint“- oder „Slap-Scanner“ bezeichnet.
+
+
+=== Eingesetzter biometrischer Sensor ===
+
+Als biometrischen Sensor bezeichnet man die Hardwarekomponente eines biometrischen Systems, welche zunächst die biometrischen Messdaten liefert – im Falle des Fingerabdruckscanners also ein Abbild der Papillarlinien des Fingers. Es gibt eine große Anzahl verschiedener Methoden, die für die Abtastung der Papillarlinien verwendet werden können. Hierzu gehören:
+
+optische Sensoren
+E-Feld-Sensoren
+polymere TFT-Sensoren (TFT – Thin Film Transistor)
+thermische Sensoren
+kapazitive Sensoren
+kontaktlose 3D-Sensoren
+UltraschallsensorenAm gebräuchlichsten sind z. Z. Scanner mit kapazitiven Sensoren (vorwiegend bei halbautomatischen Fingerabdruckscannern) und optischen Sensoren bei den meisten handelsüblichen vollautomatischen Scannern. Zum Teil werden neben diesen Hauptsensoren bei hochwertigeren Geräten jedoch zusätzliche Sensoren verwendet, wenn beispielsweise eine Lebenderkennung (mit zusätzlichen Ultraschall- oder Infrarotsensoren) realisiert werden soll.
+
+
+=== Zulassung durch staatliche Behörden ===
+Fingerabdruckscanner lassen sich außerdem nach der Zulassung durch staatliche Behörden bzw. Normerfüllung einteilen.
+
+
+==== BSI-Standards ====
+In Deutschland spielen Fingerabdruckscanner im behördlichen Bereich aktuell vor allem bei der Erfassung von Fingerabdrücken für hoheitliche Dokumente (in erster Linie den „neuen“ elektronischen Personalausweis und elektronischen Reisepass) eine Rolle. Fingerabdruckscanner, die zur Erfassung in diesem Umfeld z. B. von Einwohnermeldeämtern bzw. Passämtern eingesetzt werden sollen, müssen durch das Bundesamt für Sicherheit in der Informationstechnik (BSI) gemäß den technischen Richtlinien „BSI TR-03104 – Technische Richtlinie (TR) zur Produktionsdatenerfassung, -qualitätsprüfung und -übermittlung für hoheitliche Dokumente“ (kurz auch „PDÜ hD“ genannt) bzw. „BSI TR-03104 Annex 2 Qualitätsanforderungen bei der Erfassung und Übertragung der Fingerabdrücke als biometrische Merkmale für elektronische Pässe (QS-Finger)“ und „BSI TR-03121 – Biometrie in hoheitlichen Anwendungen“ geprüft und zugelassen werden.
+Eine Liste aller derzeit zur Erfassung von Fingerabdrücken für hoheitliche Dokumente zugelassenen Geräte findet sich auf den Seiten des Bundesamts für Sicherheit in der Informationstechnik (BSI).
+
+
+==== FBI-Standards ====
+Im internationalen Umfeld spielen die durch das FBI bzw. das FBI Biometric Center of Excellence für das IAFIS-System gesetzten Standards PIV-071006 und IAFIS Image Quality Specifications (IQS) – Appendix F bzgl. der Qualität von Fingerabdruckscannern eine wesentliche Rolle. Viele Behörden anderer Länder orientieren sich an diesen Standards.
+Eine Liste aller derzeit zur Erfassung von Fingerabdrücken für das FBI zugelassenen Scanner gemäß „IAFIS Image Quality Specifications (IQS)“ findet sich auf den Seiten des FBI Biometric Centre of Excellence.
+
+
+== Weitere Eigenschaften von Fingerabdruckscannern ==
+Damit sie für den jeweiligen Anwendungsfall gute Ergebnisse liefern, werden Fingerabdruckscanner häufig um zusätzliche Features ergänzt, die zu höherer Sicherheit oder besseren Aufnahmeergebnissen beitragen.
+
+
+=== Lebenderkennung ===
+
+Spuren der Fingerabdrücke, sogenannte Latenzfingerspuren, werden zeitpunktunabhängig hinterlassen, sobald glatte Oberflächen mit den Fingern berührt werden. Ein Angreifer könnte sich mit den aus der Kriminalistik bekannten Verfahren die Abdrücke Dritter verschaffen, Kopien anfertigen und mit diesen einen Überwindungsversuch gegen die Fingerabdruckerkennung starten. Daher ist es bei sicherheitsrelevanten Anwendungen erforderlich, echte Fingerabdrücke von Kopien unterscheiden zu können. Zu diesem Zweck bestehen verschiedene Verfahren der Lebenderkennung, bei denen die Scanner bestimmte Merkmale wie Puls, Blutzirkulation, Wärmebild oder 3D-Tiefenmuster erfassen. Diese erlauben es zu unterscheiden, ob der Finger von einer lebenden Person aufgelegt wird oder ob es sich um eine Kopie bzw. totes Material handelt. Zur Lebenderkennung werden u. a. optische (Infrarot-)Verfahren, kapazitive Verfahren und Ultraschallverfahren eingesetzt. Eine einfache Lebenderkennung ist mit infrarotem Licht möglich, da totes Gewebe dieses zumeist absorbiert, während es von lebendem Gewebe reflektiert wird. Andere Verfahren basieren auf der Pulsoxymetrie und messen optisch die aktuelle Sauerstoffsättigung im Blutkreislauf des aufgelegten Fingers.
+
+
+=== Integrierte Qualitätsverbesserungsalgorithmen ===
+Die Qualität der Aufnahme eines Fingerabdrucks hängt auch maßgeblich davon ab, in welchem Zustand sich der Finger beim Auflegen befindet. Unter anderem ergeben sich andere Ergebnisse bei verschiedenen Hauttypen, Beschädigungen, Trockenheit oder Feuchtigkeit des Fingers. In hochwertigen Fingerabdruckscannern sind deshalb Verfahren integriert, die auf die Beschaffenheit des Fingers reagieren und die Bildqualität während der Aufnahme optimieren können.
+Bei Fingerabdruckscannern, die optische Sensoren verwenden, werden die Finger auf eine Glasplatte (bzw. transparente Oberfläche) aufgelegt. Daher spielt auch die Verschmutzung der Glasoberfläche bzgl. der Qualität der erzeugten Aufnahme eine Rolle. Einige Scanner erkennen deshalb automatisch, ob die Verschmutzung noch im akzeptablen Bereich liegt oder ob eine Reinigung erforderlich ist, und fordern ggf. dazu auf (Verschmutzungserkennung).
+
+
+== Siehe auch ==
+Automatisiertes Fingerabdruckidentifizierungssystem
+Biometrie
+Kriminalistik
+
+
+== Literatur ==
+Maltoni, Davide: Handbook of Fingerprint Recognition. Springer, 2005, ISBN 0-387-95431-7, (2. Auflage 2009)
+
+
+== Weblinks ==
+
+Bundesamt für Sicherheit in der Informationstechnik, BSI – Biometrie, Fingerabdruckerkennung
+Bundesamt für Sicherheit in der Informationstechnik, BSI – Studie: „Evaluierung biometrischer Systeme Fingerabdrucktechnologien – BioFinger“
+Fingerprint-Seite von Jean-François Mainguet
+tecChannel: „Gelatine überlistet Fingerabdruck-Scanner“
+„Wie können Fingerabdrücke nachgebildet werden?“
+
+
+== Einzelnachweise ==

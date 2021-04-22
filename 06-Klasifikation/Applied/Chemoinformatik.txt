@@ -1,0 +1,223 @@
+Chemoinformatik, Cheminformatik oder Chemieinformatik (englisch: Chemoinformatics, Cheminformatics, Chemical Informatics oder Chemiinformatics) bezeichnet einen Wissenschaftszweig, der das Gebiet der  Chemie mit Methoden der Informatik verbindet mit dem Ziel, Methoden zur Berechnung von Moleküleigenschaften zu entwickeln und anzuwenden. Zu den Urvätern gehören unter anderem Paul deMain (1924–1999), Johann Gasteiger, Jure Zupan (* 1943) und Ivar Ugi.
+Der Begriff „Chemoinformatik“ ist relativ jung, während die älteren Termini Computerchemie (abgeleitet von englisch: Computational Chemistry) und  chemische Graphentheorie das gleiche Gebiet bezeichnen (Lit.: Bonchev/Rouvray, 1990). Computerchemie wird heutzutage eher als ein Teilgebiet der Theoretischen Chemie und der Quantenchemie begriffen.
+
+
+== Grundlagen ==
+Chemoinformatik beschäftigt sich mit Berechnungen an digitalen Repräsentationen von Molekülstrukturen. Molekülstrukturen können als Graphen aufgefasst werden. Als ihre Repräsentation ist für viele Anwendungen bereits die sog. Bindungstabelle (englisch: connection table) ausreichend, in der die Art der Verknüpfungen (Bindungen) zwischen den einzelnen Atomen eines Moleküls abgelegt ist. Erst für weitergehende Betrachtungen kann die Einbeziehung von zweidimensionalen (2-D-) bzw. dreidimensionalen (3-D-)Koordinaten notwendig werden. Letztere werden insbesondere benötigt, wenn, etwa im Bereich der Medizinischen Chemie, Wechselwirkungen mit Biomolekülen wie Proteinen untersucht werden sollen.
+Die Größe des theoretischen chemischen Raumes aller pharmakologisch aktiven organischen Moleküle wird auf etwa 1060 Moleküle geschätzt. Für diese Abschätzung wurden nur Moleküle mit dem Elementen Kohlenstoff, Sauerstoff, Stickstoff und Schwefel und einer molaren Masse von unter 500 g/mol angenommen (Lit.: Bohacek, 1999). Der Raum aller denkbaren organischen Verbindung ist deutlich größer, nämlich unendlich groß. Beide theoretischen chemische Räume übersteigen damit weit größer als die Menge der bisher real synthetisierten Moleküle (Lit.: Lahana, 1999). Mithilfe von computerbasierten Methoden lassen sich aber unter Umständen viele Millionen Moleküle bereits theoretisch (in silico) analysieren, ohne diese zunächst für Messungen im Labor synthetisieren zu müssen.
+
+
+=== Repräsentation chemischer Strukturen ===
+Die Repräsentation chemischer Strukturen ist eine der grundlegenden Fragestellungen. Für einen Großteil der Anwendungen hat sich die Darstellung als Bindungstabelle (Connection-Table) basierend auf der Valenzstrukturtheorie durchgesetzt. Als Beispiel einer Bindungstabelle sei hier Acesulfam im Standardformat Molfile der Firma MDL angegeben. Die Zeilen 5–14 enthalten die x-, y- und z-Koordinaten und Elementbezeichner der Atome, die Zeilen 15–24 die Bindungstabelle mit den Ausgangs- und Endatomen jeder Bindung sowie dem Bindungstyp. Die Null-Spalten enthalten mögliche weitere Bezeichner.
+
+ Acesulfame
+   -ISIS-  05070815372D
+
+  10 10  0  0  0  0  0  0  0  0999 V2000
+     3.2283   -1.4806    0.0000 S   0  0  3  0  0  0  0  0  0  0  0  0
+     2.5154   -1.8944    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+     3.2283   -0.6538    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+     4.0544   -1.4806    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+     3.6448   -2.1935    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+     1.7990   -1.4806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     2.5154   -0.2406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     1.7990   -0.6538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+     1.0826   -1.8944    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+     2.5154    0.5855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   1  2  1  0  0  0  0
+   1  3  1  0  0  0  0
+   1  4  2  0  0  0  0
+   1  5  2  0  0  0  0
+   2  6  1  0  0  0  0
+   3  7  1  0  0  0  0
+   6  8  1  0  0  0  0
+   6  9  2  0  0  0  0
+   7 10  1  0  0  0  0
+   7  8  2  0  0  0  0
+  M  END
+
+Zusätzlich zur Bindungstabelle können 3-D-Koordinaten für real existierende Moleküle über Röntgenstrukturanalyse ermittelt werden. Wo dies nicht möglich ist oder ein Molekül physisch nicht existent ist, können 3-D-Koordinaten zumindest näherungsweise auch unmittelbar aus der Bindungstabelle durch iterative Energie-Minimierungsrechnungen für verschiedene Konformationen eines Moleküls erzeugt werden. 2-D-Koordinaten dienen in der Regel allein der Veranschaulichung eines Moleküls und müssen daher hauptsächlich ästhetischen Ansprüchen genügen. Sie werden ebenfalls unmittelbar aus der Bindungstabelle nach allgemein anerkannten chemischen Zeichenregeln errechnet, geben jedoch nur in den seltensten Fällen die tatsächlichen räumlichen Gegebenheiten in einem Molekül wieder.
+
+
+== Methoden ==
+Verfahren, die keine empirischen Parameter benötigen, werden als Ab-initio-Methoden bezeichnet. Semiempirische Verfahren enthalten empirische Größen und weitere semiempirische Parameter, die durch theoretische Vorgehensweisen bestimmt wurden, jedoch keinen Bezug zu messbaren Größen mehr haben. Prinzipiell sind Ab-initio-Verfahren für kleinere Moleküle geeignet. Semiempirische Verfahren spielen ihre Stärke bei mittelgroßen (100 Atome) Molekülen aus. Beispiele für semiempirische Methoden sind MNDO und AM1.
+
+
+=== Ab-initio-Methoden ===
+Die Güte, mit denen Ab-initio-Verfahren die Eigenschaften von Molekülen berechnen können, hängt vom Basissatz der Atome ab, das heißt, wie gut und mit wie vielen einzelnen Funktionen die Atomorbitale dargestellt werden und in welchem Ausmaß die Elektronenkorrelation berücksichtigt wird. Ab-initio-Verfahren, die auch die Elektronenkorrelation berücksichtigen, sind deutlich aufwändiger, liefern jedoch die besten Resultate. Man behilft sich üblicherweise mit einem Kompromiss und bezieht die Elektronenkorrelation näherungsweise ein. Beispiele für solche Verfahren sind: Møller-Plesset-Störungstheorie, CI (Configuration-Interaction), CC (Coupled Cluster), MCSCF (Multi-Configuration-self-consistent-Field). Ausgangspunkt der meisten ab-initio-Verfahren ist die Hartree-Fock-Methode. Ein Vorteil der ab-initio-Verfahren ist ihre systematische Verbesserbarkeit, da man durch Vergrößerung des Basissatzes und Erhöhung des Grades der Berücksichtigung der Elektronenkorrelation  (z. B.  CISD, CISDT,...) die Genauigkeit der Ergebnisse systematisch verbessern kann.
+
+
+=== Dichtefunktionalmethoden ===
+Die Dichtefunktionaltheorie (DFT) ist ein Verfahren zur Bestimmung des Grundzustandes eines Vielelektronensystems, das auf der dreidimensionalen ortsabhängigen Elektronendichte beruht. Daher ist es nicht notwendig ist, die  Schrödingergleichung für  das vieldimensionale Mehrelelektronensystem zu lösen, wodurch sich der Aufwand an Rechenleistung stark verringert bzw. Berechnungen an größeren Systemen möglich werden. Grundlage der Dichtefunktionaltheorie ist das Hohenberg-Kohn-Theorem. Allerdings ist die das exakte Funktional, welches die Grundzustandsdichte mit der Eigenenergie des Systems verknüpft unbekannt. In der Praxis ist daher die Wahl eines geeigneten approximiertem Funktionals für die Genauigkeit entscheidend.  Die systematische Verbesserbarkeit ist weniger stark ausgeprägt als bei ab-initio-Methoden.
+
+
+=== Semiempirische Verfahren ===
+Bei semiempirischen Verfahren wird ein Großteil der Integrale des Hartree-Fock-Formalismus vernachlässigt, andere werden durch spektroskopische Werte, Parameter oder parametrisierte Funktionen angenähert. Grund für diese Approximation war die geringe Rechenkapazität früherer Zeiten. Um die theoretischen Erkenntnisse dennoch auf chemische Fragestellungen anwenden zu können, musste der vorhandene Formalismus vereinfacht werden.
+Die Hückel-Näherung ist der einfachste semiempirische Ansatz, da sie gar keine Integrale berechnet. Allerdings ist sie auch nur auf 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  -Elektronensysteme anwendbar. Die Theorie wurde später auch auf 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  -Systeme erweitert (Extended-Hückel-Theory, EHT).
+Etablierte Methoden, die auch heutzutage noch häufig angewendet werden, gehören zur Klasse der NDDO-Näherung (Neglect of Diatomic Differential Overlap):  MNDO (Modified Neglect of Differential Overlap), AM1 (Austin-Model 1), PM3 (Parametrised Method 3).
+Für kritische Berechnungen sind semiempirische Methoden mit CI und MCSCF kombiniert worden. Mit solchen Verfahren sind dann beispielsweise Reaktionsbarrieren und ganze Energieprofile komplexer Reaktionen berechenbar oder sogar angeregte Zustände (MNDO/CI, MNDO/MCSCF).Die Grenzen semiempirischer Methoden liegen in ihrer Parametrisierung: Eigentlich können mit der fertigen Methoden nur Systeme gerechnet werden, die in ähnlicher Weise im Parametrisierungsdatensatz vorhanden waren.
+
+
+=== Molekularmechanische Verfahren ===
+
+Kraftfeldprogramme verwenden einen klassisch-mechanischen Ansatz: Bindungen zwischen zwei Atomen A und B werden dabei einfach als Sprungfeder angenähert und im einfachsten Fall mit einem harmonischen Potenzial beschrieben (Hookesches Gesetz):
+
+  
+    
+      
+        
+          E
+          
+            A
+            B
+          
+        
+        =
+        
+          k
+          
+            A
+            B
+          
+        
+        (
+        
+          r
+          
+            A
+            B
+          
+          
+            0
+          
+        
+        −
+        r
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{AB}=k_{AB}(r_{AB}^{0}-r)^{2}}
+  Da eine Doppelbindung zwischen zwei Kohlenstoffatomen eine andere Stärke und Gleichgewichtslänge als eine Einfachbindung besitzt, werden unterschiedliche Parametersätze benötigt (Kraftkonstante 
+  
+    
+      
+        
+          k
+          
+            A
+            B
+          
+        
+      
+    
+    {\displaystyle k_{AB}}
+   und Ruhelage 
+  
+    
+      
+        
+          r
+          
+            A
+            B
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle r_{AB}^{0}}
+  ). Man verwendet daher zur Kennzeichnung der Atome keine einfachen Elemente mehr, sondern Atomtypen.
+Ähnliche Ansätze gibt es für Bindungs- und Torsionswinkel. Elektrostatische (Coulomb) und Van-der-Waals-Wechselwirkungen bezeichnet man als nicht-bindende Wechselwirkungen.
+Kraftfeldmethoden müssen an empirische oder quantenmechanisch berechnete Daten parametrisiert werden, so dass ein Kraftfeld durch zweierlei charakterisiert ist, seine Energiefunktion und den Parametersatz.
+Kraftfelder ermöglichen die Geometrieoptimierung sehr großer (Bio-)Moleküle (zum Beispiel: Proteine) und werden hauptsächlich für Moleküldynamik- oder Monte-Carlo-Simulationen verwendet.
+
+
+== Anwendungen ==
+Es gibt verschiedene wichtige Themen innerhalb des Gebiets – eine Auswahl:
+
+Die computergestützte Darstellung von Molekülen und die quantenmechanische Berechnung ihrer Eigenschaften.
+Anwendungen, die Chemikalien strukturiert speichern und finden können (Datenbanken)
+Methoden, um die Systematiken in der Wechselwirkung zwischen Molekularstruktur und Eigenschaften der Stoffe zu verstehen (QSPR).
+Kraftfeldrechnungen zur Geometrieoptimierung großer Moleküle
+Moleküldynamik zur Berechnung von Bindungsthermodynamik der Enzyme
+Computergestützte Syntheseplanung
+Computergestützte Prognose der Wirksamkeit von ArzneimittelnIm Folgenden werden ausgewählte Anwendungsbeispiele genauer dargestellt.
+
+
+=== Quantitative Struktur-Wirkungs-Beziehung ===
+Mithilfe geeigneter Algorithmen werden Kodierungen für Moleküle entwickelt. Durch Induktion können neue Hypothesen über molekulare Eigenschaften erstellt werden, wie zum Beispiel die Bioverfügbarkeit oder die Fähigkeit einer Substanz, die Funktion eines bestimmten Proteins im Organismus zu hemmen oder zu verstärken (siehe auch: QSAR).
+
+
+=== Leitstrukturoptimierung ===
+Durch geeignete chemische und biologische Hypothesen lässt sich dieser chemische Raum auf wenige Kandidaten reduzieren, die dann im Labor synthetisiert und klinisch getestet werden. Aus diesem Grund spielt die Cheminformatik im Bereich der pharmazeutischen Chemie und der Medizinalchemie  eine große Rolle zur Optimierung von Leitstrukturen.
+
+
+=== Thermodynamik ===
+In der technischen Chemie werden Gruppenbeitragsmethoden verwendet, um Stoffeigenschaften wie Normalsiedepunkte, kritische Daten, Oberflächenspannungen und anderes mehr abzuschätzen.
+
+
+=== Molekulare Modellierung ===
+Die Molekulare Modellierung beschäftigt sich beispielsweise mit der Schaffung von Modellen unbekannter Makromoleküle anhand der Vorlage (Template) ähnlicher, bekannter Moleküle (Homologiemodeling), der Wechselwirkung zwischen kleinen und großen Molekülen (Rezeptordocking), wodurch QSAR möglich wird, der Moleküldynamik sowie die Entwicklung energetisch minimierter 3-D-Strukturen von Molekülen (Bergsteigeralgorithmus, Simulierte Abkühlung, Molekülmechanik etc.). Es geht also darum, aufgrund bekannter Strukturen Modelle von unbekannten Strukturen zu entwickeln, um so eine QSAR zu ermöglichen.
+
+
+== Verwandte Gebiete ==
+Es gibt einen starken Bezug zur Analytischen Chemie und zur Chemometrie. Die Struktur-Eigenschafts-Beziehungen (beispielsweise: Spektrenkorrelation) spielen eine zentrale Rolle.
+Aufgrund vergleichbarer Arbeitsweise existiert eine enge Beziehung zur Computerphysik, wodurch eine klare Trennung häufig nicht eindeutig gegeben ist.
+
+
+== Softwarepakete ==
+Die Programme der Computerchemie basieren auf verschiedenen quantenchemischen Methoden zur Lösung der molekularen Schrödingergleichung. Grundsätzlich lassen sich zwei Ansätze unterscheiden: Semiempirische Verfahren und Ab-initio-Verfahren.
+Alle beschriebenen Verfahren und Methoden sind in gängigen Softwarepaketen verfügbar. Beispiele hierfür:
+ACES, GAUSSIAN, GAMESS, MOLPRO, Spartan, TURBOMOLE, Cerius2 und Jaguar. ArgusLab eignet sich als frei verfügbares Programm zum Einstieg in der Computerchemie.
+Die Herausforderung für den Anwender dieser Software ist es, das am besten geeignete Modell für seine Problemstellung zu finden und die Ergebnisse im Gültigkeitsbereich der Modelle zu interpretieren.
+
+
+== Siehe auch ==
+CHEMKIN
+Bioinformatik
+
+
+== Literatur ==
+D. Bonchev, D. H. Rouvray: Chemical Graph Theory: Introduction and Fundamentals. Gordon and Breach Science Publishers, 1990, ISBN 0-85626-454-7.
+R. S. Bohacek, C. McMartin, and W. C. Guida, “The art and practice of structure‐based drug design: A molecular modeling perspective,” Medicinal Research Reviews, 1999, 1, 3–50. doi:10.1002/(SICI)1098-1128(199601)16:1<3::AID-MED1>3.0.CO;2-6
+R. Lahana: How many leads from HTS? Drug Discovery Today, 1999, 4, 447–448. doi:10.1016/S1359-6446(99)01393-8.
+A. R. Leach, V. J. Gillet: An Introduction to Chemoinformatics. Kluwer Academic Publishers, 2003, ISBN 1-4020-1347-7.
+J. Gasteiger, T. Engel (Hrsg.): Chemoinformatics: A Textbook. John Wiley & Sons, 2003, ISBN 3-527-30681-1.
+Theoretische Chemie#Literatur
+Journal of Molecular Modeling, eine 2-monatlich erscheinende Fachzeitschrift
+
+
+== Weblinks ==
+QMC@home BOINC-Projekt der Uni Münster zur Quanten-Monte-Carlo-Methode
+VCCLAB: Virtual Computational Chemistry Laboratory
+JCIM: Journal of Chemical Information and Modeling
+JChemInf: Journal of Cheminformatics
+Computer-Chemie-Centrum der Universität Erlangen-Nürnberg
+Cheminformatics.org, eine manuell gepflegte Webseite mit Links zur Chemieinformatik, Projekten und Datenbanken
+Osiris Property Explorer, computergestützte Voraussage von Eigenschaften potenzieller Arzneistoffe
+
+
+== Einzelnachweise ==

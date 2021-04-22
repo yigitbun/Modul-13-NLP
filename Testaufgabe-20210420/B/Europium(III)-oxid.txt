@@ -1,0 +1,90 @@
+Europium(III)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide des Europiums.
+
+
+== Gewinnung und Darstellung ==
+Nach der aufwendigen Abtrennung der anderen Lanthanoide aus deren Erzen wird letztendlich Europium(III)-oxalat Eu2(C2O4)3·10 H2O gewonnen, das anschließend zu Europiumoxid Eu2O3 verglüht wird.
+
+  
+    
+      
+        
+          2
+           
+          E
+          
+            u
+            
+              2
+            
+          
+          (
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          E
+          
+            u
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          12
+           
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Eu_{2}(C_{2}O_{4})_{3}+3\ O_{2}\longrightarrow 2\ Eu_{2}O_{3}+12\ CO_{2}} }
+  Um Nanokristalle des Materials zu erhalten, wird eine Synthese durch Kalzinierung des entsprechenden Hydroxids oder Oxalates verwendet.
+
+
+== Eigenschaften ==
+
+Europium(III)-oxid ist ein hygroskopischer weißer bis hellrosafarbener geruchloser Feststoff, der praktisch unlöslich in Wasser ist. Es besitzt eine monokline Kristallstruktur.
+
+
+== Verwendung ==
+In langwelligem UV-Licht leuchtet es intensiv rot und wird deshalb vor allem auf Geldscheinen als Sicherheitsfarbe verarbeitet. Durch Reduktion von Europium(III)-oxid mit elementarem Europium und Siliciumdioxid bei 1100 °C kann Europium(II)-silicat hergestellt werden.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,37 @@
+Die Biodiversitätsinformatik umfasst die Speicherung und Verarbeitung von Informationen zur biologischen Vielfalt. Die Objekte der Biodiversitätsinformatik sind Taxa, biologische Sammlungsbelege und Beobachtungsdaten.
+
+
+== Datenbanken ==
+
+
+=== Sammlungsdatenbanken ===
+Obwohl vereinzelt auch schon seit den 1970er Jahren biologische Sammlungsdaten in Datenbanken gespeichert wurden, sind solche Bestrebungen erst mit den Zielsetzungen der Biodiversitätskonvention (Convention on Biological Diversity, CBD) und internationalen Projekten wie der Global Biodiversity Information Facility (GBIF) seit den 1990er Jahren in großem Stil verwirklicht worden. Mittlerweile gibt es eine Reihe spezieller Datenbanken für diese Daten, so z. B. das Botanical Research and Herbarium Management System (BRAHMS).
+
+
+=== Beobachtungsdatenbanken ===
+Biologische Beobachtungsdaten können neben dem reinen Vorkommensnachweis Informationen zur Häufigkeit, Messwerte, Merkmalsausprägungen und vieles mehr enthalten. Es kann sich um Einzelbeobachtungen, flächen- oder transektbezogene Beobachtungen handeln. Fertige Produkte gibt es etwa für Vegetationsaufnahmen, beispielsweise das Programm Turboveg zum Verwalten von Vegetationsaufnahmen.
+
+
+=== Merkmalsdatenbanken ===
+In Merkmalsdatenbanken werden die Merkmalsausprägungen verschiedener Merkmale von Taxa oder Individuen festgehalten. Vielen Merkmalsdatenbanken gemeinsam ist das DELTA-Format. Mit Hilfe der Merkmalsdaten können kladistische Analysen gefahren werden, Beschreibungen generiert, oder Bestimmungsschlüssel erstellt werden.
+
+
+== Biogeographische Anwendungen ==
+Basierend auf Nachweisen eines Taxons und geeigneten Umweltdaten lassen sich Verbreitungen modellieren, diese Ansätze werden unter anderem als Ecological Niche Modelling oder Habitat Suitability Modelling bezeichnet. Dafür gibt es einige gebrauchsfertige Anwendungen, beispielsweise GARP (Genetic Algorithm of Rule-Set Production) oder Maxent.
+
+
+== Literatur ==
+F. A. Bisby (2000) "The quiet revolution: biodiversity informatics and the internet," Science 289: 2309 - 2312.
+J. Soberon & A. T. Peterson (2004) "Biodiversity informatics: managing and applying primary biodiversity data" Philos Trans R Soc Lond B Biol Sci 359: 689 - 698.
+G. B. Curry & C. J. Humphries (2007) Biodiversity databases - Techniques, Politics, and Applications. Taylor & Francis. Boca Raton, London, New York. ISBN 978-0-415-33290-3
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Biodiversitätsinformatik in Deutschland: Bestandsaufnahme und Perspektiven, 1999
+Zeitschrift Biodiversity Informatics
+BRAHMS database
+GARP
+SysTax

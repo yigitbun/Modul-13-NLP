@@ -1,0 +1,141 @@
+Mangan(VII)-oxid ist eine chemische Verbindung mit der Summenformel Mn2O7. Die ölige Flüssigkeit ist hochreaktiv, da sie ein starkes Oxidationsmittel ist. Die erste Beschreibung erfolgte 1860.
+
+
+== Gewinnung und Darstellung ==
+Mangan(VII)-oxid wird durch die Reaktion von Schwefelsäure mit Kaliumpermanganat gewonnen.
+
+  
+    
+      
+        
+          2
+           
+          K
+          M
+          n
+          
+            O
+            
+              4
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+        
+      
+    
+    {\displaystyle \mathrm {2\ KMnO_{4}+2\ H_{2}SO_{4}\longrightarrow } }
+   
+  
+    
+      
+        
+          M
+          
+            n
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          2
+           
+          K
+          H
+          S
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Mn_{2}O_{7}+H_{2}O+2\ KHSO_{4}} }
+  
+
+
+== Eigenschaften ==
+Bei niedrigen Temperaturen liegt die Verbindung als kristalliner Feststoff vor, der grünes Licht reflektiert und im Durchlicht rot aussieht. Die Verbindung besteht aus einem Paar Tetraeder, die über ein Sauerstoffatom verbunden sind, was mit der Strukturformel O3Mn–O–MnO3 beschrieben werden kann. Die außenliegenden Mn–O–Bindungen haben eine Länge von 158,5 pm, die zentrale Bindung von 177 pm. Die zentrale Mn–O–Mn-Bindung hat einen Winkel von 120,7°. Diese Eigenschaften ähneln Pyrosulfaten, Pyrophosphaten, Dichromaten und anderen R2O7–Verbindungen (wobei R für Chlor oder Metalle wie Technetium oder Rhenium steht).
+
+
+== Sicherheitshinweise ==
+Mangan(VII)-oxid ist eine hochreaktive Verbindung. Sie zersetzt sich ab −10 °C langsam und ab 95 °C explosionsartig, wobei die Explosion auch durch Schlag oder Verunreinigungen ausgelöst werden kann. Zwischen diesen Temperaturen wird Verpuffung beobachtet. Es entstehen dabei Mangan(IV)-oxid (Braunstein), Sauerstoff sowie geringe Mengen an Ozon, was der Verbindung einen starken Geruch verleiht.
+
+  
+    
+      
+        
+          2
+           
+          M
+          
+            n
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+          ⟶
+          4
+           
+          M
+          n
+          
+            O
+            
+              2
+            
+          
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Mn_{2}O_{7}\longrightarrow 4\ MnO_{2}+3\ O_{2}} }
+  Sie verkohlt die meisten organischen Stoffe, wie etwa Holz, in zum Teil explosionsartiger Reaktion und ist damit stark ätzend. Mit Aceton oder anderen Lösungsmitteln erfolgt Selbstentzündung. In Tetrachlorkohlenstoff ist es relativ stabil.
+
+
+== Einzelnachweise ==

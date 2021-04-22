@@ -1,0 +1,14 @@
+Die Multi-Agenten-Simulation in der Informatik wendet das Konzept der Multi-Agenten-Systeme in der Simulation an. Aktive Komponenten des zu untersuchenden Systems werden als Agenten betrachtet, deren Verhalten einzeln spezifiziert wird. Damit können insbesondere emergente Phänomene und dynamische Wechselwirkungen zwischen Agenten nachgewiesen werden. Multi-Agenten-Simulation ist sehr verbreitet in den Bereichen Biologie, Soziologie, Verkehrsphysik und bei Evakuierungssimulationen. Dort werden sie verwendet, um Zusammenhänge zu verstehen und Theorien in einer kontrollierten Laborumgebung zu belegen. Seit einigen Jahren wird die Multi-Agenten-Simulation auch verstärkt in der 3D-Computergrafik und Filmtechnik eingesetzt, um Massenszenen kostengünstig zu simulieren. Ein weiteres Anwendungsgebiet sind makroökonomische Wirtschaftssimulationen. Wenn die Agenten in einer (simulierten) räumlichen Umgebung handeln und diese diskret abgebildet wird, ist der Übergang zu Zellularautomaten fließend.
+
+
+== Siehe auch ==
+Gruppensimulation
+
+
+== Beispiele und Weblinks ==
+
+Es gibt zahlreiche Werkzeuge und Frameworks zur Modellierung und Simulation von Agentensystemen. Wichtige Werkzeuge sind:
+
+AnyLogic: Mehrzweck-MAS
+NetLogo
+PTV Vissim: Multi-Modale Verkehrssimulation

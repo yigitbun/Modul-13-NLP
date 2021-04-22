@@ -1,0 +1,168 @@
+Rhodium(IV)-oxid, auch als Rhodiumdioxid bezeichnet, ist eine chemische Verbindung der Elemente Rhodium und Sauerstoff. Es ist ein schwarzer Feststoff; außerdem existiert ein grünes Hydrat.
+
+
+== Gewinnung und Darstellung ==
+Das Hydrat kann durch Oxidation von Rh2(SO4)3 mit z. B. Ozon oder durch Elektrolyse gewonnen werden.
+
+  
+    
+      
+        
+          R
+          
+            h
+            
+              2
+            
+          
+          (
+          S
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              3
+            
+          
+          ⟶
+          2
+           
+          R
+          h
+          
+            O
+            
+              2
+            
+          
+          +
+          3
+           
+          S
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Rh_{2}(SO_{4})_{3}\longrightarrow 2\ RhO_{2}+3\ SO_{2}} }
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Rhodium(IV)-oxid kristallisiert im tetragonalen Kristallsystem mit der Raumgruppe P42/mnm (Raumgruppen-Nr. 136)Vorlage:Raumgruppe/136 und den Gitterparametern a = 448,9 pm und c = 309,0 pm, in der Elementarzelle befinden sich zwei Formeleinheiten.
+
+
+=== Chemische Eigenschaften ===
+Beim Erhitzen von Rhodiumdioxid auf 850 °C bildet sich Rhodiumtrioxid; dieses zerfällt bei 1050 °C in die Elemente.
+
+  
+    
+      
+        
+          2
+           
+          R
+          h
+          
+            O
+            
+              2
+            
+          
+           
+           
+          
+            
+              →
+              
+                
+                  +
+                  
+                    O
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  850
+                  
+                    ∘
+                  
+                
+                C
+              
+            
+          
+           
+           
+          2
+           
+          R
+          h
+          
+            O
+            
+              3
+            
+          
+           
+           
+          
+            
+              →
+              
+                
+                  −
+                  
+                    O
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  950
+                  
+                    ∘
+                  
+                
+                C
+              
+            
+          
+           
+           
+          2
+           
+          R
+          h
+        
+      
+    
+    {\displaystyle \mathrm {2\ RhO_{2}\ \ {\xrightarrow[{+O_{2}}]{850^{\circ }C}}\ \ 2\ RhO_{3}\ \ {\xrightarrow[{-O_{2}}]{950^{\circ }C}}\ \ 2\ Rh} }
+  
+
+
+== Literatur ==
+O. Muller and R. Roy: Formation and stability of the platinum and rhodium oxides at high oxygen pressures and the structures of Pt3O4, β-PtO2 and RhO2.  In:  Journal of the Less Common Metals. 16,  1968, S. 129. doi:10.1016/0022-5088(68)90070-2.
+R. D. Shannon: Synthesis and properties of two new members of the rutile family RhO2 and PtO2.  In:  Solid State Communications. 6,  1968, S. 139. doi:10.1016/0038-1098(68)90019-7.
+
+
+== Einzelnachweise ==

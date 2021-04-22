@@ -1,0 +1,149 @@
+Iridium(IV)-oxid oder Iridiumdioxid ist eine chemische Verbindung und ein Oxid des Iridiums, das bei 1200 °C in Iridiumtrioxid übergeht. Die Reinsubstanz ist ein schwarzer Feststoff, das Hydrat ein blauschwarzer Feststoff.
+
+
+== Gewinnung und Darstellung ==
+Iridiumdioxid entsteht bei der Verbrennung von Iridium. Da Iridium äußerst reaktionsträge ist, sind dazu hohe Temperaturen und reiner Sauerstoff notwendig.
+
+  
+    
+      
+        
+          I
+          r
+          +
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+           
+          I
+          r
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Ir+\ O_{2}\longrightarrow \ IrO_{2}} }
+  Es kann auch durch Oxidation von Iridium(III)-chlorid mit Sauerstoff bei 600 °C gewonnen werden.Einkristalle des Oxides lassen sich durch eine CVT-Methode (Chemical Vapor Transport) herstellen. Hierfür wird zunächst Iridium-Schwamm im Sauerstoffstrom bei 1000 °C zum polykristallinen Oxid umgesetzt. Dieses Oxid wird dann in einem 3-Zonen-Ofen im Sauerstoffstrom bei 1190 °C in ein flüchtiges Oxid überführt, welches sich dann in einer kälteren Region des Rohres bei 1090 °C wieder zu Sauerstoff und Iridium(IV)-oxid zersetzt, wobei millimetergroße Einkristalle der Zielverbindung entstehen. Für die Umsetzung von 2 g des polykristallinen Ausgangsmaterials wird eine Reaktionszeit von etwa 15 Tagen benötigt.
+
+  
+    
+      
+        
+          2
+           
+          I
+          r
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            O
+            
+              2
+            
+          
+          ⇌
+          2
+           
+          I
+          r
+          
+            O
+            
+              3
+              (
+              g
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ IrO_{2}+O_{2}\rightleftharpoons 2\ IrO_{3(g)}} }
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Iridium(IV)-oxid kristallisiert im tetragonalen Kristallsystem mit der Raumgruppe P42/mnm (Raumgruppen-Nr. 136)Vorlage:Raumgruppe/136 und den Gitterparametern a = 449,83 pm und c = 354,4 pm, in der Elementarzelle befinden sich zwei Formeleinheiten. Die Struktur entspricht damit der Rutil-Struktur.
+
+
+=== Chemische Eigenschaften ===
+Beim Erhitzen von Iridium oder Iridiumdioxid auf 1200 °C bildet sich in Anwesenheit von Sauerstoff Iridiumtrioxid, das aber nur in der Gasphase stabil ist und nicht als Feststoff gewinnbar ist.
+
+  
+    
+      
+        
+          2
+           
+          I
+          r
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            O
+            
+              2
+            
+          
+          
+            
+              →
+              
+                
+                  1200
+                  
+                    ∘
+                  
+                
+                C
+              
+            
+          
+          2
+           
+          I
+          r
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ IrO_{2}+O_{2}{\xrightarrow {1200^{\circ }C}}2\ IrO_{3}} }
+  
+
+
+== Verwendung ==
+Iridiumdioxid wird genutzt zur Beschichtung von elektrochromen Materialien oder metallischen Elektroden in der Medizintechnik zur Verbesserung der Korrosionseigenschaften und der biologischen Verträglichkeit.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Beschichtung von Elektroden mit Iridiumdioxid

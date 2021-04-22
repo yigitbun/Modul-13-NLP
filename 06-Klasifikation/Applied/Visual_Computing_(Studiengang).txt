@@ -1,0 +1,59 @@
+Der Studiengang Visual Computing, auch Bildinformatik oder Grafische Datenverarbeitung, ist ein Informatik-Studiengang, der die informationstechnischen Teilgebiete der Bildaufnahme (Bildakquisition), der Verarbeitung und Analyse von Bilddaten (Bildanalyse) und der Erzeugung von Bildern auf Basis von rechner-internen Informationen (Bildsynthese) umfasst.
+
+
+== Leitbild des Studiengangs ==
+Bilder üben eine Faszination auf uns Menschen aus, die eine wichtige Triebfeder darstellt, sich mit dem Thema Visual Computing / Bildinformatik auseinanderzusetzen.  Über die Grundlagen der klassischen Disziplinen der Informatik, wie Datenstrukturen und Programmiersprachen hinaus bedarf dieses Thema weiterer mathematischer und physikalischer Grundlagen, wie etwa Lineare Algebra, Analysis, Stochastik oder Mechanik. Diese Zusatzanforderungen liegen darin begründet, dass in vielen Bereichen der Bildinformatik die Beschreibung realer Sachverhalte sehr wichtig ist. Beispielsweise können Bilder virtueller Objekte nur erzeugt werden, wenn aussagekräftige Rechnermodelle vorliegen, welche die Form (Geometrie) und das Aussehen (Material) akkurat beschreiben. Umgekehrt werden Aussagen über das, was in einem Bild zu sehen ist, häufig auf Grundlage geeigneter mathematischer Modellannahmen gemacht, anhand derer ein Bild in sinnhafte Teilbereiche untergliedert wird (so genannte Segmentierung).
+
+
+== Zielsetzung und Berufsbild ==
+Die Entwicklung der Computertechnologien hat in den letzten Jahrzehnten in immer kürzeren Zyklen unser tägliches Leben um grundlegende Neuerungen ergänzt. Die exponentiell wachsende Informationsmenge, die mit immer neuen Techniken und Sensoren akquiriert werden, erzwingen eine effiziente Aus- und Bewertung dieser Daten durch Mensch und Maschine. Dies gilt auch für künstlich synthetisierte Bildinformationen, die für die Produkterstellung vom Design, über die technische Planung, die Produktion bis hin zur Wartung eingesetzt werden. Parallel dazu greifen immer mehr Systeme zur Steuerung und Regelung komplexer Abläufe auf Bilddaten zurück.
+Die grundlegenden Techniken zur Bildanalyse und -synthese, die zur Entwicklung und Integration von Systemen für konkrete Anwendungsprozesse notwendig sind, stehen im Mittelpunkt des Berufsbildes der Bildinformatik. Die Anforderungen hinsichtlich der systemtechnischen Integration umfassen neben algorithmischen und informationstechnischen Inhalten Kenntnisse von hardwarenahen Funktionen, Benutzerschnittstellen und Datenkommunikation.
+Im Folgenden werden einige spezifische Berufsperspektiven detaillierter dargestellt. Die inhaltlichen Schwerpunkte des Studiengangs bilden die Themen Bildanalyse, Bildsynthese, Computervision und Mensch-Maschine-Interaktion. Studenten des Masterprogramms Bildinformatik erlangen im Rahmen der Lehrangebote vielseitige Kompetenzen, die im Bereich der Bildanalyse und -synthese von zentraler Bedeutung sind. Das Ziel der Ausbildung ist in erster Linie die langfristige Sicherung der Qualifikation auf Basis eines soliden theoretischen und konzeptionellen Fundaments. Das Erlernen spezifischer Werkzeuge und Verarbeitungsprozesse, ist vor dem Hintergrund eines extrem dynamischen Umfeldes, wie in der Bildinformatik gegeben ist, eher nachrangig zu sehen.
+
+
+=== Bereich Bildsynthese ===
+Im Kontext der Bildsynthese steht die Erstellung und Integration interaktiver Computeranwendung zur Erzeugung von 2D- und 3D-Darstellungen auf Basis rechnerinterner Daten im Vordergrund. Die zur Anzeige zu bringenden Daten können aus Messungen (z. B. Medizin, Geologie oder Astronomie), aus Simulationen realer Sachverhalte (z. B. Anlagenbau, Kraftfahrzeug- oder Flugzeugindustrie) oder aus Syntheseprozessen (z. B. Produktdesign, Film- oder Fernsehindustrie) stammen. Die Aufbereitung und Integration der Daten mit dem Ziel der Interaktivität ist hierbei anwendungsübergreifend zu gewährleisten. Ebenso muss die Integration des erzeugten Systems in den jeweils übergeordneten Prozess sichergestellt werden.
+Als konkrete Arbeitsgebiete seien beispielhaft genannt:
+
+Visualisierung in der Medizin und in den Ingenieurwissenschaften
+Entwicklung von Systemen zur Umrechnung, Darstellung und Auswertung von Simulations- oder Messdaten.
+Digitale Produktzyklen
+Erstellung virtueller Simulationen zu Design, Planung und Funktionskontrolle für komplexe Systeme wie Fabrikanlagen, Automobile, Flugzeuge und Schiffe.
+Medienindustrie
+Umsetzung von Programmen zur Erstellung und Bearbeitung digitaler Medien von Foto, Film/Video oder interaktive Medien wie z. B. Lernspiele.
+
+
+=== Bereich Bildanalyse und -verarbeitung ===
+In der Bildverarbeitung stehen die Inhalte von Bildern und Bildfolgen im Vordergrund. Diejenigen Teile der semantischen Information, die für eine spezifische Anwendung relevant sind, sollen extrahiert, erkannt und vermessen werden. Die Aufgabenfelder können grob in industrielle und in wissenschaftliche Bildverarbeitung gegliedert werden. In der Industrie mit ihrer primär kommerziellen Ausrichtung bestehen etablierte Arbeitsgebiete z. B. in der
+
+Produktionssteuerung und Automatisierung,
+Qualitätskontrolle,
+Sicherheits- und Überwachungstechnik,
+Erderkundung oder
+medizinischen Bildverarbeitung und Mustererkennung.Fragestellungen, die sich in den genannten Anwendungsgebieten wieder finden sind z. B. Oberflächenprüfung, Anwesenheitskontrolle, Position- und Lageerkennung, Lesen von Bar und Data-Matrix-Code, Schrifterkennung, Formprüfung, Sortierung, Flächen- und Volumenmessung, Winkelbestimmung, Verschleißprüfung oder Farbüberprüfung.
+
+
+=== Bereich Computervision und Mensch-Maschine-Interaktion ===
+Die Erfassung komplexer Umgebungen, beispielsweise für die Steuerung autonomer Systeme oder für die digitale Erfassung realer Szenen, ist der zentrale Schwerpunkt des Bereiches Computervision. Diese Bereiche sind aufgrund der steigenden Anforderungen an autonome Systeme und der weitergehenden Digitalisierung von Dokumentationsprozessen in zunehmendem Maße für technisch innovative Produkte relevant.
+Auf denselben Grundlagen aufbauend sind Systeme der Mensch-Maschine Interaktion zu sehen. Die Erkennung menschlicher Gestik und Mimik ist ein wesentlicher Baustein eines sicheren Umgangs von Mensch und Maschine. Die Erstellung und Wartung komplexer Produkte erfordert vielfach eine sehr umfangreiche Informationsmenge, die einem Facharbeiter zur Optimierung der Abläufe interaktiv verfügbar gemacht werden müssen. Hier werden zukünftig bildbasierte Systeme eine wichtige Rolle bei der Kontexterfassung und bei der Informationsaufbereitung spielen.
+
+
+=== Konkrete Arbeitsgebiete ===
+Entwicklung von hardwarenahen Softwaresystemen zur Erfassung komplexer Umgebungen als integraler Bestandteil der Regelung und Steuerung (teil)autonomer Systeme
+Erstellung digitaler Installationen beispielsweise für Museen oder geschützte Kulturgüter
+Entwicklung von Systemen zur Unterstützung der Fertigung, Wartung und des Materialmanagements für komplexe Investitionsgüter (Kraftfahrzeuge, Flugzeuge, Schiffe)
+
+
+== Verwandte Studiengänge ==
+Visual Computing/Bildinformatik hat einen gewissen inhaltlichen Bezug zu Computervisualistik und Medieninformatik. Im Vergleich mit der Medieninformatik liegt das wesentliche Merkmal mancher Studiengänge im Bereich Visual Computing in der stärkeren technischen Ausrichtung. 
+
+
+== Weblinks ==
+Visual Computing (englischsprachiger Studiengang an der Universität des Saarlandes, Saarbrücken)
+Visual Computing (Masterstudiengang an der Universität Rostock, Mecklenburg-Vorpommern)
+Visual Computing (Masterstudiengang Visual Computing an der TU Darmstadt)
+Visual Computing & Games Technology (Masterstudiengang an der Hochschule Bonn-Rhein-Sieg, Sankt Augustin)
+Visual Computing (Masterstudiengang Visual Computing an der Technischen Universität Wien)
+Visual Computing (Masterstudiengang Visual Computing und Games Technology an der Hochschule Bonn-Rhein-Sieg)
+Visual Computing (Bachelorstudiengang Visual Computing an der Hochschule Coburg)
+Einen Überblick über Hochschulen, an denen man Visual Computing oder ein verwandtes Fach studieren kann, findet sich auf der Webseite Master and More

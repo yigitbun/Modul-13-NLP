@@ -1,0 +1,179 @@
+Eisen(II)-oxid (früher auch Eisenoxydul genannt) ist eine chemische Verbindung von Eisen und Sauerstoff und zählt zu den Oxiden. Eisen(II)-oxid ist normalerweise nicht stöchiometrisch aufgebaut, die Zusammensetzung beträgt etwa Fe0,84O bis Fe0,95O. Grund dafür ist die ähnliche Kristallstruktur von Eisen(III)-oxid und dass Kristalldefekte entropisch günstig sind.
+
+
+== Vorkommen ==
+Eisen(II)-oxid tritt während des Frischverfahrens/L-D-Verfahrens (Senkung des Kohlenstoffanteils) bei der Stahlerzeugung auf. Hierbei wird Sauerstoff in die Eisenschmelze geblasen. Der Sauerstoff verbindet sich mit Eisen zu FeO, das wiederum als Oxidationsmittel für störende Fremdelemente wie Silicium, Mangan und Phosphor wirkt:
+
+  
+    
+      
+        
+          S
+          i
+          +
+          2
+          
+          F
+          e
+          O
+          →
+          S
+          i
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+          
+          F
+          e
+        
+      
+    
+    {\displaystyle \mathrm {Si+2\;FeO\rightarrow SiO_{2}+2\;Fe} }
+  
+  
+    
+      
+        
+          M
+          n
+          +
+          F
+          e
+          O
+          →
+          M
+          n
+          O
+          +
+          F
+          e
+        
+      
+    
+    {\displaystyle \mathrm {Mn+FeO\rightarrow MnO+Fe} }
+  
+  
+    
+      
+        
+          2
+          
+          P
+          +
+          5
+          
+          F
+          e
+          O
+          →
+          
+            P
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          5
+          
+          F
+          e
+        
+      
+    
+    {\displaystyle \mathrm {2\;P+5\;FeO\rightarrow P_{2}O_{5}+5\;Fe} }
+  Mit Hilfe von Calciumoxid (CaO) können diese Oxide von der Eisenschmelze abgetrennt werden.
+In der Natur kommt Eisen(II)-oxid als Mineral Wüstit vor.
+
+
+== Gewinnung und Darstellung ==
+Eisen(II)-oxid entsteht bei der Reduktion von Eisen(III)-oxid mit Wasserstoff oder Kohlenstoffmonoxid. Auch durch Oxidation von Eisen unter geringem Sauerstoffdruck oder mit Wasserdampf bei Temperaturen größer 560 °C lässt sich Eisen(II)-oxid gewinnen.Stöchiometrisches Eisen(II)-oxid lässt sich durch Erhitzen von Eisen(II)-oxalat auf etwa 850 °C im Vakuum und anschließendes schnelles Abschrecken auf Raumtemperatur herstellen.
+
+  
+    
+      
+        
+          F
+          e
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          →
+          F
+          e
+          O
+          +
+          C
+          O
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {FeC_{2}O_{4}\rightarrow FeO+CO+CO_{2}} }
+  Weiterhin bildet sich stöchiometrisches Eisen(II)-oxid bei der Reaktion von Fe1-xO und Eisen bei 770 °C und 50 kbar Sauerstoffdruck.
+
+
+== Eigenschaften ==
+Eisen(II)-oxid ist nur über 560 °C stabil. Unterhalb dieser Temperatur bis hinab zu ca. 300 °C neigt es zur Disproportionierung zu Eisen und Eisen(II,III)-oxid:
+
+  
+    
+      
+        
+          4
+          
+          F
+          e
+          O
+          →
+          F
+          
+            e
+            
+              3
+            
+          
+          
+            O
+            
+              4
+            
+          
+          +
+          F
+          e
+        
+      
+    
+    {\displaystyle \mathrm {4\;FeO\rightarrow Fe_{3}O_{4}+Fe} }
+  Bei Raumtemperatur ist es metastabil. Es kann leicht oxidiert werden, durch Pyrolyse aus dem Oxalat erhaltenes feinverteiltes FeO ist pyrophor.
+Eisen(II)-oxid ist antiferromagnetisch mit einer Néel-Temperatur von 198 K.
+
+
+== Einzelnachweise ==

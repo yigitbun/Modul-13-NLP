@@ -1,0 +1,7 @@
+Standard Interface For Multiple Platform Link Evaluation (SIMPLE) bezeichnet einen Datenaustauschstandard der NATO und ist im Standardization Agreement (STANAG) 5602 definiert.
+SIMPLE-Protokolle sind eine Variante des DIS-Standards und werden dazu genutzt, militärische Führungssysteme, die mittels Tactical Data Link (Link 11, Link 16) kommunizieren, für Tests per TCP/IP, z. B. über ISDN-Verbindungen, zu verbinden.
+
+
+== Anwendung ==
+Funkbasierte Tactical Data Links (TDL) haben wie alle radiobasierten Fernmeldeverbindungen eine begrenzte Reichweite. Für Software- und Interoperabilitätstests ist es jedoch erforderlich, ggf. auch weit voneinander entfernte Programmierzentren miteinander zu vernetzen.
+In diesem Fall werden die normalen Fernmeldegeräte der TDL-Funktionskette (z. B. MIDS-Terminals, deren Kommunikation auf die direkte Sichtlinie begrenzt ist) durch entsprechende SIMPLE-Konverter ersetzt, die zum Führungssystem hin das Terminalverhalten emulieren, die TDL-Datenformate in SIMPLE-Pakete konvertieren und über TCP/IP-basierte Datenverbindungen an den weit entfernten Zielort weiterleiten.

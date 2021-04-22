@@ -1,0 +1,228 @@
+Cer(IV)-oxid oder Cerdioxid ist ein Oxid des Seltenerd-Metalls Cer. Neben diesem existiert auch Cer(III)-oxid (Ce2O3) und das dunkelblaue Mischoxid Cer(III,IV)-oxid (Ce3O4). Im Jahr 1808 zeigte der englische Chemiker Sir Humphry Davy, dass die seltene Erde Cerit kein Element, sondern eine Verbindung aus metallischem Element, Silicium und Sauerstoff ist. Zwischen 1839 und 1843 gelang Carl Gustav Mosander die Auftrennung und der Nachweis, dass es sich um eine Mischung verschiedener Metalloxide mit Siliciumdioxid bzw. ein Inselsilikat handelt ((Ce,La,Ca)9(Fe3+,Mg)[(OH)3|SiO3(OH)|(SiO4)6]).
+
+
+== Eigenschaften ==
+Wie alle Oxide der seltenen Erden emittiert Cer(IV)-oxid beim Erhitzen ein starkes Licht. Es kristallisiert in der Fluorit-Struktur. In reinster Form ist das Oxid cremefarben bis hellgelb. Sind darin Verunreinigungen enthalten (z. B. Neodym, Praseodym) so kann das Oxid auch braune Farbtöne annehmen. Die braune Farbe hat meistens Cerdioxid, das für Schleif- und Polierzwecke eingesetzt wird. Hierbei ist die Reinheit ohne Bedeutung.
+
+
+=== Reaktionen ===
+Cer(IV)-oxid bildet sich durch Erhitzen von Cer(III)-nitrat, Ce(NO3)3 oder Cer(III)-oxalat Ce2(C2O4)3.
+Unter Erhitzen entsteht bei der Umsetzung von Cerdioxid mit konz. Schwefelsäure Cer(IV)-sulfat:
+
+  
+    
+      
+        
+          
+            CeO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            SO
+            
+              4
+            
+            
+              
+            
+          
+          ⟶
+          Ce
+          
+            
+              (
+              
+                SO
+                
+                  4
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {CeO2 + 2 H2SO4 -> Ce(SO4)2 + 2 H2O}}}
+  
+
+
+== Verwendung ==
+
+
+=== Katalysator ===
+Cer(IV)-oxid wird in Katalysatoren von Kraftfahrzeugen eingesetzt und oxidiert bei Sauerstoffmangel Kohlenstoffmonoxid und überschüssige Kohlenwasserstoffe gemäß:
+
+  
+    
+      
+        
+          4
+          
+          
+            CeO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          CO
+          ⟶
+          2
+          
+          
+            Ce
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4 CeO2 + 2 CO -> 2 Ce2O3 + 2 CO2}}}
+  Bei Sauerstoffüberschuss im Abgas reaktiviert sich der Katalysator wieder:
+
+  
+    
+      
+        
+          2
+          
+          
+            Ce
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          4
+          
+          
+            CeO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 Ce2O3 + O2 -> 4 CeO2}}}
+  Nanokristalline Cer(IV)-oxid-Röhren mit einem Durchmesser von etwa 0,75 μm können für katalytische Reaktionen eingesetzt werden, zum Beispiel für die direkte Carboxylierung von Methanol mit Kohlendioxid zu Dimethylcarbonat.
+
+
+=== Glühstrümpfe ===
+Eine optimale Lichtausbeute lässt sich aus einer Mischung von ca. 99 % Thorium(IV)-oxid und 1 % Cer(IV)-oxid erzielen. Dies wird bei der Herstellung von Glühstrümpfen für Gaslampen (Gasglühlicht oder Auerlicht) ausgenutzt, indem diese in die entsprechenden Nitratlösungen getränkt werden. Beim Anbrennen entstehen dann die Oxide, die für die hohe Lichtausbeute sorgen.
+
+
+=== Schleifmittel ===
+Auf Cer(IV)-oxid basierendes Poliermittel wird als Opaline in der optischen Industrie zur Politur von Gläsern eingesetzt. Es wird normalerweise als trockenes, weißes Pulver geliefert und weist eine Dichte von etwa 1,6 g/cm³ auf. Die mittlere Korngröße beträgt etwa 1 µm. Die Poliersuspension, die mit entionisiertem Wasser hergestellt wird, enthält ungefähr 60 g Opaline pro Liter Wasser.Analog dazu werden Cer(IV)-oxid basierende Poliersuspension auch in der Halbleitertechnik eingesetzt. Sie kommen vor allem bei der chemisch-mechanischen Politur (CMP) von Siliciumdioxid zum Einsatz. Die mittlere Korngröße ist hierbei jedoch deutlich geringer, sie liegt nur bei etwa 50 bis 150 nm. Da die Cer(IV)-oxid-Partikel relativ schnell sedimentieren, werden organische Zusätze, wie Polyelektrolyte, zur Stabilisierung der Suspension eingesetzt. Weiterhin gibt es kommerzielle Produkte, die weitere organische Stoffe, wie bestimmte Aminosäuren, nutzen, um eine erhöhte Materialselektivität zwischen den Abtragsraten von Siliciumdioxid- und -nitrid zu erreichen. Hintergrund ist, dass Siliciumnitridschichten bei der SiO2-CMP als Stoppschicht eingesetzt werden und bei der Politur möglichst nicht abgetragen werden sollen.
+
+
+=== Weitere ===
+Für eine zukünftige Herstellung von Wasserstoff mittels Sonnenenergie wird das Cer(IV)-oxid-Cer(III)-oxid-Verfahren entwickelt.
+CeO2 findet außerdem bei Lacken als UV-Absorber Verwendung. Dies dient der Verbesserung der Lichtbeständigkeit von exponierten Oberflächen; Lacke werden sonst durch die UV-Strahlung zersetzt.
+
+
+== Risikobewertung ==
+Cer(IV)-oxid wurde 2015 von der EU gemäß der Verordnung (EG) Nr. 1907/2006 (REACH) im Rahmen der Stoffbewertung in den fortlaufenden Aktionsplan der Gemeinschaft (CoRAP) aufgenommen. Hierbei werden die Auswirkungen des Stoffs auf die menschliche Gesundheit bzw. die Umwelt neu bewertet und ggf. Folgemaßnahmen eingeleitet. Ursächlich für die Aufnahme von Cer(IV)-oxid waren die Besorgnisse bezüglich kumulativer Exposition, Umweltexposition, anderer gefahrenbezogener Bedenken und weit verbreiteter Verwendung sowie der möglichen Gefahren durch krebsauslösende und mutagene Eigenschaften. Die Neubewertung soll ab 2020 von Deutschland durchgeführt werden.
+
+
+== Literatur ==
+Paul Trust, Michael Schimmels: Einführung in die Chemie – auf einfachster Grundlage; Teil II Systematik der anorganischen Chemie auf der Grundlage des Periodensystems der Grundstoffe . 2. Aufl. Herrosé, Wiesbaden 1956.
+The New Encyclopædia Britannica; Macropæedia Vol. 15. 15th Ed. Encyclopædia Britannica, Inc., 1974.
+
+
+== Einzelnachweise ==

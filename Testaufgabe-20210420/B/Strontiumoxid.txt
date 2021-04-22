@@ -1,0 +1,143 @@
+Strontiumoxid ist das Oxid des Erdalkalimetalls Strontium. 
+Es ist in reinem Zustand ein weißes Pulver, in technischer Qualität durch Fremdbeimengungen oft grau gefärbt, die beispielsweise durch Oxidation des sehr reaktionsfähigen Strontiums entstehen.
+
+
+== Gewinnung und Darstellung ==
+Strontiumoxid lässt sich aus Strontiumcarbonat, das sich in der Natur als Mineral Strontianit findet, gewinnen.
+Bei 1268 °C unter normalem Luftdruck zerfällt Strontiumcarbonat zu Strontiumoxid und Kohlenstoffdioxid:
+
+  
+    
+      
+        
+          S
+          r
+          C
+          
+            O
+            
+              3
+            
+          
+          
+             
+            
+              
+                
+                  1268
+                  
+                    
+                    
+                      ∘
+                    
+                  
+                  
+                    C
+                  
+                
+                →
+              
+            
+          
+           
+          S
+          r
+          O
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+          ↑
+        
+      
+    
+    {\displaystyle \mathrm {SrCO_{3}\ _{\overrightarrow {1268\,^{\circ }\mathrm {C} }}\ SrO+CO_{2}\uparrow } }
+  
+
+
+== Eigenschaften ==
+Strontiumoxid kristallisiert in der Natriumchlorid-Struktur. Bei hohen Drücken von >36 GPa wird eine Phasenumwandlung zu einer Caesiumchlorid-Struktur beobachtet. Dies geht mit einer Volumenverkleinerung von 13 % einher, die Dichte des Kristalls steigt auf über 7,1 g/cm3.Mit Wasser reagiert Strontiumoxid unter Wärmeentwicklung zu Strontiumhydroxid: 
+
+  
+    
+      
+        
+          S
+          r
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          →
+          S
+          r
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {SrO+H_{2}O\rightarrow Sr(OH)_{2}} }
+  Mit Hilfe von Aluminiumgrieß lässt sich Strontiumoxid zu Strontium reduzieren (Aluminothermie):  
+
+  
+    
+      
+        
+          3
+          
+          S
+          r
+          O
+          +
+          2
+          
+          A
+          l
+          →
+          A
+          
+            l
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+          
+          S
+          r
+        
+      
+    
+    {\displaystyle \mathrm {3\,SrO+2\,Al\rightarrow Al_{2}O_{3}+3\,Sr} }
+  
+
+
+== Verwendung ==
+Strontiumoxid wird in der Glasindustrie zur Herstellung von Spezialgläsern verwendet, so wird etwa das Oxid dem Glas von Bildschirmröhren zur Strahlungsminderung beigemengt. Früher wurde Strontiumoxid bei der Herstellung von Rübenzucker eingesetzt (Strontianverfahren).Weiterhin wird es aufgrund seiner hohen Schmelztemperatur und seiner geringen Elektronenaustrittsarbeit von 1,0 eV als Beschichtungsmaterial auf Kathoden, zum Beispiel aus Wolfram, eingesetzt. Dadurch wird es eine Oxidkathode. Siehe hierzu Austrittsarbeit. Da es jedoch wasserlöslich ist, werden in Anwendungen, bei denen das Vakuum für Wartungsarbeiten unterbrochen werden muss, und feuchte Atmosphärenluft in die Anlage eindringen kann, andere Werkstoffe bevorzugt.
+Daher beschränkt sich der Einsatz in der Praxis auf Anlagen, die kontinuierlich im Vakuum betrieben werden. In diesen dauerhaft geschlossenen Dioden erlauben sie Glühemission bei bereits 800°K.
+
+
+== Einzelnachweise ==

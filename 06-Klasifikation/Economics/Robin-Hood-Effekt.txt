@@ -1,0 +1,32 @@
+Der Robin-Hood-Effekt ist ein wirtschaftliches Ereignis, bei dem das Einkommen umverteilt wird, um damit die wirtschaftliche Ungleichheit zu verringern. Dieser Effekt wird nach Robin Hood benannt, der dafür bekannt war, die Reichen zu bestehlen, um es an die Armen zu geben.
+
+
+== Ursachen des Robin-Hood-Effekts ==
+Ein Robin-Hood-Effekt kann durch eine Vielzahl an Politikbereichen und wirtschaftlichen Entscheidungen verursacht werden, die nicht unbedingt die Verringerung der Ungleichheit als Ziel hatten. Im Folgenden werden die entsprechenden Entscheidungen angegeben.
+
+
+=== Natürliche Entwicklung eines Landes ===
+
+Simon Smith Kuznets behauptete, ein wichtiger Faktor, der die wirtschaftlichen Ungleichheitsniveaus betrifft, sei der Stand der Wirtschaftsentwicklung eines Landes. Kuznets beschreibt, wie abgebildet, eine kurvenähnliche Beziehung zwischen dem Einkommensniveau und der Ungleichheit. Die Theorie besagt, dass die Länder mit einem niedrigen Entwicklungsniveau eine relativ gleichmäßige Vermögensverteilung aufweisen werden.
+Soweit ein Land sich entwickelt, wächst sein Kapital zwangsläufig und die Eigentümer dieses Kapitals erlangen mehr Einkommen und Vermögen, wodurch Ungleichheit entsteht. Nichtsdestotrotz, verschiedene mögliche Umverteilungsmechanismen, wie etwa die Trickle-down-Theorie und die Sozialhilfe, führen zu einem Robin-Hood-Effekt mit einer Umverteilung des Vermögens an die Armen. Weiter entwickelte Länder bewegen sich demzufolge auf einem kleineren Ungleichheitsniveau.
+
+
+=== Ungleichmäßige Einkommensteuer ===
+Viele Länder haben ein Einkommensteuersystem, wodurch der erste Teil des Arbeiterlohns entweder versteuert oder durchaus nicht versteuert wird, während diejenigen, die einen höheren Gehalt bekommen, höhere Steuersätze über einer bestimmten Schwelle zahlen müssen, die sogenannte Steuerprogression. Auf dieser Weise zahlt die besser gestellte Bevölkerung höhere Steueranteile, um die Minderbemittelten zu subventionieren, woraus der Robin-Hood-Effekt entsteht.
+Eine Steuerprogression insbesondere ist eine Steuer, durch die der Steuersatz mit der Erhöhung des Steuerbasisbetrags erhöht wird. „Progressiv“ beschreibt den Umverteilungseffekt, der Einkommens- und Ausgabenverteilung unter Bezugnahme der Art und Weise wie Gebühren erhöht werden, wobei der Durchschnittssteuersatz niedriger als der Grenzsteuersatz ist. Dies bezieht sich auch auf einzelne Steuern oder auf ein Gesamtsteuersystem; einjährig, mehrjährig oder lebenslänglich. Die Steuerprogression versucht, die Steuerinzidenz der Menschen mit weniger Zahlungsmöglichkeiten zu verringern, indem die Inzidenz auf diejenigen mit höheren Zahlungsmöglichkeiten übertragen wird.
+
+
+=== Quersubventionierung der Mobilfunktelefonie ===
+Die Mobilfunknetze vieler Entwicklungsländer haben in der Regel keine breite Netzwerkexternalität. Dies wird versucht, durch die Mobilfunkbetreiber zu kompensieren, indem sie Vertragskunden durch hohe Anrufzustellungsentgelte subventionieren. Damit ist es den weniger Bemittelten möglich, Zugang zu Kommunikationsdiensten zu haben, oftmals kostenlos (für Prepaid-Tarife). Die Mehrkosten werden den Vertragskunden, die den neueren Vertragskunden anrufen, berechnet; diejenigen, die die Anrufe tätigen, sind in der Regel finanziell besser gestellt. Demzufolge entsteht ein Robin-Hood-Effekt, wodurch die Wohlhabenden die Ärmeren subventionieren, obwohl kein direkter Geldtransfer stattfindet.
+
+
+== Siehe auch ==
+Sozioökonomie
+
+
+== Weblinks ==
+A Robin Hood effect caused by affirmative action
+International roaming charges argued to make the rich subsidise the poor (Memento vom 14. Mai 2014 im Internet Archive)
+
+
+== Einzelnachweise ==

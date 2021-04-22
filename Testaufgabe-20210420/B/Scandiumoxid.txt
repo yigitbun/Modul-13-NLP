@@ -1,0 +1,12 @@
+Scandiumoxid (Sc2O3) ist das Verbrennungsprodukt von elementarem Scandium an Luft. Es entsteht bei der Oxidation von Scandium zu Sc3+ bei 800 °C oder durch Glühen von Scandiumsalzen. Es ist ein weißes Pulver mit einem Schmelzpunkt von 2485 °C.
+
+
+== Eigenschaften ==
+Scandiumoxid kristallisiert im kubischen Kristallsystem in der Raumgruppe Ia3 (Raumgruppen-Nr. 206)Vorlage:Raumgruppe/206 mit dem Gitterparameter a = 985 pm und 16 Formeleinheiten pro Elementarzelle. In der Kristallstruktur sind die Sc3+-Kationen sechsfach von Sauerstoff in Form von Oktaedern koordiniert. Strukturell entspricht Sc2O3 damit den Lanthanoid-Oxiden des C-Typs, der auch bei den Strukturen von Lanthanoid-Sesquioxiden der allgemeinen Form Ln2O3 für Ln = Dy–Lu und Y vorkommt.
+
+
+== Verwendung ==
+Verwendet wird Scandiumoxid zur Dotierung von Magnetspeichern in der Computerindustrie. Dabei wird die Ummagnetisierung beschleunigt und somit die Rechenleistung erhöht. Es stellt das Ausgangsprodukt zur Herstellung des Metalls Scandium dar. Es wird hierbei in Scandium(III)-fluorid (ScF3) überführt und dann mittels Calcium zum Metall reduziert.
+
+
+== Einzelnachweise ==

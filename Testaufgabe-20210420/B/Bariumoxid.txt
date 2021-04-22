@@ -1,0 +1,148 @@
+Bariumoxid ist das Oxid des Erdalkalimetalls Barium. Es besitzt die Formel BaO.
+Bariumoxid (Baryterde) wurde zuerst von Johan Gottlieb Gahn 1774 dargestellt.
+
+
+== Eigenschaften ==
+Bariumoxid ist ein farbloser Feststoff, der bei 1918 °C schmilzt. Mit Wasser reagiert es unter lebhafter Wärmeentwicklung zu Bariumhydroxid. 
+
+  
+    
+      
+        
+          BaO
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          Ba
+          
+            
+              (
+              OH
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {BaO + H2O -> Ba(OH)2}}}
+  Er besitzt eine Kristallstruktur vom Natriumchlorid-Typ und reagiert mit feuchter Luft zum Hydroxid, mit CO2-haltiger Luft  bildet sich Bariumcarbonat.
+
+
+== Darstellung ==
+Technisch wird es durch das Erhitzen eines Kohle-Bariumcarbonat-Gemisches auf etwa 1030 °C hergestellt, im Laboratorium auch durch Glühen von Bariumnitrat.
+
+  
+    
+      
+        
+          
+            BaCO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          C
+          ⟶
+          BaO
+          +
+          2
+          
+          CO
+        
+      
+    
+    {\displaystyle {\ce {BaCO3 + C -> BaO + 2CO}}}
+  
+
+
+== Verwendung ==
+Bariumoxid wird als Absorptionsmittel für Kohlenstoffdioxid und als Trocknungsmittel sowie zur Herstellung von Bariumperoxid, Bariumhydroxid, organischen Bariumsalzen, Spezialgläsern und Oxidkathoden verwendet.
+Bariumoxid unterliegt an Sauerstoffatmosphäre einer Gleichgewichtsreaktion zu Bariumperoxid BaO2.
+
+  
+    
+      
+        
+          2
+          
+          BaO
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          2
+          
+          
+            BaO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2BaO + O2 <=> 2BaO2}}}
+  Zwischen 500 und 600 °C reagiert BaO zum Bariumperoxid. Oberhalb von 600 °C wird der im Peroxid gebundene Sauerstoff wieder abgegeben. BaO darf also nicht zu sehr erhitzt werden. Da die Gleichgewichtsreaktion zum Bariumperoxid mit Wärmeabgabe (exotherme Reaktion) und Volumenänderung verbunden ist, verschiebt sich das Gleichgewicht mit steigender Temperatur nach links. Man kann daher Sauerstoff bei niedriger Temperatur binden und bei höherer Temperatur wieder freisetzen.
+
+
+== Einzelnachweise ==

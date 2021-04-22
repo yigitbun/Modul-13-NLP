@@ -1,0 +1,126 @@
+Selentrioxid ist eine anorganische chemische Verbindung des Selens aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Selentrioxid kann durch Reaktion von Kaliumselenat mit Schwefeltrioxid gewonnen werden.
+
+  
+    
+      
+        
+          
+            K
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              4
+            
+          
+        
+        +
+        (
+        n
+        +
+        1
+        )
+        
+        
+          S
+          
+            O
+            
+              3
+            
+          
+        
+        ⟶
+        
+          
+            K
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+        
+        ⋅
+        n
+        
+        
+          S
+          
+            O
+            
+              3
+            
+          
+        
+        +
+        
+          S
+          e
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {K_{2}SeO_{4}} +(n+1)\;\mathrm {SO_{3}} \longrightarrow \mathrm {K_{2}SO_{4}} \cdot n\;\mathrm {SO_{3}} +\mathrm {SeO_{3}} }
+  
+
+
+== Eigenschaften ==
+Selentrioxid ist ein farbloser Feststoff, der mit Wasser unter starker Erwärmung zu Selensäure reagiert. Er löst sich in Essigsäureanhydrid und flüssigem Schwefeldioxid. Er besitzt keinen definierten Siedepunkt, sondern beginnt ab etwa 100 °C unter Normaldruck langsam zu sublimieren und zersetzt sich ab 180 °C. Die Oxidationskraft der Verbindung ist so stark, dass Alkohol schon bei −80 °C entzündet wird. Sie besteht aus achtgliedrigen Ringmolekülen Se4O12. In der Gasphase steht dieses Tetramer mit monomerem Selentrioxid im Gleichgewicht.
+
+
+== Verwendung ==
+Selentrioxid eignet sich zur schonenden Selenonierung von Kohlenwasserstoffen. Durch Reaktion mit Flusssäure kann Fluorselensäure hergestellt werden.
+  
+    
+      
+        
+          
+            SeO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          HF
+          ⟶
+          
+            HSeO
+            
+              3
+            
+            
+              
+            
+          
+          F
+        
+      
+    
+    {\displaystyle {\ce {SeO3 + HF -> HSeO3F}}}
+  
+
+
+== Einzelnachweise ==

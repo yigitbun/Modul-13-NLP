@@ -1,0 +1,82 @@
+Terbium(III)-oxid ist eine chemische Verbindung, genauer das Oxid von Terbium.
+
+
+== Vorkommen ==
+Terbium(III)-oxid kommt natürlich nicht vor. Es tritt jedoch gebunden als hochkomplexes Silikat z. B. im Gadolinit auf.
+
+
+== Gewinnung und Darstellung ==
+Terbium(III)-oxid kann nicht direkt aus Terbium und Sauerstoff gewonnen werden, da dabei braunes Terbium(III,IV)-oxid Tb4O7 entsteht. Es wird stattdessen durch kontrollierte Reduktion mit Wasserstoff aus diesem hergestellt.
+
+  
+    
+      
+        
+          T
+          
+            b
+            
+              4
+            
+          
+          
+            O
+            
+              7
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          T
+          
+            b
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Tb_{4}O_{7}+H_{2}\longrightarrow 2\ Tb_{2}O_{3}+H_{2}O} }
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Wie von anderen schweren Lanthanoidoxiden sind von Terbium(III)-oxid zwei Kristallstrukturen bekannt. Die normalerweise stabile Struktur ist eine kubische defekte Fluoritstruktur (Bixbyit-Struktur) mit dem Gitterparameter a = 1072 pm. Diese kommt auch bei anderen Lanthanoidoxiden vor. Daneben ist noch eine monokline Struktur des Terbium(III)-oxids bekannt. Diese entsteht beim Auskristallisieren aus Terbiumoxid/Magnesiumoxid-Schmelzen.Terbium(III)-oxid ist je nach Reinheit rein weiß bis cremefarben. Gläser mit Zusätzen an Terbium(III)-oxid lumineszieren.
+
+
+== Verwendung ==
+Reines Terbium(III)-oxid wird kaum bis gar nicht verwendet. Als Ausgangsstoff zur Herstellung von reinem Terbium wird Terbium(III,IV)-oxid Tb4O7 eingesetzt.
+
+
+== Siehe auch ==
+Terbium(III,IV)-oxid Tb4O7 (schwarzbraunes Pulver, welches als Aktivator für diverse fluoreszierende Leuchtstoffe dient)
+Terbium(IV)-oxid TbO2
+
+
+== Einzelnachweise ==

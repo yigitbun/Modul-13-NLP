@@ -1,0 +1,83 @@
+Die Sozioinformatik ist ein junges Teilgebiet der Informatik, das die Wechselwirkung zwischen sozialen Gruppen und Softwaresystemen untersucht und Gestaltungsprinzipien und Realisierungsmethoden für Software mit großen Nutzergruppen entwickelt. Dazu bedient sie sich Methoden aus der Informatik, der Soziologie, den Wirtschaftswissenschaften und der Psychologie.
+
+
+== Überblick ==
+Sozioinformatik versteht sich als interdisziplinäre und gestaltungsorientierte Wissenschaft und setzt zur Lösung gesellschaftlich relevanter Probleme eigene, neuartige methodische Vorgehensweisen, Konzepte und Verfahren ein, wie beispielsweise Designfallstudie, Integrierte Organisations- und Technikentwicklung, Business Ethnography, End User Development, Infrastructuring und Aneignungshandeln. Die Disziplin erforscht, wie existierende und neue gesellschaftliche Kommunikationsprozesse durch Softwaresysteme unterstützt werden können und welche Auswirkungen sich daraus ergeben. Beispielsweise interessiert sie sich für:
+
+Erforschung der Bedeutung und Gestaltung von Anwendungen der Informations- und Kommunikationstechnik (IKT) in sozialen Systemen wie Beruf, Haushalt und Freizeit
+Partizipationsmodelle für kollaborative Plattformen wie der Wikipedia oder Unterstützung von Crowdsourcing
+Ausgestaltung politischer Prozesse in der sogenannten E-Demokratie, z. B. durch die Einrichtung von Online-Petitionen, LiquidFeedback-Systemen oder der Freigabe von öffentlichen Daten in E-Regierungssystemen;
+neue Fragen des Datenschutzes, zum Beispiel forciert durch soziale Netzwerkplattformen.Sozioinformatische Forschung verbindet dabei drei unterschiedliche, aber wechselwirkende Themenkomplexe:
+
+Erforschung neuer computergestützter Kommunikationsmedien, -mechanismen und -prozesse;
+Entwicklung neuer Engineeringmethoden und Techniken für Software, die vernetzende und übergreifende Funktionalität für große Nutzergruppen realisiert;
+Analysemethoden, um zum einen die Auswirkung von Softwaresystemen auf die Gesellschaft untersuchen zu können, zum anderen aber auch die Reaktion von sozialen Gruppen auf Softwaresysteme besser verstehen zu können, wie z. B. Anpassungsprobleme an neu eingeführte Software in Betrieben im Bereich Change Management oder Bevölkerungsproteste gegen Forschungsprojekte, die Informationen aus sozialen Netzwerken für die Schufa zugänglich machen sollten.
+
+
+== Entstehung der Disziplin Sozioinformatik ==
+Ende der 1990er Jahre nahm in den Sozial- und Wirtschaftswissenschaften die Diskussion über die immer intensivere Durchdringung der Lebenswelt mit Informations- und Kommunikationstechnologie zu. Insbesondere rückten die sozialen Aspekte zunehmender Computerisierung in das Blickfeld der Forscher wie Manuel Castells, George Dyson oder James Cortada. Sie verfolgten einen interaktionistischen Ansatz der Technologieanalyse, das heißt, sie untersuchten die Bedeutung von IKT-Anwendungen für sozialen und organisatorischen Wandel, wie auch umgekehrt der Einfluss gesellschaftlicher Kräfte und sozialer Praktiken auf die Gestaltung von Informationstechnologien. Rob Kling, Professor für Information Systems und Information Science an der Universität von Indiana und Pionier in diesem neuen Forschungsfeld, definierte im Januar 1999 in seiner Abhandlung What is social informatics and why does it matter? die Forschungsprogrammatik sozialer Informatik (Social Informatics) als „the interdisciplinary study of the design, uses and consequences of information technologies that takes into account their interaction with institutional and cultural contexts“.
+In Deutschland wurde nahezu zeitgleich im Jahr 2000 von Forschern des Instituts für Wirtschaftsinformatik und Neue Medien der Universität Siegen und der Fraunhofer-Gesellschaft in Sankt Augustin das Internationale Institut für Sozio-Informatik (IISI) mit Sitz in Bonn gegründet. Am Lehrstuhl für Wirtschaftsinformatik und Neue Medien der Universität Siegen existiert unter der Leitung des Lehrstuhlinhabers Volker Wulf ein interdisziplinäres Wissenschaftler-Team, das sich intensiv mit der Erforschung der Bedeutung und Gestaltung von IKT für die Lebenswelt in Beruf, Haushalt und Freizeit beschäftigt und die Sozio-Informatik weiter entwickelt. Als Ziel wird definiert, „neuartige Anwendungen mit geeigneten Methoden so zu gestalten, dass ihre Aneignung durch Benutzer ökologisch wohlstandsfördernd, vertretbar und sozialintegrativ wirken kann“. Die Etablierung einer neuen Disziplin der Sozio-Informatik erfolgte, um gesellschaftliche Aspekte der Computerisierung zu untersuchen, die in anderen Angewandten Informatik-Disziplinen (Wirtschaftsinformatik, Gesundheits-Informatik, Bio-Informatik etc.) nicht oder nur unzureichend in den Blick genommen werden.
+Grundsätzlich können als historische Einflüsse für die Etablierung der Sozio-Informatik in Europa benannt werden: der Ansatz Soziotechnischer Systeme, die skandinavische Tradition des Participatory Design, Forschungs- und Interventionsmethoden der Aktionsforschung und der deutsche Diskurs zu Informatik und Gesellschaft (IuG).
+
+
+== Forschungshintergrund ==
+Gesellschaftliche Prozesse sind grundlegend auf effektive Kommunikation angewiesen. Kommunikation zwischen Einzelpersonen und sozialen Gruppen ist wichtig, um Informationen zu übermitteln, Meinungen zu bilden, Vertrauen aufzubauen, gemeinsame Pläne und Lösungen zu entwickeln, zusammenzuarbeiten, mit Waren und Dienstleistungen zu handeln und Entscheidungen zu fällen.
+Computergestützte Kommunikation kann diese Prozesse erheblich erleichtern und auf große, globale Nutzergruppen ausweiten. Dadurch entstehen neuartige Kommunikationssituationen auch zwischen Personen, die sich persönlich nicht kennen. Außerdem können die bei der Kommunikation übermittelten Informationen in einer nie dagewesenen Weise gespeichert, durchsucht, aggregiert und analysiert werden. Software kann zudem bei der Findung von geeigneten Kommunikationspartnern helfen, weitergehende Informationen für die Entscheidungsfindung zur Verfügung stellen und völlig neuartige Verknüpfungen von Informationen erlauben.
+Insgesamt entstehen soziotechnische Systeme mit zum Teil sehr großen, strukturierten Nutzergruppen auf der einen Seite und Software mit intelligenten Informationssystemen auf der anderen Seite, die sich co-evolutionär in gegenseitiger Beeinflussung weiterentwickeln und dabei auch emergente Phänomene zeigen können.
+Während die Basisfunktionalität der Software geplant ist, folgt die Co-Evolution des soziotechnischen Systems den Regeln komplexer Systeme, so dass weder die genauen Anforderungen bei der Erstellung der Software bekannt sind noch eventuelle innovative Nutzungsarten der Software einfach vorhersagbar sind. Die Evolutionsgeschwindigkeit hängt insbesondere auch davon ab, ob es Nutzern als sogenannten Prosumenten ermöglicht wird, aktiv in den Datenbestand oder die Softwaregestaltung einzugreifen.
+
+
+== Herausforderungen sozial eingebetteter Software ==
+Softwaretechnisch gesehen beschäftigt sich die Sozioinformatik mit der Untersuchung und Realisierung von verteilten Informations- und Kommunikationssystemen, die existierende oder neue gesellschaftliche und soziale Prozesse unterschiedlicher Nutzergruppen unterstützen oder überhaupt erst ermöglichen. Wie oben erwähnt, können dies
+Planungs-, Arbeits-, Verwaltungs-, Wirtschafts-, Spiel- oder auch politische Prozesse sein. Softwaresysteme mit dieser Charakteristik nennen wir sozial eingebettet. Die Entwicklung sozial eingebetteter Software bringt spezifische Herausforderungen mit sich und zwar bei:
+
+der Anforderungsanalyse und Mensch-Computer-Interaktion
+der Validierung und Wartung der Software
+der Berücksichtigung sozialer und rechtlicher Rahmenbedingungen
+spezifischer Funktionalität und Entwicklungsmethodik
+
+
+=== Anforderungsanalyse ===
+Die besonderen Herausforderungen bei der Anforderungsanalyse für sozial eingebettete Software bestehen darin, dass die Prozesse vieler Nutzergruppen und Auftraggeber berücksichtigt werden müssen, dass die Entscheidungskompetenzen und Ziele dieser Gruppen oft nicht geklärt sind und dass man existierende und heterogene Prozesse und Altsysteme integrieren muss. Deutlich verschärfend kommt hinzu, dass es nicht mehr reicht, die direkte an einem einzelnen Gerät zu betrachten, sondern dass die Interaktion zwischen den Menschen und Systemen über die gesamten Kommunikationsprozesse hinweg den Vorstellungen der Nutzer entsprechen muss.
+
+
+=== Validierung ===
+Die Qualität sozialer Software hängt nicht nur von den klassischen funktionalen und nicht-funktionalen Eigenschaften ab, sondern oft noch stärker davon, wie gut die sozialen Prozesse unterstützt werden und inwieweit die Software auf Veränderungen und neue Anforderungen reagiert. Beispielsweise ist ein zentrales Qualitätsmerkmal eines ERP-Systems, inwieweit es die spezifischen Arbeitsprozesse der Unternehmen abbilden kann, in denen es eingesetzt wird, und wie leicht es bei Veränderungen adaptiert werden kann.
+Verschärfend gilt dies für kollaborative Plattformen, bei denen häufig die Richtlinien, wer wann was
+ändern darf und wie Konsens erzielt wird, eine deutlich größere Rolle für den Erfolg spielen als klassische Softwarequalitätseigenschaften. Wie derartig evolutionäre Systeme zu validieren, zu testen und zu pflegen sind, sind typische Fragestellungen der Sozioinformatik.Ein interessanter Vorschlag, die skizzierten Herausforderungen bei der Anforderungsanalyse und der Validierung anzugehen, aber auch um eine Grundlage für Designentscheidungen zu bieten, sind sogenannte Designfallstudien, die explizit die Benutzerakzeptanz und auch die Adaption der Prozesse nach Einführung des Systems miteinbeziehen.
+
+
+=== Soziale und rechtliche Rahmenbedingungen ===
+Soziale Software berührt viele rechtliche Aspekte, wie zum Beispiel Datenschutz, Schutz der Privatsphäre und Urheberschutz, und das häufig in einem länderübergreifenden Kontext. Diese Aspekte müssen frühzeitig bei der Softwareentwicklung berücksichtigt werden.
+
+
+=== Spezifische Funktionalität und Entwicklungsmethodik ===
+Nicht zuletzt gehört es auch zur Sozioinformatik, spezifische Werkzeuge und Funktionalitäten für soziale Software zu entwickeln, etwa im Bereich der Visualisierung und Analyse von sozial eingebetteten Softwaresystemen oder im Bereich der Entscheidungsunterstützung für Nutzer auf der Basis ihres Profils. Am deutlichsten wird dies bei der Open-Source-Entwicklung von Software, also in dem Bereich des Software-Engineerings, in dem die Entwicklung von Software selbst als expliziter sozialer Prozess realisiert ist.
+
+
+== Neue gesellschaftliche Prozesse vermittelt durch Software ==
+Sozial eingebettete Software kann gesellschaftliche Prozesse ermöglichen, die ohne Software nicht realisiert werden können. Beispielsweise ist es schwer vorstellbar, wie eine Enzyklopädie vergleichbar Wikipedia nur auf Basis von Post und Buchdruck erstellt und gepflegt werden könnte. Damit stellen sich zentrale Fragen der Sozioinformatik:
+
+Welche (neuen) sozialen Prozesse lassen sich durch Software realisieren?
+Warum funktionieren bestimmte Mechanismen und andere nicht?
+Wie ändern sich gesellschaftlichen Prozesse, wenn man sie mit Software unterstützt? Was kann der Mehrwert sein?
+Wie ändern sich die Nutzer und ggf. sogar die Strukturierung der Gesellschaft durch sozial eingebettete Software?
+Welche Risiken ergeben sich und wie kann man diese eindämmen?Es geht also um Fragen der Einsetzbarkeit, der Akzeptanz, der gesellschaftlichen Wirkung, des wirtschaftlichen Nutzens, der rechtlichen Konsequenzen und auch der Ethik. Um diese Fragen anzugehen, bedient sich die Sozioinformatik insbesondere empirischer und gesellschaftswissenschaftlicher Methoden und schlägt
+die Brücke zu den jeweils relevanten Fachwissenschaften.
+
+
+== Verwandte Begriffe ==
+Sozioinformatik umfasst insbesondere Themen, die im englischen Sprachraum unter dem Begriff „Social Computing“ subsumiert werden, geht aber darüber hinaus. Für die weitergreifende Thematik der Sozioinformatik wird im Englischen oft der Begriff Social informatics verwendet. Im Unterschied dazu bezieht sich der deutsche Begriff Sozialinformatik auf die Verarbeitung von Information im Sozialwesen und hat dementsprechend eine andere Bedeutung.
+
+
+== Sozioinformatik in der Lehre ==
+In Deutschland waren bisher viele Aspekte der Sozioinformatik in verschiedenen Teilgebieten verankert und wurden in verschiedenen Veranstaltungen gelehrt, zum Beispiel in Vorlesungen zur Mensch-Computer-Interaktion oder in Vorlesungen zum Thema Internet- und Datensicherheit. In vielen Informatikstudiengängen sind auch Vorlesungen integriert, die sich direkt mit Querschnittsthemen aus dem Bereich Informatik und Gesellschaft auseinandersetzen. Weltweit gibt es über 130 Studienprogramme zur Sozioinformatik. Am Institut für Wirtschaftsinformatik und Neue Medien der Universität Siegen wird seit 2009 ein Unterrichtsmodul zu Sozioinformatik gelehrt. Der erste Sozioinformatik-Studiengang in Deutschland wird seit Wintersemester 2013/14 von der TU Kaiserslautern angeboten. Seit dem Wintersemester 2015/16 wird an der Hochschule Furtwangen Sozioinformatik als Vertiefungsrichtung im Bachelor-Studiengang IT-Produktmanagement angeboten.
+
+
+== Sozioinformatik in der Öffentlichkeit ==
+Als institutionelle Vertreter der Sozioinformatik in Deutschland existieren das Internationale Institut für Sozio-Informatik (IISI), der Forschungsbereich User-Centered Computing (USC) des Fraunhofer-Institutes für Angewandte Informationstechnik FIT und das Institut für Wirtschaftsinformatik und Neue Medien der Universität Siegen.
+In Europa existiert seit 2009 die European Society for Socially Embedded Technologies (EUSSET), welche, gemeinsam mit dem IISI, den renommierten EUSSET-IISI-Lifetime Achievement Award verleiht.
+Darüber hinaus gibt es einige Gruppierungen, die sich mit der Wechselwirkung von Gesellschaft und Informatik beschäftigen und sich insbesondere die Aufklärung der Bevölkerung auf die Fahnen geschrieben haben, beispielsweise der Chaos Computer Club und Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung. Aus dieser Arbeit ergeben sich für die akademische Forschung neue Fragestellungen, die empirischen Modellen aus Soziologie, Psychologie und Wirtschaft oder theoretischen Modellierungen aus Philosophie, Ethik und der Informatik bearbeitet werden können.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,29 @@
+Ex post ist die zeitliche Perspektive in Analysen oder Beurteilungen, die Ereignisse, Sachverhalte oder Zustände nachträglich bewerten sollen. 
+
+
+== Allgemeines ==
+„Ex post“ bedeutet in deutsch „im Nachhinein, nachträglich“, ex ante bedeutet in deutsch „im Voraus, von vorneherein“. Beide lateinischen Wortpaare betreffen den Zeitpunkt, an welchem ein Ereignis oder Sachverhalt betrachtet wird. Soll beispielsweise die künftige Marktentwicklung eines Börsenkurses prognostiziert werden, liegt eine „ex ante“-Analyse vor. Wie sich später der Börsenkurs rückwirkend betrachtet in der Vergangenheit tatsächlich verändert hat, ist Aufgabe einer „ex post“-Analyse. Insbesondere Rechtswissenschaft und Wirtschaftswissenschaften befassen sich häufig mit diesen zeitlichen Perspektiven.
+
+
+== Rechtswissenschaft ==
+Bedeutung hat die Unterscheidung nach Zeitpunkten für den Vertragsschluss. Informationsfunktionen lässt sich präziser nachgehen, wenn deutlich wird, wann eine Information für den Empfänger von allgemeinen Geschäftsbedingungen Bedeutung erlangt. Klauselverständlichkeit erwartet der Vertragspartner sowohl bei Vertragsschluss als auch bei anschließender Vertragsdurchführung. Ex ante sind somit vorvertragliche Informationspflichten zu erfüllen, die zur Angebots- oder Abschlusstransparenz führen (Nebenvertragspflicht). Bestätigungspflichten zu Dokumentationszwecken wären dabei ex post relevant.Gläubigerschutz wird im deutschen Insolvenzrecht entweder präventiv (ex ante) oder nachträglich (ex post) betrieben. Beurteilungszeitpunkte sind das Währen der Unternehmenskrise, spätestens der Insolvenzantrag. Dem präventiven Gläubigerschutz kann die Ausschüttungssperre dienen, ebenso die Haftung über das gesetzlich vorgeschriebene Mindestkapital des Unternehmens, letztlich Kreditsicherheiten oder sonstige Maßnahmen (wie die Sanierung). Die Maßnahmen verfolgen vornehmlich das Ziel, einer Krise der Gesellschaft vorzubeugen (ex ante). Ist das Unternehmen bereits in die Insolvenz geraten, greift noch der ex post-Gläubigerschutz. In Betracht kommen die Eigenkapitalersatzregeln (§ 39 Abs. 1 InsO), das Aussonderungsrecht (§ 47 InsO) oder die Insolvenzanfechtung (etwa aus § 135 Abs. 1 InsO).
+Im US-Insolvenzrecht findet der Gläubigerschutz überwiegend ex post über das Eigenkapitalersatzrecht (§ 519 c US-Bankruptcy code), die Durchgriffshaftung, die Insolvenzanfechtung und über Treuepflichten der Unternehmensführung gegenüber den Gläubigern statt.
+
+
+== Wirtschaftswissenschaften ==
+Zur Kennzeichnung der unterschiedlichen Betrachtungsweisen führte die Wirtschaftswissenschaft das Begriffspaar ex ante und ex post in die Theorie ein. Ex ante-Größen sind entsprechend am Anfang einer Rechnungsperiode erwartete oder geplante Größen, ex post-Größen sind am Ende der Periode realisierte Größen.In den Wirtschaftswissenschaften kommt es unter anderem darauf an, zu welchem Zeitpunkt eine getroffene Entscheidung beurteilt wird. Zum Zeitpunkt der Entscheidung geht der Entscheidungsträger davon aus, dass die mit seiner Entscheidung verbundenen Erwartungen sich in Zukunft erfüllen werden (ex ante-Betrachtung); er hat hierzu die Eintrittswahrscheinlichkeiten künftiger Ereignisse geprüft. Hat sich die Entscheidung auf den Umweltzustand ausgewirkt, kann ex post beurteilt werden, ob und inwieweit sich die ökonomischen Größen tatsächlich durch die getroffene Entscheidung erwartungsgemäß verändert haben.
+Fehlinvestitionen sind das klassische Beispiel für die Erklärung der ex ante- und ex post-Betrachtung. Bei einer Investitionsentscheidung geht der Entscheidungsträger davon aus, dass die im Investitionsplan enthaltenen Erwartungen auch eintreffen werden (ex ante). Bei einer Erweiterungsinvestition wird beispielsweise erwartet, dass diese voll ausgelastet wird. Die Entscheidung wird umgesetzt und zeigt sich in der Bilanz als Erhöhung des Anlagevermögens. Später kommt es jedoch unerwartet zu einer Rezession mit einem Nachfragerückgang, der eine Unterbeschäftigung der Investition mit sich bringt. Die Umsatzerlöse reichen nicht mehr zur Amortisation der Investition aus. Im Nachhinein stellt sich die Investitionsentscheidung als Fehlentscheidung und die Investition als Fehlinvestition heraus.
+Die durch die vergangene Entscheidung verursachten Kosten waren zum Entscheidungszeitpunkt (ex ante) entscheidungsrelevante Kosten und werden dann zu versunkenen Kosten, wenn auf sie in einer gegenwärtigen oder künftigen Entscheidungssituation nicht mehr Einfluss ausgeübt werden kann und sie sich nachträglich als irreversible Kosten herausstellen (ex post).Bei Abweichungsanalysen werden vor allem zwei Abweichungen untersucht, die ex ante- und die ex post-Abweichungen. Ex ante-Abweichungen sind die Unterschiede aus dem Vergleich geplanter Größen und den später beobachteten Ist-Größen. Ex post-Abweichungen sind die Differenzen aus im Nachhinein festgelegten Größen und den Ist-Größen derselben Periode. Diese Unterscheidung spielt unter anderem bei der Preisabweichung eine Rolle, wo die Differenz zwischen den Ist- und den Sollkosten, also zwischen geplanten und tatsächlichen Kosten der Produktionsfaktoren untersucht wird.
+
+
+== Siehe auch ==
+Ex-Post-Evaluation
+ex nunc („von nun an“)
+ex tunc („von Anfang an“)
+Latein im Recht
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

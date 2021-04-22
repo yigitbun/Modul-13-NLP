@@ -1,0 +1,88 @@
+Die Registrierungsagentur für Sozial- und Wirtschaftsdaten da|ra setzt sich zum Ziel, Forschungsdaten dauerhaft identifizierbar und verfügbar zu machen, um so die Akzeptanz von Forschungsdaten als legitime und zitierfähige Beiträge der wissenschaftlichen Forschung zu erhöhen und die Archivierung von Forschungsdaten zu unterstützen. da|ra wird von GESIS Leibniz-Institut für Sozialwissenschaften und der Deutschen Zentralbibliothek für Wirtschaftswissenschaften ZBW betrieben.
+
+
+== Aufgabe ==
+Im Sinne von Good Scientific Practice steht die Forderung, entstandene Primärdaten öffentlich zugänglich zu machen, damit nicht nur die endgültigen Forschungsergebnisse vorliegen, sondern auch der gesamte Forschungsprozess nachvollzogen werden kann. Mittels Digital Object Identifier werden Forschungsdaten über da|ra dauerhaft identifizierbar und zitierbar gemacht.
+
+
+=== Registrierung ===
+da|ra vergibt DOI-Namen für Forschungsdaten und andere digitale Objekte, die im Rahmen des sozial- und wirtschaftswissenschaftlichen Forschungsprozesses entstanden sind. Während die registrierten Objekte bei den lokalen Datenzentren bzw. Datenanbietern verbleiben, werden die dazugehörigen Metadaten in einem Informationssystem recherchierbar gemacht.
+Der DOI ist ein dauerhafter persistenter Identifikator, der zur Zitierung und indirekten Verlinkung von Objekten verwendet wird. Der DOI ist dauerhaft mit dem Objekt als Entität verknüpft und erlaubt eine Referenzierung des Objektes auch bei Veränderungen des Speicherorts. Über den DOI sind einem Objekt aktuelle und strukturierte Metadaten zugeordnet. Der DOI-Bezug ist daher gekoppelt an die Ablieferung eines definierten Metadatensatzes pro Objekt.da|ra bezieht die DOIs über die Mitgliedschaft in DataCite. DataCite ist bei der International DOI Foundation als offizielle DOI Registration Agency akkreditiert.
+
+
+=== Liste der da|ra-Publikationsagenten ===
+Zur DOI-Registrierung berechtigt sind Organisationseinheiten aus dem sozial- und wirtschaftswissenschaftlichen Forschungsbereich. Bei den digitalen Objekten kann es sich um Forschungsdaten auf Studienebene, Aggregatdaten, Mikrodaten oder auch Daten der qualitativen Forschung handeln.Liste der da|ra-Publikationsagenten:
+
+Das Forschungsdatenzentrum ALLBUS beim GESIS Leibniz-Institut für Sozialwissenschaften
+Arbeitskreis Militärgeschichte e. V.
+Bayerische Staatsbibliothek (BSB)
+Datenservicezentrum Betriebs- und Organisationsdaten (DSZ-BO)
+Forschungsdatenzentrum Bildung am Deutschen Institut für Internationale Pädagogische Forschung (FDZ Bildung)
+Forschungsdatenzentrum im Bundesinstitut für Berufsbildung (BIBB-FDZ)
+Bundesinstitut für Bevölkerungsforschung (BiB)
+Comparative Study of Electoral Systems (CSES)
+Das Tschechische Sozialwissenschaftliche Datenarchiv (ČSDA) am Institut für Soziologie der Akademie der Wissenschaften
+datalino
+Forschungsdatenzentrum Deutsches Zentrum für Altersfragen (FDZ-DZA)
+Forschungszentrum der Deutschen Bundesbank
+Deutsches Institut für Erwachsenenbildung – Leibniz-Zentrum für Lebenslanges Lernen (DIE)
+Diametros – An Online Journal of Philosophy
+LMU-ifo Economics & Business Data Center (EBDC)
+etum - eJournal Theater und Medien
+Europa-Universität Viadrina
+GESIS Datenarchiv für Sozialwissenschaften
+Facultad de Psicología de la Universidad de la República
+Forschungsdatenzentrum "Gesundheitsmonitoring" am Robert Koch-Institut (FDZ-RKI)
+HeiDok – Der Dokumentenserver der Universität Heidelberg
+Human Sciences Research Council (HSRC)
+Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG)
+IANUS - Forschungsdatenzentrum Archäologie & Altertumswissenschaften
+INDEPTH
+Das Forschungsdatenzentrum "Internationale Umfrageprogramme" beim GESIS Leibniz-Institut für Sozialwissenschaften
+ICPSR – Inter-University consortium for political and social research
+International Journal of Literary Linguistics (IJLL)
+Leibniz-Institut für Ost- und Südosteuropaforschung (IOS)
+Institut für Publizistik- und Kommunikationswissenschaft der Freien Universität Berlin
+Institut für Soziologie an der Universität Duisburg-Essen
+Institut Technik und Bildung (ITB) - Berufsbildungsforschung in Bremen
+Institut zur Qualitätsentwicklung im Bildungswesen (IQB)
+Journal "Erdélyi Társadalom"
+Journal of Neolithic Archaeology (JNA) des Instituts für Ur- und Frühgeschichte der Christian-Albrechts-Universität zu Kiel
+Käte Hamburger Kolleg/Centre for Global Cooperation Research
+Forschungsdatenzentrum des Leibniz-Instituts für Bildungsverläufe e.V. (FDZ-LIfBi)
+Max-Planck-Institut für Bildungsforschung
+medica mondiale e. V.
+Forschungsdatenzentrum des Beziehungs- und Familienpanels (FDZ-pairfam)
+Das Forschungsdatenzentrum PsychData des Leibniz-Zentrums für Psychologische Information und Dokumentation (ZPID)
+QJB - Querelles. Jahrbuch für Frauen- und Geschlechterforschung
+Querelles-net – Zeitschrift für Frauen- und Geschlechterforschung
+Rheinisch-Westfälisches Institut für Wirtschaftsforschung (RWI)
+Gesellschaft für Südostasienwissenschaften (SEAS)
+Forschungsdatenzentrum des Survey of Health, Ageing and Retirement in Europe (FDZ-SHARE)
+Das Forschungsdatenzentrum des Sozio-oekonomischen Panels (FDZ-SOEP)
+Arbeitsbereich "Theoretische Philosophie" an der Johannes Gutenberg-Universität Mainz
+Universitätsbibliothek Bielefeld
+Universitätsbibliothek Mannheim
+Universitätsbibliothek Paderborn
+Verbraucherzentrale Nordrhein-Westfalen e. V.
+Virtuelle Fachbibliothek Recht
+Das Forschungsdatenzentrum "Wahlen" beim GESIS Leibniz-Institut für Sozialwissenschaften
+Wissenschaftszentrum Berlin für Sozialforschung (WZB)
+World Values Survey Association
+Zentrum für Europäische Wirtschaftsforschung GmbH (ZEW)
+Leibniz-Zentrum für Literatur- und Kulturforschung (ZfL)
+Zentrum für ökonomische Bildung in Siegen (ZöBiS)
+Zentrum für Zeithistorische Forschung Potsdam (ZZF)
+
+
+=== Datennachweissystem ===
+Im Rahmen der Registrierungsagentur da|ra baut GESIS seit Ende 2011 ein umfassendes Nachweissystem für Daten der empirischen Sozialforschung auf. In diesem Datennachweissystem werden nicht über da|ra registrierte, aber dennoch für die sozialwissenschaftliche Forschung relevante Datenbestände beschrieben, inklusive Informationen zur Datenquelle und zu Zugangsmöglichkeiten. Ziel ist es, weit verteilte Datenbestände, die von unterschiedlichen Einrichtungen erhoben und häufig auch zur Nachnutzung bereitgestellt werden, für die Sekundärforschung zentral nachzuweisen. Die Datennachweise können über die da|ra-Metadatensuche recherchiert werden.
+
+
+== Weblinks ==
+da|ra - Registrierungsagentur da|ra
+da|ra auf Twitter
+da|ra auf Facebook
+
+
+== Einzelnachweise ==

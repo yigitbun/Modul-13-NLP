@@ -1,0 +1,118 @@
+Das Schulnetzwerk oder Schulnetz bezeichnet ein vor allem für Unterrichtszwecke eingesetztes Rechnernetz in Schulen.
+Idealerweise werden verschiedene Schulen einer Kommune in einem gemeinsamen Intranet betrieben. Damit können Dienste wie sicherer Internet-Zugang, Datensicherung, Bereitstellung von Anwendungen, Moodle-Server, Videokonferenz, Benutzerverwaltung u. v. m. durch ein zentrales Rechenzentrum mit hauptamtlichem Personal realisiert werden. Ein gelungenes Beispiel für diese Integration ist das „Schulnetz Koblenz“.
+Aus Sicherheitsgründen besitzen Schulen für gewöhnlich zwei getrennte Netzwerke: das Schulnetzwerk für die Klassen- und Computerräume, und das Verwaltungsnetzwerk für die Schulverwaltung. Wenn man vom Schulnetzwerk oder vom Schulserver spricht, dann meint man damit meistens das Netzwerk für die Klassen- und Computerräume, das "pädagogische Netzwerk".
+
+
+== Problembeschreibung ==
+Die Anforderungen an Rechnernetze sind an Schulen prinzipiell die gleichen wie in größeren Firmen, Universitäten und anderen Einrichtungen. In der Schule findet allerdings ein beinahe stündlicher Wechsel der Nutzer des Computers statt. Im Schulnetz müssen die Schüler daher von jedem Computer auf ihre Daten zugreifen können. Gleichzeitig muss sichergestellt werden, dass die Computer ausreichend gegen versehentliche oder absichtliche Manipulation geschützt sind. Eine identische Arbeitsoberfläche auf allen Computern stellt sicher, dass der Unterricht reibungslos vonstattengehen kann. Nur dann ist gewährleistet, dass die Schüler Funktionen genau an der Stelle finden, an der sie selbst und die Lehrkraft sie erwarten. Zudem soll die Lehrkraft in der Lage sein, auf die Rechner der Schüler zuzugreifen, um Zugangsrechte zu Programmen zu ändern, die Aktionen der Schüler zu beobachten und ihnen ggf. zu helfen.
+Notwendige und erwünschte Funktionen im schulischen Rechnernetz sind:
+
+Zentrale Verwaltung und Speicherung der Schülerarbeiten auf dem Server, damit jeder Schüler von jedem Computer aus auf seine Daten zugreifen kann
+Gemeinsame Ordner auf dem Server, in denen Aufgaben und Ergebnisse zentral gespeichert und eingesammelt werden können
+Benutzerverwaltung, die ein Versetzen der Schüler am Schuljahresende ermöglicht (automatisches Zuweisen zu neuen Gruppen)
+Sperrung des Zugriffes auf jugendgefährdende Seiten im Internet (diese Verpflichtung hat die Schule durch das Jugendschutzgesetz)
+Viren- und Vandalismussicherheit sowie Unempfindlichkeit gegen "jugendliche Experimentierfreude"
+Begrenzung des Speicherplatzes (Dateien, E-Mails, …), den Schüler oder Lehrkräfte maximal auf dem Server belegen dürfen (Disk Quota); Begrenzung oder Abrechnung gedruckter Seiten
+Hosting der Schul-Website (zumindest als Arbeitsplattform für ein Website-Projekt)
+Hosting eines Schul-Intranets (z. B. für Lehrinhalte)
+Zentrale Bereitstellung von CD-Images mit Lernprogrammen, Lexika etc.; abgesichert gegen "illegales Kopieren"
+Datensicherung von Clientcomputern (z. B. als Image), um diese schnell wiederherstellen zu können (z. B. nach Hardwarefehlern oder Schülersabotage)
+Cache, Firewall und Jugendschutzfilter für den Internetzugang
+Fernsteuerung von Schülercomputern (Bildschirmübertragung, Sperren, …) vom Lehrerrechner aus
+Projektion des Bildschirms des Lehrercomputers oder eines Schülercomputers über einen Videoprojektor ("Beamer")
+Mailserver
+Bereitstellung von Netzlaufwerken
+Druckeransteuerung
+Zugriffssteuerung des Internetzugangs
+Zugriffssteuerung von Druckern
+Zugriffssteuerung von E-Mail-Software, Chatsoftware, Instant Messaging-Software und anderer Kommunikationsmöglichkeiten
+Zugriffssteuerung auf Software (Freigabe nur von bestimmten Programmen für den Unterricht)
+Zugriffssteuerung auf Peripheriegeräte (etwa das Deaktivieren von USB-Sticks, CD-ROM-Laufwerken etc.)
+Steuerung der Arbeitsplatzumgebung je nach Unterrichtstyp (etwa Vorgabe der sichtbaren Programme in der Startleiste, "Klausurumgebung")
+
+
+== Lösungsansätze für die Clientsicherung ==
+
+
+=== Festplattenwächter ===
+Festplattenwächter schützen die Festplatten vor Veränderungen. Es gibt sie in Hard- oder Softwareausführung. Der Einsatz einer Hardware ist mit einem etwas höherem Installationsaufwand verbunden, da die Karte in jeden Rechner einzeln eingebaut werden muss. Beide Ausführungen lassen sich zentral über eine Software steuern. So ist es möglich, mehrere Computer von einem Arbeitsplatz aus zu administrieren. Software-Versionen bieten darüber hinaus häufig zusätzlich ausbauende Funktionen wie Schutz vor Anstecken eines USB-Speichers oder Internetsperre, die im Unterricht vom Lehrer direkt bedient werden können. Die Hardwareausführung gilt als sicherer, da sie das System bereits vor dem Laden des Betriebssystems schützt und ebenfalls das BIOS schützen kann.
+Es gibt mehrere Methoden, mit denen ein Festplattenwächter-Konzept realisiert werden kann. Die beiden wichtigsten werden im Folgenden beschrieben.
+
+
+==== Umleitung der Festplattenzugriffe ====
+In diesem Modus leitet der Festplattenwächter die Festplattenzugriffe um: Die gewünschten Operationen werden nicht auf die geschützte Festplatte angewendet, sondern mithilfe eines Pufferspeichers (für gewöhnlich eine versteckte Datei oder Partition) protokolliert. Soll z. B. auf der Festplatte eine Datei angelegt werden, legt der Festplattenwächter die Datei tatsächlich im Pufferspeicher an. Wird diese Datei nun gelesen, dann leitet der Festplattenwächter auch diese Operation auf den Pufferspeicher um; Bearbeitungs- und Löschoperationen werden ebenfalls auf diese Art und Weise umgeleitet. Für das Betriebssystem, die Anwendungen und den Benutzer sind diese Vorgänge völlig transparent und zeigen keinen bemerkbaren Geschwindigkeitsverlust. Außer der Installation der Hard- oder Software sind keine weiteren Änderungen oder Umgewöhnungen nötig.
+Um den Ursprungszustand wiederherzustellen, braucht der Festplattenwächter nur den Pufferspeicher zu leeren. Dies kann in regelmäßigen Abständen, z. B. bei jedem Neustart, oder manuell durch eine Tastenkombination während des Startvorgangs geschehen und verursacht keine nennenswerte Verzögerung.
+
+
+==== Abbild der Festplatte ====
+In diesem Modus existiert entweder auf einer versteckten Partition oder auf einer versteckten Festplatte ein vollständiges Speicherabbild ("image") der Haupt-Festplatte. Alle Operationen werden wie gewohnt auf diese Festplatte angewendet. Soll nun der Ursprungszustand wiederhergestellt werden, spielt der Festplattenwächter das versteckte Image neu auf die Festplatte auf, was mit einem erheblichen Zeitaufwand verbunden sein kann.
+
+
+=== Softwarelösungen ===
+In der Linux-Musterlösung des Landes Baden-Württemberg wird die Software Rembo/mySHN (Remote Boot) verwendet, die das SheilA-Konzept (SheilA steht für Selbstheilende Arbeitsstationen) verwirklicht. Die Schüler haben die Möglichkeit, am Rechner alles auszuprobieren, selbst das Formatieren der Festplatte ist möglich. Beim nächsten Bootvorgang wird das Image aus einer versteckten Partition der Festplatte oder (falls dies nicht möglich ist) über das Netz wiederhergestellt. Dazu ist kein Eingriff des Administrators erforderlich, der so von lästigen Reparaturaufgaben entlastet wird.
+Nach Programmänderungen durch den Administrator werden neue Images parallel an alle Clients gesendet, die der entsprechenden Hardwareklasse zugeordnet sind. Hierbei werden die Änderungen nur inkrementell vorgenommen, d. h. es werden nur Teile ersetzt, die sich geändert haben. Dies macht die Verteilung effizient.
+Ab Version 4 von paedML werden für die Selbstheilung drei Alternativen angeboten:
+
+LINBO – Linux Boot System, entwickelt von Klaus Knopper (* 1968), dem Entwickler der Linux-Distribution Knoppix
+Rembo (s. o. in der Weiterentwicklung von MySHN)
+Tivoli (Weiterentwicklung von Rembo durch IBM)
+
+
+==== FOG ====
+FOG ist für die Installation auf einem Red-Hat-/Fedora-/Centos-Rechner oder auf einem Ubuntu-/Mint-Rechner konzipiert. Für SuSE gibt es ein Zusatzpaket. Für Slackware (Arktur) gibt es eine spezielle Anpassung.
+
+
+== Lösungsansätze für Server ==
+Das Land Baden-Württemberg hat paedML, eine „Musterlösung für schulische Computernetze“ für Serversysteme an Schulen entwickelt, die den Administrationsaufwand verringern soll und die entsprechenden Bedürfnisse abdeckt.
+
+
+=== Windows-Server ===
+Windows-Betriebssysteme sind als „Personal-Computer“ konzipiert und lassen dem Nutzer daher viele Freiheiten in der Konfiguration seines Arbeitsplatzrechners. Bei der Verwendung von Windows im Schulnetz sind die Administratoren daher sehr gefordert, die angegebenen Bedingungen zur Sicherung vor ungewollten Änderungen zu erfüllen. Windows-Serversysteme arbeiten mit der Zuweisung von Benutzerrechten. Mit dem windowseigenen Dienstprogramm Gpedit.msc können Profile festgelegt und als unveränderlich definiert werden. Diese Vorgehensweise erfordert vom Administrator gute Fachkenntnisse und strukturiertes Vorgehen. Wird eine so präparierte Festplatte geklont, d. h. exakte Kopien angelegt, kann die einmal vorgefertigte Zusammenstellung von Programmen und Benutzerrechten auf andere Festplatten kopiert werden. Dies geschieht mit Norton Ghost, Drive Image oder anderer Clone-Software über das Netzwerk.
+Probleme: Falls die Rechner in der Hardwarestruktur zu unterschiedlich sind, müssen mehrere Musterinstallationen parallel gepflegt werden. Bei Ausfall einer Musterinstallation muss diese neu aufgesetzt werden. Neben den Kosten für das Windows-Serverbetriebssystem fallen bei Microsoft auch Lizenzkosten für jeden Client für die Nutzung im Netz an (neben den Betriebssystemkosten des Clients).
+
+
+=== macOS Server ===
+Eine weitere Möglichkeit bietet das auf Apples macOS basierende Betriebssystem macOS Server.
+Die Vorteile dieser Lösung werden von den Schulen in der Flexibilität des Systems gesehen. Zum einen bietet das Betriebssystem wie Linux eine offene Plattform für freie Software (so lassen sich zahlreiche quelloffene („Open Source“-) Projekte aus der Linux-Welt direkt auch unter Mac OS X nutzen), zum anderen wird der Administrator durch den Hersteller ähnlich wie bei Windows mit mächtigen Administrationswerkzeugen versorgt. Als Vorteil wird oft auch der Preis gesehen, denn es fallen außer den Anschaffungskosten für die Serverhardware keinerlei weitere Lizenzkosten (auch für Clients) an.
+Da Apple als Hersteller von Mac OS X langjährige Erfahrung im Bildungsbereich hat (speziell in den USA), verwundert es auch nicht, dass das Betriebssystem zahlreiche Funktionen bereitstellt, die bei anderen Systemen erst durch spezielle Software zugekauft oder eigens für die Schule entwickelt werden müssen. Darunter zählen beispielsweise die integrierten Virenfilterung für E-Mail, Imaging von Clients (Macs), plattformübergreifende Bereitstellung von Netzwerklaufwerken, einheitliche Administration für alle angebundenen Clients (Unix/Linux, Mac und PC), Massenimport und ‑export von Benutzern und Gruppen, Versetzen von Benutzergruppen zu neuen Klassen (Gruppen), Quotierung für E-Mail, Drucken und Festplattenplatz sowie ein grundsätzlich von Beginn an sicheres System mit einer Firewall.
+Der Nachteil einer „Mac OS X Server-“Lösung besteht derzeit in dem immer noch geringen Know-how zu diesem Betriebssystem an den Schulen selbst. Daneben ist eine Fernwartung ohne den Einsatz eines Macs nur mit VNC oder per SSH kostenlos möglich.
+Derzeit bilden sich neue Projekte, um den Server noch einfacher für den Schuleinsatz zu gestalten. Mehr Informationen hierzu finden sich unter:
+
+Die neoschool-Schulserverlösung
+OpenMacSchoolServerDiese weiterführenden Projekte ergänzen die Basisfunktionen von Mac OS X Server um eine vorgegebene Benutzerstruktur und Dateistrukturen für Schulen, Contentfilterung im Web, PC Imaging, Backuplösungen für Schulen, Management von Windows-Clients, Content-Management für Schulen, E-Learning Plattform und eine Webschnittstelle zur Basisfernwartung auch von Windows- oder Linux-Systemen aus.
+
+
+=== Linux-Server ===
+Mittlerweile wurden mehrere Lösungen als Pakete für die speziellen Probleme in schulischen Netzen entwickelt. Bei den meisten Linux-Distributionen fallen keine Lizenzkosten an, und sie lassen sich recht bequem an die Bedürfnisse der Schulen anpassen. Die Kosteneinsparungen auf der Softwareseite können z. B. in bessere Hardware oder in Lernsoftware investiert werden.
+Vorkonfigurierte Serverlösungen für den Schuleinsatz:
+
+Edubuntu
+c’t/ODS-Schulserver Arktur
+Open School Server
+Linux-Musterlösung
+Linuxmuster.net
+Skolelinux
+logoDIDACT
+IServ
+Univention Corporate Server @ schoolNachteile von Lösungen auf reiner Linux-Basis in Schulen sind oft die vorhandene Infrastruktur mit installierten Windows-Clients und zugehöriger Software.
+Vorteile sind die verhältnismäßig niedrige Kosten und die offene Struktur eines Open-Source-Systems, welches beliebige Anpassungen an lokale Gegebenheiten zulässt.
+Als Einstieg bietet sich an Schulen der Einsatz von Linux auf "ausgedienter", älterer Hardware an. Um auf diesen älteren Clients allerdings die heute modernen Linux-Programme ausführen zu können, bieten sich Linux-Terminal-Server-Lösungen an, durch welche die rechenintensiven Anwendungen auf einem aktuellen Rechner ausgeführt werden und deren Ein- und Ausgaben über die zu Computer-Terminals umgerüsteten, älteren Clients umgeleitet werden.
+Eine Terminalserver-Terminalclient-Lösung ist allerdings bei vielen grafischen Anwendungen (z. B. Videoschnitt) überfordert; weiterhin gilt die Abschätzung, dass für jeweils 20 bis 40 Clients ein Server benötigt wird.
+
+
+== Siehe auch ==
+Schulen ans Netz
+Online-Didaktik
+E-Learning
+Digitale Schulbank
+
+
+== Literatur ==
+Karl Sarnow (2000): Linux in der Schule. ISBN 3-934678-21-1
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Informationen über Schulserver auf Linux-Basis

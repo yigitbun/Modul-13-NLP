@@ -1,0 +1,112 @@
+Indium(III)-oxid ist eine chemische Verbindung von Indium und Sauerstoff. Das luftstabile, hellgelbe Oxid ist ein Halbleiter.
+
+
+== Gewinnung und Darstellung ==
+Indium(III)-oxid bildet sich bei hohen Temperaturen unter blauer Flamme aus den Elementen.
+
+  
+    
+      
+        
+          4
+           
+          I
+          n
+           
+          +
+           
+          3
+           
+          
+            O
+            
+              2
+            
+          
+           
+          ⟶
+           
+          2
+           
+          I
+          
+            n
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ In\ +\ 3\ O_{2}\ \longrightarrow \ 2\ In_{2}O_{3}} }
+  Auch aus Indium(III)-hydroxid bildet sich beim Erhitzen Indium(III)-oxid.
+
+  
+    
+      
+        
+          2
+           
+          I
+          n
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+          ⟶
+           
+          I
+          
+            n
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ In(OH)_{3}\longrightarrow \ In_{2}O_{3}+3\ H_{2}O} }
+  
+
+
+== Eigenschaften ==
+Es existieren zwei Modifikationen des hellgelb farbenen Indium(III)-oxids. Die bei Normalbedingungen stabile α-Modifikation wandelt sich unter Druck bei 1000 °C in eine β-Modifikation um. α-Indium(III)-oxid kristallisiert in einer von der Calciumfluorid-Struktur ableitbaren Struktur, in der Fluorid-Leerstellen bestehen. β-Indium(III)-oxid besitzt Korundstruktur.
+Dünnfilmschichten von Indium(III)-oxid, welche mit Chrom dotiert sind (In2-xCrxO3), weisen ferromagnetische Eigenschaften auf und zählen zu den magnetischen Halbleitern.
+
+
+== Verwendung ==
+Indium(III)-oxid wird überwiegend dazu verwendet, Indiumzinnoxid herzustellen. Dieses ist ein wichtiger Bestandteil von Flüssigkristallbildschirmen und Touchscreens. Das Mischoxid aus Mangan, Yttrium und Indium ergibt ein brillantes blaues Pigment, das YInMn-Blau. Die allgemeine Formel lautet YIn1-xMnxO3 Ist kein Mangan enthalten, ist das Oxid farblos, ist kein Indium enthalten, ist es schwarz.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. Walter de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1.

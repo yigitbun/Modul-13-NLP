@@ -1,0 +1,12 @@
+In der Versicherungswirtschaft wird mit Dunkelverarbeitung ein Geschäftsprozess in der Vorgangsbearbeitung bezeichnet, der vollständig automatisiert abläuft. Dieser Prozess bleibt im Dunkeln, weil der Ablauf vom Anwender weder beeinflusst noch die Durchführung verfolgt werden kann.
+Typische Aufgaben, die komplett in Dunkelverarbeitung durchgeführt werden können, sind beispielsweise der Massendruck von Bescheiden oder Mahnungen, die Vorsortierung des Posteingangs, die Berechnung und Durchführung der Zinskapitalisierung von Geldanlagen oder Datenabgleichsarbeiten.
+Die Vorteile der Dunkelverarbeitung liegen in der Verkürzung der Verarbeitungszeit und Steigerung der Bearbeitungsqualität bei standardisierten Vorgängen, die keine Benutzerinteraktion erfordern.
+
+
+== Literatur ==
+Marco Felten und J.-Matthias von der Schulenburg: Chancen und Risiken der Industrialisierung in der Versicherungswirtschaft. Verlag Versicherungswirtschaft (Taschenbuch), Karlsruhe 2012, ISBN 3899526724.
+
+
+== Weblinks ==
+Blackbox in der Poststelle: Prozessoptimierung mit Dunkelverarbeitung. Beitrag vom 7. August 2013 auf crn.de
+Nico Taufer: Industrialisierung in der Versicherungsbranche: Eine empirische Erhebung des Status Quo. diplom.de, Hamburg 2009, ISBN 3-8366-2609-8, S. 59 (eingeschränkte Vorschau in der Google-Buchsuche).

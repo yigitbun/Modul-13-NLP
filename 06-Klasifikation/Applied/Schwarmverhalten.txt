@@ -1,0 +1,63 @@
+Schwarmverhalten bezeichnet das Verhalten von Schwarmfischen, Vögeln, Insekten und anderen Tieren, sich zu Aggregationen zusammenzuschließen. Die Individuen in einem Schwarm gehören meist derselben Art an, es können sich jedoch auch Mischschwärme aus Tieren unterschiedlicher Arten und Größe bilden. Typische Schwarmtiere sind beispielsweise Heringe, Stare und Wanderheuschrecken.
+Vorteile der Schwarmbildung ergeben sich bei der Nahrungssuche und im Schutz vor möglichen Fressfeinden, z. B. durch kollektive Wachsamkeit. Immer bewegen sich die Individuen des Schwarmes gemeinsam in eine Richtung. Die physiologische Basis der Fähigkeit, sich synchron zu bewegen, wird in den Spiegelneuronen vermutet.
+Bei Landsäugetieren spricht man bei ähnlichem Verhalten von einer Herde, bei schneller Fortbewegung von einer Stampede.
+Das Phänomen wird nicht nur in verschiedenen biologischen Disziplinen untersucht, sondern auch z. B. in der Informatik (siehe Partikelschwarmoptimierung). Anwendungen gibt es in der Computergrafik (siehe Partikelsystem) und im Militär.
+
+
+== Regeln für das Entstehen von Schwärmen ==
+
+Interessante Ergebnisse brachten Computersimulationen von Schwärmen, die 1986 von Craig Reynolds zum ersten Mal modelliert wurden. Das Prinzip basiert auf drei Regeln, die die einzelnen Agenten (Individuen / Boids) beachten:
+
+Bewege dich in Richtung des Mittelpunkts derer, die du in deinem Umfeld siehst (Kohäsion).
+Bewege dich weg, sobald dir jemand zu nahe kommt (Separation).
+Bewege dich in etwa in dieselbe Richtung wie deine Nachbarn (Alignment).Als Folge dieser Regeln auf Individuenebene ergibt sich eine Gesamtstruktur, nämlich der Schwarm. Man spricht von Emergenz.
+Eine Gruppe von Wissenschaftlern der Universität Leeds um Jens Krause erforschte, dass ein strukturelles Gedächtnis in Fisch- und Vogelschwärmen dafür sorgt, dass auf eine spezielle Schwarmformation immer eine ganz bestimmte nächste folgt. So ordnen sie sich zunächst in einen ungeordnet chaotischen Schwarm wie bei Mückenschwärmen und bilden als Nächstes einen Torus.
+Der Physiker und Vogelforscher Andrea Cavagna aus Rom stellte in einem EU-Forschungsprojekt fest, dass Vögel sich an den sieben Nachbarvögeln ausrichten, was der höchsten Zahl entspricht, die Vögel unterscheiden können. Generell halten sie mindestens eine Flügelspanne Abstand zueinander. Bei Richtungsänderungen des Schwarms reagiert nicht unbedingt die Schwarmspitze, jedes Individuum kann eine Richtungsänderung hervorrufen und der ganze Schwarm organisiert sich hierdurch um. Bei Annäherung von Greifvögeln verdichtet sich der Schwarm, um das Anvisieren eines Individuums zu erschweren. Manchmal wird sogar der Greifvogel vom Schwarm so eingeschlossen, dass dieser sich flugunfähig abfallen lassen muss. Stört ein Greifvogel den schwarmauflösenden Anflug zum Schlafplatz, steigt der Schwarm wieder auf, oft bis zum Einsetzen der Dunkelheit.
+
+Viele Arten von Zugvögeln fliegen allerdings nicht in Schwärmen, sondern in V-förmigen Zügen oder, wie zum Beispiel die Kraniche, auch in langen Ketten schräg hintereinander. Computermodelle für Schwarmverhalten waren lange Zeit daran gescheitert, solche V-Formationen aus einem Schwarm zufällig angeordneter, vom Boden auffliegender Tiere zu berechnen. Valmir Barbosa und Andre Nathan (Universidade Federal do Rio de Janeiro) berichteten im Frühjahr 2007, das Problem gelöst zu haben: Durch die Kombination von nur zwei Vorgaben für jedes Tier:
+
+Nutze den Auftrieb, den der Flügelschlag eines vor dir fliegenden Vogels verursacht.
+Nimm dabei eine Position ein, von der aus du ungestört nach vorn blicken kannst.Diese Modellrechnungen gingen von Schwärmen mit bis zu 35 Tieren aus, und unabhängig von der ursprünglichen Anordnung dieser Tiere entstand schließlich immer eine ordentliche Formation.
+
+
+== Algorithmische Komplexität ==
+In einer Anwendung, die Schwarmverhalten simuliert, gibt es keine zentrale Steuerung für die einzelnen Individuen. Für jedes Individuum muss die nächste Position separat berechnet werden. Daraus ergibt sich nach der O-Notation ein O(n²)- Algorithmus mit einer Rechenzeit von 
+  
+    
+      
+        
+          n
+          
+            2
+          
+        
+      
+    
+    {\displaystyle n^{2}}
+   bei n Individuen. Es gibt verschiedene Ansätze, um die Rechenzeit bei variierender Anzahl Individuen konstant zu halten oder wenigstens die Rechenzeit eines O(n²)- Algorithmus zu verringern.
+Schon Reynolds versuchte, zu diesem Zweck ein 3D-Gitterwerk zu implementieren, in dem seine Boids basierend auf ihrer Position in Behälter verteilt werden. Über dieses Gitterwerk können die Boids schnell die Behälter in ihrem Umfeld auf Nachbarn überprüfen, was die Laufzeit des Algorithmus verringert.
+
+
+== Anwendung im Militär ==
+Die US Air Force begann im Jahre 1998 mit der Erforschung eines autonomen Drohnensystems, genannt LOCAAS (Low Cost Autonomous Attack System). Dieses Drohnensystem nutzt einen Algorithmus, der auf dem Modell von Craig Reynolds basiert, um als Schwarm fliegen zu können. Sobald bis zu 192 Drohnen von einem Tarnkappenbomber abgeworfen werden, beginnen sie sich elektronisch untereinander zu verständigen und greifen feindliche Truppen im Schwarm an.
+
+
+== Siehe auch ==
+Schwarmtrieb
+Gruppendynamik
+Herdenverhalten (in Finanzmärkten)
+Kollektive Intelligenz (Schwarmintelligenz)
+
+
+== Literatur ==
+Gabriele Brandstetter, Bettina Brandl-Risi u. Kai van Eikels (Hrsg.): Schwarm(E)Motion. Bewegung zwischen Affekt und Masse. Rombach, Freiburg 2008 ISBN 3793095002
+Eva Horn, Lucas Marco Gisi (Hrsg.): Schwärme – Kollektive ohne Zentrum. Eine Wissensgeschichte zwischen Leben und Information. Bielefeld: transcript 2009. ISBN 978-3-8376-1133-5
+
+
+== Weblinks ==
+Video: Ein Miniaturschwarm im Labor und die zugehörige Erklärung (englisch)
+Eintrag zu Schwarmforschung im Austria-Forum (im Heimatlexikon)
+Mini-Drohnen fliegen spektakuläre Formationen (Video und Text in SPIEGEL-online vom 3. Februar 2012)
+
+
+== Belege ==

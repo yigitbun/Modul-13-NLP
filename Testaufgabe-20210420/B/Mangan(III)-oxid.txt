@@ -1,0 +1,186 @@
+Mangan(III)-oxid ist ein Oxid des Mangans. In der Natur ist Mangan(III)-oxid als seltenes Mineral Bixbyit bekannt.
+
+
+== Gewinnung und Darstellung ==
+Es entsteht zum Beispiel in Zink-Braunstein-Zellen bei deren Entladung:
+
+  
+    
+      
+        
+          Z
+          n
+          +
+          2
+           
+          M
+          n
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          Z
+          n
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+          +
+          M
+          
+            n
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Zn+2\ MnO_{2}+H_{2}O\longrightarrow Zn(OH)_{2}+Mn_{2}O_{3}} }
+  Mangan(III)-oxid entsteht auch bei der Zersetzung von Mangan(IV)-oxid (MnO2 bei Temperaturen über 535 °C).
+Bei der Umsetzung einer Lösung von Mangansulfat-Tetrahydrat mit Wasserstoffperoxid und Ammoniak bei Raumtemperatur erhält man γ-MnO(OH) (Manganit). Aus diesem kann durch vorsichtige Entwässerung im Vakuum bei 250 °C γ-Mangan(III)-oxid erhalten
+werden.
+
+  
+    
+      
+        
+          2
+           
+          M
+          n
+          S
+          
+            O
+            
+              4
+            
+          
+          ⋅
+          4
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          
+            O
+            
+              2
+            
+          
+          +
+           
+          4
+           
+          N
+          
+            H
+            
+              3
+            
+          
+          ⟶
+        
+      
+    
+    {\displaystyle \mathrm {2\ MnSO_{4}\cdot 4\ H_{2}O+H_{2}O_{2}+\ 4\ NH_{3}\longrightarrow } }
+  
+  
+    
+      
+        
+           
+          2
+           
+          M
+          n
+          O
+          (
+          O
+          H
+          )
+          +
+           
+          2
+           
+          (
+          N
+          
+            H
+            
+              4
+            
+          
+          
+            )
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+           
+          6
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {\ 2\ MnO(OH)+\ 2\ (NH_{4})_{2}SO_{4}+\ 6\ H_{2}O} }
+  
+
+
+== Eigenschaften ==
+Mangan(III)-oxid ist ein nicht brennbarer schwarzer geruchloser Feststoff, der praktisch unlöslich in Wasser ist. Er zersetzt sich bei Erhitzung über 940 °C. Das in der Natur nicht vorkommende γ-Mn2O3 besitzt eine tetragonale Kristallstruktur mit der Raumgruppe I41/amd (Nr. 141)Vorlage:Raumgruppe/141 (a = 577 pm, c = 944 pm). Es wandelt sich bei 500 °C in 48 Stunden, bei Raumtemperatur in einem Jahr in die α-Form um. Diese hat bei Temperaturen über 29 °C eine kubische Bixbyit-Struktur mit der Raumgruppe Ia3 (Nr. 206)Vorlage:Raumgruppe/206 und darunter eine orthorhombische Struktur mit der Raumgruppe Pcab (Nr. 61, Stellung 2)Vorlage:Raumgruppe/61.2. Bei höheren Drücken existieren auch noch andere Modifikationen. So besitzt das bei Drücken über 28 GPa synthetisierbare δ-Mn2O3 eine Kristallstruktur vom  CaIrO3-Typ mit der Raumgruppe Cmcm (Nr. 63)Vorlage:Raumgruppe/63, ε-Mn2O3 eine Kristallstruktur vom Korund-Typ mit der Raumgruppe R3 (Nr. 148)Vorlage:Raumgruppe/148 und ζ-Mn2O3 eine verzerrte trikline Doppelperovskit-Struktur mit der Raumgruppe F1 (Nr. 2, Stellung 5)Vorlage:Raumgruppe/2.5.
+
+
+== Verwendung ==
+Mangan(III)-oxid wird als Ausgangsstoff zur Herstellung von Lithiummangan(III,IV)-oxid LiMn2O4 (Kathodenmaterial von Lithium-Ionen-Akkus) und als Pigment in Farbstoffen (färbt Glas z. B. braun) verwendet. Das Mischoxid mit Yttrium und Indium ergibt ein brillantes blaues Pigment, das YInMn-Blau. Die allgemeine Formel lautet YIn1-xMnxO3 Ist kein Mangan enthalten, ist das Oxid farblos, ist kein Indium enthalten, ist es schwarz.
+
+
+== Einzelnachweise ==

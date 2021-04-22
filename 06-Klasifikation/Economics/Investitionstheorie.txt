@@ -1,0 +1,25 @@
+Investitionstheorie ist ein Sammelbegriff für verschiedene Theorien in der Betriebswirtschaftslehre, die sich mit betrieblichen Investitionsentscheidungen befassen.
+
+
+== Allgemeines ==
+Die Investitionstheorie nimmt heute im Rahmen der betriebswirtschaftlichen Forschung eine zentrale Stellung ein. Das liegt daran, dass Investitionsentscheidungen in besonderem Maße risikobehaftet sind, weil sie auf unsicheren Zukunftserwartungen beruhen und darüber hinaus zu einem späteren Zeitpunkt entweder gar nicht oder nur unter Inkaufnahme hoher Verluste korrigierbar sind. Zudem ist die Kapitalbindung auch bei Forschungs- und Entwicklungsinvestitionen von bedeutender Größenordnung. Deshalb hängt die wirtschaftliche Existenz von Unternehmen im hohen Maße von Investitionsentscheidungen ab, die auf optimalen Investitionsplanungen beruhen müssen. Die betriebliche Investitionstheorie hat vornehmlich Verfahren zur optimalen Auswahl von einzelnen Investitionsmaßnahmen und ganzen Investitionsprogrammen zum Inhalt.
+
+
+== Klassische Investitionstheorie ==
+Die Investitionstheorien sind aus der volkswirtschaftlichen Zins- und Kapitaltheorie hervorgegangen. Zum ersten Mal begegnet man ihr bei Irving Fishers Kapital- und Investitionstheorie im Jahre 1906 und 1907, aber die klarste und berühmteste Darstellung seiner Theorie stellt seine Zinstheorie (englisch The Theorie of Interest) aus 1930 dar. Unter der Annahme eines vollkommenen Kapitalmarktes bei Sicherheit begnügte sich die mit dem Fisher-Separationstheorem begonnene klassische Investitionstheorie mit der eher oberflächlichen Untersuchung einer Vergleichsinvestition zu einem bestimmten Kalkulationszinsfuß. Hierzu bediente sie sich für die Investitionsrechnung der drei finanzmathematischen Grundmodelle der Kapitalwertmethode, der Methode des internen Zinsfußes (Risikoprämie) oder der Annuitätenmethode. Wegen des vollkommenen Kapitalmarktes musste sie nicht zwischen Eigenkapital oder Fremdkapital unterscheiden, brauchte sie keine finanziellen Engpässe zu berücksichtigen und legte einen einzigen Kapitalmarktzins zugrunde.  
+
+
+== Neoklassische Investitionstheorie ==
+Diese wenig realistischen Annahmen versuchte die neoklassische Investitionstheorie zu überwinden. Sie berücksichtigt das Risiko, dass mit einer Investition möglicherweise umfangreiche Sunk costs in Kauf zu nehmen sind, dass die Cashflows aus der irreversiblen Investition der Unsicherheit (Ungewissheit) unterliegen und dass der Investor häufig eine zeitliche Flexibilität im Hinblick auf den Investitionszeitpunkt besitzt. Dabei bedient sie sich der Realoptionsanalyse. Die explizite Berücksichtigung von Anpassungskosten des Kapitalstocks in der Investitionstheorie findet sich erstmals 1963.
+
+
+== Neo-institutionelle Investitionstheorie ==
+Erst die ab etwa 1980 entwickelte Neo-institutionelle Investitionstheorie überwand auch den vollkommenen Kapitalmarkt und geht von einem unvollkommenen Kapitalmarkt aus. Es gibt Transaktions- und Informationskosten, Steuern, Informationsasymmetrie, Präferenzen sowie irrationales Verhalten. Sie betont marktzinsorientierte Investitionsrechnungen und bedient sich der Theorie der Verfügungsrechte sowie der Transaktionskostentheorie auf der Grundlage der Neuen Institutionenökonomik. 
+
+
+== Literatur ==
+Busse von Colbe, Walther/Laßmann, Gert/Witte, Frank: Investitionstheorie und Investitionsrechnung. 4. Aufl. 2015, Springer Verlag, ISBN 978-3-540-56907-7.
+Thomas Hering: Investitionstheorie. 4. überarbeitete und aktualisierte Auflage 2015, De Gruyter Oldenbourg, ISBN 978-3-486-77839-7.
+
+
+== Einzelnachweise ==

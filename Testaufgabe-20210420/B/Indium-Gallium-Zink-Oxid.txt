@@ -1,0 +1,6 @@
+Indium-Gallium-Zink-Oxid (IGZO) ist ein Halbleiter­material, das als Kanal für einen transparenten Dünnschichttransistor verwendet werden kann. Es ersetzt amorphes Silicium als aktive Schicht in einem LC-Bildschirm und ermöglicht mit einer 40-mal höheren Elektronenbeweglichkeit gegenüber amorphem Silicium kleinere Pixel (für Bildschirmauflösungen höher als die von HDTV) und schnellere Reaktionsgeschwindigkeit für einen Bildschirm.
+Der Vorteil gegenüber Zinkoxid ist, dass es als einheitliche amorphe Phase abgeschieden werden kann (unter Beibehaltung der hohen Ladungsträgerbeweglichkeit des Oxid-Halbleiters). Die Transistoren sind etwas lichtempfindlich, aber der Effekt wird nur im tiefvioletten bis ultravioletten Bereich (Photonen­energie oberhalb von 3 eV) sichtbar und bietet die Möglichkeit eines vollständig transparenten Transistors.
+
+
+== Literatur ==
+Chiao-Shun Chuang et al.: P-13: Photosensitivity of Amorphous IGZO TFTs for Active-Matrix Flat-Panel Displays. In: SID Symposium Digest of Technical Papers. Band 39, Nr. 1, 2008, S. 1215–1218, doi:10.1889/1.3069354 (umich.edu [PDF]).

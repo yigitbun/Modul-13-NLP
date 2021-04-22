@@ -1,0 +1,162 @@
+Als Basenanhydride bezeichnet man sauerstoffarme Oxide, meist Metalloxide, welche  bei Reaktion mit Wasser basisch (alkalisch) reagierende Lösungen bilden. Zu den Basenanhydriden gehören z. B. die Oxide der Alkali- und Erdalkalimetalle:
+
+  
+    
+      
+        
+           
+          N
+          
+            a
+            
+              2
+            
+          
+          O
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⟶
+          2
+           
+          N
+          a
+          O
+          H
+        
+      
+    
+    {\displaystyle \mathrm {\ Na_{2}O+\ H_{2}O\ \longrightarrow 2\ NaOH} }
+  
+  
+    
+      
+        
+           
+          C
+          a
+          O
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+           
+          ⟶
+          C
+          a
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\ CaO+\ H_{2}O\ \longrightarrow Ca(OH)_{2}} }
+  Im Periodensystem nimmt innerhalb einer Gruppe der basische Charakter der Elementoxide ebenso zu, wie der metallische Charakter des Elements. So reagieren in der Gruppe 15 die Oxide N2O3 und P4O6 als Säurenanhydride, Sb2O3 amphoter und Bi2O3 als Basenanhydrid.
+
+
+== Reaktionen ==
+Mit Säuren bilden Basenanhydride die korrespondierenden Salze:
+
+  
+    
+      
+        
+           
+          C
+          a
+          O
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+           
+          ⟶
+          C
+          a
+          S
+          
+            O
+            
+              4
+            
+          
+           
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {\ CaO+\ H_{2}SO_{4}\ \longrightarrow CaSO_{4}\ +\ H_{2}O} }
+  Ebenso reagieren Basenanhydride mit Säureanhydriden unter Bildung von Salzen, allerdings ohne Wasserabspaltung:
+
+  
+    
+      
+        
+           
+          C
+          a
+          O
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+          ⟶
+           
+          C
+          a
+          C
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {\ CaO+CO_{2}\longrightarrow \ CaCO_{3}} }
+  
+
+
+== Einzelnachweise ==

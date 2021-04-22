@@ -1,0 +1,76 @@
+Creatures bezeichnet eine Serie von Computerspielen, die sich mit der Erschaffung und Simulation künstlichen Lebens (KL) befasst. Im Gegensatz zum Computerspiel Die Sims lassen sich die Kreaturen aber nicht direkt steuern, sondern es lässt sich nur die Umgebung manipulieren.
+
+
+== Spielprinzip ==
+Das Konzept des Spieles ist es Kreaturen, meist sogenannte Norns, zu züchten. Die Kreaturen im Spiel besitzen ein verhältnismäßig weit entwickeltes neuronales Netzwerk, zusätzlich wird ein biochemisches System und eine DNA simuliert, um die „Kreuzung“ zwischen Kreaturen zu ermöglichen. Hierbei ist grundsätzlich das Kreuzen unterschiedlicher Rassen nicht möglich.
+Ein echtes Spielziel gibt es in Creatures nicht. In den ersten Teilen der Serie stand dem Spieler nur ein begrenztes Kontingent an Norn-Eiern zur Verfügung, wodurch ein längeres Gameplay nur durch erfolgreiche Züchtung dieser gegeben war.
+Die Kreaturen sind für den Spieler nicht steuerbar, sondern nur indirekt durch deren Umgebung zu beeinflussen. Jedoch hat der Spieler die Möglichkeit durch den Cursor mit den Kreaturen zu interagieren und so z. B. durch Belohnung und Bestrafung ihr Verhalten bleibend zu beeinflussen. Außerdem ist es möglich, ihnen mit Tastatureingaben direkte Befehle zu erteilen – aber nur, wenn sie die entsprechenden Worte vorher gelernt haben. So nimmt das Sprechenlehren zunächst einen Großteil der Spielzeit in Anspruch. Wenn später mehrere Norns in der Spielwelt existieren, lernen diese auch voneinander.
+
+
+== Spezies ==
+
+
+=== Ettins ===
+Die Ettins kamen ab Creatures 2 hinzu und werden durch die Ettin-Mutter erzeugt.
+Obwohl sich die Ettins, vorgestellt in Creatures 2, von den Ettins in Creatures 3 unterscheiden, haben sie es gemeinsam, dass sie eine kürzere Lebensdauer als Norns haben und mit einem wärmeren Klima sowie diversen Toxinen besser zurechtkommen.
+
+
+=== Grendels ===
+Die Grendels gibt es ab Creatures 1 und werden durch die Grendel-Mutter erzeugt.
+Grendels bilden das böse Gegenstück zu den Norns, indem sie z. B. Essen stehlen oder Norns durch Schläge verletzen. Dem Spieler obliegt es, seine Norns durch Erziehung von Grendel fernzuhalten.
+Ihre Lebensdauer ist kürzer als von Norns und sie können auch in Toxischen Umgebungen überleben. Außerdem tragen sie Krankheiten, welche schädlich für die Norns sind.
+
+
+=== Norns ===
+Die Norns sind die Spezies, um deren Entwicklung und Fortbestehen es im Spiel hauptsächlich geht.
+Sie sind generell verspielt, zutraulich und lieben es Dinge zu erforschen. Die Anpassung an bestimmte Umgebungen oder Klimata kann sich von Rasse zu Rasse unterscheiden. Für jeden Teil der Creatures-Serie gibt es mehrere offizielle und zahlreiche von Fans erstellte Norn-Rassen.
+
+
+=== Shee ===
+Die Shee sind eine hochentwickelte Spezies bestehend aus Wissenschaftlern und Erfindern. Sie sind die ursprünglichen Bewohner von Albia und die Erschaffer der Norns, Ettins und Grendels. Bisher kamen Shees noch nie offiziell in einem Teil der Serie vor. Es gibt jedoch von Fans erstellte Rassen.
+
+
+== Veröffentlichungen ==
+Die erste Version von Creatures, auch bekannt unter dem Namen „Creatures 1“ oder „original Creatures“, wurde 1996 von der englischen Firma Cyberlife Ltd. (später umbenannt in Creature Labs Ltd.) veröffentlicht und basierte im Wesentlichen auf den Konzepten und der Arbeit von Steve Grand. Im Jahre 1998 kam dann die Weiterentwicklung Creatures 2 auf den Markt. Bereits 1999 folgte Creatures 3 und 2001 schließlich die kostenlos erhältliche Online-Erweiterung „Docking Station“, die sich nicht nur an die Spielwelt des Vorgängers „andocken“ lässt, sondern auch eigenständig gespielt werden kann.
+Später wurde Creatures 3 mit der Creatures Docking Station Erweiterung von Linux Game Publishing für Linux portiert und unter dem Creatures Internet Edition veröffentlicht.
+
+Creatures (1996)
+Creatures: Life Kit #1 (1997)
+Creatures 2 (1998)
+Creatures 2: Life Kit #1 (1998)
+Creatures 2: Life Kit #2 (1999)
+Creatures 3 (1999)
+Creatures Adventures (1999)
+Creatures Playground (2000)
+Creatures Docking Station (2001)
+Creatures: Raised in Space (2002)Unveröffentlicht/Eingestellt:
+
+Creatures Online (Erstmals angekündigt 2011 als Creatures 4, 2015 eingestellt)Daneben gibt es mehrere Zusammenfassungen diverser Serientitel in Form von Spielesammlungen und als Budgettitel.
+
+
+== Fan-Szene ==
+Zu allen Teilen der Creatures-Serie findet man im Internet aktive Fan-Seiten, die sich mit der Creatures-Theorie beschäftigen sowie umfangreiche Download-Bereiche anbieten. Besonders Letzteres erlangte seit Beginn der Serie immer stärkere Beliebtheit – die Anzahl der selbst erstellten Spielzusätze ist schon fast mit der Die Sims-Download-Szene vergleichbar. Neben auf den Seiten angebotenen eigenen Norns (die sich im Spiel abspeichern und somit leicht verbreiten lassen) gibt es neue Objekte (sogenannte „Cobs“ (C1, C2), bzw. „Agents“ (C3, DS)), neue Rassen („Breeds“), Programme, mit denen die DNA der Norns editiert werden kann und auch eigene neue Norn-Welten („Worlds“, bzw. „Metarooms“). 
+Cyberlife Inc. ist der Fan-Szene ab Creatures 2 mit einem „Agent-Kit“ entgegengekommen. Durch diesen Zusatz ist es möglich, Objekte in das Spiel einzubinden oder auch durch Cob-Files Veränderungen in der aktuellen Welt hervorzurufen.
+Cyberlife selbst veröffentlichten auf ihrer offiziellen Seite ebenfalls viele Zusätze sowie einige Programme, zum Beispiel der Creatures 2 World Switcher, mit dem es möglich ist, mehrere Welten statt nur einer abzuspeichern.
+Die Fans führen auch immer wieder Aktionen durch, bei denen die Norns gegeneinander antreten müssen und bestimmte Spielziele erreichen müssen. So gibt es beispielsweise Wolfling Runs, bei denen es darum geht, welcher Norn am längsten überlebt, ohne dass ein Spieler eingreift.
+Zudem wird in gewissen Abständen zu bestimmten „Community Events“ aufgerufen, mit der Intention, die Fangemeinde zu mehr Engagement zu motivieren, vor allem jedoch den derzeitigen Rechteinhabern der Creatures-Lizenz zu demonstrieren, dass durchaus noch immer reges Interesse an der Spielreihe besteht. Zu diesen Events gehören unter anderem die wöchentlich abgehaltene Onlinetreffen auf der „Docking Station“, sowie das jährlich veranstaltete, zweiwöchige „Creatures Community Spirit Festival“, welches mit einem Wettbewerb verbunden ist.
+
+
+== Spieleengine ==
+Die Spieleengine von Creatures 2 war so leistungsstark, dass die britische Armee darauf aufmerksam wurde und 1998 kurzerhand ein Projekt startete, in dem die Norns das Bedienen und Fliegen von Eurofightern erlernten.
+Hierfür vernetzten sie, in Zusammenarbeit mit CyberLife, die Tierchen mit dem Flugsimulator, der auch für das Pilotentraining genutzt wird, stiegen mit den virtuellen Maschinen einige tausend Fuß in die Höhe und übergaben dann den Tierchen das Kommando. Die ersten Flüge endeten naturgemäß in einem Absturz, da die Norns nicht wussten, was sie überhaupt in der Luft bzw. im Simulator sollten. Ihnen standen dabei neben der Steuerung auch alle Anzeigen und Instrumente zur Verfügung, die einem normalen Piloten zur Verfügung stehen. Nach jedem Lauf wurden die Norns, die am längsten in der Luft waren, genommen und darauf neue Norns gezüchtet, da die Engine, anders als bei Menschen, Wissen weiter vererbt, entstanden innerhalb von 400 Generationen Norns, die vollständig von selbst erlernt haben, einen Eurofighter zu steuern. Sie konnten die Maschinen nicht nur fliegen, sondern auch tollkühne Manöver ausführen, um ihren Gegnern zu entkommen.
+Die ersten Norns, die es schafften, eine Maschine länger in der Luft zu halten, taten dies durch eine Rotation um die Längsachse des Flugzeugs. Erst war nicht klar, warum oder mit welcher Intention die KI dieses Manöver flog, schnell wurde aber klar, dass die KI das in der Ballistik schon langbekannte Prinzip der Rotation um die eigene Achse zur Lagestabilisierung im Flug entdeckt hat.
+Ursprünglich sollte durch dieses Experiment eine KI geschaffen werden, die die Rekruten im Simulator fordern sollte, anstatt der vorgefertigten Szenarien, die die Piloten schnell auswendig beherrschen. Später sagte der Computerspezialist Simon Hancock: „Wir hoffen, dass sie eines Tages auch echte Flugzeuge steuern[…]Das hätte viele Vorteile. Das Cockpit wäre nicht mehr nötig, wir könnten kleinere Maschinen bauen, vor allem wendigere. Die künstlichen Piloten halten ja jede Beschleunigung aus.“
+Inzwischen ist die Technik der Norns bereits so ausgereift, dass selbst ihre Schöpfer nicht mehr sicher wissen, was sie bereits gelernt haben. Kurz darauf sollte die KI gegen Flugschüler der britischen Luftwaffe antreten.
+Zu den Dingen, die sie noch nicht gelernt haben, gehören allerdings Starts und Landungen.
+Inzwischen wird die KI als „adaptive Kontrollsysteme“ vermarktet und für andere Anwendungszwecke, wie zum Beispiel das Einrichten von Schalterhallen in Banken, eingesetzt.
+Eine skizzenhafte Darstellung der Prinzipien der Spielengine-KI findet sich in einem Artikel von Spektrum der Wissenschaft
+
+
+== Weblinks ==
+Creatures history (Memento vom 16. April 2008 im Internet Archive) (englisch)
+Creatures-Serie bei MobyGames (englisch)
+Creatures Wiki
+
+
+== Einzelnachweise ==

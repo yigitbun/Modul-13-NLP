@@ -1,0 +1,58 @@
+Cobalt(II,III)-oxid ist eine chemische Verbindung von Cobalt und Sauerstoff. Der schwarze Feststoff ist eines von mehreren Oxiden des Cobalts und zählt zur Gruppe der Spinelle.
+
+
+== Gewinnung und Darstellung ==
+Cobalt(II,III)-oxid entsteht beim Erhitzen von Cobalt(II)-oxid an der Luft auf 400 bis 500 °C.
+
+  
+    
+      
+        
+          6
+           
+          C
+          o
+          O
+          +
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          C
+          
+            o
+            
+              3
+            
+          
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {6\ CoO+O_{2}\longrightarrow 2\ Co_{3}O_{4}} }
+  
+
+
+== Eigenschaften ==
+Cobalt(II,III)-oxid ist eine gemischtvalente Verbindung mit zwei- und dreiwertigen Cobaltionen und der genaueren Formel Co2+Co3+2O4 (CoO·Co2O3). Die Verbindung besitzt eine Spinellstruktur, bei der in einer kubisch dichtesten Kugelpackung von O2−-Ionen ein Achtel aller Tetraederlücken und die Hälfte der Oktaederlücken von Cobaltionen besetzt sind. Die Co2+-Ionen besetzen dabei die Tetraederlücken, die Co3+-Ionen die Oktaederlücken. Die Kristalle haben die Raumgruppe Fd3m (Raumgruppen-Nr. 227)Vorlage:Raumgruppe/227, der Gitterparameter a = 809 pm. In der Elementarzelle befinden sich acht Formeleinheiten.Ab etwa 900 °C zersetzt sich Cobalt(II,III)-oxid zu Cobalt(II)-oxid. Von Reduktionsmitteln wie Koks oder Aluminium wird die Verbindung zu elementarem Cobalt reduziert.Cobalt(II,III)-oxid ist in Salzsäure, Salpetersäure und Königswasser unlöslich, jedoch löslich in konzentrierter Schwefelsäure und in Kaliumhydrogensulfatschmelze.
+
+
+== Verwendung ==
+Cobalt(II,III)-oxid ist ein wichtiges Zwischenprodukt bei der Gewinnung von metallischem Cobalt. Durch Rösten und Auslaugen wird aus verschiedenen Cobalterzen (meist Sulfiden oder Arseniden) zunächst Cobalt(II,III)-oxid gewonnen. Dieses kann nun mit Kohlenstoff oder aluminothermisch zum Element reduziert werden.Cobalt(II,III)-oxid lässt sich als Katalysator zur Oxidation von Ammoniak zu Salpetersäure einsetzen. Dieses ist deutlich billiger als die sonst verwendeten Platin-Legierungen. Ein Nachteil ist allerdings die bisher geringere Selektivität von Cobalt(II,III)-oxid-Katalysatoren.Wie andere Cobaltverbindungen ist Cobalt(II,III)-oxid ein Blaupigment für das Färben von Keramiken.
+
+
+== Sicherheitshinweise ==
+Cobalt(II,III)-oxid wird als krebserregend und keimzellmutagen angesehen.
+
+
+== Einzelnachweise ==

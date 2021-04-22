@@ -1,0 +1,60 @@
+Immaterielle Güter sind nicht körperliche Vermögensgegenstände, dazu zählen Dienstleistungen und Rechte.
+Sie gehören neben den materiellen Gütern zu den wirtschaftlichen Gütern.
+
+
+== Einteilung ==
+Immaterielle Güter lassen sich in ihrer Gegenständlichkeit jeweils in Produktions- und Konsumgüter unterteilen:
+
+                                                                  / Produktionsgüter
+                                              / Dienstleistungen <
+                                             /                    \ Konsumgüter
+                       / immaterielle Güter <
+wirtschaftliche Güter <                      \          / Produktionsgüter
+                       \ materielle Güter ⋯   \ Rechte <
+                                                        \ Konsumgüter
+
+Die Produktionsgüter dienen Unternehmungen oder dem Staat beispielsweise zur Erstellung von Konsumgütern, während die Konsumgüter unter den immateriellen Gütern vom Privathaushalt zum Zwecke der direkten Bedürfnisbefriedigung konsumiert werden.
+Als Beispiel für Dienstleistungen, die als Konsumgüter verwendet werden, gelten menschliche Leistungen für den privaten Haushalt (bereitgestellt durch Rechtsanwalt oder Arzt). Dienstleistungen, die den Produktionsgütern zugeordnet werden, können zum Beispiel Unternehmensberater oder Wirtschaftsprüfer sein.
+Für den Bereich Rechte sind Konzessionen, Lizenzen, Patente, Warenzeichen, Markenzeichen gewerbliche Schutzrechte, Firmenwerte und Urheberrechte zu erwähnen.
+
+
+== Materielle und immaterielle Güter ==
+Immaterielle Güter sind nicht mit dem sachenrechtlichen Eigentum an materiellen Gütern gleichzusetzen.
+
+
+=== Gemeinsamkeiten ===
+Die im Sachenrecht geltenden Grundsätze finden auch im Immaterialgüterrecht Anwendung:
+geistiges Eigentum und Sacheigentum gewähren ein absolutes Recht, das es dem Inhaber erlaubt, das Immaterialgut zu nutzen und jeden Dritten von der Nutzung dieses Gegenstands auszuschließen.
+es können nur solche Rechte erworben werden, welche der Gesetzgeber geschaffen hat (Typenzwang), etwa Patentrecht oder Gebrauchsmuster, Urheberrecht oder Designs, Markenrecht. Gegenstand (welche Immaterialgüter sind schutzfähig) und Inhalt des Rechts sind durch den Gesetzgeber vorgegeben. Davon abweichende Rechte können vertraglich nicht vereinbart werden;
+das Trennungs- und Abstraktionsprinzip ist auch im Recht des geistigen Eigentums zu beachten (umstritten für das Urheberrecht, z. B. dagegen: Schricker, § 31, Rn. 2);
+die vermögensrechtliche Zuordnung knüpft an ein nach außen offenkundiges Ereignis an, etwa durch die Eintragung in ein öffentliches Register (Offenkundigkeits- oder Publizitätsprinzip). Das Urheberrecht entsteht allerdings bereits mit der Schöpfung des Werkes und nicht erst mit der Aufführung oder Veröffentlichung.
+der Gegenstand, an dem das Immaterialgüterrecht besteht, muss hinreichend bestimmt sein (Bestimmtheitsgrundsatz)
+Sacheigentum kann in der Regel vollständig vom Rechteinhaber auf eine andere Person übertragen werden (abgeleiteter oder derivativer Rechtserwerb) und es können einzelne Befugnisse zur Nutzung eingeräumt werden (ursprünglicher oder originärer Rechtserwerb). Dies gilt grundsätzlich auch für geistiges Eigentum. Eine Ausnahme stellt jedoch das Urheberrecht in Deutschland dar, welches von einem Rechtsvorgänger nur im Wege des Erbrechts erworben werden kann.
+Die Nutzung geistigen Eigentums und Sacheigentums kann gesetzlich beschränkt werden, z. B. durch rechtliche Schranken zugunsten Dritter oder der Allgemeinheit. Dabei können auch zwangsweise Nutzungsrechte eingeräumt werden (z. B. Notwegerecht, Zwangslizenzen im Patentrecht).
+
+
+=== Unterschiede ===
+Soweit geistiges Eigentum in einem Persönlichkeitsrecht (droit moral) besteht ist es im Gegensatz zum Sacheigentum in der Regel nicht auf eine andere Person übertragbar (z. B. Urheberpersönlichkeitsrecht, s. §§ 12 ff., 29 UrhG, oder Erfinderpersönlichkeitsrecht, s. §§ 37, 63 PatG).
+Immaterialgüter sind ubiquitär  (allgegenwärtig). Dadurch kann ein Immaterialgut verschiedenen Rechtsordnungen gleichzeitig unterliegen. Daher müssen geistige Eigentumsrechte gegebenenfalls in mehreren Ländern angemeldet werden (soweit Anmeldung erforderlich). Das Sacheigentum unterliegt dagegen nur dem Recht des Ortes, an dem sich die Sache belegen ist.
+Immaterialgüter können nicht-rivalisierend, von beliebig vielen Personen gleichzeitig, genutzt werden. Erst durch die Zuweisung von Monopolrechten wird eine künstliche Knappheit erzeugt, während die Ausschließlichkeit der Nutzung bei körperlichen Gegenständen ständig und untrennbar durch ihrer Natur bewirkt wird.
+Der strafrechtliche Schutz des geistigen Eigentums erfolgt durch die jeweiligen Schutzgesetze. Die Vorschriften der Eigentumsdelikte (Diebstahl, Raub usw.) von Sachen finden hingegen im Immaterialgüterrecht keine Anwendung.
+Es gibt einen großen Anteil Immaterialgüter, denen die Rechtsordnung kein Immaterialgüterrecht zuweist. Dies sind z. B. im Urheberrecht gemeinfreie Werke, zum Beispiel einzelne Worte oder Akkorde (geringe Schöpfungshöhe), oder Werke, deren Schutzdauer abgelaufen ist (Aufhebung der Schutzrechte, Freigabe). Dagegen sind herrenlose Sachen die Ausnahme.
+Herrenlose Sachen können wieder Gegenstand des Eigentums werden. Gemeinfreie Werke und die Nutzung abgelaufener Patente bleiben dagegen auf Dauer frei.
+Geistiges Eigentum ist zeitlich begrenzt und die Einschränkungen bei den zugeordneten Rechten sind erheblich umfangreicher und weitgehender als beim Sacheigentum. Sacheigentum dagegen bleibt bis zum Untergang der Sache bestehen.
+Da die Nutzung von Immaterialgütern nur selten den Besitz eines Werkexemplars voraussetzt, kann, im Vergleich zum Sachgut, sehr viel leichter auf das Immaterialgut durch jedermann zugegriffen werden. Der Schutz von Rechten, die am Immaterialgut bestehen, stellt daher andere Anforderungen als der Schutz von Rechten am Sacheigentum.
+Es gibt eine Vielzahl unterschiedlicher Arten von Immaterialgütern. Dadurch ist es möglich, dass ein Immaterialgut unter verschiedenen Gesichtspunkten mehreren unterschiedlichen Immaterialgüterrechten zugleich unterliegt (z. B. kann ein Logo durch das Urheberrecht und das Markenrecht geschützt sein). Zusätzlich besteht sehr häufig noch ein Eigentumsrecht an der Verkörperung. Der Inhaber des Sacheigentums ist regelmäßig ein anderer als der Inhaber des Immaterialgüterrechts. Eine nicht-triviale Komplexität in den möglichen Rechtsansprüchen ist somit eher die Regel als die Ausnahme. Diese Vielfalt erfordert weiterhin die Ausgestaltung durch ähnlich vielfältige, unterschiedliche, gesetzliche Regelungen.
+
+
+== Immaterielle Güter als Ware ==
+Es gibt Unternehmen, die nur ihr geistiges Eigentum als Wirtschaftsgut vermarkten. Solche Unternehmen stellen keine Waren im eigentlichen Sinne her (fabless), sondern – im weitesten Sinne – Baupläne und lizenzieren sie an Herstellerunternehmen. Einige Beispiele:
+
+Chip-Design (s. a.: IP-Cores, Rambus Incorporated)
+YachtdesignIm Patentbereich werden Patentinhaber, welche ihr Monopolrecht in unangemessener Weise benutzen, gelegentlich als Patent-Troll bezeichnet. Dazu zählen insbesondere Patentinhaber, welche nicht selbst forschen oder Waren herstellen (non practicing entities). Aus wettbewerblicher Sicht wird deren Machtausübung überwiegend abgelehnt.
+
+
+== Siehe auch ==
+Immaterieller Vermögensgegenstand
+Immaterielles Kulturgut
+
+
+== Einzelnachweise ==

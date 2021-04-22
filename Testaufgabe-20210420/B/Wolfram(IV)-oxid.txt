@@ -1,0 +1,93 @@
+Wolfram(IV)-oxid ist eine chemische Verbindung aus der Gruppe der Metalloxide.
+
+
+== Gewinnung und Darstellung ==
+Wolfram(IV)-oxid kann durch Reduktion von Wolfram(VI)-oxid mit Wolfram oder Wasserstoff bzw. durch Reaktion von Wolfram mit Wasserdampf jeweils bei hohen Temperaturen gewonnen werden.
+
+  
+    
+      
+        
+          2
+           
+          W
+          
+            O
+            
+              3
+            
+          
+          +
+          W
+          →
+          3
+           
+          W
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ WO_{3}+W\rightarrow 3\ WO_{2}} }
+  Einkristalle des Oxides lassen sich durch eine CVT-Methode (Chemical Vapor Transport) herstellen. Hierfür wird zunächst Wolfram(VI)-oxid mit elementarem Wolfram unter Zugabe einiger mg Iod in einer abgeschmolzenen und evakuierten Ampulle bei 1100 °C zum polykristallinen Oxid umgesetzt. Das gold-braune Oxid wird dann mit etwa 1 % Iod in eine neue Ampulle eingeschmolzen und diese in einen 2-Zonen-Ofen eingebracht, sodass je die Hälfte der Ampulle in einer der Zonen liegt. Während die eine Hälfte der Ampulle auf 1000 °C aufgeheizt wird, wird die andere bei 960 °C gehalten. Nach 3 Tagen Reaktionszeit (bei anfänglich eingesetzten 0,5 g Oxid) lässt man die Ampulle abkühlen und erhält nach dem Öffnen etwa 2 mm große goldene Einkristalle der Zielverbindung.
+
+  
+    
+      
+        
+          W
+          
+            O
+            
+              2
+            
+          
+          +
+           
+          
+            I
+            
+              2
+            
+          
+          ⇌
+          W
+          
+            O
+            
+              2
+            
+          
+          
+            I
+            
+              2
+              (
+              g
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {WO_{2}+\ I_{2}\rightleftharpoons WO_{2}I_{2(g)}} }
+  
+
+
+== Eigenschaften ==
+Wolfram(IV)-oxid ist je nach Verteilungsgrad eine braune (Pulver) bis bronzefarbene (Einkristalle) diamagnetische und metallisch leitende Verbindung. Sie besitzt eine monokline Kristallstruktur ähnlich der von Rutil.
+
+
+== Verwendung ==
+Wolframoxide wie Wolfram(IV)-oxid sind Bestandteil von Katalysatoren für die Petrochemie und für die selektive katalytische Reduktion von Stickoxiden mit NH3 in Verbrennungsabgasen von Kraftwerken. Sie werden weiterhin in Gläsern, Glasuren und Keramiken eingesetzt.
+
+
+== Weblinks ==
+Patent.de: Verfahren zur Herstellung von Wolframoxidschichten und Verwendung
+
+
+== Einzelnachweise ==

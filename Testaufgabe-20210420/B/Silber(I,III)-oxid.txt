@@ -1,0 +1,160 @@
+Silber(I,III)-oxid ist eine anorganische chemische Verbindung des Silbers aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Silber(I,III)-oxid kann durch Persulfat-Oxidation von Silber(I)-oxid in alkalischen Medium (zum Beispiel Natriumhydroxid oder Kaliumhydroxid) bei 90 °C gewonnen werden.
+  
+    
+      
+        
+          4
+          
+          
+            AgNO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            K
+            
+              2
+            
+            
+              
+            
+          
+          
+            S
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              8
+            
+            
+              
+            
+          
+          +
+          8
+          
+          NaOH
+          ⟶
+        
+      
+    
+    {\displaystyle {\ce {4 AgNO3 + 2 K2S2O8 + 8 NaOH ->}}}
+  
+  
+    
+      
+        
+          4
+          
+          AgO
+          +
+          
+            K
+            
+              2
+            
+            
+              
+            
+          
+          
+            SO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            Na
+            
+              2
+            
+            
+              
+            
+          
+          
+            SO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            NaNO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            KNO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {4 AgO + K2SO4 + 3 Na2SO4 + 2 NaNO3 + 2 KNO3 + 4 H2O}}}
+   Andere Darstellungsmöglichkeiten sind die Reaktion einer Mischung der Lösungen von Silbernitrat und Kaliumpermanganat mit Kaliumhydroxid, die Einwirkung von ozonhaltigem Sauerstoff bei 240 °C auf metallisches Silber bei Anwesenheit eines Katalysators, die Reaktion von Natriumhypochlorit mit Silber(I)-oxid oder durch die Hydrolyse oder thermische Zersetzung von Ag7NO11, das durch anodische Oxidation von Silbernitrat-Lösungen gewonnen wird, dargestellt werden.
+
+
+== Eigenschaften ==
+Silber(I,III)-oxid ist ein diamagnetischer, lichtempfindlicher, dunkelgrauer und geruchloser Feststoff, der mit Wasser reagiert. Er wirkt stark oxidierend, ist löslich in Salpetersäure und zersetzt sich bei Einwirkung von Schwefelsäure unter Sauerstoffabgabe. Er besitzt eine monokline Kristallstruktur mit der Raumgruppe P21/c (Raumgruppen-Nr. 14)Vorlage:Raumgruppe/14 und den Gitterparametern a = 585,2 pm, b = 347,8 pm,  c = 549,5 pm und β = 107,5° sowie zwei Formeleinheiten pro Elementarzelle. Als trockener Feststoff ist das Oxid bis 100 °C temperaturstabil, oberhalb beginnt die Zersetzung.Obwohl die Verbindung formal auch Silber(II)-oxid oder Silberperoxid genannt wird, weisen bisherige Nachweise aus, dass es sich um Silber(I,III)-oxid handelt. Einige der scheinbar widersprüchlichen Daten, die für AgO gemeldet wurden, können auf das fehlende genaue Verständnis der Oxidationsstufe von Silber in AgO zurückzuführen sein.
+
+
+== Verwendung ==
+Silber(I,III)-oxid wird in der organischen Chemie zur Umsetzung von Benzylhalogeniden direkt in Dibenzylether verwendet. Er dient auch als Oberflächen-Katalysator bei der Epoxidierung von Alkenen. Silber liegt in geladenen Silber-Zink- und anderen Akkumulatoren als Silber(I,III)-oxid vor. Bei Silberoxid-Zink-Knopfzellen wird Silber(I)-oxid oder Silber(I,III)-oxid bei der Herstellung direkt in die Zellen gepresst.
+
+
+== Einzelnachweise ==

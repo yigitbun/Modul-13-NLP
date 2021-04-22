@@ -1,0 +1,40 @@
+service d’adresse mondial (französisch für weltweiter Anschriften-Dienst), Abkürzung: sedamo, ist ein Internet-basierender Dienst für den Austausch von Postanschriften, insbesondere in nicht-lateinischer Schrift (wie Chinesisch, Japanisch oder Koreanisch). Jede postalische Anschrift erhält einen eindeutigen 8-Buchstaben-Code, den sedamo-Adresscode, welcher benutzt werden kann, um die ursprüngliche Adresse in einheimischer Schrift nachzuschlagen.
+
+
+== Hintergrund ==
+Insbesondere die Bewohner Asiens stehen vor dem Problem, dass z. B. Europäer und US-Amerikaner die Adresse oft nicht in ihrer Muttersprache schreiben können. Obwohl Umgehungslösungen existieren (wie das Schreiben der Adresse in einer Lateinumschrift), so sind diese doch fehleranfällig und verlangsamen die Postzustellung aus zwei Gründen:
+(1) Eine Lateinumschrift von Chinesisch, Japanisch, Thailändisch etc. beinhaltet Mehrdeutigkeiten; eine romanisierte Anschrift kann also nicht in die Originalsprache rückübersetzt werden.
+(2) Der Briefträger am Bestimmungsort ist es nicht gewöhnt, Adressen in einem ausländischen (lateinischen) Alphabet zu lesen. (Man vergleiche hierzu die Situation eines deutschen Briefträgers, der eine in chinesischer Umschrift geschriebene Anschrift entziffern sollte.)
+Der service d´adresse mondial ermöglicht auf einfache Weise den Austausch korrekt geschriebener und formatierter Anschriften: Die Adresse kann in der sedamo-Website als ein Bild (Bitmap) angezeigt werden und direkt auf einen Briefumschlag oder auf ein Etikett gedruckt werden. Der Absender muss hierfür keine besondere Software oder ausländischen Zeichensatz installieren. 
+Der service d´adresse mondial wird vom Cross-Cultural Communication Club (CCCC), einer in London (Großbritannien) eingetragenen Wohlfahrtseinrichtung, betrieben. Die Nutzung von sedamo ist kostenlos; die Betriebskosten werden durch Spenden gedeckt.
+
+
+== Nutzung ==
+Im ersten Schrift schlägt der Empfänger den sedamo-Adresscode für seine eigene Adresse nach. Diesen Code übermittelt er an den Absender. 
+Im zweiten Schritt nutzt der Absender diesen Code, um die ausländische Adresse in einem internationalen Format auszudrucken (wie vom Weltpostverein empfohlen). Das sedamo-System erzeugt auch eine transkribierte Form der Adresse. Diese Lateinumschrift kann für Expressdienste verwendet werden, die Adressen nur in lateinischer Schrift annehmen.
+
+
+== Der sedamo-Adresscode ==
+Der sedamo-Adresscode besteht aus acht Buchstaben, zum Beispiel CT-QP-ED-TP (dies ist der Code für die Halle des Erntegebets innerhalb des Himmelstempels in Peking, Volksrepublik China). Die Bindestriche dienen allein der besseren Lesbarkeit und können weggelassen werden. Der Code besteht aus den lateinischen Buchstaben außer „I“ (was mit „1“ verwechselt werden könnte), N (ähnlich „M“), „O“ („0“), „S“ („5“), „V“ („U“ oder „W“) und „Z“ („2“). 
+Der Code beinhaltet eine Prüfziffer; einfache Fehler wie ein einzelner falscher Buchstabe oder das Vertauschen zweier Buchstaben führt daher nicht zu einer falschen Adresse, sondern zu einer Fehlermeldung. Auch erhalten benachbarte Adressen stark unterschiedliche Codes, um Verwechslungen zu vermeiden.
+Um Absender- und Empfängercode zu unterscheiden, wird ein Doppelpfeil verwendet: AA-AA-AA-AA >> CT-QP-ED-TP. Zum Zwecke der Automatisierung empfiehlt der CCCC den Druck als Code39-Strichcode mit einem „%+“ (Prozentzeichen und Pluszeichen) vor dem Empfänger-Code und einem „%-“ (Prozentzeichen und Minuszeichen) vor dem Absender-Code ohne die Verwendung von Bindestrichen. Für das obige Beispiel: *%-AAAAAAAA%+CTQPEDTP* oder *%+CTQPEDTP%-AAAAAAAA*
+
+
+== sedamo-basierte Dienste ==
+eMail2addressDie Website eMail2address.com erlaubt die Verknüpfung der eigenen E-Mail-Adresse mit dem sedamo-Adresscode. Nach der Registrierung kann die E-Mail-Adresse (elektronische Adresse) benutzt werden, um den sedamo-Adresscode (und somit die postalische/physikalische Adresse) zu finden.
+
+sedamo-basierte SoftwareDer Cross-Cultural Communication Club (CCCC), der Betreiber von sedamo, lizenziert die sedamo-Technologie an Software-Entwickler für den Zugriff auf die sedamo-Datenbank. Diese Software kann benutzt werden, um Adressen nachzuschlagen und Adressetikette und Paketscheine auszudrucken. Der Zugriff auf die sedamo-Datenbank wird mittels Benutzernamen, Kennwort und Transaktionsnummern geregelt, welche vom Softwareentwickler zur Verfügung gestellt werden, der die sedamo-Technologie lizenzierte, nicht von dem CCCC selbst.
+
+
+== Nutzungsbeispiele ==
+sedamo-Adresscodes werden im Buch „ChinaBridgeBUSINESS“, einem dreisprachigen Investitionsratgeber für China und Europa, verwendet: Die Adressen von Ämtern, Wirtschaftsverbänden usw. sind nur in der Lateinumschrift angegeben, und der Leser kann die natürliche Adresse wie oben beschrieben abrufen.
+Die App „ChinaBridgeMOBILE“ ermöglicht es dem Benutzer, mittels eines sedamo-Codes Adressen auf seinem Smartphone zu speichern und bei Bedarf offline anzuzeigen, z. B. bei der Verständigung mit dem Taxifahrer. Dies hilft beim individuellen Reisen ohne Kenntnis der Landessprache.
+
+
+== Weblinks ==
+Website des service d´adresse mondial
+Zugang für Mobilgeräte
+Website eMail2address.com
+
+
+== Einzelnachweise ==

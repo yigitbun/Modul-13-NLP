@@ -1,0 +1,186 @@
+Platin(IV)-oxid, auch als Platindioxid bezeichnet, ist eine chemische Verbindung der Elemente Platin und Sauerstoff. Es ist ein schwarzer Feststoff, und zerfällt bei 450 °C in Platin(II)-oxid.
+Wegen der Verwendung als Katalysator in der organischen Chemie wird es auch als Adams-Katalysator bezeichnet, nach Roger Adams.
+
+
+== Gewinnung und Darstellung ==
+Platindioxid fällt, je nach den Versuchsbedingungen, als dunkelbrauner hydratwasserhaltiger PtO2·H2O oder als schwarzer kristalliner Feststoff PtO2 an. Als Ausgangssubstanz für die Darstellung dient die Hexachloridoplatinsäure H2[PtCl6] oder Ammoniumhexachloridoplatinat(IV) (NH4)2[PtCl6]. Diese Substanzen werden in einer Natriumnitratschmelze zum gewünschten Produkt umgesetzt:
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          P
+          t
+          C
+          
+            l
+            
+              6
+            
+          
+          +
+          6
+           
+          N
+          a
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+           
+          P
+          t
+          
+            O
+            
+              2
+            
+          
+          +
+          4
+           
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          6
+           
+          N
+          a
+          C
+          l
+          +
+          2
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}PtCl_{6}+6\ NaNO_{3}\longrightarrow \ PtO_{2}+4\ NO_{2}+6\ NaCl+2\ HNO_{3}} }
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Platindioxid kristallisiert im trigonalen Kristallsystem mit der Raumgruppe P3m1 (Raumgruppen-Nr. 164)Vorlage:Raumgruppe/164 und den Gitterparametern a = 310,0 pm und c = 414,0 pm (2H-Typ der CdI2-Struktur), in der Elementarzelle befindet sich eine Formeleinheit. Eine β-Form von Platindioxid hat eine orthorhombische Kristallstruktur vom CaCl2-Typ, welche dem tetragonalem Rutil-Typ nahesteht (siehe Abbildung; Raumgruppe Pnnm (Nr. 58)Vorlage:Raumgruppe/58).
+
+
+=== Chemische Eigenschaften ===
+Beim Erhitzen gibt Platindioxid Sauerstoff ab und geht bei 450 °C in Platinmonoxid über, das wiederum bei 950 °C in die Elemente zerfällt.
+
+  
+    
+      
+        
+          2
+           
+          P
+          t
+          
+            O
+            
+              2
+            
+          
+           
+           
+          
+            
+              →
+              
+                
+                  −
+                  
+                    O
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  450
+                  
+                    ∘
+                  
+                
+                C
+              
+            
+          
+           
+           
+          2
+           
+          P
+          t
+          O
+           
+           
+          
+            
+              →
+              
+                
+                  −
+                  
+                    O
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  950
+                  
+                    ∘
+                  
+                
+                C
+              
+            
+          
+           
+           
+          2
+           
+          P
+          t
+        
+      
+    
+    {\displaystyle \mathrm {2\ PtO_{2}\ \ {\xrightarrow[{-O_{2}}]{450^{\circ }C}}\ \ 2\ PtO\ \ {\xrightarrow[{-O_{2}}]{950^{\circ }C}}\ \ 2\ Pt} }
+  
+
+
+== Verwendung ==
+Platindioxid-Hydrat wird als Hydrierkatalysator verwendet.
+
+
+== Einzelnachweise ==

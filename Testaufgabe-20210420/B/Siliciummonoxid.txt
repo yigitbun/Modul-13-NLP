@@ -1,0 +1,71 @@
+Siliciummonoxid (auch Siliziummonoxid) ist eine Verbindung aus Silicium und Sauerstoff, in der Silicium in der Oxidationsstufe +II vorliegt. Da die bevorzugte Oxidationsstufe von Silicium +IV ist, werden niedervalente Oxide wie SiO oder Si2O3 auch als Suboxide bezeichnet. SiO existiert in verschiedenen Modifikationen, von denen aber nur eine von kommerzieller Bedeutung ist. Bei dieser handelt es sich um einen dunkelbraunen bis anthrazitfarbenen, amorphen Feststoff.
+Siliciummonoxid kommt in keiner der bekannten Modifikationen natürlich auf der Erde vor, wurde aber im interstellaren Raum spektroskopisch nachgewiesen und ist damit mengenmäßig das häufigste Oxid des Siliciums im Universum. Für technische Zwecke wird es ausschließlich synthetisch hergestellt.
+Siliciummonoxid ist nur in der Gasphase thermodynamisch stabil und disproportioniert beim Abkühlen in Silicium und Siliciumdioxid. Spektroskopische Untersuchungen an SiO konnten bislang nicht den Beweis erbringen, dass in kondensierter Phase Silicium in der Oxidationsstufe +II vorliegt. Nach Analyse der Strukturuntersuchungen von Friede mit Hilfe von XANES-Spektroskopie, Hochdruckuntersuchungen, NMR, Radialer Verteilungsfunktion aus energiedispersiver Röntgenbeugung und Paarverteilungsfunktion aus Elektronenbeugungsdaten, wird kommerziell erhältliches SiO besser beschrieben als ein auf atomarer Ebene disproportioniertes Gemisch aus Silicium und Siliciumdioxid. Während des Gasabscheidungsverfahrens disproportioniert gasförmiges Siliciummonoxid offenbar beim Abkühlen in Si und SiO2, und zwar auf atomarer Ebene in der Form, dass weder Silicium- noch Siliciumdioxid-Domänen direkt nachgewiesen werden können. Das dunkelbraune Produkt weist dabei chemische und physikalische Eigenschaften auf, die sich von denen eines Gemenges aus Si und SiO2 deutlich unterscheiden und damit von großer Bedeutung für technische Anwendungen sind. Der Unterschied zu einem Gemenge äußert sich z. B. in Reaktionen, die auf die Spaltung von Si–Si-Bindungen und Si–O-Bindungen abzielen. Sie führten im Fall von SiO nicht zum Erfolg.
+
+
+== Gewinnung und Darstellung ==
+Wird Siliciumdioxid mit elementarem Silicium im Vakuum auf mindestens 1250 °C erhitzt, so entsteht gasförmiges, monomolekulares SiO, das beim Abkühlen wieder in die Ausgangsstoffe disproportioniert. Durch Abschrecken des Gases auf kalten Oberflächen kann jedoch die dunkle, amorphe Form des SiO als Feststoff gewonnen werden.
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Die dunkelbraune, amorphe Modifikation von Siliciummonoxid (SiO)x besteht aus polymeren Si–O-Ketten und ist glasartig und spröde.
+Die strukturelle Disproportionierung dieser koksartigen Modifikation in Cluster der Phasen Si und SiO2 wurde nachgewiesen.Das molekulare Siliciummonoxid SiO ist isoster zum Kohlenstoffmonoxid CO. Es kann als Monomer nur in einer Edelgas-Matrix isoliert werden. Die Bildungsenthalpie beträgt −99,6 kJ/mol und der Si–O-Abstand 0,1509 nm.
+Ferner gibt es noch eine gelbe, pulverförmige und eine schwarze, faserartige Modifikation.
+
+
+=== Chemische Eigenschaften ===
+Siliciummonoxid ist ein starkes Reduktionsmittel. So reagiert es schon bei Raumtemperatur mit Luftsauerstoff schnell zu Siliciumdioxid weiter.
+
+  
+    
+      
+        
+          2
+           
+          S
+          i
+          O
+          +
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          S
+          i
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ SiO+O_{2}\longrightarrow 2\ SiO_{2}} }
+  Eine oberflächlich gebildete Siliciumdioxidschicht schützt allerdings das darunter liegende SiO durch Passivierung, sodass das Material viele Jahre unverändert haltbar ist. SiO in sehr feiner Verteilung ist dagegen pyrophor. SiO kann durch Schmelzen mit einer Mischung von Alkalicarbonat und Alkalinitrat vollständig in SiO2 umgewandelt werden.Siliciummonoxid wird durch Flusssäure vollständig gelöst, allerdings weniger leicht als Siliciumdioxid. Ab etwa 600 °C zerfällt (SiO)x in SiO2 und Silicium. Die Geschwindigkeit des Zerfalls steigt mit zunehmender Temperatur.
+
+
+== Verwendung ==
+Siliciummonoxid wird in großem Maßstab als Material zur Vergütung von optischen Linsen verwendet. Dabei wird SiO in einem PVD-Prozess im Vakuum verdampft (wobei monomolekulares SiO in der Gasphase entsteht) und in einer dünnen Schicht auf den Linsen niedergeschlagen. Je nach dem im Prozess eingestellten Sauerstoff-Partialdruck scheidet sich die Schicht als SiO, Si2O3 oder SiO2 ab. Die Linsen werden so gehärtet oder – in Kombination mit Schichten aus anderen Aufdampfmaterialien – entspiegelt.
+Ferner wird Siliciummonoxid auch als Ausgangsstoff für die Synthese anderer Silicium-Verbindungen verwendet, z. B. von Siliciumcarbid oder Siliciumnitrid.
+
+
+== Historisches ==
+Die erste Beschreibung der Entdeckung von Siliciummonoxid wurde 1887 veröffentlicht.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Eintrag zu Siliciummonoxid. In: Römpp Online. Georg Thieme Verlag, abgerufen am 23. August 2015.
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 91.–100., verbesserte und stark erweiterte Auflage. Walter de Gruyter, Berlin 1985, ISBN 3-11-007511-3.
+R. H. Doremus: Diffusion of reactive molecules in solids and melts. Wiley-IEEE, 2002, ISBN 9780471385455, S. 241, Kapitel Diffusion of Oxygen and Silicon in Silicon: Silicon Monoxide Model (eingeschränkte Vorschau in der Google-Buchsuche).

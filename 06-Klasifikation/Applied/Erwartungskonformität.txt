@@ -1,0 +1,37 @@
+Erwartungskonformität (von lateinisch conformitas “Gleichartigkeit”) bezeichnet eine angepasste Informationsdarstellung eines Systems für einen Benutzer, die einheitlich ist und den Erwartungen des Benutzers bzw. den allgemeinen Konventionen entspricht. Anwendungen sind erwartungskonform, wenn sie nach einem einheitlichen Prinzip bedienbar, die Bearbeitungszeiten vorhersehbar, sowie in der Orientierung einheitlich gestaltet sind. Erwartungskonformität ist laut ISO 9241-110 ein Kriterium der Software-Ergonomie.
+
+
+== Verhaltensmuster ==
+Das menschliche Handeln wird durch erlernte Verhaltensmuster beeinflusst. Das Verhalten von Besuchern auf Websites ist durch verschiedene verhaltens- und lernpsychologische Aspekte geprägt.
+
+
+=== Konsistenz ===
+Durch die Erkennung erlernter Muster (Konsistenz) kann sich der Benutzer auf die Inhalte der Website konzentrieren. Varriieren nun Muster z. B. die Navigationsmöglichkeiten (Inkonsistenz), so kann der Besucher kein Muster erkennen, was die Navigation zwischen Seiten erschwert. Der Benutzer ist dadurch mehr damit beschäftigt Muster zu erkennen bzw. zu speichern, anstatt den Inhalt der Seite zu erfassen.
+
+
+=== Erfahrung ===
+Benutzer, welche bereits Erfahrungen mit dem Aufbau verschiedener Webseiten gesammelt haben, erheben Ansprüche an die Konformität von neu besuchten Webseiten.
+Unerfahrene Benutzer haben in dieser Hinsicht keine Ansprüche für die Bedienung einer Website.
+
+
+== Europäische Norm ==
+
+Erwartungskonformität ist in der DIN-ISO 9241-110 Norm definiert:
+“Das Verhalten des interaktiven Systems ist vorhersehbar, basierend auf dem Nutzungskontext und allgemein anerkannten Konventionen in diesem Kontext.”
+
+
+== Beispiele für Erwartungskonformität ==
+
+
+=== Warenkorb ===
+Erfahrene Benutzer erwarten beim Einkauf in einem Online-Shop das Symbol für den Warenkorb an einer ganz bestimmten Stelle. Kann diese Website diese Erwartung nicht erfüllen, wird eine Hürde aufgebaut, die zum Abbruch der Bestellung führen kann.
+Die Erwartung könnte erfüllt werden, indem der Benutzer den Warenkorb in der rechten oberen Ecke der Website findet. Hierbei ist es auch wichtig, dass das Symbol für den Warenkorb auf einer Website ähnlich gestaltet ist wie das Symbol anderer Websites.
+
+
+=== Hyperlinks ===
+Betreiber einer Website sollten auf unterstrichene Wörter in Texten verzichten. Benutzer könnten diese als Hypertext-Links erkennen. Dadurch erzeugt die Website eine Erwartung des Benutzers, die sie nicht erfüllt.
+
+
+== Einzelnachweise ==
+Beziehen sich auf die veraltete Definition von 2008.
+Die Bildschirmarbeitsverordnung wurde 2016 durch die Arbeitsstättenverordnung ersetzt.

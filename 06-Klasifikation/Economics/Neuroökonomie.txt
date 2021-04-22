@@ -1,0 +1,40 @@
+Als Neuroökonomie (englisch Neuroeconomics) bezeichnet man die interdisziplinäre Verknüpfung der Neurowissenschaften mit den Wirtschaftswissenschaften. Neuroökonomie ist die Beschreibung und Erklärung menschlichen Verhaltens in ökonomischen Entscheidungssituationen unter Zuhilfenahme neurowissenschaftlicher Methoden. Weitere Erklärungsbeiträge steuern Psychologie und Soziologie bei. Dabei werden Konsumenten-, Investoren- und Managemententscheidungen genauer beleuchtet. Damit stellt sie den Übergang des verhaltenswissenschaftlichen Teils der Wirtschaftswissenschaften, der überwiegend geistes- und sozialwissenschaftlich ist, zu einer verstärkt naturwissenschaftlichen Disziplin dar. Aufgrund der Interdisziplinarität ist eine genaue Einteilung in Geistes- oder Naturwissenschaften schwer möglich. Ziel ist es, nicht nur wie beim Modell des Homo oeconomicus die Entscheidungen auszuwerten, sondern deren Gründe und Motive betrachten zu können, dabei wird die biologische Basis von affektiven Prozessen, etwa Involvierung und Emotionen, kognitive Vorgänge, etwa der Wahrnehmung oder des Denkens, und auch die des Urteilens und Entscheidens betrachtet.
+Ein Teilgebiet der Neuroökonomie ist die Consumer Neuroscience, die entscheidungswissenschaftlich orientierte Forschung (decision neuroscience) sowie die finanzierungswissenschaftlich orientierte Neuroökonomie (neurofinance).
+
+
+== Geschichte ==
+Das wirtschaftswissenschaftliche Konzept des rationalen Akteurs, des Homo oeconomicus, kam in den letzten Jahrzehnten zunehmend unter Kritik. In diesem Modell werden starke Restriktionen und Vereinfachungen getroffen, um menschliches Verhalten und Entscheiden zu modellieren und zu erklären. Beispielsweise werden Entscheidungen auf Präferenzen reduziert, vielmehr sind sie jedoch kontextabhängig und komplexer. Seit den 1990er-Jahren werden zunehmend auch naturwissenschaftliche Erkenntnisse und Methoden herangezogen, um menschliches Verhalten in ökonomischen Entscheidungen besser zu verstehen. Damit etablierte sich das Forschungsgebiet der Neuroökonomie. Im Rahmen dessen formierten sich seit 2005 einzelne Forschergruppen zu größeren Zusammenschlüssen. Damit assoziierte Konferenzen sind die NeuroPsychoEconomics Conference, die Conference on Neuroeconomics (CoNecs) und die Annual Society of Neuroeconomics Conference. Des Weiteren bestehen die beiden wissenschaftlichen Zeitschriften NeuroPsychoEconomics (deutsch) sowie das Journal of Neuroscience, Psychology and Economics (JNPE). Letzteres wird seit 2009 von der American Psychological Association (APA) herausgegeben.
+
+
+== Methodik ==
+In der Neuroökonomie kommen bildgebende, elektrophysiologische und peripherphysiologische Verfahren zum Einsatz. Am bekanntesten ist hierbei die Magnetresonanztomographie, bei der die Sauerstoffsättigung des Blutes in eng umschriebenen Bereichen des menschlichen Gehirns gemessen wird, was Rückschlüsse auf deren Aktivität in hoher räumlicher Auflösung erlaubt. Elektrophysiologische Methoden (z. B. Elektroenzephalografie) basieren auf der Messung elektrischer neuronaler Signale. Sie finden vor allem Verwendung, wenn der zeitliche Ablauf verschiedener Prozesse untersucht werden soll. Peripherphysiologische Methoden messen schließlich Körperaktivitäten wie Blutdruck und Pupillenerweiterung und ergänzen oft bildgebende und elektrophysiologische Verfahren (siehe auch Physio-Economics). Andere neurowissenschaftliche Methoden werden wegen möglicher Gesundheitsschäden abgelehnt.
+
+
+== Anwendungsfelder ==
+Grundsätzlich wird der neuroökonomische Ansatz überall dort verwendet, wo es um die Erforschung von Entscheidungsverhalten in ökonomischen Kontexten außerhalb des Modells des Homo oeconomicus geht, also vor allem in der anwendungsorientierten Betriebswirtschaftslehre, der Umweltökonomie und der Verhaltensökonomie. Neurowissenschaftliche Methoden sollen in der Betriebswirtschaftslehre den Fragebogen als Mittel der empirischen Forschung ergänzen. Ziel ist es den Einfluss sprachlicher und schriftgebundener Einflüsse zu eliminieren und ein besseres Verständnis von scheinbar suboptimalen und unlogischen Entscheidungsprozessen zu erreichen. Zu den zentralen Themen neuroökonomischer Forschung gehören Entscheidungsverhalten bei Risiko und Unsicherheit, Verlustaversion und soziale Entscheidungsfindung.
+Ein populäres Anwendungsfeld des neuroökonomischen Ansatzes ist Neuromarketing, eine eigenständige, wenn auch verwandte Disziplin. Während die Neuroökonomie rein wissenschaftliche Ziele verfolgt, indem die grundlegenden Mechanismen der Entscheidungsfindung untersucht werden, ist Neuromarketing eine angewandte Disziplin, welche neurowissenschaftliche Methoden zum Zwecke der Marktforschung nutzt. Ein Beispiel ist die Untersuchung des Werts von Statussymbolen wie Sportwagen für Verbraucher.
+
+
+== Literatur ==
+Camerer, Colin F.; Loewenstein, George & Prelec, Drazen (2004): Neuroeconomics: Why Economics needs brains. The Scandinavian Journal of Economics, 106 (3), S. 555–579. doi:10.1111/j.0347-0520.2004.00377.x
+Glimcher, Paul W. (2003): Decisions, Uncertainty, and the Brain: The Science of Neuroeconomics. Cambridge [u. a.]: MIT Press. ISBN 0-262-07244-0.
+Glimcher, Paul W.; Camerer, Colin F.; Fehr, Ernst & Poldrack, Russell Alan (Eds.) (2009): Neuroeconomics: Decision Making and the Brain. Amsterdam [u. a.]: Elsevier/Academic Press. ISBN 978-0-12-374176-9.
+Hanno, Beck: Behavioral Economics: eine Einführung. Springer Gabler, Wiesbaden 2014. ISBN 978-3-658-03366-8. S. 318–339.
+Kenning, Peter & Plassmann, Hilke (2006): NeuroEconomics: An overview from an economic perspective. Brain Research Bulletin, 67 (5), S. 343–354. doi:10.1016/j.brainresbull.2005.07.006
+Lindstädt, Hagen (2007): Problemlösen und Verstehen bei ökonomischen Agenten – Eine Gegenüberstellung ökonomischer und kognitionspsychologischer Modelle regelbasierten Entscheidens. NeuroPsychoEconomics, 2 (1), ISSN 1861-4523, S. 30–43.
+Priddat, Birger P. (Hg.) (2007): Neuroökonomie. Neue Theorien zu Konsum, Marketing und emotionalem Verhalten in der Ökonomie. Marburg: Metropolis. ISBN 978-3-89518-617-2.
+Reimann, Martin & Weber, Bernd (Hg.) (2011): Neuroökonomie: Grundlagen – Methoden – Anwendungen. Wiesbaden: Gabler Verlag. ISBN 978-3-8349-0462-1.
+
+
+== Weblinks ==
+Society for Neuroeconomics
+Association for NeuroPsychoEconomics (Journal & Conference)
+
+
+=== Zeitschriften ===
+Journal of Neuroscience, Psychology, and Economics - The premier neuroeconomics publication venue
+NeuroPsychoEconomics - Das deutsche Neuroökonomie-Journal
+NeuroPsychoEconomics in der GBI-Datenbank
+
+
+== Einzelnachweise ==

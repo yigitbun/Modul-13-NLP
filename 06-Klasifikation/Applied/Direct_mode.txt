@@ -1,0 +1,28 @@
+Direct mode (wörtlich übersetzt: Direkt-Modus) ist ein Begriff aus der Informatik, der sich auf die sofortige Ausführung einer Anweisung außerhalb des Kontexts eines Programms bezieht. Die Anweisung wird sofort nach Abschluss der Eingabe, z. B. mit Enter oder Return, ausgeführt und das Ergebnis auf dem Bildschirm ausgegeben.
+Im Gegensatz dazu wird im Programm-Modus nichts ausgeführt, bis eine bestimmte Anweisung gegeben und dadurch ein Programm gestartet wird. Einige Anweisungen können im Direkt-Modus und im Programm-Modus verwendet werden, während andere exklusiv für den einen oder den anderen Modus gelten. (Die RUN Anweisung in BASIC ist ein Beispiel für eine Direkt-Modus Anweisung.)
+Der Direkt-Modus wurde am häufigsten auf 8-Bit Systemen wie Commodore 64 und Atari 800 verwendet. Jedoch können auch Anweisungen, die an einer Unix-Shell eingegeben wurden, als das Direkt-Modus Äquivalent zu Shellskripten betrachtet werden und moderne interpretierte Sprachen wie Python und Perl enthalten Read-Eval-Print-Loop (REPL) Shells, in denen Anweisungen zur sofortigen Auswertung und Ausführung eingegeben werden können.
+Auch moderne Integrierte Entwicklungsumgebungen bieten oft einen Direkt-Modus an, wo während dem Debugging bei angehaltener Programmausführung Anweisungen im aktuellen Scope sofort ausgeführt werden können und das Ergebnis auf dem Bildschirm ausgegeben wird.
+
+
+== Beispiel ==
+Programm-Modus:
+
+10 PRINT "HELLO WIKIPEDIA"
+READY.
+RUN
+HELLO WIKIPEDIA
+READY.
+
+Direkt-Modus:
+
+PRINT "HELLO WIKIPEDIA"
+HELLO WIKIPEDIA
+READY.
+
+
+== Siehe auch ==
+Lisp machine
+Interpreter
+
+
+== Einzelnachweise ==

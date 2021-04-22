@@ -1,0 +1,18 @@
+Das Framework Multi-touch for Java (kurz MT4j) dient als Basis zur Entwicklung von Anwendungen für Multi-Touch-Screens mit der objektorientierten Programmiersprache Java. 
+
+
+== Aufgaben ==
+MT4j übernimmt hierbei viele, bei der Entwicklung solcher Anwendungen häufig benötige, Aufgaben, wie beispielsweise die Erkennung und Verarbeitung von Berührungsgesten, die Bereitstellung von Multi-touch-Widgets und die hardwarebeschleunigte Bildsynthese der Grafikausgabe. Die Entwicklungsplattform wurde im Herbst 2009 vom Fraunhofer IAO quelloffen veröffentlicht. So soll unter Mitwirkung der Open Source Gemeinde langfristig ein noch umfangreicherer "Baukasten" an Multi-touch-Komponenten entstehen. 
+
+
+== Verfügbarkeit ==
+MT4j läuft auf den verbreitetsten PC-Plattformen (Microsoft Windows, Linux, Mac OS X) und kann direkt in die Java-Entwicklungsumgebung Eclipse  importiert werden. Auch die Verwendung anderer Entwicklungsumgebungen ist möglich. Das „Full-Release“ enthält diverse Demoanwendungen und Beispiele, um den Einstieg in die Nutzung von MT4j zu erleichtern. Dokumentationen und Tutorials finden sich auf der Projektseite.
+
+
+== Weblinks ==
+mt4j.org MT4j Homepage
+wiki.iao.fraunhofer.de
+Artikel: "MT4j – An Open Source Platorm for Muli-touch Software Development" (englisch, PDF, 385 kB)
+
+
+== Einzelnachweise ==

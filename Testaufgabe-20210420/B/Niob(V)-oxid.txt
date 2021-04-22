@@ -1,0 +1,72 @@
+Niob(V)-oxid  ist eine chemische Verbindung aus der Gruppe der Oxide des Elements Niob. Es liegt in Form eines unbrennbaren, weißen und geruchlosen Pulvers vor.
+
+
+== Gewinnung und Darstellung ==
+Niob(V)-oxid entsteht bei der Oxidation von Niob an Luft. In reiner Form kann es durch Hydrolyse von Niob(V)-chlorid gewonnen werden.
+
+  
+    
+      
+        
+          2
+           
+          N
+          b
+          C
+          
+            l
+            
+              5
+            
+          
+          +
+          5
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          N
+          
+            b
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          10
+           
+          H
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {2\ NbCl_{5}+5\ H_{2}O\longrightarrow Nb_{2}O_{5}+10\ HCl} }
+  Niob(V)-oxid kann auch in einem Sol-Gel-Prozess aus Niobethoxid Nb(OC2H5)5 gewonnen werden.
+
+
+== Eigenschaften ==
+Niob(V)-oxid besitzt eine monokline Kristallstruktur und einen Brechungsindex von 2,3 bei 500 nm und ist im Bereich von 350 bis 7000 nm transparent. Niob(V)-oxid kommt jedoch in mehreren Modifikationen vor, von denen die meist vorliegende B-Form unterhalb von 750 °C stabil ist. Sie kristallisiert monoklin in Blättchen und hat einen Aufbau wie Antimon(V)-oxid mit einem nahezu hexagonal dichten Sauerstoff-Gitter. Die Verknüpfung der Koordinationspolyeder entspricht dem Rutiltyp mit der Raumgruppe B2/b (Raumgruppen-Nr. 15, Stellung 3)Vorlage:Raumgruppe/15.3, a = 1273 pm, b = 556 pm, c = 488 pm, γ = 105°05'. Oberhalb von etwa 750 °C ist die H-Form thermodynamisch stabil.
+
+
+== Verwendung ==
+Niob(V)-oxid wird zur Erhöhung des Brechungsindexes in optischen Gläsern, z. B. in Objektiven für Fotoapparate und Kopiergeräte sowie in Brillengläsern, verwendet. Zusätzlich wird es zur Herstellung von Lithiumniobat sowie Calcium-Barium-Niobat benutzt.
+
+
+== Siehe auch ==
+Niob(II)-oxid
+Niob(IV)-oxid
+
+
+== Einzelnachweise ==

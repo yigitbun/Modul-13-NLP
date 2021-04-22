@@ -1,0 +1,27 @@
+Der Begriff Sozionik ist eine Wortschöpfung aus Soziologie und Informatik. Die soziale und die technische Welt vermischen sich im 21. Jahrhundert zu einem neuen Forschungsgebiet, das von der Sozionik erforscht wird.
+
+
+== Hybride Systeme ==
+Ergebnis der interdisziplinären Forschungszusammenarbeit sind hybride Systeme, die aus sozialen "Akteuren" (Robotern) und Softwareagenten bestehen. Seit den 1990er Jahren wird die Modellierbarkeit von sozialen Verhaltensformen in künstlichen intelligenten Systemen angestrebt. Auf Grund der demografischen Entwicklung in den westlichen Ländern, aber auch in Staaten wie Südkorea oder Japan, wird zum Beispiel die Betreuung alter Menschen teilweise an Roboter übertragen. Um eine sichere Interaktion zwischen Mensch und Maschine zu gewährleisten, wurde es wichtig, diese Roboter so zu programmieren, dass sie den menschlichen Bedürfnissen gerecht werden können. 
+Dabei werden die sozialen Verhaltensweisen in algorithmisierten Modellen formuliert. Das soziale Modell dient als Matrix zur Programmierung der verteilten künstlichen Intelligenz. Daraus entsteht schließlich eine "künstliche Sozialität". Je genauer die soziologische Feldforschung Aussagen über soziales Verhalten oder Kommunikationsregeln machen kann, desto besser können sie in der KI-Programmierung umgesetzt werden.
+
+
+== Siehe auch ==
+Soziophysik
+Spieltheorie
+
+
+== Literatur ==
+Thomas Malsch (Hg.): Sozionik. Soziologische Ansichten über künstliche Sozialität. Edition Sigma, Berlin 1998, ISBN 3-89404-453-5
+Thomas Kron (Hg.): Luhmann modelliert. Sozionische Ansätze zur Simulation von Kommunikationssystemen. VS Verlag, Opladen 2002, ISBN 3-8100-3022-8
+Rolf von Lüde, Daniel Moldt, Rüdiger Valk: Sozionik. Modellierung soziologischer Theorie. Lit, Münster 2005, ISBN 3-8258-5980-0
+Klaus Fischer, Michael Florian, Thomas Malsch (Hg.): Socionics. Scalability of Complex Social Systems. Springer, Berlin 2005, ISBN 3-540-30707-9
+Rolf v. Lüde, Daniel Moldt, Rüdiger Valk (Hg.): "Selbstorganisation und Governance in künstlichen und sozialen Systemen". Lit, Münster 2009, ISBN 978-3-643-10057-3
+
+
+== Weblinks ==
+Sozionik: Lebensqualität durch soziale Hightech?
+Untersuchungen zur Dynamik sozialer Systeme anhand der Simulation komplexer, adaptiver Agenten
+Wolfgang Richter: Maschinen als Makler. In: Berliner Zeitung. 6. November 2004, abgerufen am 7. September 2015. 
+Lexikoneintrag der Gesellschaft für Informatik
+Die Grenzen menschlicher Hochleistungsganglien sprengen… Beitrag des online-Magazins sciencegarden

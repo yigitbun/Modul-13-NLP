@@ -1,0 +1,145 @@
+Lanthanoxid ist das Oxid des Seltenerdmetalls Lanthan.
+
+
+== Vorkommen ==
+Lanthanoxid ist eine Verbindung, die aus Lanthanmineralien wie z. B.: Monazit, Cerit, Bastnäsit, Cheralith und Samarskit hergestellt wird.
+
+
+== Eigenschaften ==
+Lanthanoxid ist ein weißes Pulver. Es reagiert ähnlich wie Calciumoxid mit Wasser stark exotherm unter Bildung von Lanthanhydroxid.
+
+  
+    
+      
+        
+          L
+          
+            a
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          2
+           
+          L
+          a
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {La_{2}O_{3}+3\ H_{2}O\longrightarrow 2\ La(OH)_{3}} }
+  
+		
+
+
+== Darstellung ==
+Nach der aufwendigen Abtrennung der anderen Lanthanoide aus deren Erzen wird letztendlich Lanthanoxalat gewonnen, das anschließend zu Lanthanoxid La2O3 verglüht wird.
+
+  
+    
+      
+        
+          2
+           
+          L
+          
+            a
+            
+              2
+            
+          
+          (
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          L
+          
+            a
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          12
+           
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ La_{2}(C_{2}O_{4})_{3}+3\ O_{2}\longrightarrow 2\ La_{2}O_{3}+12\ CO_{2}} }
+  
+
+
+== Verwendung ==
+Lanthanoxid wird in der Hauptsache zur Herstellung des reinen Metalls Lanthan verwendet. Hierfür wird es mittels Hydrogenfluorid (HF) zu Lanthanfluorid oder bei höheren Temperaturen mittels Chlor zum wasserfreien Lanthanchlorid überführt. Beide Halogenide können dann metallothermisch mittels Calcium oder Magnesium zum Metall reduziert werden.
+Hochreines Lanthanoxid wird in der Glasindustrie zur Herstellung hochwertiger Gläser für die Optik, z. B. für Kameraobjektive, genutzt. Die Kameras der ersten beiden Mars Rover hatten beispielsweise mindestens eine Linse, die aus dem Schott-Lanthanglas LaFN21 hergestellt war.
+Als La-Pb-Mn-Katalysator wird es zur Abgasreinigung für Verbrennungsmotoren verwendet, da es nicht nur Kohlenstoffmonoxid zu Kohlenstoffdioxid oxidiert, sondern auch Stickoxide zu Stickstoff reduziert.
+Es wird ferner zur Herstellung von Wolframelektroden zum Schweißen benutzt.
+Ansonsten wird Lanthanoxid zur Herstellung anderer Lanthanverbindungen eingesetzt.
+
+
+== Einzelnachweise ==

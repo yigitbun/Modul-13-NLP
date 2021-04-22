@@ -1,0 +1,14 @@
+Ein Plugfest oder Plugtest ist eine Veranstaltung, die auf einem bestimmten Standard basiert und bei der Entwickler von elektronischen Geräten oder Software die Interoperabilität ihrer Produkte oder Designs mit denen anderer Hersteller testen.
+
+
+== Beispiele ==
+Die EEBUS-Initiative organisiert Plugfests vor der Freigabe neuer Anwendungsfall-Spezifikationen. Auf dem Plugfest werden im Vorfeld definierte und von verschiedenen Herstellern implementierte Anwendungsfälle auf gegenseitige Interoperabilität getestet (z. B. das Elektrofahrzeug kommuniziert mit dem Haushalt-Energiemanagementsystem, um Lastspitzen zu vermeiden).
+Das CEA organisiert Plugfests für Interoperabilitätstests zwischen HDMI-, Sink- und Repeater-Geräten.
+VESA organisiert Plugtests für DisplayPort-Geräte-Designer und -Hersteller.
+Plugtests für USB-Geräteanbieter und Kabelnetzbetreiber werden organisiert, um die DOCSIS-Interoperabilität zu testen.
+OpenDoc Society organisiert OpenDocument-Plugfests in Verbindung mit Branchenverbänden wie dem OpenForum Europe, dem Open Source Consortium und dem britischen Government Digital Service
+Die SCSI Trade Association organisiert regelmäßige Serial Attached SCSI-Plugfests, um eine frühzeitige Interoperabilität des Gerätes zu testen.Das technische Ziel besteht in zweifacher Hinsicht: die Einhaltung und die Wirksamkeit der Norm zu prüfen. Letzteres könnte der Fall sein, wenn der Standard mehrdeutig ist. Ein vereinfachtes Beispiel: Die Breite eines Steckers ist vorgeschrieben, aber die Hersteller verwenden unterschiedliche Längen.
+Ein Plugfest kann formell sein und öffentliche Testergebnisse haben oder informell und privat. Neben der Unterstützung der Anbieter, die ihre Interoperabilität verbessern, hilft ein Plugfest, Aufmerksamkeit für den Standard zu schaffen und die Transparenz der Kompatibilität zu verbessern.
+
+
+== Referenzen ==

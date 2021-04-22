@@ -1,0 +1,28 @@
+Die englische Abkürzung CAx steht für computer-aided x, vereinzelt auch computer-assisted x, zu dt. computerunterstützt, rechnergestützt oder ähnlich – wobei das x ein Platzhalter für verschiedene Buchstaben darstellt, die als Abkürzung für einzelne Ablaufabschnitte und Technologien der Produktion stehen. CAx umfasst die fertigungsbezogene angewandte Informatik in der Produktionswirtschaft und das Product-Lifecycle-Management.
+Wichtige Abkürzungen aus der CAx-Welt sind:
+
+CAD, computer-aided design, rechnerunterstützte Konstruktion
+CAE, computer-aided engineering, rechnergestützte Entwicklung
+CAI, computer-aided innovation, rechnergestütztes Erfinden
+CAM, computer-aided manufacturing, rechnergestützte Fertigung
+CAP, computer-aided planning, rechnergestützte Planung
+CAPP, computer-aided process planning, rechnergestützte Fertigungsplanung
+CAQ, computer-aided quality assurance, rechnergestütztes Qualitätsmanagement
+CAS, computer-aided styling, rechnergestützte Gestaltung
+CAT, computer-aided testing, rechnergestütztes TestenAuch Kombinationen sind üblich:
+
+so spricht man allgemein bei CAD/CAM über den Vorgang, das auf Computern entwickelte Entwurfsmodell direkt elektronisch an die Fertigung zu übermitteln, und umgekehrt auch Fragestellungen der Fertigung, wie auch der Funktion schon durch Simulation in den Entwurfsprozess einfließen zu lassen.
+CAS/CAD steht für die gesamte ästhetische und funktionelle Formgebung (Styling und Design, Form & Function)Speziell in diversen Branchen spricht man auch von:
+
+CAAD, computer-aided architectural design, rechnergestützte Architekturmodellierung
+CASE, computer-aided software engineering, rechnergestützte Softwareentwicklung in der IT-BrancheFerner sind noch folgende Abkürzungen in der CAx-Welt relevant:
+
+CIM, computer-integrated manufacturing, computerintegrierte Produktion (auch CAI computer-aided industry)
+KBE, knowledge-based engineering, wissensbasierte Konstruktion
+CNC, computerized numerical control, numerische Steuerung, das heißt Computersteuerung, für Fertigungsmaschinen
+CAS, computer-aided standardisation, rechnergestützte Standardisierung
+VR, Virtual Reality, Virtuelle Realität/Simulation
+DMU, Digital Mock Up, digitales Versuchsmodell
+RP, Rapid Prototyping, schnelle Prototypenentwicklung (auch in der Softwareentwicklung für schnelles Prototyping)
+PDM, product-data-management, Verwaltung von Produktdaten
+ERP, Enterprise-Resource-Planning, Planung und Steuerung von Ressourcen

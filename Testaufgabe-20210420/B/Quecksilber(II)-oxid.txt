@@ -1,0 +1,107 @@
+Quecksilber(II)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide.
+
+
+== Vorkommen ==
+In natürlicher Form kommt Quecksilber(II)-oxid als sehr seltenes Mineral Montroydit vor.
+
+
+== Gewinnung und Darstellung ==
+
+Die rote Form von Quecksilber(II)-oxid kann durch Reaktion von Quecksilber mit Sauerstoff bei über 350 °C oder durch Pyrolyse von Quecksilber(II)-nitrat gewonnen werden, die gelbe Form durch Fällung von gelöstem Hg2+ mit Alkalien. Die unterschiedliche Farbe ist nur die Folge der unterschiedlichen Partikelgrößen, da beide Formen die gleiche Struktur mit Ketten aus linearen O-Hg-O-Einheiten und gewinkelten (108°) Hg-O-Hg-Einheiten aufweisen.
+Seine trigonale Modifikation kann durch Reaktion von Kaliumtetraiodomercurat(II) mit Natron- oder Kalilauge bei 50 °C gewonnen werden.
+
+  
+    
+      
+        
+          
+            K
+            
+              2
+            
+          
+          H
+          g
+          
+            I
+            
+              4
+            
+          
+          +
+          2
+           
+          K
+          O
+          H
+          ⟶
+          H
+          g
+          O
+          +
+          4
+           
+          K
+          I
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {K_{2}HgI_{4}+2\ KOH\longrightarrow HgO+4\ KI+H_{2}O} }
+  
+
+
+== Eigenschaften ==
+Quecksilber(II)-oxid ist ein Lichtempfindlicher orange-roter Feststoff, der in Wasser schlecht löslich ist. Wie Quecksilber selbst ist auch das Oxid sehr giftig. Erwärmt man Quecksilberoxid, so färbt es sich ab 400 °C fast schwarz und zerfällt dann ab 500 °C in Sauerstoff und Quecksilber:
+
+  
+    
+      
+        
+          2
+           
+          H
+          g
+          O
+          →
+          2
+           
+          H
+          g
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ HgO\rightarrow 2\ Hg+O_{2}} }
+  Die Verbindung kommt in zwei Modifikationen vor. Die trigonale Modifikation hat eine Kristallstruktur mit der Raumgruppe P3121 (Raumgruppen-Nr. 152)Vorlage:Raumgruppe/152 und den Gitterparametern a = 357,7 pm und c = 868,1 pm. Oberhalb von 200 °C wandelt sich diese in die orthorhombische Modifikation um, die die Raumgruppe Pnma (Nr. 62)Vorlage:Raumgruppe/62 und die Gitterparameter a = 661,2 pm, b = 552,0 pm und c = 352,1 pm besitzt.
+
+
+== Verwendung ==
+Quecksilber(II)-oxid kann zur Herstellung von reinem Quecksilber verwendet werden. Schon 1774 entdeckte Joseph Priestley, dass erhitztes Quecksilber(II)-oxid Sauerstoff abgibt und sich Quecksilber bildet, wobei er das entstehende Gas jedoch nicht als Sauerstoff erkannte. Es wurde bis zu dem Verbot von Quecksilberoxid-Zink-Batterien als Kathodenmaterial verwendet. Besonders gut lässt sich mit Quecksilber(II)-oxid Sauerstoff in gezielten Mengen im Labormaßstab herstellen. Das Abwiegen der benötigten Menge ist aufgrund der hohen Dichte von Quecksilber recht präzise. Außerdem führen die Quecksilber(II)-oxid-Kristalle kein Kristallwasser mit sich.
+
+
+== Vergiftung ==
+
+
+=== Symptomatik ===
+Bei einer inhalativen Aufnahme kommt es zu einem Husten. Der Stoff kann über die intakte Haut aufgenommen werden. Auf der Haut selbst ruft er eine Rötung hervor. Bei einer oralen Aufnahme kommt es zu Durchfall und abdominellen Schmerzen. Prinzipiell reizt die Substanz die Atemwege, die Augen und die Haut. Ein wiederholter oder chronischer Kontakt mit Quecksilberoxid kann eine Sensibilisierung verursachen. Es kann auch zur Entwicklung von Nierenschäden kommen.
+
+
+=== Notfallmaßnahmen ===
+Der Patient ist mit umluftunabhängigem Atemschutz aus der kontaminierten Umgebung zu retten. Kontaminierte Kleidung ist zu entfernen und die betroffene Haut ist ausgiebig mit Wasser zu spülen. Jeder Patient bekommt mindestens vier Liter Sauerstoff pro Minute. Bei einer Einwirkung auf das Auge ist dieses zu anästhesieren und sorgfältig zu spülen. Bei einer oralen Aufnahme erhält der Patient 1 Gramm medizinische Kohle pro Kilogramm Körpergewicht. Eine klinische Überwachung hat auf jeden Fall zu erfolgen. In der Klinik kann als spezifisches Antidot Dimercaptopropansulfonsäure eingesetzt werden.
+
+
+== Einzelnachweise ==

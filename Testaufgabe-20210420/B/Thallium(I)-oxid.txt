@@ -1,0 +1,45 @@
+Thallium(I)-oxid ist eine anorganische chemische Verbindung des Thalliums aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Thallium(I)-oxid kann durch Erhitzung von Thallium(I)-hydroxid auf über 100 °C oder Thallium(III)-oxid auf über 700 °C in Abwesenheit von Luft dargestellt werden.
+
+  
+    
+      
+        
+          2
+           
+          T
+          l
+          O
+          H
+          ⟶
+          T
+          
+            l
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ TlOH\longrightarrow Tl_{2}O+H_{2}O} }
+  
+
+
+== Eigenschaften ==
+Thallium(I)-oxid ist ein sehr hygroskopischer schwarzer Feststoff, der leicht löslich in Wasser unter Bildung von Thallium(I)-hydroxid ist. Er besitzt eine Kristallstruktur, die als dreifache polytype Form vom Anti-Cadmium(II)-iodid-Typ aufzufassen ist. Es ist eine trigonale Kristallstruktur mit der Raumgruppe R3m (Raumgruppen-Nr. 166)Vorlage:Raumgruppe/166.
+
+
+== Einzelnachweise ==

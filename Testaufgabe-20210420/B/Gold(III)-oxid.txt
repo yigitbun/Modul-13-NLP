@@ -1,0 +1,17 @@
+Gold(III)-oxid (Au2O3) ist das stabilste bekannte Oxid des chemischen Elements Gold. Es ist ein rotbrauner, kristalliner, lichtempfindlicher Feststoff. Die Verbindung ist thermisch instabil und zersetzt sich oberhalb von etwa 160 °C wieder in die Elemente. Au2O3 hat eine verzerrte quadratisch-planare Kristallstruktur, bestehend aus AuO4-Einheiten.
+
+
+== Darstellung ==
+Die Verbindung ist aufgrund des edlen Charakters von elementarem Gold nicht durch dessen Oxidation mit Sauerstoff herstellbar. Es ist allerdings durch die direkte Reaktion von Gold mit einem Sauerstoffplasma darstellbar. Chemisch geht man von in wässriger Lösung stabilem Trichlorogold-Hydrat AuCl3·H2O (eigentlich Hydrogentrichlorohydroxidoaurat(III) H[AuCl3(OH)]) oder der Tetrachloridogoldsäure H[AuCl4]·4 H2O aus, das, mit Natriumcarbonat versetzt, als ein brauner Niederschlag Au2O3·x H2O ausfällt. Nach dem Trocknen über Silicagel spaltet dieses Wasser ab und ergibt Au2O3·2-3 H2O. Dieses kann dann weiter bei vierwöchigem Tempern in Wasser bei 280 °C und 3000 Bar Druck (siehe dazu Prinzip vom kleinsten Zwang) zu reinem polykristallinem und wasserfreiem Gold(III)-oxid Au2O3 umgewandelt werden.
+
+
+== Verwendung ==
+Goldoxid kann zum Färben von Gläsern (Goldrubinglas) verwendet werden, spezielle Anwendungen in der Optoelektronik sind auch möglich.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Jörg Michael Gottfried: CO-Oxidation an Gold, Adsorption und Reaktion von Sauerstoff, Kohlenmonoxid und Kohlendioxid an einer Au(110)-(1x2)-Oberfläche, Dissertation an der FU Berlin
+3D-Bilder mit Hilfe von Goldoxid

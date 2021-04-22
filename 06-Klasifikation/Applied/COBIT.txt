@@ -1,0 +1,141 @@
+COBIT (Control Objectives for Information and Related Technology, heute nur mehr als Akronym in Verwendung) ist ein international anerkanntes Framework zur IT-Governance und gliedert die Aufgaben der IT in Prozesse und Control Objectives (oft mit ‚Kontrollziel‘ übersetzt, eigentlich ‚Steuerungsvorgaben‘, in der aktuellen deutschsprachigen Version wird der Begriff nicht mehr übersetzt). COBIT definiert hierbei nicht vorrangig wie die Anforderungen umzusetzen sind, sondern primär was umzusetzen ist.
+
+
+== Geschichte ==
+COBIT wurde ursprünglich (1996) vom internationalen Verband der IT-Prüfer ISACA entwickelt. COBIT hat sich von einem Werkzeug für IT-Prüfer (Auditoren) zu einem Werkzeug für die Steuerung der IT aus Unternehmenssicht entwickelt und wird unter anderem auch als Modell zur Sicherstellung der Einhaltung gesetzlicher Anforderungen (Compliance) eingesetzt. Dies fördert die IT-Industrialisierung.
+Im Jahr 1996 wurde die erste Fassung des Referenzmodells veröffentlicht, in den Jahren 1998 und 2000 folgten die zweite und dritte Edition. Im Jahr 2005 wurde COBIT 4.0 veröffentlicht, die überarbeitete Version 4.1 wurde im Mai 2007 publiziert. Im April 2012 folgte schließlich COBIT 5. Stand bis Version 4.1 COBIT noch als Abkürzung für Control Objectives for Information and Related Technology, so wird ab Version 5 nur mehr das Akronym verwendet um den Wechsel vom ursprünglichen Framework für Auditoren hin in Richtung Steuerung der gesamten Unternehmens-IT zu dokumentieren. Im November 2018 erschien mit COBIT 2019 die derzeit letzte Aktualisierung.
+COBIT ist in starker Anlehnung an das COSO-Modell erstellt worden, um die Integration der IT-Governance in die Corporate Governance zu gewährleisten. Der Anspruch von COBIT ist, das Bindeglied zwischen den unternehmensweiten Steuerungs-Frameworks (COSO) und den IT-spezifischen Modellen (z. B. ITIL, ISO 27001/27002 etc.) zu sein. Dass COBIT diesem Anspruch gerecht wird, zeigt die hohe Verbreitung von COBIT als Steuerungsmodell der meisten großen Unternehmen international: Die ISACA postuliert, dass 95 % der Großunternehmen COBIT ganz oder teilweise umsetzen.
+
+
+== Steuerungsansatz ==
+Der Steuerungsansatz von COBIT ist grundsätzlich Top-Down. Ausgehend von Unternehmenszielen werden IT-Ziele festgelegt, die wiederum die Architektur der IT beeinflussen. Hierbei gewährleisten angemessen definierte und betriebene IT-Prozesse die Verarbeitung von Informationen, die Verwaltung von IT-Ressourcen (Personal, Technologie, Daten, Anwendungen) und die Erbringung von Services. Für diese Ebenen (Unternehmensweit, IT, Prozess und Aktivitäten) sind jeweils Mess- und Zielgrößen zur Beurteilung der Ergebnisse und der Performance-Driver festgelegt. Die Messung der Zielerreichung erfolgt Bottom-Up und ergibt so einen Steuerungs-Zyklus.
+In Summe definiert das COBIT 5-Framework 37 IT-Prozesse, denen die Control Objectives zugeordnet sind. Die Control Objectives sind wesentliche Bereiche, die im Prozess berücksichtigt sein müssen, um das Prozess-Ziel (und somit über das IT-Ziel das Unternehmensziel) zu erreichen. Die Summe der Control Objectives stellt eine verlässliche und dem Unternehmensbedarf angemessene Informationsfunktion sicher.
+
+
+== Aufbau ==
+
+
+=== COBIT 4.1 ===
+Die Publikationen von COBIT 4.1 bestehen aus dem Core Content, dem IT Assurance Guide, dem Implementation Guide und den Control Practices.
+Im COBIT 4.1 Core Content wird für jeden der 34 COBIT-Prozesse festgelegt:
+
+Prozessbeschreibung
+Prozessziel (High-Level Control Objective)
+wesentliche Aktivitäten
+wesentliche Messgrößen
+Control Objectives (in der Summe 210; im Vergleich zu insgesamt 215 in Version 4.0 und 318 in Version 3, die als 3rd Edition bezeichnet wird)
+Management Guidelines mit den Inputs und Outputs des Prozesses, einer Aufgaben- und Zuständigkeitsmatrix (RACI-Matrix) und detaillierten Metriken zur Beurteilung des Prozesses und zur Beurteilung des Beitrags einzelner Aktivitäten zu den Zielen des Prozesses und den Beitrag des Prozesses wiederum zu den Zielen der IT
+Reifegradmodell, das – angelehnt an CMM – die jeweiligen typischen Ausprägungen des Prozesses in sechs Reifegradstufen (0 bis 5) beschreibtZusätzlich beschreibt der COBIT 4.1 Core Content:
+
+die Verbindung von Unternehmensziel zu IT-Ziel
+ein generisches Reifegradmodell
+Messung und Beurteilung von IT
+sieben generische (für alle Prozesse gültige) Control Objectives
+Control Objectives für Anwendungskontrollen (Eingabe-, Verarbeitungs-, Ausgabe- und Übertragungskontrollen)Der IT Assurance Guide gibt eine detaillierte Anleitung zur Prüfung der IT-Prozesse. Hierbei wird unterschieden in die Prüfung der Prozesse, der Control Objectives und der Control Practices.
+Die COBIT Control Practices legen für jedes, im Core Content vorhandene Control Objective Maßnahmen fest, die helfen, die Vorgaben zu erreichen. Die Control Practices können somit als Leitfaden zur Umsetzung herangezogen werden.
+Die methodische Vorgehensweise der gesamthaften Umsetzung von IT-Governance ist im IT Governance Implementation Guide beschrieben.
+Die Prozesse aus COBIT 4.1 können über ein entsprechendes Mapping etwa den Prozessen aus ITIL v3 gegenübergestellt werden.
+
+
+=== COBIT 5 ===
+COBIT 5 konsolidiert und integriert COBIT 4.1, Val IT 2.0 sowie das Risk IT Framework und BMIS (Business Model for Information Security).COBIT 5 definiert fünf grundlegende Prinzipien für die Governance und das Management der Unternehmens-IT. Eines der wesentlichen Prinzipien ist die Unterscheidung zwischen Governance (also der Vorgabe der Richtung, Priorisierung und Festlegung der Unternehmensziele) und Management (der Planung, Implementierung, Durchführung und Überwachung der dafür notwendigen Aktivitäten). Zwei wesentliche Prinzipien sind der umfassende, ganzheitliche Ansatz sowie die Abdeckung des gesamten Unternehmens. Hierfür definiert COBIT 5 sieben Enabler, welche die Erreichung der Unternehmensziele ermöglichen sollen und das gesamte Unternehmen abdecken. Treiber hinter allen Aktivitäten sind verschiedenste Anspruchsgruppen (englisch: Stakeholder) an die IT, beispielsweise Kunden, Lieferanten, Gesetzgeber oder Fachbereiche. Ziel ist es deren Anforderungen in eine durchführbare Unternehmensstrategie umzuwandeln. Hierfür sieht COBIT 5 eine Zielkaskade vor, ein Mechanismus welcher die Anforderungen der Stakeholder in Unternehmensziele, IT-bezogene Ziele und schließlich Enabler-Ziele herunterbricht. COBIT 5 definiert 17 generische Unternehmensziele, welche über ein entsprechendes Mapping 17 generischen IT-bezogenen Zielen zugeordnet werden können. Diese wiederum können generischen sowie spezifischen Enabler-Zielen sowie den 37 in COBIT 5 definierten Prozessen zugeordnet werden.
+Die fünf grundlegenden Prinzipien für die Governance und das Management der Unternehmens-IT sind:
+
+Erfüllung der Anforderungen der Anspruchsgruppen
+Abdeckung des gesamten Unternehmens
+Anwendung eines einheitlichen, integrierten Rahmenwerks
+Ermöglichung eines ganzheitlichen Ansatzes
+Unterscheidung zwischen Governance und ManagementIn COBIT 5 werden sieben Enabler-Kategorien definiert und betrachtet, jene Faktoren bzw. Unternehmensressourcen welche die Erreichung der Unternehmensziele ermöglichen sollen:
+
+Prinzipien, Richtlinien und Rahmenwerke
+Prozesse
+Organisationsstrukturen
+Kultur, Ethik und Verhalten
+Informationen
+Services, Infrastruktur und Anwendungen
+Mitarbeiter, Fähigkeiten und KompetenzenDas COBIT 5-Prozessreferenzmodell definiert 37 Prozesse, welche in fünf Domänen gruppiert sind, davon eine Governance-Domäne (EDM) und vier Management-Domänen (APO, BAI, DSS und MEA), auch als PBRM (Plan, Build, Run, Monitor) bezeichnet. Diese Prozesse können etwa den 26 Prozessen aus ITIL v3/Edition 2011 gegenübergestellt werden, welche in die fünf Module Service Strategy (SS), Service Design (SD), Service Transition (ST), Service Operation (SO) und Continual Service Improvement (CSI) gruppiert sind.
+EDM – Evaluieren, Vorgeben und Überwachen (englisch: "Evaluate, Direct and Monitor")
+EDM01 Sicherstellen der Einrichtung und Pflege des Governance-Rahmenwerks
+EDM02 Sicherstellen der Lieferung von Wertbeiträgen
+EDM03 Sicherstellen der Risiko-Optimierung
+EDM04 Sicherstellen der Ressourcenoptimierung
+EDM05 Sicherstellen der Transparenz gegenüber AnspruchsgruppenAPO – Anpassen, Planen und Organisieren (englisch: "Align, Plan and Organise")
+APO01 Managen des IT-Management-Rahmenwerks
+APO02 Managen der Strategie
+APO03 Managen der Unternehmensarchitektur
+APO04 Managen von Innovationen
+APO05 Managen des Portfolios
+APO06 Managen von Budget und Kosten
+APO07 Managen des Personals
+APO08 Managen von Beziehungen
+APO09 Managen von Servicevereinbarungen
+APO10 Managen von Lieferanten
+APO11 Managen der Qualität
+APO12 Managen von Risiko
+APO13 Managen der SicherheitBAI – Aufbauen, Beschaffen und Implementieren (englisch: "Build, Acquire and Implement")
+BAI01 Managen von Programmen und Projekten
+BAI02 Managen der Definition von Anforderungen
+BAI03 Managen von Lösungsidentifizierung und Lösungsbau
+BAI04 Managen von Verfügbarkeit und Kapazität
+BAI05 Managen der Ermöglichung organisatorischer Veränderungen
+BAI06 Managen von Änderungen
+BAI07 Managen der Abnahme und Überführung von Änderungen
+BAI08 Managen von Wissen
+BAI09 Managen von Betriebsmitteln
+BAI10 Managen der KonfigurationDSS – Bereitstellen, Betreiben und Unterstützen (englisch: "Deliver, Service and Support")
+DSS01 Managen des Betriebs
+DSS02 Managen von Serviceanfragen und Störungen
+DSS03 Managen von Problemen
+DSS04 Managen der Kontinuität
+DSS05 Managen von Sicherheitsservices
+DSS06 Managen von GeschäftsprozesskontrollenMEA – Überwachen, Evaluieren und Beurteilen (englisch: "Monitor, Evaluate and Assess")
+MEA01 Überwachen, Evaluieren und Beurteilen von Leistung und Konformität
+MEA02 Überwachen, Evaluieren und Beurteilen des internen Kontrollsystems
+MEA03 Überwachen, Evaluieren und Beurteilen der Compliance mit externen AnforderungenDas Prozessbefähigungsmodell zur Bewertung und kontinuierlichen Verbesserung von Prozessen basiert in COBIT 5 auf dem internationalen Standard ISO/IEC 15504.
+
+
+=== COBIT 2019 ===
+COBIT 2019 erschien im November 2018.
+
+
+== COBIT-relevante Publikationen ==
+Weitere COBIT-relevante Publikationen der ISACA sind:
+
+Board Briefing on IT Governance – Zur Bewusstseinsbildung für den Bedarf an unternehmensweiter Steuerung der IT
+COBIT Mapping – Eine Reihe von Dokumenten, die die Gegenüberstellung von COBIT und anderen IT-Standards (z. B. ITIL, ISO 17799, IT-Grundschutz-Kataloge, NIST, FIPS, ISO 13335, TOGAF etc.) enthält. Im Rahmen des COBIT-Mapping wurde, gemeinsam mit dem Herausgeber von ITIL eine Publikation zur optimalen Kombination von COBIT, ITIL und ISO 27001 erstellt.
+Control Objectives for Sarbanes Oxley – Eine Anleitung zur Definition von wesentlichen Kontrollaktivitäten, die üblicherweise im Rahmen von SOX-Implementierungen festgelegt werden.
+Control Objectives for Basel II – Eine Anleitung zur Umsetzung der Anforderungen von Basel II mit Hilfe des COBIT-Frameworks (derzeit in Erstellung)
+
+
+== Personenzertifizierung ==
+Die ISACA bietet seit Juli 2005 COBIT-Zertifizierungen an. Derzeit stehen folgende Zertifizierungen zur Verfügung:
+
+COBIT 5
+COBIT 5 Foundation
+COBIT 5 Implementation
+COBIT 5 Assessor
+Implementing the NIST Cybersecurity Framework Using COBIT 5
+COBIT 2019
+COBIT 2019 Foundation
+COBIT 2019 Design and Implementation
+Implementing the NIST Cybersecurity Framework Using COBIT 2019ISACA organisiert jedes Jahr regionale (europäische) und internationale Konferenzen sowie mehrere COBIT User Conventions. Innerhalb dieser Plattformen werden Vorträge und Workshops rund um COBIT und IT-Governance angeboten.
+
+
+== ISO/IEC 38500 ==
+Ein weiterer IT-Governance-Standard ist die im Jahr 2008 veröffentlichte ISO/IEC 38500. Aus Sicht der ISACA stellt die ISO 38500 aber keinen Ersatz für COBIT dar, sondern soll eine übergeordnete Top-Down-Sicht darstellen, während ITIL und PRINCE2 das Fundament im Bereich IT-Servicemanagement bzw. Projektmanagement bilden und COBIT die verbindende Schicht dazwischen. Im Februar 2015 wurde der Standard aktualisiert.
+
+
+== Literatur ==
+Markus Gaulke: Praxiswissen COBIT: Grundlagen und praktische Anwendung in der Unternehmens-IT, 3. Aufl., Heidelberg 2019
+Wolfgang Goltsche: COBIT kompakt und verständlich, Wiesbaden 2006
+
+
+== Weblinks ==
+COBIT 5 von ISACA
+ISACA Switzerland Chapter
+ISACA German Chapter
+ISACA Austrian Chapter
+Offizielles Training zu COBIT der ISACA International
+
+
+== Einzelnachweise ==

@@ -1,0 +1,107 @@
+Praseodym(III)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Praseodym(III)-oxid kann wie auch Praseodym(IV)-oxid PrO2 durch Reaktion von Praseodym mit Sauerstoff gewonnen werden.
+
+  
+    
+      
+        
+          4
+           
+          P
+          r
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          P
+          
+            r
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ Pr+3\ O_{2}\longrightarrow 2\ Pr_{2}O_{3}} }
+  Es kann auch durch Reduktion des schwarzen Praseodym(III,IV)-oxid Pr6O11 mit Hydrazin oder Dehydrierung von Praseodym(III)-hydroxid gewonnen werden.
+
+  
+    
+      
+        
+          2
+           
+          P
+          r
+          (
+          O
+          H
+          
+            )
+            
+              3
+            
+          
+          ⟶
+           
+          P
+          
+            r
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+           
+          +
+           
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ Pr(OH)_{3}\longrightarrow \ Pr_{2}O_{3}\ +\ 3\ H_{2}O} }
+  
+
+
+== Eigenschaften ==
+Praseodym(III)-oxid ist ein gelbes Pulver, das unlöslich in Wasser ist. 
+
+Es kommt sowohl in einer weißen hexagonalen Form als auch in einer gelben bis grünen kubischen Kristallstruktur vor. Unter feuchten Bedingungen reagiert es rasch zu Praseodym(III)-hydroxid.
+
+
+== Verwendung ==
+Praseodym(III)-oxid wird zur Färbung von Glas und Keramik verwendet. Es wird auch als Material für Halbleiterbauelemente untersucht.
+
+
+== Einzelnachweise ==

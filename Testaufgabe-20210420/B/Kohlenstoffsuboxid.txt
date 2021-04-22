@@ -1,0 +1,84 @@
+Kohlenstoffsuboxid, auch Kohlensuboxid oder Malonsäureanhydrid genannt, ist neben Kohlenstoffmonoxid, Kohlenstoffdioxid und Mellitsäureanhydrid ein weiteres Kohlenstoffoxid, also eine Verbindung, die ausschließlich aus Kohlenstoff und Sauerstoff aufgebaut ist. Sie ist bei Raumtemperatur gasförmig und stabil. Der giftige und übelriechende Stoff kann zur Gruppe der Ketene gerechnet werden, verfügt aber im Gegensatz zu den meisten anderen Vertretern dieser Gruppe über zwei Carbonyl-Gruppen (C=O).
+
+
+== Geschichte ==
+Benjamin Collins Brodie Junior entdeckte die Verbindung 1873 beim Einwirken von elektrischem Strom auf Kohlenstoffmonoxid. Der Name Kohlensuboxid geht auf Marcelin Berthelot zurück.
+
+
+== Darstellung ==
+Neben der Darstellung durch Dehydratisierung von Malonsäure mit Phosphorpentoxid:
+
+  
+    
+      
+        
+          
+            C
+            
+              3
+            
+          
+          
+            H
+            
+              4
+            
+          
+          
+            O
+            
+              4
+            
+          
+           
+          ⟶
+           
+           
+          
+            C
+            
+              3
+            
+          
+          
+            O
+            
+              2
+            
+          
+           
+          +
+           
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {C_{3}H_{4}O_{4}\ \longrightarrow \ \ C_{3}O_{2}\ +\ 2\ H_{2}O} }
+  lässt sich Kohlenstoffsuboxid durch thermische Zersetzung aus Diacetylweinsäureanhydrid, Pyrolyse von Oxalessigsäurediethylester oder Enthalogenierung von Dibrommalonylchlorid gewinnen.
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+
+Die Verbindung ist linear gebaut. Die Bindungslängen liegen zwischen den Werten, die man für Doppel- und Dreifachbindungen erwartet: 128 pm für die beiden C−C-Bindungen und 116 pm für die beiden C−O-Bindungen.
+
+
+=== Chemische Eigenschaften ===
+Sorgfältig gereinigt ist Kohlenstoffsuboxid beständig. Es reagiert bei Einleitung in Wasser zu Malonsäure. In der Gasphase ist es stabil gegenüber Ozon und reagiert mäßig schnell mit Hydroxyl-Radikalen (die Lebensdauer in der Atmosphäre beträgt etwa drei Tage).In Anwesenheit von Protonen abgebenden Substanzen, durch Radiolyse oder Photolyse polymerisiert Kohlensuboxid zu Makromolekülen. Das rote bis schwarze feste Polymerisationsprodukt (in der Literatur „Roter Kohlenstoff“ und „Rote Kohle“ genannt) besitzt eine bandartige Struktur (siehe Weblinks) und ist aus ca. 40 C3O2-Einheiten mit Polypyron-ähnlicher Struktur aufgebaut. Ebenfalls ist eine Copolymerisation mit Polyethylen zu quervernetzten Copolymerisaten möglich.Mit Nucleophilen wie Aminen, Alkoholen, Phenolen oder Thiolen reagiert Kohlenstoffsuboxid zu Malonsäureamiden, -estern oder -thioestern. Mit Hydrazinen lassen sich über Ringschlussreaktionen Pyrazolidinderivate herstellen. Entsprechend können unterschiedliche Heterocyclen synthetisiert werden. So regieren beispielsweise Thioamide zu Thiazinon-Derivaten und Enamine zu entsprechenden Pyridonen. Über eine fotochemische Reaktion lässt sich aus Ethylen Allen herstellen.
+
+
+== Weblinks ==
+Struktur des Kohlenstoffsuboxid-Polymers
+
+
+== Einzelnachweise ==

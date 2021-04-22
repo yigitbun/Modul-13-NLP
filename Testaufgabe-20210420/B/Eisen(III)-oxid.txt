@@ -1,0 +1,132 @@
+Eisen(III)-oxid ist ein stabiles Oxid des Eisens. Es ist unter anderem ein Bestandteil des Rostes und verursacht dessen Farbe. Es kristallisiert in der Korund-Struktur.
+
+
+== Herstellung ==
+Es ist möglich, rotes Eisenoxid unter anderem durch Brennen von Eisen(III)-oxidhydroxid zu gewinnen. Dabei wird gelbes Eisenoxid auf über 200 °C erhitzt, wobei sich Wasserdampf bildet.
+
+  
+    
+      
+        
+          2
+           
+          F
+          e
+          O
+          (
+          O
+          H
+          )
+           
+          
+            
+              →
+              
+                Δ
+              
+            
+          
+           
+          F
+          
+            e
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+           
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ FeO(OH)\ {\xrightarrow {\Delta }}\ Fe_{2}O_{3}\ +\ H_{2}O} }
+  
+
+
+== Bedeutung und Verwendung ==
+
+Eisen(III)-oxid wird als Pigment verwendet und als Eisenoxidrot bezeichnet. Der Farbton variiert dabei etwa zwischen rotorange und tiefrot; auch ist es Hauptbestandteil der natürlichen roten Erden.
+Als magnetisierbares Material wird Eisen(III)-oxid als Aufzeichnungsschicht für Tonbänder verwendet.
+Eisen(III)-oxid ist außerdem Bestandteil von superparamagnetischen Eisenoxid-Nanoteilchen, die in der Magnetresonanztomographie und besonders der molekularen Bildgebung als Kontrastmittel Verwendung finden.
+Es wird außerdem beim Thermitverfahren in Verbindung mit Aluminium verwendet:
+
+  
+    
+      
+        
+          2
+           
+          A
+          l
+          +
+          F
+          
+            e
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          →
+          2
+           
+          F
+          e
+          +
+          A
+          
+            l
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Al+Fe_{2}O_{3}\rightarrow 2\ Fe+Al_{2}O_{3}} }
+  
+Elementares Aluminium setzt sich mit Eisen(III)-oxid zu elementarem Eisen und Aluminium(III)-oxid um.In der frühen Neuzeit wurde es auch durch Destillation von Eisensulfat (grünem Vitriol) gewonnen (caput mortuum, Totenhaupt) und als rote Malerfarbe verwendet.
+
+
+== Vorkommen ==
+Eisen(III)-oxid kommt als Mineral in der Natur in zwei Modifikationen vor:
+
+Hämatit (Blutstein) Fe2O3, trigonales Kristallsystem
+Maghemit (Maghämit) Fe2O3, kubisches Kristallsystem
+
+
+== Siehe auch ==
+Eisen(II,III)-oxid Fe3O4 auch: Magnetit
+Eisen(II)-oxid FeO
+Eisen(III)-oxidhydrat – das Hydrat des Eisen(III)-oxids kommt z. B. als Limonit 2Fe2O3,3H2O oder Goethit Fe2O3,H2O vor.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

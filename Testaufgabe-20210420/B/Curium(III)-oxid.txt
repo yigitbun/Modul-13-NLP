@@ -1,0 +1,200 @@
+Curium(III)-oxid ist eine chemische Verbindung der Elemente Curium und Sauerstoff. Es besitzt die Summenformel Cm2O3. Da alle Isotope des Curiums nur künstlich hergestellt sind, besitzt es keine natürlichen Vorkommen.
+
+
+== Darstellung ==
+Curium(III)-oxid kann durch thermische Zersetzung von Curium(IV)-oxid im Vakuum (ca. 0,01 Pa) bei 600 °C erhalten werden:
+
+  
+    
+      
+        
+          4
+           
+          C
+          m
+          
+            O
+            
+              2
+            
+          
+           
+          
+            
+              →
+              
+                Δ
+                T
+              
+            
+          
+           
+          2
+           
+          C
+          
+            m
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+           
+          +
+           
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ CmO_{2}\ {\xrightarrow {\Delta T}}\ 2\ Cm_{2}O_{3}\ +\ O_{2}} }
+  Ein weiterer Weg ist durch die Reduktion von Curium(IV)-oxid mit molekularem Wasserstoff gegeben:
+
+  
+    
+      
+        
+          2
+           
+          C
+          m
+          
+            O
+            
+              2
+            
+          
+           
+          +
+           
+          
+            H
+            
+              2
+            
+          
+           
+          ⟶
+           
+          C
+          
+            m
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+           
+          +
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ CmO_{2}\ +\ H_{2}\ \longrightarrow \ Cm_{2}O_{3}\ +\ H_{2}O} }
+  
+
+
+== Eigenschaften ==
+Es handelt sich um einen farblosen bis leicht bräunlichen Feststoff, der bei etwa 2270 °C schmilzt. Von Curium(III)-oxid sind drei Modifikationen bekannt. Die α-Form kristallisiert im trigonalen Kristallsystem in der Raumgruppe P3m1 (Raumgruppen-Nr. 156)Vorlage:Raumgruppe/156 und den Gitterparametern a = 380 pm und c = 599 pm. Die β-Form des Curium(III)-oxids weist ein monoklines Kristallsystem mit den Gitterparametern a = 1428 pm, b = 364 pm, c = 888 pm auf. Das in γ-Mangan(III)-oxid-Form kristallisierende γ-Curium(III)-oxid besitzt den Gitterparameter a = 1100 pm und die Raumgruppe Ia3 (Nr. 206)Vorlage:Raumgruppe/206.
+
+
+== Verwendung ==
+Curium(III)-oxid kann zur Herstellung weiterer Curiumsalze herangezogen werden. Durch Auflösen des Oxids in Säuren können die entsprechenden Salze erhalten werden. So kann beispielsweise Curiumperchlorat durch das Auflösen von Curiumoxid in Perchlorsäure hergestellt werden.
+Durch die Umsetzung mit wasserfreiem Chlorwasserstoff bei 400–600 °C kann Curium(III)-chlorid gewonnen werden.
+
+  
+    
+      
+        
+          C
+          
+            m
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+           
+          +
+           
+          6
+           
+          H
+          C
+          l
+           
+          
+            
+              →
+              
+                Δ
+                T
+              
+            
+          
+           
+          2
+           
+          C
+          m
+          C
+          
+            l
+            
+              3
+            
+          
+           
+          +
+           
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Cm_{2}O_{3}\ +\ 6\ HCl\ {\xrightarrow {\Delta T}}\ 2\ CmCl_{3}\ +\ 3\ H_{2}O} }
+  
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen und eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielen. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Literatur ==
+Gregg J. Lumetta, Major C. Thompson, Robert A. Penneman, P. Gary Eller: Curium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 1397–1443 (doi:10.1007/1-4020-3598-5_9).
+
+
+== Einzelnachweise ==

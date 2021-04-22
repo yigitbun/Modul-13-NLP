@@ -1,0 +1,177 @@
+Das interdisziplinär ausgerichtete Fach Digital Humanities (‚digitale Geisteswissenschaften‘) umfasst die systematische Nutzung computergestützter Verfahren und digitaler Ressourcen in den Geistes- und Kulturwissenschaften sowie die Reflexion über deren Anwendung. Seine Vertreter zeichnen sich sowohl durch eine traditionelle Ausbildung in den Geistes- und Kulturwissenschaften aus, als auch durch ihre Vertrautheit mit Konzepten, Verfahren und Standards der Informatik. In Deutschland sind das insbesondere Forscher der Computerphilologie, der Historischen Fachinformatik, der Informationswissenschaft und der Computerlinguistik. Typische Arbeits- und Forschungsfelder sind zum Beispiel digitale Editionen, quantitative Textanalyse, Visualisierung komplexer Datenstrukturen oder die Theorie digitaler Medien.
+
+
+== Zur Begrifflichkeit ==
+„Digital Humanities“ und „e-Humanities“ sind Begriffe neuer Prägung, die beide heute gebräuchlicher sind als die etwas älteren Begriffe „Computing in the Humanities“ und „Humanities Computing“. E-Humanities ist dabei analog zu e-Science gebildet und steht für „enhanced“ oder auch „enabled“ Humanities.
+Unklar bleibt bisher, ob es sich bei Digital Humanities um ein Fach, eine Methode oder eine bestimmte Denkweise handelt, wenn oft allein die Verwendung von Computern bei der Beantwortung geisteswissenschaftlicher Fragestellungen schon dazu führt, diese den Digital Humanities zuzuordnen.
+Die erste internationale Fachtagung zum Thema „Literatur und Datenverarbeitung“ fand in Deutschland bereits im Juni 1970 an der
+RWTH Aachen statt. Rund 100 Naturwissenschaftler, Mathematiker, Ingenieure und Geisteswissenschaftler unterschiedlicher Disziplinen aus sechs Ländern kamen zusammen, um die Relevanz der modernen elektronischen Daten- und Informationsverarbeitung für die Geisteswissenschaften (Humanities) zu diskutieren, die sich in ihren traditionellen Erkenntnisinteressen, Forschungsgegenständen und Methoden zunehmend durch den Einsatz von Computern provoziert und in Frage gestellt sahen. An der Eberhard Karls Universität Tübingen fanden ab November 1973 regelmäßig Kolloquien zur Anwendung der EDV in den Geisteswissenschaften statt.
+
+
+== Wissenschaftsorganisation ==
+Die US-amerikanische Fachorganisation The Association for Computers in the Humanities (ACH), die European Association for Digital Humanities (EADH) (bis 2011 Association for Literary and Linguistic Computing (ALLC)) und die kanadische Society for Digital Humanities / Société pour l'étude des médias interactifs (SDH-SEMI) sind in der Dachorganisation The Alliance of Digital Humanities Organizations (ADHO) zusammengefasst. 2013 gründete sich der Verband Digital Humanities im deutschsprachigen Raum (DHd) als assoziierter Regionalverband der EADH.
+Mitglied einer dieser Organisationen wird man durch das Abonnement der Zeitschrift Literary and Linguistic Computing, die somit die wichtigste Fachzeitschrift in diesem Feld darstellt. Die ADHO organisiert einmal im Jahr die Konferenz Digital Humanities, die abwechselnd in den USA bzw. Kanada stattfindet oder in Europa. Außerdem vergibt die ADHO alle drei Jahre den Busa-Preis für besondere Verdienste in den Digital Humanities.
+Seit 1986 gibt es die Fachzeitschrift Literary and Linguistic Computing, weitere Zeitschriften sind über die Jahre hinzugekommen. Seit 1999 gibt es das deutschsprachige Forum Computerphilologie. Weitere einschlägige Fachzeitschriften sind im Abschnitt Literatur angeführt.
+CenterNet ist ein internationaler Zusammenschluss von rund 100 Digital Humanities Centers aus 19 Ländern. Die Organisation steht im Dienst der Digital Humanities und benachbarter Fachrichtungen.
+
+
+== Kritik ==
+In den herkömmlichen Geisteswissenschaften gelten die Digital Humanities weithin als „wunderlich“. Der Literaturtheoretiker Stanley Fish behauptet zudem, dass sie traditionelle Werte der Geisteswissenschaften untergrüben. Den Digital Humanities fehle überdies die theoretische Reflexion und sie neigen angeblich zur unkritischen Affirmation technologischer, gegenstandsferner Konzepte. Gleichzeitig liefern erste DH-Analysen im Bereich kultursoziologischer Diachronie zum Teil verblüffende Resultate, die sowohl einige herrschende Meinungen klar bestätigen, als auch andere deutlich in Frage stellen, wie etwa die These von der zunehmenden Ökonomisierung moderner Gesellschaften.
+
+
+== Themen ==
+Zentrale Themen des geisteswissenschaftlichen Computereinsatzes sind:
+
+Information Retrieval (Suchverfahren)
+Text Mining und Sprachverarbeitung
+Spatial Humanities und Geographische Informationssysteme
+Fachspezifische Datenbanken
+Fachinformation
+Digitale Bildverarbeitung
+Korpuslinguistik
+Langzeitarchivierung
+Digitalisierung und Gesellschaft
+
+
+== Wissenschaftliche Projekte ==
+
+
+=== Deutsche Projekte ===
+Analysing networked climate images
+Arachne-Datenbank für archäologische Objekte und Bilder
+Arbeitskreis Digitale Kunstgeschichte (seit 2012)
+Archivportal-D
+Verbaalpina
+ARTigo – Social Image Tagging
+Bildindex der Kunst und Architektur
+BStK Online: Datenbank der althochdeutschen und altsächsischen Glossenhandschriften
+CATMA
+CLARIN-D
+coronarchiv
+DARIAH-DE
+Deutsche Inschriften Online
+Deutsche Biographie
+Deutsches Textarchiv
+eAQUA
+eIdentity
+Epigraphische Datenbank Heidelberg
+Europäische Geschichte Online
+eSciDoc
+GigaMesh Software Framework für 3D-Digitalisate
+Graphikportal
+LegIT – Der volkssprachige Wortschatz der Leges barbarorum
+LOEWE-Schwerpunkt Digital Humanities Hessen
+mainzed – Mainzer Zentrum für Digitalität in den Geistes- und Kulturwissenschaften
+metropolitalia – Social Language Tagging
+Personendaten-Repositorium (PDR)
+Portraitindex
+Germanische Altertumskunde Online
+Sandrart.net – Online-Edition der „Teutschen Academie der Bau-, Bild- und Mahlerey-Künste“
+TextGrid
+VisArgue (2012–2016): Verbundprojekt an der Universität Konstanz zwischen Politikwissenschaft, Linguistik und Information
+WisNetGrid
+Wissenschaftliche Kommunikations-Infrastruktur (WissKI)
+WissGrid
+ZenMEM – Zentrum Musik-Edition-Medien, BMBF-Zentrum für eHumanities, Verbundprojekt der Universität Paderborn, TH Ostwestfalen-Lippe, HfM Detmold
+
+
+=== Österreichische Projekte ===
+Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH) an der Österreichischen Akademie der Wissenschaften
+Department für Bildwissenschaften, Lab für Digital Humanities, Donau-Universität
+Archiv für Digitale Kunst, ehemals Database of Virtual Art seit 2000, ca. 3500 besprochene Werke
+Zentrum für Informationsmodellierung – Austrian Centre for Digital Humanities an der Universität Graz (ZIM-ACDH)
+Digital Humanities Austria
+MedienKunstGeschichte, seit 2005 www.MediaArtHistories.org
+Graphische Sammlung Göttweig online, seit 2007 www.gssg.at
+GAMS – Geisteswissenschaftliches Asset Management System
+Kultur- und Wissenschaftserbe Steiermark
+
+
+=== Schweizer Projekte ===
+corona-memory.ch
+SALSAH
+HyperHamlet
+Digital Humanities bilden überdies einen der Schwerpunkte der Schweizerischen Akademie der Geistes- und Sozialwissenschaften, die mehrere Infrastruktur-, Forschungs- und Netzwerkprojekte unterstützt.
+
+
+=== Europäische Projekte ===
+CLARIN ERIC
+DARIAH-ERIC
+DiXiT
+Europeana
+ESFRI
+Interedition
+ICARus
+World Literary Atlas
+Venice Time Machine
+
+
+=== US-amerikanische Projekte ===
+A Journal of the Plague Year: an Archive of CoVid19
+Project Bamboo (2008–2012)
+Perseus Digital Library
+Index Thomisticus
+
+
+== Literatur ==
+
+
+=== Einführende Literatur ===
+Fotis Jannidis, Hubertus Kohle, Malte Rehbein (Hrsg.): Digital Humanities. Eine Einführung. Verlag J.B. Metzler, Stuttgart 2017, ISBN 978-3-476-02622-4.
+Susanne Kurz: Digital Humanities. Grundlagen und Technologien für die Praxis. 2. Auflage. Springer Vieweg, Wiesbaden 2016, ISBN 978-3-658-11212-7.
+Susan Schreibman, Ray Siemens, John Unsworth (Hrsg.): A New Companion to Digital Humanities. John Unsworth, Chichester 2016 (zuerst 2004)
+Dave M. Berry: The Computational Turn: Thinking About the Digital Humanities. In: Culture Machine, Vol 12 (2011), [culturemachine.net/wp-content/uploads/2019/01/10-Computational-Turn-440-893-1-PB.pdf online]
+Manfred Thaller: Controversies around the Digital Humanities. In: Historical Social Research. Band 37, Nr. 3, 2012, S. 7–229. 
+
+
+==== Einführungen in Einzelfragen der Digital Humanities ====
+Andreas Aschenbrenner, Tobias Blanke, Stuart Dunn, Martina Kerzel, Andrea Rapp, Andrea Zielinski: Von e-Science zu e-Humanities – Digital vernetzte Wissenschaft als neuer Arbeits- und Kreativbereich für Kunst und Kultur. In: Bibliothek. Forschung und Praxis. Band 31, Nr. 1, 2007, S. 11–21, doi:10.1515/BFUP.2007.11. 
+Christoph Classen, Susanne Kinnebrock, Maria Löblich: Towards Web History: Sources, Methods, and Challenges in the Digital Age. In: Historical Social Research. Band 37, Nr. 4, 2012, S. 97–188 (web.archive.org). 
+Peter Haber: Digital Past. Geschichtswissenschaft im digitalen Zeitalter. München 2011.
+Oliver Grau: Museum and Archive on the Move: Changing cultural Institutions in the digital Era, Munich: de Gruyter 2017.
+Oliver Grau: The Complex and Multifarious Expression of Digital Art & Its Impact on Archives and Humanities. In: A Companion to Digital Art.edited by Christiane Paul. Wiley-Blackwell, New York 2016, 23–45.
+Adelheid Heftberger: Kollision der Kader. Dziga Vertovs Filme, die Visualisierung ihrer Strukturen und die Digital Humanities. München: edition text + kritik 2016.
+Heike Neuroth, Andreas Aschenbrenner, Felix Lohmeier: e-Humanities – eine virtuelle Forschungsumgebung für die Geistes-, Kultur- und Sozialwissenschaften. In: Bibliothek. Forschung und Praxis, 3 (2007), S. 272–279.
+Heike Neuroth, Fotis Jannidis, Andrea Rapp, Felix Lohmeier: Virtuelle Forschungsumgebungen für e-Humanities. Maßnahmen zur optimalen Unterstützung von Forschungsprozessen in den Geisteswissenschaften. In: Bibliothek. Forschung und Praxis, 2/2009.
+Torsten Schrade: Epigraphik im digitalen Umfeld. (URN: urn:nbn:de:0289-2011051816). In: Skriptum 1 (2011), Nr. 1. ISSN 2192-4457. (Artikel unter Creative-Commons-Lizenz verfügbar).
+Torsten Schrade: Vom Inschriftenband zum Datenobjekt. Die Entwicklung des epigraphischen Fachportals „Deutsche Inschriften Online.“. In: Inschriften als Zeugnisse kulturellen Gedächtnisses – 40 Jahre Deutsche Inschriften in Göttingen. Beiträge zum Jubiläumskolloquium vom 22. Oktober 2010 in Göttingen, herausgegeben von Nikolaus Henkel. Reichert Verlag, Wiesbaden 2012, S. 59–72.
+Eva-Maria Seng, Reinhard Keil, Gudrun Oevel (Hrsg.): Studiolo. Kooperative Forschungsumgebungen in den eHumanities (= Reflexe der immateriellen und materiellen Kultur. Band 1). de Gruyter, Berlin 2018, ISBN 978-3-11-036464-4.
+Judith I. Haug (Hrsg.): Musikwissenschaft im Digitalen Zeitalter. Symposium der Virtuellen Fachbibliothek Musikwissenschaft, Göttingen 2012. München, Münster und Berlin: Virtuelle Fachbibliothek Musikwissenschaft 2013.
+
+
+=== Fachzeitschriften (chronologisch) ===
+Computers and the Humanities, seit 1966, seit 2005 als Language Resources and Evaluation.
+Literary and Linguistic Computing (LLC), seit 1986, seit 2015 als Digital Scholarship in the Humanities (DSH).
+Digital Studies / Le champ numérique, seit 1992.
+Journal of Digital Information, seit 1997.
+Forum Computerphilologie, 1999–2012.
+Digital Medievalist, seit 2005
+International Journal of Digital Curation, seit 2006.
+Digital Humanities Quarterly (DHQ), seit 2007.
+digiversity – Webmagazin für Informationstechnologie in den Geisteswissenschaften, seit 2011.
+Journal of Digital Humanities (JDH), 2011–2014.
+Caracteres – Estudios culturales y críticos de la esfera digital, seit 2012.
+Zeitschrift für digitale Geschichtswissenschaften, 2012–2015.
+Digital Philology: A Journal of Medieval Cultures, seit 2012.
+ride – A review journal for digital editions and resources, seit 2014.
+Digital Classics Online, seit 2015.
+Zeitschrift für digitale Geisteswissenschaften, seit 2015.
+Journal of Cultural Analytics, seit 2016.
+
+
+== Weblinks ==
+Peter Haber: Zeitgeschichte und Digital Humanities, Version: 1.0, in: Docupedia-Zeitgeschichte, 24. September 2012.
+Arbeitsstelle Digitale Akademie der ADWL|Mainz
+Lehrstuhl für Digital Humanities, Universität Passau
+Trier Center for Digital Humanities
+Cologne Centre for eHumanities
+Göttingen Centre for Digital Humanities
+Lehre in den Digital Humanities (Ein Portal der IT-Gruppe Geisteswissenschaften der Ludwig-Maximilians-Universität München)
+Digital Humanities an der Universität Heidelberg
+IT-Gruppe Geisteswissenschaften / LMU Center for Digital Humanities, LMU München
+Zentrum für Informationsmodellierung, Universität Graz
+Kallimachos – Zentrum für digitale Edition und quantitative Analyse der Universität Würzburg
+Doing Digital Humanities (Bibliografie)
+
+
+== Einzelnachweise ==

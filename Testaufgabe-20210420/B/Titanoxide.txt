@@ -1,0 +1,14 @@
+Als Titanoxide werden chemische Verbindungen von Titan und Sauerstoff bezeichnet, wobei Sauerstoff die Oxidationszahl (II) hat und Verbindungen dieser Art als Oxide bezeichnet werden. Titan bildet eine Reihe von verschiedenen Oxiden aus, von denen Titan(IV)-oxid (Titandioxid) die größte Bedeutung hat. Neben diesem polymorphen Oxid gibt es eine Reihe an nichtstöchiometrischen Suboxiden des Titans, sogenannte Magneli-Phasen TinO2n-1 (4 ≤ n ≤ 10) sowie das Titan(III)-oxid und Titan(II)-oxid.
+
+
+== Verbindungen ==
+Ti3O (TiO0,33) liegt in einer Schichtstruktur vor, die mit der anti-Bismut(III)-iodid eng verwandt ist. Er besitzt die Raumgruppe P312 (Nr. 149)Vorlage:Raumgruppe/149.
+Titanhemioxid Ti2O (TiO0,5) ist ein metallisch grauer Feststoff. Er kristallisiert im trigonalen anti-Cadmium(II)-iodid-Typ (Polytyp 2H).
+Titan(II)-oxid TiO: Die Verbindung existiert im Bereich von Ti0,64O bis Ti1,26O. Es ist ein goldgelbes, elektrisch leitendes Pulver mit einer Kristallstruktur vom Natriumchlorid Typ. Einige Quellen geben den Bereich unterhalb von TiO0,75 als weitere eigenständige Verbindung mit einer Kristallstruktur vom Tantalnitrid-Typ an.
+Titan(III)-oxid Ti2O3 (TiO1,5) ist ein dunkelviolettes Pulver mit einer trigonalen Kristallstruktur isotyp zu der von Korund mit der Raumgruppe R3c (Nr. 167)Vorlage:Raumgruppe/167. Es existiert im Bereich von TiO1,49 bis TiO1,51.
+Anosowit Ti3O5 (TiO1,66) ist ein dunkelblauer Feststoff der bei Raumtemperatur eine monokline Kristallstruktur mit der Raumgruppe C2/m (Nr. 12)Vorlage:Raumgruppe/12 besitzt. Die ab 120 °C entstehende Hochtemperaturvariante besitzt eine orthorhombische Kristallstruktur vom Pseudobrookit-Typ. Bis zu einer Temperatur von 175 °C ist die Verbindung ein Halbleiter, darüber wird sie metallisch leitend.
+Die Andersson-Magneli-Phasen Ti4O7 bis Ti10O19 (TiO1,75 – TiO1,90) kristallisieren im triklinen Kristallsystem mit der Raumgruppe A1 (Raumgruppen-Nr. 1, Stellung 3)Vorlage:Raumgruppe/1.3 bzw. P1 (Nr. 1)Vorlage:Raumgruppe/1. Bei diesen sind TiO6 Oktaeder auf komplizierte Weise miteinander verknüpft. Neben diesen existiert im Bereich von TiO1,94 bis TiO1,97 (16 ≤ n ≤ 36) eine weitere homologe Serie von Scherstrukturen.
+Titan(IV)-oxid TiO2 ist ein weißer Feststoff, der natürlich in den drei Modifikationen Rutil, Anatas und Brookit vorkommt. Daneben sind acht weitere synthetisch hergestellte Modifikationen bekannt.
+
+
+== Einzelnachweise ==

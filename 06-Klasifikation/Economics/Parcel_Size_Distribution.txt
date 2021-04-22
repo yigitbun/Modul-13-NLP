@@ -1,0 +1,11 @@
+Parcel Size Distribution (PSD, deutsch etwa Ladungsgrößenverteilung) ist ein Kennwert für Ladungspartien verschiedener mit dem Schiff transportierter Güter. Er dient in der seefahrtsbezogenen Wirtschaftswissenschaft der Darstellung von Bandbreite und Häufigkeit bestimmter Ladungsgrößen verschiedener Güter im Seetransport.
+
+
+== Einzelheiten ==
+Verschiedene Güter werden beim Transport über See in verschiedenen Ladungsgrößen und verschiedenen Schiffsarten verschifft, dabei kann die Ladung ein ganzes Schiff füllen oder als Teilladung transportiert werden. Abhängig von der Art der Ladung ergibt sich für jedes Gut eine bestimmte Verteilung von Häufigkeiten von Verschiffungen über eine bestimmte Bandbreite, nach der man das jeweilige Gut charakterisieren kann. Diese Verteilung kann in einer PSD-Function dargestellt werden. Vereinfacht gesagt, kann man das Ladegut anhand seiner PSD einer oder mehreren typischen Verschiffungsgrößen und -arten (beispielsweise auf einem Tramp- oder auf einem Linienschiff) zuordnen. Darüber hinaus kann man anhand des PSD bestimmen, ob Ladungsarten vorwiegend als Partien verschifft werden, die ein ganzes Schiff füllen, oder eher als Teilladungen transportiert werden.
+Eisenerz hat beispielsweise eine PSD, nach der nur geringe Häufigkeiten auf kleinste (0–40.000 Tonnen), kleinere (40.000–60.000 Tonnen), mittlere (60.000–80.000 Tonnen)  und große (80.000–100.000 Tonnen), aber sehr große Häufigkeiten auf größte Ladungspartien (über 100.000 Tonnen) fallen. Daraus lässt sich zum einen der nahezu ausschließliche Transport mit Massengutschiffen und in diesem Segment der Transport mit sehr großen  Schiffseinheiten ableiten. Im Gegensatz dazu konzentriert sich die PSD anderer Massengüter zum Beispiel auf vergleichsweise kleinere Ladungspartien, die auf kleineren Massengutschiffen oder Mehrzweckschiffen transportiert werden, die von Stückgütern normalerweise auf das kleinste Segment und Schiffstypen, wie Containerschiffe, beziehungsweise RoRo-Frachtschiffe (dort meist als Teilladung).
+
+
+== Literatur ==
+Martin Stopford: Maritime Economics. Routledge, Oxon, New York 1997, ISBN 0-415-15310-7. 
+Yuen Ha Venus Lun, Kee-hung Lai, Tai Chiu Edwin Cheng: Shipping and Logistics Management. 1. Auflage. Springer, Berlin 2010, ISBN 978-1-84882-996-1.

@@ -1,0 +1,92 @@
+Europium(II)-oxid ist eine chemische Verbindung und zählt zu den Oxiden des Europiums. Neben Europium(II)-oxid sind auch Europium(III)-oxid und das gemischtvalente Europium(II,III)-oxid bekannt.
+
+
+== Gewinnung und Darstellung ==
+Europium(II)-oxid kann durch Reduktion von Europium(III)-oxid mit elementarem Europium bei 800 °C und anschließender Destillation im Vakuum bei 1150 °C hergestellt werden.
+
+  
+    
+      
+        
+          E
+          
+            u
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          E
+          u
+          ⟶
+          3
+           
+          E
+          u
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Eu_{2}O_{3}+Eu\longrightarrow 3\ EuO} }
+  Möglich ist auch die Herstellung durch Reaktion von Europiumoxychlorid mit Lithiumhydrid.
+
+  
+    
+      
+        
+          2
+           
+          E
+          u
+          O
+          C
+          l
+          +
+          2
+           
+          L
+          i
+          H
+          ⟶
+          2
+           
+          E
+          u
+          O
+          +
+          2
+           
+          L
+          i
+          C
+          l
+          +
+          
+            H
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ EuOCl+2\ LiH\longrightarrow 2\ EuO+2\ LiCl+H_{2}} }
+  In der modernen Forschung werden häufig ultradünne Filme von Europiumoxid mittels Molekularstrahlepitaxie (MBE) hergestellt direkt aus Eu Atomen und O2 Molekülen. Diese Filme haben Kontaminationen, auch Eu3+, von weniger als 1 %.
+
+
+== Eigenschaften ==
+Europium(II)-oxid ist ein violetter Feststoff als Volumenkristall und blau-transparent als ultradünner Film. Er ist sehr empfindlich gegenüber feuchter Luft, in der es langsam in gelbes Europium(II)-hydroxid-hydrat und schließlich in weißes Europium(III)-hydroxid übergeht. Auch bildet es Karbide (EuCx) und native Oxide (EuO1+x, Europium(III)-oxid, Europium(II,III)-oxid). EuO kristallisiert in einer kubischen Natriumchlorid-Struktur mit dem Gitterparameter a = 0,5144 nm. Die Stöchiometrie der Verbindung ist häufig nicht exakt, sie kann bis zu 4 % Eu3+ und auch geringe Mengen elementares Europium enthalten. In Ultrahochvakuumbedingungen und speziellen Oxid-MBE Anlagen können jedoch seit 2008 hochreine einkristalline EuO Filme reaktiv erzeugt werden (s. Gewinnung und Darstellung). Diese Kristallfilme zeigen Eigenschaften eines Volumenkristalls ab etwa 4 nm.
+Europium(II)-oxid ist ferromagnetisch mit einer Curie-Temperatur von 69,3 K. Durch Anreicherung mit weiterem elementarem Europium auf etwa 5–7 % erhöht sich diese auf 79 K. Dieses besitzt auch einen CMR-Effekt, wodurch die Leitfähigkeit des Materials unterhalb der Curie-Temperatur stark ansteigt. Eine weitere Möglichkeit, die Curie-Temperatur zu steigern, ist eine Dotierung mit Gadolinium, Holmium oder Lanthan.Weiterhin ist Europium(II)-oxid ein Halbleiter mit einer Bandlücke von 1,12 eV.
+
+
+== Verwendung ==
+Auf Grund der Eigenschaften von Europium(II)-oxid werden dünne Schichten des Materials, die auf Silicium aufgetragen werden, dahingehend untersucht, als Spinfilter zu wirken. Dies sind Materialien, die nur Elektronen mit einem bestimmten Spin passieren lassen, während Elektronen mit einem anderen Spin nicht passieren können. Diese sind für neuartige elektronische Bauteile von Interesse.
+
+
+== Einzelnachweise ==

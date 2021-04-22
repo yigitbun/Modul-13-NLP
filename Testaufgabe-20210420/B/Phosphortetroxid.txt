@@ -1,0 +1,100 @@
+Phosphortetroxid (Phosphortetraoxid, Diphosphortetraoxid) ist eine chemische Verbindung aus den Elementen Phosphor und Sauerstoff und gehört damit zu den Oxiden des Phosphors. Die Summenformel wird mit P2O4 angegeben, obwohl dieses dem Aufbau bzw. der Stöchiometrie der Verbindung nicht ganz gerecht wird.
+
+
+== Gewinnung und Darstellung ==
+Phosphortetroxid kann durch thermische Zersetzung von Phosphortrioxid gewonnen werden:
+
+  
+    
+      
+        
+          4
+          
+          
+            P
+            
+              4
+            
+            
+              
+            
+          
+          
+            O
+            
+              6
+            
+            
+              
+            
+          
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          4
+          
+          P
+          +
+          3
+          
+          
+            P
+            
+              4
+            
+            
+              
+            
+          
+          
+            O
+            
+              8
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4P4O6 <=> 4P + 3P4O8}}}
+  
+Phosphortrioxid disproportioniert oberhalb von 210 °C zu Phosphor und Phosphortetroxid.Des Weiteren kann Phosphortrioxid durch eine gesteuerte Oxidation mit Sauerstoff in einer Tetrachlorkohlenstoff-Lösung in Phosphortetroxid umgewandelt werden.Reduziert man Phosphorpentoxid vorsichtig mit rotem Phosphor bei 450–525 °C, entsteht Phosphortetroxid.
+
+
+== Eigenschaften ==
+Phosphortetroxid ist ein farbloses, je nach Herstellungsprozess unterschiedlich kristallisierendes festes Mischoxid. Die so genannte α-Form bildet rhomboedrische Kristalle und besteht aus P4O8 und P4O9-Molekülen in wechselnden Mengen. Statt der oben genannten Summenformel gibt man für diese Form des Phosphortetroxids die Verhältnisformel P4O8,1–9,0 an. Monoklin kristallisiert die β-Form, bestehend aus P4O7 und P4O8. Die Verhältnisformel lautet hier P4O7,7–8,0.
+Phosphortetroxid reagiert mit Wasser (Hydrolyse) zu Phosphon- und Phosphorsäure.
+
+
+== Einzelnachweise ==

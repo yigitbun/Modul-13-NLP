@@ -1,0 +1,81 @@
+Europium(II,III)-oxid ist eine chemische Verbindung des Europiums aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Europium(II,III)-oxid kann durch Reaktion von Europium(III)-oxid mit einem Überschuss an Europiumoxidchlorid und Lithiumhydrid unter Wasserstoff bei 950 °C gewonnen werden.
+
+  
+    
+      
+        
+          2
+           
+          E
+          
+            u
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          2
+           
+          E
+          u
+          O
+          C
+          l
+          +
+          2
+           
+          L
+          i
+          H
+          ⟶
+          2
+           
+          E
+          
+            u
+            
+              3
+            
+          
+          
+            O
+            
+              4
+            
+          
+          +
+          2
+           
+          L
+          i
+          C
+          l
+          +
+          
+            H
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Eu_{2}O_{3}+2\ EuOCl+2\ LiH\longrightarrow 2\ Eu_{3}O_{4}+2\ LiCl+H_{2}} }
+  Die Verbindung lässt sich auch aus Europium(III)-oxid mit Europium(II)-oxid, Europium oder Wasserstoff synthetisieren.
+
+
+== Eigenschaften ==
+Europium(II,III)-oxid ist in Pulverform ein je nach Teilchengröße rotbrauner bis fast schwarzer Feststoff, der an Luft einige Zeit beständig ist. Bei langdauernder offener Lagerung geht die Verbindung in ein Gemisch von Europium(III)-hydroxid und Europium(II)-hydroxid-hydrat über. Beim Erhitzen auf 300–400 °C an Luft wird sie zu Europium(III)-oxid oxidiert. Europium(II,III)-oxid besitzt eine orthorhombische Kristallstruktur mit der Raumgruppe Pnam (Raumgruppen-Nr. 62, Stellung 6)Vorlage:Raumgruppe/62.6 und den Gitterparametern a = 1009 pm, b = 1205 pm, c = 350,2 pm. Sie ist antiferromagnetisch bzw. metamagnetisch.
+
+
+== Einzelnachweise ==

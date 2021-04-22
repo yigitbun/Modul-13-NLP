@@ -1,0 +1,77 @@
+Niob(II)-oxid ist eine chemische Verbindung von Niob und Sauerstoff. Der graue Feststoff ist neben Niob(V)-oxid und Niob(IV)-oxid eines von mehreren stabilen Oxiden des Niobs. Im Gegensatz zu den anderen Nioboxiden ist die Verbindung elektrisch leitend (etwa 106 S/cm) und wird als Anodenmaterial in Niob-Elektrolytkondensatoren verwendet.
+
+
+== Gewinnung und Darstellung ==
+Niob(II)-oxid lässt sich durch Reaktion von Nioboxiden mit elementarem Niob bei hohen Temperaturen herstellen. Das genaue Verhältnis der Edukte hängt vom verwendeten Oxid ab.
+
+  
+    
+      
+        
+          N
+          
+            b
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          3
+           
+          N
+          b
+          ⟶
+          5
+           
+          N
+          b
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Nb_{2}O_{5}+3\ Nb\longrightarrow 5\ NbO} }
+  
+  
+    
+      
+        
+          N
+          b
+          
+            O
+            
+              2
+            
+          
+          +
+          N
+          b
+          ⟶
+          2
+           
+          N
+          b
+          O
+        
+      
+    
+    {\displaystyle \mathrm {NbO_{2}+Nb\longrightarrow 2\ NbO} }
+  
+
+
+== Eigenschaften ==
+Niob(II)-oxid besitzt eine ungewöhnliche Kristallstruktur. Diese lässt sich als eine von der Natriumchloridstruktur ableitbare geordnete Defektstruktur beschreiben. Sechs Niobatome bilden dabei einen oktaedrischen Cluster, bei dem das sonst in der Natriumchloridstruktur vorhandene zentrale Anion fehlt. Gleichzeitig fehlen an den Ecken der Elementarzelle die Niobatome. Die Koordinationsumgebung, sowohl für Nb um O, als auch für O um Nb ist quadratisch planar.
+Innerhalb des Metallclusters liegen Niob-Niob-Bindungen mit einer Bindungslänge von 298 pm vor. Diese sind in ihrer Länge denen des elementaren Niobs sehr ähnlich (Nb-Nb: 285 pm) und bedingen die metallischen Eigenschaften des Niob(II)-oxids.
+
+
+== Verwendung ==
+Niob(II)-oxid wird als Anodenmaterial in Niob-Elektrolytkondensatoren verwendet. Diese spielen wie die entsprechenden Tantal-Kondensatoren eine wichtige Rolle in der Mikroelektronik, beispielsweise in Laptops. Im Vergleich zu Tantalkondensatoren sind sie billiger, können aber nicht so hohe Spannungen aushalten. Ein weiterer Vorteil von Niob(II)-oxid ist die höhere Temperaturstabilität im Vergleich zu Tantal.Weitere Anwendung sind Beschichtung bei Erdungselektroden von Hochspannungs-Gleichstrom-Übertragungen (HGÜ) wie der HGÜ Italien-Griechenland um die Erdungselektrode (Anode) gegen Korrosion im Meerwasser zu schützen.
+
+
+== Einzelnachweise ==

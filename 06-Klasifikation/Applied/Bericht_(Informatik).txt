@@ -1,0 +1,22 @@
+Ein Bericht (oder Report) ist in der Informatik eine durch ein Computerprogramm erzeugte, einheitlich strukturierte Darstellung von Inhalten aus Datenbeständen. Sie können in Papier- oder in beliebiger elektronischer Form (Bildschirminhalt, PDF …) vorliegen.
+Berichte, oft auch „Liste“ genannt (weitere Synonyme siehe dort), können aus Teilmengen gespeicherter Daten (Beispiel: nur Privatkunden) bestehen (siehe Selektion). Sie können nur bestimmte Datenfelder verarbeiten/darstellen (mit oder ohne Adressangaben, siehe Projektion), Zusammenhänge zwischen den Daten darstellen (Kunde > Wohnort > Bundesland), die Daten zweckorientiert zu Gruppen mit entsprechenden Überschriften und Summeninformationen zusammenfassen und/oder sortieren.
+Berichte können grundsätzlich mit jeder Art von Computerprogramm als dessen Funktionalität programmiert sein. Als spezialisierte Hilfsmittel zur Erzeugung von Berichten sind Reportgeneratoren verfügbar, die von IT-Herstellern, ggf. proprietär, bereitgestellt werden. Oft sind sie Teil einer übergeordneten Softwareentwicklungsumgebung, die auch Programmiersprachen und ein DBMS enthalten.
+Berichte können eindimensional – Beispiel Kundenliste – oder mehrdimensional – Beispiel Kundenliste mit den je Kunde aufgeführten Bestellungen – gestaltet sein. Dazu stehen in der Report-Software bestimmte Entwurfstechniken zur Verfügung, zum Beispiel Unterberichte.
+Bei entsprechendem Design kann ein Bericht auch so gestaltet sein, dass Formulare erzeugt werden, etwa jeweils mit Produkt- oder Kunden-Stammdaten.
+Abgrenzung: Der Ausdruck Bericht wird häufig auch als Synonym für Logdateien verwendet, die systembezogene Ereignisse und/oder Befehle aufzeichnen und ggf. über einen begrenzten Zeitraum hinweg speichern. Dies sind jedoch keine "Berichte" im hier behandelten Sinn.
+
+
+== Gliederung ==
+Die in einem Bericht dargestellten Informationen können je nach Bedarf nach verschiedenen Zeilentypen unterschieden werden. Diese sind Berichtskopf, Seitenkopf, Gruppenkopf, Detailbereich, Gruppenfuß, Seitenfuß, Berichtsfuß; andere Bezeichnungen sind möglich. Weitere Details siehe Artikel Liste.
+
+
+== Flexibilität in der Gestaltung ==
+Wenn die Berichtssoftware entsprechende Möglichkeiten bietet – und diese beim Erstellen vom Programmierer auch eingesetzt wurden – so kann die Gestaltung von Berichten in vielen Details modifiziert und damit zur Berichtslaufzeit individuellen Anforderungen/Wünschen angepasst werden. Beispiele:
+
+Ein-/Ausblenden verschiedener Zeilentypen – z. B. von Summenzeilen, hierarchischer Gruppen oder Detailbereiche. Damit kann ein Bericht z. B. nur den Gruppenkopf_Kunde (Kundendaten) zeigen, untergeordnete Daten (wie Bestellungen) aber optional ausblenden und z. B. nur deren Summen anzeigen.
+Berücksichtigen bestimmter Laufzeitparameter zur Listenerstellung, z. B. das Rechnungsdatum und/oder den Rechnungsbetrag, ab dem eine rückständige Zahlung ausgewiesen wird. Oder: Nur Kunden der Filiale X drucken, alternativ alle.
+… (und viele andere Möglichkeiten)Die für den Bericht programmierten Anweisungen müssen zur Umsetzung derartiger Modifikationen z. B. auf Inhalte von Bildschirmseiten zum Aufruf des Berichts zugreifen oder Parameter-Eingaben auf andere Art und Weise abrufen, und dementsprechend die Anzeige der jeweiligen Teile/Objekte des Berichts aktivieren oder deaktivieren.
+
+
+== Siehe auch ==
+Berichtswesen

@@ -1,0 +1,777 @@
+Einheitsresolution (englisch unit propagation) ist in der mathematischen Logik eine Vorgehensweise um eine Menge von Klauseln zu vereinfachen. Um eine Einheitsresolution anwenden zu können, muss in der gegebenen Klauselmenge eine sogenannte Einheitsklausel enthalten sein. Eine Einheitsklausel ist eine Klausel, die nur aus einem einzelnen Literal besteht, d. h. entweder aus einer Variable oder der  Negation einer Variablen. Einheitsresolution wird unter anderem im DPLL-Algorithmus verwendet und ist eine wichtige Komponente von vielen SAT-Solvern.
+
+
+== Vorgehensweise ==
+Sei eine Klauselmenge mit Einheitsklausel 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   gegeben. Dann vereinfacht man die anderen Klauseln aus der gegebenen Klauselmenge durch zwei Regeln:
+
+Entferne alle Klauseln, die 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   enthalten (die Einheitsklausel selbst wird nicht entfernt).
+Wenn eine Klausel 
+  
+    
+      
+        ¬
+        ψ
+      
+    
+    {\displaystyle \neg \psi }
+   enthält, dann entferne dieses Literal aus der Klausel.Die vereinfachte Klauselmenge ist dann logisch äquivalent zu der ursprünglichen Klauselmenge.
+Manchmal genügt es auch eine erfüllbarkeitsäquivalente Klauselmenge  zu erzeugen. In diesem Fall wird im ersten Schritt auch die Einheitsklausel selbst aus der Klauselmenge entfernt.
+In beiden Fällen sind die neuen Klauseln logische Folgerungen der ursprünglichen Klauselmenge.
+
+
+== Beispiel ==
+Gegeben sei die folgende Klauselmenge:
+
+  
+    
+      
+        {
+        a
+        ∨
+        c
+        ,
+        ¬
+        c
+        ,
+        b
+        ∨
+        c
+        ,
+        a
+        ∨
+        ¬
+        c
+        }
+      
+    
+    {\displaystyle \{a\vee c,\neg c,b\vee c,a\vee \neg c\}}
+  In dieser Klauselmenge ist 
+  
+    
+      
+        ¬
+        c
+      
+    
+    {\displaystyle \neg c}
+   eine Einheitsklausel. Wäre die Klausel 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   in der Klauselmenge enthalten, so wäre diese ebenfalls eine Einheitsklausel. Diese Klauselmenge kann man durch Anwendung dieser zwei Regeln vereinfachen, wobei 
+  
+    
+      
+        ¬
+        c
+      
+    
+    {\displaystyle \neg c}
+   die Einheitsklausel ist. Das Ergebnis ist die Klauselmenge:
+
+  
+    
+      
+        {
+        a
+        ,
+        b
+        ,
+        ¬
+        c
+        }
+      
+    
+    {\displaystyle \{a,b,\neg c\}}
+  Alle Klauseln, die 
+  
+    
+      
+        ¬
+        c
+      
+    
+    {\displaystyle \neg c}
+   enthielten, wurden komplett aus der Klauselmenge entfernt. Dies war die Klausel 
+  
+    
+      
+        a
+        ∨
+        ¬
+        c
+      
+    
+    {\displaystyle a\vee \neg c}
+  . Außerdem wurde das Literal 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   aus allen Klauseln entfernt. Dies geschah in den verbleibenden zwei Klauseln 
+  
+    
+      
+        a
+        ∨
+        c
+      
+    
+    {\displaystyle a\vee c}
+   und 
+  
+    
+      
+        b
+        ∨
+        c
+      
+    
+    {\displaystyle b\vee c}
+  . Die Einheitsklausel muss dabei behalten bleiben, da sich sonst der Wahrheitsgehalt der Aussage ändern würde.
+
+
+== Korrektheit der Einheitsresolution ==
+Seien 
+  
+    
+      
+        φ
+        =
+        
+          φ
+          
+            1
+          
+        
+        .
+        .
+        .
+        
+          φ
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi =\varphi _{1}...\varphi _{n}}
+   Klauseln, in denen die Einheitsklausel 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   nicht vorkommt. Des Weiteren seien 
+  
+    
+      
+        (
+        
+          ψ
+          
+            1
+          
+        
+        ∨
+        a
+        )
+        .
+        .
+        .
+        (
+        
+          ψ
+          
+            n
+          
+        
+        ∨
+        a
+        )
+      
+    
+    {\displaystyle (\psi _{1}\vee a)...(\psi _{n}\vee a)}
+   Klauseln, in denen 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   vorkommt und 
+  
+    
+      
+        (
+        
+          τ
+          
+            1
+          
+        
+        ∨
+        ¬
+        a
+        )
+        .
+        .
+        .
+        (
+        
+          τ
+          
+            n
+          
+        
+        ∨
+        ¬
+        a
+        )
+      
+    
+    {\displaystyle (\tau _{1}\vee \neg a)...(\tau _{n}\vee \neg a)}
+   Klauseln, in denen 
+  
+    
+      
+        ¬
+        a
+      
+    
+    {\displaystyle \neg a}
+   vorkommt.
+Sei der Antezendent nun 
+  
+    
+      
+        A
+        =
+        {
+        
+          φ
+          
+            1
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          φ
+          
+            n
+          
+        
+        ,
+        (
+        
+          ψ
+          
+            1
+          
+        
+        ∨
+        a
+        )
+        ,
+        .
+        .
+        .
+        ,
+        (
+        
+          ψ
+          
+            n
+          
+        
+        ∨
+        a
+        )
+        ,
+        (
+        
+          τ
+          
+            1
+          
+        
+        ∨
+        ¬
+        a
+        )
+        ,
+        .
+        .
+        .
+        ,
+        (
+        
+          τ
+          
+            n
+          
+        
+        ∨
+        ¬
+        a
+        )
+        ,
+        a
+        }
+      
+    
+    {\displaystyle A=\{\varphi _{1},...,\varphi _{n},(\psi _{1}\vee a),...,(\psi _{n}\vee a),(\tau _{1}\vee \neg a),...,(\tau _{n}\vee \neg a),a\}}
+  , so muss die Konjunktion des Sukzedenten 
+  
+    
+      
+        S
+        =
+        {
+        
+          φ
+          
+            1
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          φ
+          
+            n
+          
+        
+        ,
+        (
+        
+          τ
+          
+            1
+          
+        
+        ∨
+        ¬
+        a
+        )
+        ,
+        .
+        .
+        .
+        ,
+        (
+        
+          τ
+          
+            n
+          
+        
+        ∨
+        ¬
+        a
+        )
+        ,
+        a
+        }
+      
+    
+    {\displaystyle S=\{\varphi _{1},...,\varphi _{n},(\tau _{1}\vee \neg a),...,(\tau _{n}\vee \neg a),a\}}
+   ein semantisches Modell der Konjunktion des Antezendenten sein.
+Mit anderen Worten: 
+  
+    
+      
+        
+          A
+          ⊢
+          S
+          ⇒
+          
+            ⋀
+            
+              a
+              ∈
+              A
+            
+          
+          a
+          ⊨
+          
+            ⋀
+            
+              s
+              ∈
+              S
+            
+          
+          s
+        
+      
+    
+    {\displaystyle \textstyle A\vdash S\Rightarrow \bigwedge _{a\in A}a\models \bigwedge _{s\in S}s}
+  
+Fall 
+  
+    
+      
+        a
+        =⊥
+      
+    
+    {\displaystyle a=\perp }
+  :
+
+  
+    
+      
+        φ
+        ∧
+        (
+        
+          ψ
+          
+            1
+          
+        
+        ∨
+        a
+        )
+        ∧
+        .
+        .
+        .
+        ∧
+        (
+        
+          ψ
+          
+            n
+          
+        
+        ∨
+        a
+        )
+        ∧
+        (
+        
+          τ
+          
+            1
+          
+        
+        ∨
+        ¬
+        a
+        )
+        ∧
+        .
+        .
+        .
+        ∧
+        (
+        
+          τ
+          
+            n
+          
+        
+        ∨
+        ¬
+        a
+        )
+        ∧
+        a
+        
+        ≡
+        
+        ⊥
+        
+        ≡
+        
+        φ
+        ∧
+        
+          τ
+          
+            1
+          
+        
+        ∧
+        .
+        .
+        .
+        ∧
+        
+          τ
+          
+            n
+          
+        
+        ∧
+        a
+      
+    
+    {\displaystyle \varphi \land (\psi _{1}\vee a)\land ...\land (\psi _{n}\vee a)\land (\tau _{1}\vee \neg a)\land ...\land (\tau _{n}\vee \neg a)\land a\;\equiv \;\perp \;\equiv \;\varphi \land \tau _{1}\land ...\land \tau _{n}\land a}
+  wegen 
+  
+    
+      
+        φ
+        ∧
+        ⊥≡⊥
+      
+    
+    {\displaystyle \varphi \land \perp \equiv \perp }
+  
+Fall 
+  
+    
+      
+        a
+        =
+        ⊤
+      
+    
+    {\displaystyle a=\top }
+  :
+
+  
+    
+      
+        φ
+        ∧
+        (
+        
+          ψ
+          
+            1
+          
+        
+        ∨
+        a
+        )
+        ∧
+        .
+        .
+        .
+        ∧
+        (
+        
+          ψ
+          
+            n
+          
+        
+        ∨
+        a
+        )
+        ∧
+        (
+        
+          τ
+          
+            1
+          
+        
+        ∨
+        ¬
+        a
+        )
+        ∧
+        .
+        .
+        .
+        ∧
+        (
+        
+          τ
+          
+            n
+          
+        
+        ∨
+        ¬
+        a
+        )
+        ∧
+        a
+      
+    
+    {\displaystyle \varphi \land (\psi _{1}\lor a)\land ...\land (\psi _{n}\lor a)\land (\tau _{1}\lor \neg a)\land ...\land (\tau _{n}\lor \neg a)\land a}
+  
+
+  
+    
+      
+        ≡
+        φ
+        ∧
+        (
+        
+          ψ
+          
+            1
+          
+        
+        ∨
+        ⊤
+        )
+        ∧
+        .
+        .
+        .
+        ∧
+        (
+        
+          ψ
+          
+            n
+          
+        
+        ∨
+        ⊤
+        )
+        ∧
+        (
+        
+          τ
+          
+            1
+          
+        
+        ∨
+        ⊥
+        )
+        ∧
+        .
+        .
+        .
+        ∧
+        (
+        
+          τ
+          
+            n
+          
+        
+        ∨
+        ⊥
+        )
+        ∧
+        a
+      
+    
+    {\displaystyle \equiv \varphi \land (\psi _{1}\lor \top )\land ...\land (\psi _{n}\lor \top )\land (\tau _{1}\lor \perp )\land ...\land (\tau _{n}\lor \perp )\land a}
+  
+
+  
+    
+      
+        ≡
+        φ
+        ∧
+        ⊤
+        ∧
+        .
+        .
+        .
+        ∧
+        ⊤
+        ∧
+        
+          τ
+          
+            1
+          
+        
+        ∧
+        .
+        .
+        .
+        ∧
+        
+          τ
+          
+            n
+          
+        
+        ∧
+        a
+      
+    
+    {\displaystyle \equiv \varphi \land \top \land ...\land \top \land \tau _{1}\land ...\land \tau _{n}\land a}
+  
+
+  
+    
+      
+        ≡
+        φ
+        ∧
+        
+          τ
+          
+            1
+          
+        
+        ∧
+        .
+        .
+        .
+        ∧
+        
+          τ
+          
+            n
+          
+        
+        ∧
+        a
+      
+    
+    {\displaystyle \equiv \varphi \land \tau _{1}\land ...\land \tau _{n}\land a}
+  
+
+
+== Vergleich mit Resolution ==
+Der zweite Schritt der Einheitsresolution kann als Spezialfall von Resolution interpretiert werden. Hier betrachtet man eine Einheitsklausel und berechnet alle möglichen Resolventen von dieser Einheitsklausel. Bei der Einheitsresolution werden aber, im Gegensatz zum Resolutionsverfahren, die ursprünglichen Klauseln verworfen sobald eine vereinfachte Klausel gebildet wird.Der erste Schritt der Einheitsresolution hat kein Äquivalent im Resolutionsverfahren. Insbesondere werden im Resolutionsverfahren nur Klauseln hinzugefügt aber nie Klauseln verworfen.Das Resolutionsverfahren ist vollständig in dem Sinne, dass es für jede aussagenlogische Formel die Erfüllbarkeit entweder zeigt oder widerlegt. Für Einheitresolution gilt das im Allgemeinen nicht. Jedoch ist die Einheitsresolution ein vollständiges Verfahren für die Erfüllbarkeit von Horn-Formeln wenn sie iterativ für neue Einheitsklauseln angewendet wird.
+
+
+== Siehe auch ==
+Resolution (Logik)
+Kalkül
+Horn-Formel
+Markierungsalgorithmus – Ein verwandter Algorithmus um die Erfüllbarkeit von Horn-Formeln zu testen.

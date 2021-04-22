@@ -1,0 +1,298 @@
+Phosphortrioxid ist ein Oxid des Elementes Phosphor. Diese chemische Verbindung ist auch unter der Bezeichnung Diphosphortrioxid bekannt. Die im geschmolzenen, gelösten und dampfförmigen Zustand ermittelte Molekülmasse entspricht der Summenformel P4O6. Die wachsweichen, farblosen Kristalle sind sehr giftig.
+
+
+== Darstellung ==
+Phosphortrioxid entsteht bei der Verbrennung von weißem Phosphor bei niedrigen Temperaturen unter Sauerstoff-Mangel. Dabei beobachtet man eine starke Wärmeentwicklung:
+
+  
+    
+      
+        
+          
+            P
+            
+              4
+            
+          
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          →
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              6
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {P_{4}+3\ O_{2}\rightarrow P_{4}O_{6}} }
+  
+Weißer Phosphor reagiert mit Sauerstoff zu Phosphortrioxid.
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Phosphortrioxid ist das Anhydrid der Phosphonsäure. Phosphor liegt in der Oxidationsstufe +3 vor. Die Kristalle dieser Verbindung besitzen eine Dichte von 2,14 g·cm−3. Der Schmelzpunkt liegt bei 24 °C, der Siedepunkt bei 175 °C unter einer Stickstoff-Atmosphäre. Phosphortrioxid löst sich in Benzol und Schwefelkohlenstoff.Die Struktur des Phosphortrioxids leitet sich vom tetraedrischen Phosphormolekül P4 ab. Ersetzt man die sechs P–P-Bindungen – die Kanten des Tetraeders – jeweils durch P–O–P-Bindungen, so gelangt man zur oben dargestellten Molekülstruktur. Die Bindungslängen der P-O-Bindungen betragen für das Molekül im Gaszustand 164 pm. Für die Bindungswinkel ergeben sich 126,4° für die POP-Gruppe und 99,8° für die OPO-Gruppe.Die Struktur weist eine hohe Symmetrie auf. Neben der tetraedrischen Anordnung der Phosphor-Atome kann für die Sauerstoff-Atome eine oktaedrische Anordnung festgestellt werden. Die vier Flächen der tetraedrischen Grundstruktur werden von vier symmetrisch verknüpften P3O3-Sechsringen umrahmt. Diese Struktur findet man auch beim Arsenik (As4O6) sowie beim Urotropin (N4(CH2)6).
+Phosphortrioxid kristallisiert in einer monoklinen Kristallstruktur in der Raumgruppe P21/m (Raumgruppen-Nr. 11)Vorlage:Raumgruppe/11 und den Gitterparametern a=6,43, b=7,887, c=6,183 Å und β=106,01°.
+
+
+=== Chemische Eigenschaften ===
+Phosphortrioxid oxidiert an der Luft weiter zu Phosphorpentoxid:
+
+  
+    
+      
+        
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              6
+            
+          
+          +
+          2
+           
+          
+            O
+            
+              2
+            
+          
+          →
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              10
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {P_{4}O_{6}+2\ O_{2}\rightarrow P_{4}O_{10}} }
+  
+Phosphortrioxid oxidiert zu Phosphorpentoxid.Unter vermindertem Druck wird bei diesem Vorgang Chemilumineszenz beobachtet.
+Oberhalb von 210 °C findet eine Zersetzung zu Phosphor und Phosphortetroxid statt:
+
+  
+    
+      
+        
+          4
+           
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              6
+            
+          
+          ⇌
+          4
+           
+          P
+          +
+          3
+           
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              8
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ P_{4}O_{6}\rightleftharpoons 4\ P+3\ P_{4}O_{8}} }
+  
+Phosphortrioxid disproportioniert zu Phosphor und Phosphortetroxid.In kaltem Wasser wird Phosphortrioxid zu Phosphonsäure umgewandelt:
+
+  
+    
+      
+        
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              6
+            
+          
+          +
+          6
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          →
+          4
+           
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {P_{4}O_{6}+6\ H_{2}O\rightarrow 4\ H_{3}PO_{3}} }
+  
+Phosphortrioxid reagiert mit Wasser zu Phosphonsäure.In heißem Wasser wird die Disproportionierung der Phosphonsäure relevant, so dass dann Phosphorsäure, Phosphin und Phosphor als Reaktionsprodukte erhalten werden.Die Reaktion mit Chlorwasserstoff führt zur Bildung von Phosphonsäure und Phosphortrichlorid:
+
+  
+    
+      
+        
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              6
+            
+          
+          +
+          6
+           
+          H
+          C
+          l
+          →
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              3
+            
+          
+          +
+          2
+           
+          P
+          C
+          
+            l
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {P_{4}O_{6}+6\ HCl\rightarrow 2\ H_{3}PO_{3}+2\ PCl_{3}} }
+  
+Phosphortrioxid und Chlorwasserstoff reagieren zu Phosphonsäure und Phosphortrichlorid.Mit den Halogenen Chlor und Brom reagiert Phosphortrioxid zu Phosphorylhalogeniden, mit Iod zu Diphosphortetraiodid. Die Umsetzung mit Ozon führt zum Ozonid P4O18, welches sich oberhalb von −35 °C langsam unter Sauerstoffabgabe zum Phosphorpentoxid zersetzt.
+
+  
+    
+      
+        
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              6
+            
+          
+          +
+          4
+           
+          
+            O
+            
+              3
+            
+          
+          →
+          
+            P
+            
+              4
+            
+          
+          
+            O
+            
+              18
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {P_{4}O_{6}+4\ O_{3}\rightarrow P_{4}O_{18}} }
+  
+
+
+== Quellen ==

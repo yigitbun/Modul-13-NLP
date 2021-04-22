@@ -1,0 +1,74 @@
+Rhenium(VII)-oxid Re2O7 ist eine chemische Verbindung und zählt zu den Oxiden des Rheniums. Es ist ein gelber hygroskopischer Feststoff. Im Vergleich zum instabilen und explosiven Mangan(VII)-oxid ist Rhenium(VII)-oxid deutlich stabiler.
+
+
+== Gewinnung und Darstellung ==
+Rhenium(VII)-oxid  entsteht beim Erhitzen von Rhenium oder Rheniumverbindungen an der Luft.
+
+  
+    
+      
+        
+          4
+          
+          Re
+          +
+          7
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            Re
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              7
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4Re + 7O2 -> 2Re2O7}}}
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Rhenium(VII)-oxid kristallisiert in einer orthorhombischen Kristallstruktur mit der Raumgruppe P212121 (Raumgruppen-Nr. 19)Vorlage:Raumgruppe/19. Die Gitterkonstanten sind a = 1250 pm, b = 1520 pm und c = 540 pm. Im Kristall bildet Rhenium(VII)-oxid ReO4-Tetraeder und ReO6-Oktaeder, die sich einander abwechseln und über die Ecken verknüpft sind.
+
+
+=== Chemische Eigenschaften ===
+Rhenium(VII)-oxid ist sehr hygroskopisch und löst sich gut in Wasser. Beim Lösen bildet sich die starke Säure Perrheniumsäure. Rhenium(VII)-oxid wird durch Wasserstoff bei 300 °C zu Rhenium(IV)-oxid reduziert.
+
+
+== Verwendung ==
+Rhenium(VII)-oxid ist ein Zwischenprodukt bei der Gewinnung von elementarem Rhenium. Es entsteht beim Rösten von rheniumhaltigen Manganerzen. Das Rhenium(VII)-oxid wird nach der Abtrennung vom übrigen Flugstaub in Wasser gelöst. Aus der dabei entstandenen Perrheniumsäure wird das Rhenium als Ammoniumperrhenat ausgefällt und mit Wasserstoff zum Element reduziert.
+Rhenium(VII)-oxid kann als Katalysator in verschiedenen Reaktionen der organischen Chemie verwendet werden. So können mit Hilfe von Rhenium(VII)-oxid Alkane in Carbonsäuren überführt werden. Weitere durch Rhenium(VII)-oxid katalysierte Reaktionen sind Metathese-Reaktionen von Olefinen. Aus Rhenium(VII)-oxid kann der Katalysator Methyltrioxorhenium (MTO) gewonnen werden.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. Walter de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1, S. 1628–1629.

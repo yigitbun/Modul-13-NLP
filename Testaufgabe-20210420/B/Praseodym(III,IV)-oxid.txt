@@ -1,0 +1,27 @@
+Praseodym(III,IV)-oxid (Pr6O11) ist eine chemische Verbindung der chemischen Elemente Praseodym und Sauerstoff aus der Gruppe der Metalloxide.
+
+
+== Vorkommen ==
+Praseodym(III,IV)-oxid kommt natürlich als Beimischung in Mineralien wie Bastnäsit, Monazit und Xenotim vor.
+
+
+== Gewinnung und Darstellung ==
+Praseodym(III,IV)-oxid kann durch Verbrennung von Praseodym mit Sauerstoff gewonnen werden.
+
+
+== Eigenschaften ==
+Praseodym(III,IV)-oxid ist ein schwarzer geruchloser Feststoff, der praktisch unlöslich in Wasser ist. Das dreiwertige Praseodym ist zweifach, das vierwertige Praseodym ist viermal vertreten. Formal kann man es als Pr2O3 · 4 PrO2 auffassen. Es kristallisiert im kubischen Kristallsystem in der Fluorit-Struktur, wobei 1/12 der Sauerstoffplätze unbesetzt bleiben; der Gitterparameter beträgt 546,8 pm. Es zersetzt sich bei Kontakt mit Wasserdampf zu Praseodym(IV)-oxid und Praseodym(III)-hydroxid.Zu beachten ist, dass noch andere Zwischenphasen zwischen Praseodym(III)-oxid und Praseodym(IV)-oxid existieren mit der allgemeinen Formel 2 Pr2O3 · m PrO2 (0 <= m <= 8) bzw. PrnO2n-2 (4 <= n <= 12).
+
+
+== Verwendung ==
+Praseodym(III,IV)-oxid wird für das Färben von Glas und Keramik verwendet.
+
+
+== Literatur ==
+R. L. Martin: "Oxides of Praseodymium", Nature (4. Februar 1950), 165, S. 202–203 (doi:10.1038/165202b0).
+T. Weisemoeller, C. Deiter, F. Bertram, S. Gevers, A. Giussani, P. Zaumseil, T. Schroeder, J. Wollschläger: "Epitaxy of single crystalline PrO2 films on Si(111)", in: Appl. Phys. Lett., 2008, 93, 032905 (doi:10.1063/1.2958227; PDF).
+M. Shamshi Hassan, M. Shaheer Akhtar, Kyung-Bo Shim, O-Bong Yang: "Morphological and Electrochemical Properties of Crystalline Praseodymium Oxide Nanorods", in: Nanoscale Research Letters, 2010, 5, S. 735–740 (doi:10.1007/s11671-010-9547-8).
+Sergio Ferro: "Physicochemical and Electrical Properties of Praseodymium Oxides", International Journal of Electrochemistry, Volume 2011, Article ID 561204, 7 pages (doi:10.4061/2011/561204).
+
+
+== Einzelnachweise ==

@@ -1,0 +1,88 @@
+Architekturinformatik ist ein Lehr- und Forschungsgebiet an einigen Architektur-Fakultäten im deutschsprachigen Raum. Es befasst sich mit den wissenschaftlichen Grundlagen der Informationsverarbeitung und den Informationstechniken in der Architektur und im Tätigkeitsbereich der Architekten. In der Architekturinformatik werden Objekte und grundsätzlichen Verfahrensweisen der Architektur im Hinblick auf die Informationsverarbeitung und die Anwendung maschineller (digitaler) Verfahren erforscht.
+
+
+== Zielsetzung ==
+In der Architektur sind Rechner und digitale Medien heute selbstverständliche Arbeitsmittel. Die berufliche Stellung der Architekten und ihre Fähigkeit architektonische Anliegen umzusetzen hängen ganz wesentlich davon ab, wie sie die Möglichkeiten der Informationstechnologie in ihrer Arbeit umsetzen. Durch Ausbildung und Forschung wollen die Architekturfakultäten dazu beitragen, das Potential der Informatisierung in der Architektur auszuschöpfen.
+Durch den Einsatz der Informationstechnologie soll für alle Fachgebiete der Architektur ein Mehrwert entstehen. Die Architekturinformatik möchte die dafür notwendigen Entwicklungen in anderen Fachgebieten unterstützen und an interdisziplinären Forschungsprojekten mitarbeiten. Architekturinformatik wird aber nicht als Dienstleister für andere Fachgebiete der Architektur verstanden, sondern verfolgt eigene theoretische und praktische Anliegen in Lehre und Forschung.
+
+
+== Inhalte ==
+Die Architekturinformatik umfasst alle grundlegenden Tätigkeiten, die mit der Informatisierung im Bereich Architektur verbunden sind, insbesondere:
+
+Grundlagenforschung (Erkenntnis- und Methodengewinn)
+Prozessbetrachtungen, Strukturierung und Standardisierung
+Konzeption und Entwicklung von Werkzeugen
+Integration von Werkzeugen
+Prototypische und experimentelle Anwendungen
+Bewertung und TestsIn der Architekturinformatik beschäftigen sich die Beteiligten sowohl mit dem Produkt (Gebäude, Städten realer sowie virtueller Art) als auch mit den lebenszyklusbezogenen Prozessen (Machbarkeitsstudien, Entwurf, Bauplanung, Bauausführung, Betrieb, Erneuerung bis zur Entsorgung).
+Der Kontakt zu anderen Wissens- und Fachgebieten ist dabei sehr wichtig. Das betrifft z. B. die Übergänge zur Geoinformatik (Geoinformationssysteme), zur Bauinformatik (Architecture, Engineering and Construction), zum konstruktiven Ingenieurbau, zum Building Information Modeling, zur CNC-Fertigung, zu spezifischen Bereichen der Informatik und zur künstlerischen Gestaltung mit Neuen Medien.
+Die Abgrenzung zwischen Architekturinformatik und Bauinformatik ergibt sich weitgehend aus den verschiedenen Tätigkeiten von Architekten und Bauingenieuren. So stehen bei Bauingenieuren die numerischen und deterministischen Verfahren sowie die bautechnologischen Aspekte im Vordergrund während bei Architekten die schwach strukturierten funktionalen und gestalterischen Prozesse, die topologischen Eigenschaften, die Visualisierung und die Kommunikation im Vordergrund stehen.
+Die zahlreichen wissenschaftlichen Veröffentlichungen lassen die folgenden Inhalte in Lehre und Forschung erkennen: 
+Architectural Design Decision Support Systems - Systeme zur Unterstützung in der Architekturgestaltung
+Agent-based Knowledge Application, Infrastructure and Architecture
+Building and Construction Management and Robotics - Baumanagement und Automatisierung
+Case-based reasoning, Information Processing, Indexing and Retrieval
+Cognitive Aspects of Design Computing Systems
+computer-aided manufacturing - Rechnerunterstützte Fertigung
+Computer Integrated Construction - Rechnerintegrierte Bauausführung
+Computer Supported Collaborative Problem Solving and Practice
+Digital Design, Representation and Visualization - Digitale Gestaltung, Darstellung und Visualisierung
+Design Methods, Process and Creativity - Designmethoden, -prozesse und Kreativität
+Electronic Communication, Activities and Distance Education - Elektronische Kommunikation und Fernlehre
+Emerging Systems and Computing Paradigms
+Energy, Sustainable Building Technology Applications - Anwendungen für nachhaltiges Bauen
+Environment and Behaviour Recording and Simulations - Funktionsdokumentaion und Simulationen der Umwelt
+Evaluation and Standards for Computer-Aided Architectural Design Technologies - Auswertung und standards für CAAD
+Human-Machine Interaction Design - Gestaltung der Mensch-Computer-Interaktion
+Intelligent Buildings, Mobile Computing, Ubiquitous computing
+Implementation, Connections of Physical Environments and Virtual Worlds - Verknüpfung von realer Umgebung mit virtuellen Welten
+Intelligent Support in Design and Built Environment
+Intention and Context Aware Computing
+Knowledge Based Design and Generative Systems
+Knowledge Management, Networks and Communities
+Multi-Media Communications and Representations - Multimediale Kommunikation und Darstellungen
+Multi-Modal Applications and Data Analysis - Modulare Anwendungen und Datenanalyse
+Precedents, Prototypes and Case Studies - Präzedenzfälle, Prototypen und Fallstudien
+Prediction, Evaluation and Validation - Vorhersage, Auswertung und Bewertung
+Responsive Environments and Smart Spaces
+System Evolution, Learning and Adaptation
+Visual Thinking, Visual Computing, Spatial/Temporal Reasoning and Languages
+
+
+== Entwicklung ==
+
+
+=== Technologie ===
+Die Grundlagen der graphischen Datenverarbeitung entstanden Anfang der sechziger Jahre in Forschungslabors in den Vereinigten Staaten und in Europa. Obwohl die hard- und softwareseitigen Voraussetzungen damals noch rudimentär waren, wurden in einigen Pionierleistungen die Grundlagen der Datenstrukturen und Benutzeroberflächen heutiger CAD-Programme bereits vorweggenommen. Erstaunlicherweise gehörten auch Architekten zu diesen Pionieren. Der Weg zu anwenderfreundlichen Programmen im Architekturbereich war allerdings länger als in anderen Ingenieurdisziplinen.
+In den 1970er Jahren kamen anwendungsneutrale Standardsoftware wie Datenbanken, Statiksoftware, Bauadministrationssoftware und, ausgehend von neuer Peripherie, interaktive Zeichnungseditoren und Geometriemodellierer dazu. Die fotorealistische Darstellung geometrischer Modelle in Renderings und Animationen wurde für die Architektur entdeckt, obwohl die langen Rechenzeiten auf der damaligen Hardware deren Erstellung noch stark erschwerte. Auch die Bedeutung der Datenmodellierung und damit der Datenbanken für den Einsatz des Computers in der Architektur wurde erkannt. Damit wurden erste Brücken zwischen grafischen und nicht-grafischen Daten geschlagen.
+In jüngster Zeit hat sich das Gebiet der Architekturinformatik nochmals erweitert. Zur Rolle der Informationstechnologie als Werkzeug und als Kommunikationsmedium in der Architekturplanung tritt zunehmend auch die Informationstechnologie als Teil des Bauprozesses (computer-aided manufacturing, Computer Integrated Construction) und als Teil der gebauten Umwelt (Smart Buildings, Ubiquitous computing).
+
+
+=== Hochschulen ===
+Die Vermittlung von Computerkenntnissen ist heute ein unabdinglicher Teil jedes Architekturstudiums. Die Zahl der Büros, die ohne Computer plant ist auf eine marginale Minderheit zusammengeschrumpft. Für Studierende, denen entsprechende Kenntnisse fehlen gibt es schlicht keine Praktikums- bzw. Arbeitsplätze mehr.
+Anfangs stand für viele Architekturfakultäten die Bereitstellung von geeigneter Hard- und Software für studentische Arbeitsplätze und Ausbildungsräume im Vordergrund. Für Budgets und Investitionszyklen, wie sie in der Architektur bis dahin nicht üblich gewesen waren bestand ein hoher Rechtfertigungsdruck. Inzwischen ist leistungsfähige Hard- und Software zumeist verfügbar und wird auch zunehmend von den Studierenden selbst angeschafft. Dennoch muss an Hochschulen weiterhin kontinuierlich in aktuelle, hochwertige Infrastruktur investiert werden, um eine Ausbildung auf dem aktuellen Stand der Technik zu ermöglichen.
+Das für die Architekturausbildung typische projektorientierte Arbeiten ist ein Teil der Lehre, der Andere ist die Vermittlung grundlegender Prinzipien. Studierende sollen auch auf das Formulieren von neuen Methoden und Vorgehensweisen vorbereitet werden. Insbesondere sollen sie in der Zusammenarbeit mit Softwareentwicklern und IT-Spezialisten nicht als Kunde, sondern als kompetente Mitgestalter auftreten können.
+
+
+== Einfluss auf das Berufsbild ==
+Hintergrund jeder Diskussion über Ausrüstung und didaktische Ziele ist die Frage nach dem Berufsbild. Grundsätzlich kann man feststellen, dass die Einführung der Informationstechnologie zu einer Verbreiterung des Berufsfeldes geführt hat. Den Architekten, die den neuen Technologien aufgeschlossen gegenüberstehen, haben sich neue Betätigungsfelder geöffnet. Ihre gestalterischen Fähigkeiten lassen sich in viele Bereiche des Medien- und Informationsdesigns übertragen. Auch für die traditionelle Kompetenz der Architekten in Management und Kommunikation ergeben sich durch die neuen Medien Anwendungsmöglichkeiten in verschiedenen gesellschaftlichen und wirtschaftlichen Bereichen. Aber die Informationstechnologie hat auch den traditionellen Architektenberuf verändert.
+Die Forschung postulierte schon früh eine Wandlung des Berufsbildes durch die neuen Arbeitsmittel. Die Formalisierung der Arbeitsprozesse, die Anwendung von neuen Abstraktionsformen und Simulationsprogrammen bereits in frühen Entwurfsphasen, aber auch die Modelle für neue Arbeitsweisen und Kommunikationsformen im Bauwesen, die an einschlägigen Konferenzen vorgestellt und diskutiert wurden, zielten darauf ab, die Architektentätigkeit von Grund auf neu zu orientieren. In der Praxis war der Einfluss der Rechnerunterstützung in den frühen Entwurfsphasen lange Zeit sehr gering. Die entscheidenden Produktivitätsfortschritte wurden im Bereich der Ausführungsplanung und der Bauadministration erzielt. Bestehende Arbeitsabläufe wurden damit schneller und zuverlässiger durchgeführt. Der Datenaustausch mit Bauherren, Fachplanern und Unternehmen machte rasche Fortschritte. Die Anwendung von neuen Kommunikationshilfsmitteln wie z. B. Projekträume und Internetportale setzt sich zur Zeit ebenfalls schnell durch, da die Produktivitätsgewinne auch hier beträchtlich sind. Technologische Fortschritte im Bereich der Rendering und Animationssoftware haben in letzter Zeit zu einem steigenden Einsatz von Computern schon in der Projektentwicklung und in frühen Entwurfsphasen zur Formfindung geführt. Die Formensprache und Konstruktion vieler aktueller Architekturprojekte wäre ohne intensivsten Einsatz digitaler Werkzeuge nicht möglich.
+Allerdings beschränkt sich der Einsatz zumeist eher auf formale Experimente und bleibt in seiner Bedeutung auf einen relativ kleinen Bereich der Tätigkeit der Architekten beschränkt. Die gründlichere Durchdringung komplexer architektonischer Problemstellungen, wie sie durch die Verknüpfung von Datenmodellen und Simulationen mit Hilfe des Computers schon im Entwurfsprozess möglich wäre, bleibt dabei noch ausgeklammert. In diesem letzten Bereich der umfassenden informationstechnischen Kontrolle des gesamten Planungsprozesses wird sich der Anteil der Architekten an den zukünftigen Arbeitsfeldern entscheiden. Angesichts der großen und immer weiter wachsenden Breite und Vielgestaltigkeit, die das Gebiet der Architekturinformatik inzwischen angenommen hat, ist die Verknappung auf die geometrische Formgebung nur eine Episode. Die in jüngerer Zeit häufig publizierten und besprochenen formalen Experimente zeigen vielmehr, dass die Bereitschaft, den digitalen Technologien einen aktiven Part in frühen Phasen des Entwurfsprozesses einzuräumen, inzwischen stark gestiegen ist. Es liegt nun an den Vertretern der Architekturinformatik an den Architekturschulen, Erkenntnisse und Methoden zu vermitteln, auf deren Basis sich eine zukünftige Architekturpraxis im umfassenden Sinn abstützen kann.
+
+
+== Bezug der Lehre zur Forschung ==
+Aufgrund der schnellen Änderungen im Berufsbild der Architekten muss sich die Ausbildung vermehrt auf eine zum Teil sehr ungewisse Zukunft ausrichten. Das bedeutet, dass grundsätzliche, theoretische Inhalte den Vorrang vor anwendungsorientierten Fähigkeiten haben müssen. Der direkte Bezug zur Forschung wird auch in der Architektenausbildung wichtig und kann auch hier nur über die eigene Forschung der Architekturinformatiklehrstühle realisiert werden. Angesichts der fehlenden Tradition einer wissenschaftlichen Forschung an Architekturfakultäten ist es notwendig, für die Architekturinformatik diesen Standpunkt dezidiert zu vertreten.
+
+
+== Siehe auch ==
+Architekturgenerierung
+Architektur (Informatik) für das Zusammenspiel der Komponenten eines komplexen Systems in der Informatik.
+
+
+== Weblinks ==
+www.architektur-informatik.org Arbeitskreis Architekturinformatik
+www.entwurfsforschung.de Forschungsseite zum computergestützten Architektur- und Städtebauentwurf (Reinhard König, Christian Bauriedel)
+architektur-informatik.scix.net Digitale Bibliothek Architekturinformatik
+
+
+== Einzelnachweise ==

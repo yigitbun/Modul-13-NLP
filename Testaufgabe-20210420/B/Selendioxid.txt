@@ -1,0 +1,176 @@
+Selendioxid (SeO2) ist ein Feststoff, der ab 315 °C sublimiert. Es bildet sich z. B. bei der Verbrennung von elementarem Selen (Se) mit Sauerstoff.
+Andere Oxide des Selens sind Selenmonoxid (SeO) und Selentrioxid (SeO3).
+
+
+== Eigenschaften ==
+Selendioxid bildet glänzende, weiße, sublimierbare Nadeln. Es kristallisiert tetragonal, Raumgruppe P42/mbc (Raumgruppen-Nr. 135)Vorlage:Raumgruppe/135 mit den Gitterparametern a = 8,36 und b = 5,06 Å bei 286 K. Beim Erhitzen unter Druck bildet sich eine orangegelbe Schmelze.
+Selendioxid ist gut wasserlöslich und wirkt hygroskopisch. Mit Wasser bildet es dabei Selenige Säure (H2SeO3), eine mittelstarke Säure, deren Salze Selenite oder Oxoselenate(IV) genannt werden. Diese wirkt weniger reduzierend als die verwandte Schweflige Säure, im sauren Milieu ist sie dagegen ein Oxidationsmittel:
+
+  
+    
+      
+        
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              3
+            
+          
+          +
+          4
+           
+          
+            H
+            
+              +
+            
+          
+          +
+          4
+           
+          
+            e
+            
+              −
+            
+          
+          ⇌
+           
+          S
+          e
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          
+          
+            
+              
+                E
+              
+            
+            
+              ∘
+            
+          
+          =
+          +
+          0
+          ,
+          74
+           
+          V
+          
+          (
+          p
+          H
+          =
+          0
+          )
+        
+      
+    
+    {\displaystyle \mathrm {\ H_{2}SeO_{3}+4\ H^{+}+4\ e^{-}\rightleftharpoons \ Se+3\ H_{2}O\qquad {\mathit {E}}^{\circ }=+0,74\ V\quad (pH=0)} }
+  Ebenso leicht löslich ist Selendioxid in Alkohol und konzentrierter Schwefelsäure.
+Mit konzentrierten, starken Säuren kann Selendioxid hydrolyseempfindliche Selen(IV)-Verbindungen wie z. B. Selenoxychlorid (SeOCl2) bilden.
+
+
+== Herstellung ==
+Selen(IV)-oxid wird direkt aus den Elementen Selen und Sauerstoff hergestellt oder durch Wasserentzug aus Seleniger Säure.
+
+  
+    
+      
+        
+          S
+          e
+          +
+          
+            O
+            
+              2
+            
+          
+          ⟶
+           
+          S
+          e
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Se+O_{2}\longrightarrow \ SeO_{2}} }
+  
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          S
+          e
+          
+            O
+            
+              3
+            
+          
+          ⟶
+           
+          S
+          e
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}SeO_{3}\longrightarrow \ SeO_{2}+H_{2}O} }
+  
+
+
+== Verwendung ==
+Selendioxid wird als Oxidationsmittel bei der Synthese organischer Substanzen wie z. B. der Riley-Oxidation eingesetzt.
+Wenn schwere Formen von Schuppen vorliegen, wird Selendioxid als Zusatz in Shampoos verwendet.
+
+
+== Sicherheitshinweise ==
+Selendioxid ist wie Selen und seine Verbindungen stark giftig. Der MAK-Wert beträgt 0,02 mg/m³ (gemessen als einatembarer Aerosolanteil). Seine Aufnahme kann durch die intakte Haut erfolgen. Erforderlicher Arbeitsschutz: Staubschutzmaske, Gummihandschuhe, Absaugung und Belüftung am Arbeitsplatz.
+
+
+== Einzelnachweise ==

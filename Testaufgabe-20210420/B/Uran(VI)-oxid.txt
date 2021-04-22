@@ -1,0 +1,85 @@
+Uran(VI)-oxid (auch Urantrioxid, UO3) ist eine chemische Verbindung des Urans, die je nach Modifikation gelbe oder orange Kristalle bildet und zu den Schwermetalloxiden gehört.
+
+
+== Darstellung ==
+Uran(VI)-oxid wird durch Erhitzen von Uranylverbindungen wie Uranylnitrat-Hexahydrat in einer Sauerstoffatmosphäre bei 600 °C dargestellt.Es kann auch durch Reaktion von Uran(V,VI)-oxid mit Sauerstoff bei hohem Druck dargestellt werden, wobei je nach Druck und Temperatur verschiedene Modifikationen entstehen.
+
+  
+    
+      
+        
+          2
+          
+          
+            U
+            
+              3
+            
+            
+              
+            
+          
+          
+            O
+            
+              8
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          6
+          
+          
+            UO
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 U3O8 + O2 -> 6 UO3}}}
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Uran(VI)-oxid ist aufgrund des Urangehaltes radioaktiv. Man kennt eine amorphe und sechs verschiedene kristalline Modifikationen, in denen Uran die Koordinationszahl 6 oder 7 hat.
+
+α-UO3 kann aus amorphem Uran(VI)-oxid durch Erhitzen auf 500 °C bei einem Sauerstoff-Partialdruck von 40 Bar als beiges kristallines Pulver erhalten werden. Es hat eine orthorhombische Struktur mit der Raumgruppe C2mm (Raumgruppen-Nr. 38, Stellung 4)Vorlage:Raumgruppe/38.4.β-UO3 wird aus α-UO3 bei 550 °C und einem Sauerstoffpartialdruck von 40 Bar als oranges oder rotes Pulver erhalten. Es bildet sich auch beim Erhitzen von Ammoniumdiuranat auf 500 °C in Luft. β-UO3 kristallisiert in der monoklinen Raumgruppe P21 (Raumgruppen-Nr. 4)Vorlage:Raumgruppe/4.γ-UO3 entsteht beim Erhitzen von Uranylnitrat-Hexahydrat in Luft auf 400–600 °C als gelbes Pulver. Es kristallisiert in der tetragonalen Raumgruppe I41/amd (Raumgruppen-Nr. 141)Vorlage:Raumgruppe/141. Bei 50 °C geht es in eine orthorhombische Struktur mit der Raumgruppe Fddd (Raumgruppen-Nr. 70)Vorlage:Raumgruppe/70 über.δ-UO3 bildet sich beim Entwässern von β-UO3·H2O bei 375 °C in Luft als tiefrotes Pulver. Die Kristallstruktur ist kubisch mit der Raumgruppe Pm3m (Raumgruppen-Nr. 221)Vorlage:Raumgruppe/221.ε-UO3 bildet sich aus U3O8 in NO2 bei 250–375 °C als rotes Pulver.ζ-UO3 ist eine Hochdruckmodifikation, die sich bei 30 kbar und 1100 °C bildet. Es kristallisiert in der orthorhombischen Raumgruppe P212121 (Raumgruppen-Nr. 19)Vorlage:Raumgruppe/19.Frisch erzeugtes Uran(VI)-oxid aus irdischem Natururan hat eine spezifische Aktivität von 21050 Bq/g.
+
+
+=== Chemische Eigenschaften ===
+Uran(VI)-oxid ist amphoter. In sauren Lösungen bildet es Uranylionen UO22+. Im alkalischen Milieu werden Oxouranate gebildet. Bei 700–900 °C zerfällt es in Triuranoctoxid.
+
+
+== Verwendung ==
+Der größte Teil wird im Zuge der Urankonversion zu Urandioxid weiterverarbeitet, sonst gibt es keine wichtige Verwendung.
+
+
+== Toxikologie ==
+Die chemische Giftigkeit dieses Metalloxids ist viel gefährlicher als seine Radioaktivität. Es muss also vor allem Vorsorge gegen Vergiftung getroffen werden.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Ingmar Grenthe, Janusz Drożdżynński, Takeo Fujino, Edgar C. Buck, Thomas E. Albrecht-Schmitt, Stephen F. Wolf: Uranium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 253–698 (doi:10.1007/1-4020-3598-5_5).

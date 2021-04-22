@@ -1,0 +1,162 @@
+Dichlorhexaoxid ist eine chemische Verbindung aus der Gruppe der Chloroxide.
+
+
+== Gewinnung und Darstellung ==
+Dichlorhexaoxid kann durch Reaktion von Chlordioxid mit Ozon gewonnen werden.
+
+  
+    
+      
+        
+          2
+           
+          C
+          l
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          C
+          
+            l
+            
+              2
+            
+          
+          
+            O
+            
+              6
+            
+          
+          +
+          2
+           
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ ClO_{2}+2\ O_{3}\longrightarrow Cl_{2}O_{6}+2\ O_{2}} }
+  Ebenfalls möglich ist die Darstellung durch Reaktion von Chlorylfluorid und Perchlorsäure.
+
+  
+    
+      
+        
+          C
+          l
+          
+            O
+            
+              2
+            
+          
+          F
+          +
+          H
+          C
+          l
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          C
+          
+            l
+            
+              2
+            
+          
+          
+            O
+            
+              6
+            
+          
+          +
+          H
+          F
+        
+      
+    
+    {\displaystyle \mathrm {ClO_{2}F+HClO_{4}\longrightarrow Cl_{2}O_{6}+HF} }
+  
+
+
+== Eigenschaften ==
+Dichlorhexaoxid ist ein tiefrote Flüssigkeit, die unterhalb von −30 °C unzersetzt aufbewahrt werden kann. Von allen Chloroxiden ist es das am wenigsten explosive, bei Kontakt mit organischen Stoffen explodiert es jedoch. Als Gas dissoziiert es weitgehend zu Chlortrioxid, das bereits bei Zimmertemperatur in Chlordioxid und Sauerstoff bzw. in Chlor und Sauerstoff zerfällt.In der Gasphase und als Flüssigkeit liegt es als kovalentes Chlorylperchlorat O2Cl-O-ClO3 vor. Die Oxidationsstufen des Chlors betragen hier V und VII.  Im Feststoff existiert die Verbindung als Chlorylchlorat mit isolierten ClO2+ und ClO4− -Ionen.Die Verbindung ist das gemischte Anhydrid aus Chlor- und Perchlorsäure. Bei Reaktion mit Wasser entstehen Chlorsäure und Perchlorsäure, mit Ozon langsam Dichlorheptaoxid.
+
+  
+    
+      
+        
+          C
+          
+            l
+            
+              2
+            
+          
+          
+            O
+            
+              6
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⇄
+           
+          H
+          C
+          l
+          
+            O
+            
+              3
+            
+          
+          +
+          H
+          C
+          l
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Cl_{2}O_{6}+H_{2}O\rightleftarrows \ HClO_{3}+HClO_{4}} }
+  
+
+
+== Einzelnachweise ==

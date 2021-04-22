@@ -1,0 +1,48 @@
+Die JEL-Klassifizierung ist ein Klassifizierungssystem aus der Wirtschaftswissenschaft. Mit den JEL-Klassifizierungen werden wirtschaftswissenschaftliche Fachaufsätze mit einer dreistelligen, alpha-numerischen Kennung klassifiziert. Es wurde von der American Economic Association als Klassifizierungssystem für das Fachjournal Journal of Economic Literature (JEL) erstellt, entwickelte sich dann jedoch zum Standard in der gesamten Disziplin.
+Typischerweise schreiben Autoren wissenschaftlicher Aufsätze die JEL-Kennungen auf die Titelseite unter den Abstract, womit sie zum Paratext gehören.
+
+
+== Hauptkategorien ==
+Die JEL-Klassifizierung besteht aus 20 Hauptkategorien, die jeweils in mehrere Unterkategorien unterteilt sind:
+JEL: A – Allgemeine Wirtschaftswissenschaften und Didaktik der Wirtschaftswissenschaften
+JEL: B – Dogmengeschichte und Methodik der Wirtschaftswissenschaften und heterodoxe Ansätze
+JEL: C – Mathematische und quantitative Methoden
+JEL: D – Mikroökonomie
+JEL: E – Makroökonomie und monetäre Ökonomik, Geld- und Währungstheorie
+JEL: F – Außenwirtschaft
+JEL: G – Finanzwirtschaft
+JEL: H – Ökonomik des öffentlichen Sektors, Public economics
+JEL: I – Gesundheit, Bildung, Soziales
+JEL: J – Arbeitsökonomik, Bevölkerungsökonomik
+JEL: K – Recht und Wirtschaft
+JEL: L – Industrieökonomik
+JEL: M – Betriebswirtschaft; Marketing; Buchhaltung; Personalwesen
+JEL: N – Wirtschaftsgeschichte
+JEL: O – Wirtschaftliche Entwicklung, Innovation, Technischer Wandel, Wirtschaftswachstum
+JEL: P – Wirtschaftssysteme
+JEL: Q – Landwirtschaft, Ökonomik natürlicher Ressourcen, Umweltökonomik
+JEL: R – Stadt- und Regionalökonomik
+JEL: Y – Vermischtes
+JEL: Z – Andere Spezialgebiete
+
+
+== Beispiel einer Unterkategorie ==
+D8 – Information, Wissen und Unsicherheit
+
+D80 – Information, Wissen und Unsicherheit: Allgemeines
+D81 – Entscheidungskriterien bei Risiko und Unsicherheit
+D82 – Asymmetrische und private Information; Mechanismus-Design-Theorie, Mechanismen-Entwurf
+D83 – Suche (Suchtheorie); Lernen; Information und Wissen; Kommunikation; Glauben; Unwissenheit
+D84 – Erwartungen; Spekulation
+D85 – Netzwerkbildung und Analyse: Theorie
+D86 – Vertragsökonomik: Theorie
+D87 – Neuroökonomie
+D89 – Information, Wissen und Unsicherheit: Sonstiges
+
+
+== Weblinks ==
+JEL Classification Codes Guide (englisch)
+JEL Klassifikation für Linked Open Data (Stand 2017-01)
+
+
+== Einzelnachweise ==

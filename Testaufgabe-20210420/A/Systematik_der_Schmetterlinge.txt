@@ -1,0 +1,168 @@
+
+== Externe Systematik ==
+Innerhalb der Unterklasse Fluginsekten (Pterygota) sind die Schmetterlinge Bestandteil der Überordnung der Neuflügler (Neoptera). Von diesen spalten sich über die Eumetabola die Holometabolen Insekten ab. Die Holometabolen Insekten, oder auch Endopterygota genannt, teilen sich in der folgenden Ebene in die Gruppe der Netzflüglerartigen (Neuropteroida) und Coleopteroida einerseits und in die Hautflügler (Hymenoptera) und Mecopteroida andererseits auf. Innerhalb der Mecopteroida teilt sich die Gruppe in Amphiesmenoptera mit den Köcherfliegen (Trichoptera) und den Schmetterlingen (Lepidoptera) einerseits und den Antliophora mit den Schnabelfliegen (Mecoptera) und der Gruppe, die die Zweiflügler (Diptera) und Flöhe (Siphonaptera) beinhaltet, auf. Somit sind die Köcherfliegen innerhalb der Überordnung die nächsten Verwandten der Schmetterlinge. Sie haben sich vermutlich im Mesozoikum von den Köcherfliegen abgespalten.
+Daraus leitet sich folgendes Kladogramm ab:
+
+
+== Interne Systematik ==
+
+Die klassische Systematik der Schmetterlinge wird sehr uneinheitlich dargestellt. Mit über 160.000 Arten in etwa 130 Familien und 44 Überfamilien stellen die Schmetterlinge die zweitgrößte Ordnung neben den Käfern dar. Sie werden in vier Unterordnungen unterteilt: Zeugloptera, Aglossata, Heterobathmiina und Glossata. Die Unterordnung Zeugloptera umfasst die am ursprünglichsten gebliebenen Falter, die aber genauso wie die Falter der Aglossata und Heterobathmiina noch beißend-kauende Mundwerkzeuge aufweisen. Die Raupen der Zeugloptera haben als einzige ausgebildete, echte Bauchbeine. Die Unterordnung Glossata umfasst den Großteil der Schmetterlingsfamilien. Sie haben spezialisierte Mundwerkzeuge (Saugrüssel) und ihre Raupen haben keine Bauchfüße, sondern an deren Stelle nur Hautausstülpungen. 
+Andere Lehrmeinungen vertreten die Ansicht, dass die Lepidoptera (Schmetterlinge) nur in zwei Unterordnungen zusammengefasst werden. Das ist zum einen die Unterordnung der Zeugloptera, welche kauende Mundwerkzeuge haben (und sich von Pollen ernähren), und die Ordnung der Glossata, welche kleine bis sehr große Saugrüssel haben und sich von Pflanzensäften und Nektar ernähren.
+Die Unterteilung in Kleinschmetterlinge (Microlepidoptera) und Großschmetterlinge (Macrolepidoptera) bzw. in Tagfalter und Nachtfalter hat keine wissenschaftliche Grundlage, sie dient aber der Vereinfachung bei der Arbeit mit Schmetterlingen. Zum Beispiel gelten Spanner (Geometridae), die klassischerweise zu den Nachtfaltern gezählt werden, als näher mit den Tagfaltern verwandt als mit den übrigen Nachtfaltern. Dennoch werden die traditionellen Bezeichnungen weiterhin aus Gründen der Praktikabilität benutzt.
+
+
+== Taxonomie der Ordnung der Schmetterlinge ==
+
+In der folgenden Systematik der Schmetterlinge (Lepidoptera) wird die Systematik bis auf Familienebene geführt und richtet sich in erster Linie nach Kristensen und nach dem Tree of Life Web Project. Die Einordnung mancher Familien innerhalb der Überfamilien und auch deren Familienstatus ist teilweise noch nicht endgültig geklärt. Bei diesen wurde eine vorläufige Einteilung vorgenommen.
+
+Unterordnung Zeugloptera (Protolepidoptera)
+Überfamilie Micropterigoidea
+Urmotten (Micropterigidae)Unterordnung Aglossata
+Überfamilie Agathiphagoidea
+AgathiphagidaeUnterordnung Heterobathmiina
+Überfamilie Heterobathmioidea
+HeterobathmiidaeUnterordnung Glossata
+Überfamilie Eriocranioidea
+Trugmotten (Eriocraniidae)Überfamilie Acanthopteroctetoidea
+AcanthopteroctetidaeÜberfamilie Lophocoronoidea
+LophocoronidaeÜberfamilie Neopseustoidea
+Neopseustidae
+AenigmatineidaeÜberfamilie Mnesarchaeoidea
+MnesarchaeidaeÜberfamilie Hepialoidea
+Palaeosetidae
+Prototheoridae
+Neotheoridae
+Anomosetidae
+Wurzelbohrer (Hepialidae)Überfamilie Nepticuloidea
+Zwergminiermotten (Nepticulidae)
+OpostegidaeÜberfamilie Incurvarioidea
+Erzglanzmotten (Heliozelidae)
+Langhornmotten (Adelidae)
+Yuccamotten (Prodoxidae)
+Cecidosidae
+Miniersackmotten (Incurvariidae)
+CrinopterygidaeÜberfamilie Palaephatoidea
+PalaephatidaeÜberfamilie Tischerioidea
+Schopfstirnmotten (Tischeriidae)Überfamilie Tineoidea
+Echte Motten (Tineidae)
+Eriocottidae
+Lypusidae
+Acrolophidae
+Echte Sackträger (Psychidae)Überfamilie Gracillarioidea
+Roeslerstammiidae
+Wippflügelfalter (Douglasiidae)
+Zwergwickler (Bucculatricidae)
+Miniermotten oder Blatttütenmotten (Gracillariidae)Überfamilie Yponomeutoidea
+Gespinst- und Knospenmotten (Yponomeutidae)
+Ypsolophidae
+Schleier- und Halbmotten (Plutellidae)
+Acrolepiidae
+Rundstirnmotten oder Wippmotten (Glyphipterigidae)
+Heliodinidae
+Bedelliidae
+Langhorn-Blattminiermotten oder Schlangenminiermotten (Lyonetiidae)Überfamilie Gelechioidea
+Grasminiermotten (Elachistidae)
+Xyloryctidae
+Chimabachidae
+Glyphidoceridae
+Schistonoeidae
+Faulholzmotten (Oecophoridae)
+Lecithoceridae
+Batrachedridae
+Deoclonidae
+Miniersackträger oder Sackträgermotten (Coleophoridae)
+Autostichidae
+Peleopodidae
+Amphisbatidae
+Prachtfalter (Cosmopterigidae)
+Palpenmotten (Gelechiidae)Überfamilie Zygaenoidea
+Epipyropidae
+Cyclotornidae
+Himantopteridae
+Anomoeotidae
+Megalopygidae
+Somabrachyidae
+Aididae
+Schneckenspinner, Asselspinner oder Schildmotten (Limacodidae)
+Dalceridae
+Lacturidae
+Federwidderchen (Heterogynidae)
+Widderchen oder Blutströpfchen (Zygaenidae)Überfamilie Sesioidea
+Brachodidae
+Glasflügler (Sesiidae)
+CastniidaeÜberfamilie Cossoidea
+Holzbohrer (Cossidae)
+DudgeoneidaeÜberfamilie Tortricoidea
+Wickler oder Blattroller (Tortricidae)
+GalacticidaeÜberfamilie Simaethistoidea
+SimaethistidaeÜberfamilie Choreutoidea
+Spreizflügelfalter (Choreutidae)Überfamilie Urodoidea
+UrodidaeÜberfamilie Schreckensteinioidea
+SchreckensteiniidaeÜberfamilie Epermenioidea
+Zahnflügelfalter (Epermeniidae)Überfamilie Alucitoidea
+Tineodidae
+Federgeistchen (Alucitidae)Überfamilie Pterophoroidea
+Federmotten (Pterophoridae)Überfamilie Copromorphoidea
+Copromorphidae
+Fruchtwickler (Carposinidae)Überfamilie Immoidea
+ImmidaeÜberfamilie Hyblaeoidea
+HyblaeidaeÜberfamilie Thyridoidea
+Fensterfleckchen (Thyrididae)Überfamilie Whalleyanoidea
+WhalleyanidaeÜberfamilie Pyraloidea
+Zünsler (Pyralidae)
+CrambidaeÜberfamilie Axioidea
+AxiidaeÜberfamilie Calliduloidea
+CallidulidaeÜberfamilie Papilionoidea
+Dickkopffalter (Hesperiidae)
+Hedylidae
+Ritterfalter (Papilionidae)
+Weißlinge (Pieridae)
+Bläulinge (Lycaenidae)
+Würfelfalter (Riodinidae)
+Edelfalter (Nymphalidae)Überfamilie Drepanoidea
+Doidae
+Cimeliidae
+Sichelflügler (Drepanidae)Überfamilie Geometroidea
+Sematuridae
+Uraniafalter (Uraniidae)
+Spanner (Geometridae)Überfamilie Mimallonoidea
+MimallonidaeÜberfamilie Lasiocampoidea
+Anthelidae
+Glucken oder Wollraupenspinner (Lasiocampidae)Überfamilie Bombycoidea
+Eupterotidae
+Echte Spinner (Bombycidae)
+Birkenspinner (Endromidae)
+Mirinidae
+Pfauenspinner (Saturniidae)
+Carthaeidae
+Wiesenspinner (Lemoniidae)
+Brahmaspinner (Brahmaeidae)
+Schwärmer (Sphingidae)Überfamilie Noctuoidea
+Oenosandridae
+Zahnspinner (Notodontidae)
+Erebidae
+Trägspinner (Lymantriinae)
+Bärenspinner (Arctiinae)
+Euteliidae
+Kahneulchen (Nolidae)
+Eulenfalter (Noctuidae)
+Pantheinae
+
+
+== Siehe auch ==
+Systematik der Insekten
+Biologische Systematik
+
+
+== Quellen ==
+
+
+=== Einzelnachweise ===
+
+
+=== Literatur ===
+Wiegmann, B. M., J. C. Regier, and C. Mitter. 2002: Combined molecular and morphological evidence on the phylogeny of the earliest lepidopteran lineages. In: Zoologica Scripta. 31:67-81.
+
+
+=== Weblinks ===
+Fauna Europaea: europäische Taxonomie

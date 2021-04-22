@@ -1,0 +1,71 @@
+Praseodym(IV)-oxid ist eine anorganische chemische Verbindung des Praseodyms aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Praseodym(IV)-oxid kann aus niederen Praseodymoxiden, speziell aus dem Praseodym(III,IV)-oxid durch Erhitzen in Sauerstoff bei hohem Druck gewonnen werden. Bei gewöhnlichem Druck lässt sich die Verbindung durch solvolytische Disproportionierung gewinnen.
+
+  
+    
+      
+        
+          
+            Pr
+            
+              6
+            
+            
+              
+            
+          
+          
+            O
+            
+              11
+            
+            
+              
+            
+          
+          ⟶
+          4
+          
+          
+            PrO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            Pr
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Pr6O11 -> 4 PrO2 + Pr2O3}}}
+  
+
+
+== Eigenschaften ==
+Praseodym(IV)-oxid ist ein braunschwarzer Feststoff. Er spaltet bei Temperaturen über 200 °C Sauerstoff ab und besitzt eine Kristallstruktur vom Calciumfluorid-Typ (a = 539,3 pm).
+
+
+== Einzelnachweise ==

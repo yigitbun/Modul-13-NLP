@@ -1,0 +1,41 @@
+Vanadium(II)-oxid ist eine anorganische chemische Verbindung des Vanadiums aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Vanadium(II)-oxid kann durch Reaktion von Vanadium(III)-oxid mit Vanadium im Vakuum bei Temperaturen zwischen 1200 und 1600 °C gewonnen werden.
+
+  
+    
+      
+        
+          
+            V
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          V
+          ⟶
+          3
+           
+          V
+          O
+        
+      
+    
+    {\displaystyle \mathrm {V_{2}O_{3}+V\longrightarrow 3\ VO} }
+  
+
+
+== Eigenschaften ==
+Vanadium(II)-oxid ist ein geruchloses graues Pulver und hat einen Homogenitätsbereich von VO0,86 bis VO1,25. Nach verschiedenen Autoren besteht es wahrscheinlich aus zwei benachbarten Phasen VO0,86 bis VO0,91 und VO1,05 bis VO1,25. Es besitzt eine Kristallstruktur vom Natriumchlorid-Typ (a = 402,7–413,8 pm), also eine kubische Kristallstruktur mit der Raumgruppe Fm3m (Raumgruppen-Nr. 225)Vorlage:Raumgruppe/225. Es ist löslich in Säuren, wobei sich V(H2O)62+ Ionen bilden, die die Lösung violett färben. Diese Lösungen wirken als starke Reduktionsmittel, wobei sich die Ionen an Luft schnell zu V(H2O)63+ Ionen umsetzen, was an einem Farbumschlag der Lösung zu grün sichtbar ist.
+
+
+== Einzelnachweise ==

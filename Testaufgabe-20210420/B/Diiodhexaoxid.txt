@@ -1,0 +1,221 @@
+Diiodhexaoxid ist eine anorganische Verbindung, die als Iodoxid zu den Halogenoxiden gehört.
+
+
+== Darstellung ==
+Die Darstellung von Diiodhexaoxid kann durch vielfältige Wege erfolgen. Möglich ist die Entwässerung von Periodsäure mittels konzentrierter Schwefelsäure:
+
+  
+    
+      
+        
+          
+            H
+            
+              5
+            
+          
+          I
+          
+            O
+            
+              6
+            
+          
+           
+          
+            
+              →
+              
+                
+                  −
+                  
+                    H
+                    
+                      2
+                    
+                  
+                  O
+                
+              
+              
+                
+                  H
+                  
+                    2
+                  
+                
+                S
+                
+                  O
+                  
+                    4
+                  
+                
+              
+            
+          
+           
+          
+            I
+            
+              2
+            
+          
+          
+            O
+            
+              6
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{5}IO_{6}\ {\xrightarrow[{-H_{2}O}]{H_{2}SO_{4}}}\ I_{2}O_{6}} }
+  .Alternativ kann die Darstellung durch Reaktion von Periodsäure mit Iodsäure mit Schwefelsäure erfolgen.
+
+  
+    
+      
+        
+          
+            HIO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              5
+            
+            
+              
+            
+          
+          
+            IO
+            
+              6
+            
+            
+              
+            
+          
+          ⟶
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              6
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {HIO3 + H5IO6 -> I2O6 + 3H2O}}}
+  Die thermische Zersetzung von meta-Periodsäure im Vakuum führt ebenfalls zur Darstellung von Diiodhexaoxid.
+
+
+== Eigenschaften ==
+Unter 100 °C kann Diiodhexaoxid stabil unter Feuchtigkeitsausschluss gelagert werden. Beim Lösen in Wasser findet eine exotherme Reaktion zu Iod- und Periodsäure statt.
+Bei Erhitzen über 150 °C kann die Zersetzung in Diiodpentoxid beobachtet werden;
+
+  
+    
+      
+        
+          2
+          
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              6
+            
+            
+              
+            
+          
+          
+            
+              →
+              
+                Δ
+                T
+              
+            
+          
+          2
+          
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2I2O6 ->[\Delta T] 2I2O5 + O2}}}
+  .Die Verbindung ist diamagnetisch, was auf die unterschiedlichen Oxidationszahlen der Iodatome zurückgeführt wird. Als Festkörper kristallisiert die Verbindung in der Raumgruppe P1 (Raumgruppen-Nr. 2)Vorlage:Raumgruppe/2 mit den Gitterkonstanten a = 500,6 pm, b = 674,1 pm, c = 679,5 pm, α = 97.1°, β = 96.43°, γ = 105.36° mit einer Formeleinheit pro Elementarzelle.
+
+
+== Einzelnachweise ==

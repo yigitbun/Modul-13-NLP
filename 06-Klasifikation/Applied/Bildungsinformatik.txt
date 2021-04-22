@@ -1,0 +1,19 @@
+Die Bildungsinformatik beschäftigt sich mit Grundlagen, Methoden und Anwendungen von Informationstechnik in der Bildungswissenschaft. Sie hat ihre Wurzeln einerseits in der Informatik und Informationswissenschaft, andererseits der empirischen Bildungsforschung. Durch diese Verbindung wiederum gibt es mittelbare Verbindungen zur Pädagogik und zur Pädagogischen Psychologie. 
+Aufgabe und Ziel der Bildungsinformatik ist es, durch Anwendung von Methoden der Kerninformatik, einerseits ein interdisziplinäres Teilgebiet der Informatik, andererseits eine eigenständige wissenschaftliche Querschnittsdisziplin zu etablieren, ähnlich wie die Wirtschaftsinformatik, die Bioinformatik und die Medizinische Informatik. Hierzu gehört u. a. Bildungstechnik mit dem Ziel der Verbesserung von Schul- und Unterrichtsqualität sukzessive in Bildungskontexte zu integrieren und Bildungstechnik (insbesondere digitale Medien) als didaktisch wertvolle Lehr- und Lernwerkzeuge zu etablieren. Dies ist ein Prozess, in dem die Wirksamkeit technischer Werkzeuge mit dem Ziel stetiger Verbesserung evaluiert werden muss. Da die Disziplingrenzen der Informatik, Medienpädagogik und Lernpsychologie hierfür zu eng sind, ist eine interdisziplinäre Sichtweise auf das Lehren und Lernen mit digitalen Medien nötig. Dies ist eines der Ziele des interdisziplinären Feldes der Bildungsinformatik. 
+
+
+== Anfänge ==
+Zu Beginn des Jahrtausends wurde die Bildungsinformatik im deutschsprachigen Raum genutzt, um Erkenntnisse aus Lerntheorien für das Software Engineering zu nutzen und um die Virtualisierungsprozesse von Lehrveranstaltungen mit Softwarewerkzeugen zu unterstützen. Zudem umfassten die Aufgabenbereiche von Bildungsinformatikern Tätigkeiten in Bildungseinrichtungen und Unternehmen sowie in der Entwicklung nutzergerechte Einführung und Einsatz von Learning Management Systemen (LMS), Learning Content Management Systemen (LCMS) und Knowledge Management Systemen (KMS).In jüngerer Zeit ergeben sich für die Bildungsinformatik durch Anforderungen aus informellen Lernkontexten in der Wissensgesellschaft neue Perspektiven und Anwendungsmöglichkeiten. Insbesondere konzentriert sich die Bildungsinformatik auf Anwendungen wie Wikis, Blogs und soziale Netzwerke, die die traditionelle Bildung unterstützen und verändern.
+
+
+== Fragestellungen ==
+Zu den Fragestellungen der Bildungsinformatik gehört einerseits, wie Bildungstechnik und Bildungsmedien nach lehr- und lerntheoretischen Gesichtspunkten entwickelt, weiterentwickelt und evaluiert werden können und anderseits, wie bildungsrelevante Inhalte und Forschungsdaten in automatisierten Verfahren aufzufinden und computergestützt zu erstellen sind. Ein Aspekt dabei besteht darin, wie Inhalte mit Unterstützung von  Visualisierungstechniken so aufbereitet werden können, dass eine zu einer besseren Rezeption und Verbreitung bildungsrelevanter Themen gelingt.
+
+
+== Anwendungsbereiche ==
+Anwendungsbereiche der Bildungsinformatik zielen darauf ab, Bildungstechnik unter Einbezug erziehungswissenschaftlich-didaktischer und lehr-lern-theoretischer Perspektive zu entwickeln, weiterzuentwickeln oder wissenschaftlich zu evaluieren. 
+Weitere Anwendungsszenarien befassen sich mit der Aufgabe Online-Suchverfahren intelligenter zu gestalten, Instrumente zur Analyse des Nutzungsverhaltens im Internet zu verbessern und virtuelle Forschungsumgebungen für die Bildungsforschung einzusetzen.
+Weitere Anwendungen der Bildungsinformatik im Bereich „Open Educational Resources“ unterstützen Nutzer dabei, bildungsrelevante Inhalte auszuwählen, zu bewerten und zu sinnvollen Lerneinheiten zusammenzustellen.
+
+
+== Fußnoten ==

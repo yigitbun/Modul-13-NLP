@@ -1,0 +1,196 @@
+Molybdän(VI)-oxid ist eine pulverförmige farblose Verbindung, die beim Rösten vieler Molybdänverbindungen zurückbleibt.
+
+
+== Geschichte ==
+1778 gelang es Carl Wilhelm Scheele aus Molybdänglanz durch Behandlung mit Salpetersäure Molybdän(VI)-oxid herzustellen. 1782 reduzierte Peter Jacob Hjelm das Oxid mit Kohle zum elementaren Molybdän.
+
+
+== Vorkommen ==
+In der Natur kommt es in Form des seltenen Minerals Molybdit vor.
+
+
+== Gewinnung und Darstellung ==
+Molybdän(VI)-oxid wird industriell durch Oxidation von Molybdän(IV)-sulfid gewonnen:
+
+  
+    
+      
+        
+          2
+           
+          M
+          o
+          
+            S
+            
+              2
+            
+          
+          +
+          7
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          M
+          o
+          
+            O
+            
+              3
+            
+          
+          +
+          4
+           
+          S
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ MoS_{2}+7\ O_{2}\longrightarrow 2\ MoO_{3}+4\ SO_{2}} }
+  Im Labor kann es auch durch Reaktion von Ammoniumheptamolybdat und Salpetersäure bzw. aus Natriummolybdat und Perchlorsäure gewonnen werden, wobei jeweils Molybdän(VI)-oxid-dihydrat entsteht:
+
+  
+    
+      
+        
+          N
+          
+            a
+            
+              2
+            
+          
+          M
+          o
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          2
+           
+          H
+          C
+          l
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          M
+          o
+          
+            O
+            
+              3
+            
+          
+          ⋅
+          2
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          2
+           
+          N
+          a
+          C
+          l
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Na_{2}MoO_{4}+H_{2}O+2\ HClO_{4}\longrightarrow MoO_{3}\cdot 2H_{2}O+2\ NaClO_{4}} }
+  Das entstehende Dihydrat wandelt sich leicht in das Monohydrat um. Beide Hydrate haben in reinem Zustand eine hellgelbe Farbe. Oberhalb von 450 °C setzten sich diese zum Anhydrid um.
+
+
+== Eigenschaften ==
+
+Molybdän(VI)-oxid liegt als weißes Pulver vor, das sich beim Erhitzen gelb färbt und nach dem Erkalten wieder farblos wird. Es hat die Verhältnisformel MoO3, einen Schmelzpunkt von 795 °C und einen Siedepunkt von 1155 °C. Molybdän(VI)-oxid ist in Wasser schwerlöslich, geht jedoch in alkalischer Lösung in Molybdat-Ionen MoO42− über. In verdünnter Lösung kann man dieses durch Ansäuern in die Molybdänsäure H2MoO4 überführen.
+Es hat einen relativ hohen Dampfdruck. Es sublimiert deshalb ab ca. 700 °C merklich, wobei sich glänzend-farblose kristalline Flitter bilden.Molybdän(VI)-oxid besitzt eine orthorhombische Kristallstruktur. Es besteht aus Schichten von verzerrten MoO6-Oktaedern in einem orthorhombischen Kristall. Die Oktaeder sind an den Kanten verbunden und bilden Ketten, die über Sauerstoff-Atome verbunden sind und Schichten bilden.
+
+
+== Verwendung ==
+Molybdän(VI)-oxid ist der Ausgangsstoff für die Synthese der meisten anderen Molybdänverbindungen, es dient als Emaillezusatz und zur Herstellung von reinem Molybdän (z. B. durch Reduktion mit Wasserstoff).
+
+  
+    
+      
+        
+          M
+          o
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          ⟶
+          M
+          o
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {MoO_{3}+3\ H_{2}\longrightarrow Mo+3\ H_{2}O} }
+  Es ist auch ein Katalysator (Molybdäntrioxid-Pulver auf Aluminiumoxid) für Hydroformier-, Alkylierungs-, Entschwefelungs- und Crackprozesse in der Petrochemie und bei der Herstellung von Acrylnitril.
+
+
+== Sicherheitshinweise ==
+Die IARC stufte Molybdän(VI)-oxid im Jahr 2017 als möglicherweise krebserzeugend ein.
+
+
+== Einzelnachweise ==

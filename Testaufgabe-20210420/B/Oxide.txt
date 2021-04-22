@@ -1,0 +1,205 @@
+Oxide (auch allgemeinsprachlich Oxyde; von griech. ὀξύς, oxýs ‚scharf‘, ‚spitz‘, ‚sauer‘) sind Sauerstoff-Verbindungen eines Elements, in denen dieser die Oxidationszahl −II hat. Die meisten Oxide entstehen, wenn brennbare Stoffe mit Sauerstoff reagieren (Ursprung des Wortes Oxidation): Bei ihrer Oxidation geben sie Elektronen an das Oxidationsmittel Sauerstoff ab, so dass Oxide gebildet werden.Grundsätzlich gilt, dass jede Verbindung eines Elementes mit Sauerstoff als Oxid bezeichnet wird. Eine Ausnahme bilden die Sauerstoff-Fluor-Verbindungen. Da der Sauerstoff in diesen eine positive Oxidationszahl besitzt und das Fluor die negative Oxidationszahl, heißen diese Verbindungen nicht Fluoroxide, sondern Sauerstofffluoride.
+Je nach Bindungspartner unterscheidet man in der Chemie zwei Stoffgruppen von Oxiden:
+
+Metalloxide (diese sind ionische (salzartige) oder kovalent gebundene Oxide; Oxide unedler Metalle reagieren mit Wasser zu Basen und bilden Laugen),
+Nichtmetalloxide (diese sind molekular, meist leicht flüchtig und reagieren mit Wasser zu Säuren)Entsprechend ihrer stöchiometrischen Zusammensetzung unterscheidet man Monoxide, Dioxide, Trioxide, Tetroxide, Pentoxide, so bei Kohlenmonoxid, Chlordioxid und Schwefeltrioxid. Der überwiegende Teil der Erdkruste und des Erdmantels besteht aus Oxiden (vor allem aus Siliciumdioxid (Quarz) und hiervon abgeleiteten Salzen, den Silikaten sowie Aluminiumoxid). Auch Wasser gehört zur Stoffgruppe der Oxide. Ethylenoxid ist ein Beispiel für ein organisches Oxid.
+
+
+== Herstellung ==
+Oxide werden hergestellt durch:
+
+Erhitzen von Hydroxiden und Oxidhydraten (Beispiel: Kupfer(II)-hydroxid wird zu Kupfer(II)-oxid und Wasserdampf, Rost wird zu Eisenoxiden und Wasserdampf),
+Erhitzen von Salzen mit flüchtigen Anhydriden (Beispiel: das Brennen von Kalk / Calciumcarbonat zu Calciumoxid, Erhitzen von Kupfer(II)-nitrat zu Kupfer(II)-oxid und nitrosen Gasen)
+Reaktion von Elementen mit Sauerstoff (Oxidation im engeren Sinne, früher auch als Oxygenierung bezeichnet).Das oben abgebildete schwarze Kupfer(II)-oxid kann also z. B. durch folgende Reaktionen synthetisiert werden:
+
+  
+    
+      
+        
+          2
+          
+          Cu
+          
+            
+              (
+              
+                NO
+                
+                  3
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          CuO
+          +
+          4
+          
+          
+            NO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 Cu(NO3)2 -> 2 CuO + 4 NO2 + O2}}}
+  
+
+  
+    
+      
+        
+          
+            CuCO
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          CuO
+          +
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CuCO3 -> CuO + CO2}}}
+  
+
+  
+    
+      
+        
+          Cu
+          
+            
+              (
+              OH
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          CuO
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {Cu(OH)2 -> CuO + H2O}}}
+  Ferner ließe sich das rote Kupfer(I)-oxid durch Sauerstoff in schwarzes Kupfer(II)-oxid umwandeln. Auch beim Rösten sulfidischer Kupfererze wird Kupfer(II)-oxid hergestellt, indem man Kupfer(II)-sulfid an Luft oder im Sauerstoffstrom glüht (Nebenprodukt Schwefeldioxid).
+Wie leicht ein Metall ein Oxid bildet, hängt von der Elektronegativität und Sauerstoffaffinität des Elementes ab. Je unedler ein Metall, desto heftiger kann es im Allgemeinen mit Sauerstoff reagieren und Oxide bilden. Daneben hängt die Reaktivität auch von der Passivierung eines Elementes ab, da bei vielen Elementen eine dicht haftende Oxidschicht die weitere Reaktion verhindert. Nur wenn diese sauerstoffdurchlässig ist oder entfernt wird, kann das Metall weiterreagieren.
+
+
+== Eigenschaften der Oxide ==
+Es gibt – eingeteilt nach ihrer Reaktion mit Wasser – saure, basische, amphotere und indifferente Oxide
+Amphotere Oxide und Hydroxide haben die Eigenschaft, je nach Reaktionspartner sauer und basisch reagieren zu können (vgl. unter Säure-Base-Reaktion). Sie reagieren mit Säuren und mit Basen zu Salzen.
+Metalloxide sind salzartig (ionisch), Oxide unedler Metalle reagieren mit Wasser zu Basen und Laugen.
+Nichtmetalloxide sind molekular und reagieren mit Wasser zu Säuren,
+Indifferente Oxide reagieren nicht mit Wasser; dies sind beispielsweise Kohlenstoffmonoxid (CO), Distickstoffmonoxid N2O und Stickstoffmonoxid NO.Oxide edlerer Metalle werden zwecks Reaktion mit Wasser daher oft über einen Umweg als Salze in Hydroxide verwandelt: Kupfer(II)-oxid kann z. B. in konz. Salzsäure zu Kupfer(II)-chlorid gelöst werden. Dieses bildet mit Natronlauge Kupfer(II)-hydroxid, welches wie oben angegeben durch Erhitzen in Kupfer(II)-oxid umgewandelt werden kann.
+Hydroxide sind flockige Niederschläge, die oft charakteristische Färbungen aufweisen (Kupfer(II)-hydroxid hellblau, Nickel(II)-hydroxid apfelgrün, Chrom(III)-hydroxid graugrün, Mangan(II)-hydroxid rosa und an Luft infolge von Oxidation braun werdend, Cobalt(II)-hydroxid blau oder rosa, Eisen(III)-hydroxid rostbraun, Eisen(II)-hydroxid graugrün).
+
+
+== Oxid-Ion und Hydroxid-Ion ==
+
+Das den Metalloxiden zugrunde liegende O2−-Ion entsteht bei der Redoxreaktion des Oxidationsmittels Sauerstoff mit einem Metall. Es ist nur in Schmelzen und in Kombination mit Kationen (in Form von Salzen) existent, nicht jedoch als freies Ion, denn es ist eine extrem starke Base und wird somit in wässriger Lösung quantitativ zum Hydroxid-Ion protoniert (Säure-Base-Reaktion). Metall-Hydroxide enthalten das OH−-Ion und werden meistens aus Salzlösungen und Laugen gewonnen.
+In Nichtmetalloxiden liegt in der Regel kein Oxid-Anion vor, da Nichtmetalle untereinander eine kovalente Bindung eingehen. Das dem Oxidion ähnelnde Peroxidion weist eine Oxidationszahl von −I statt −II auf, da hier zwei Sauerstoffatome miteinander verbunden sind. Nichtmetalloxide reagieren mit Wasser zu Säuren (mit Oxo-Anionen wie Sulfat, Carbonat usw.). Sie sind somit als Hydroxide von saurem Charakter anzusehen.
+
+
+== Das Bindungsvermögen des Sauerstoffs ==
+Sauerstoff ist ein starkes Oxidationsmittel und bildet mit fast allen Elementen isolierbare Oxide, mit Ausnahme der Edelgase Helium, Neon, Argon, Krypton und des Halogens Fluor (Fluor nimmt hierbei eine Sonderstellung ein, weil zwar die Sauerstoffverbindungen OF2, O2F2 und O4F2 darstellbar sind, diese Stoffe aber wegen der höheren Elektronegativität des Fluors nicht als Fluoroxide, sondern als Sauerstofffluoride bezeichnet werden).
+Sauerstoff bildet neben Oxiden auch Oxo-Anionen: Hier haben sich mehrere Sauerstoffatome an ein Atom gebunden, welches zumeist die höchstmögliche Oxidationszahl aufweist (Beispiele: Phosphat, Sulfat, Chromat, Permanganat, Nitrat, Carbonat). Sie entstehen in der Regel, wenn Nichtmetall- und Nebengruppenmetall-Oxide mit sehr hoher Oxidationszahl mit Wasser zu Säuren reagieren.
+Zudem existieren Sauerstoff-Sauerstoff-Verbindungen wie z. B. im Bleichmittel Wasserstoffperoxid (s. o.). Anorganische Peroxide sind stark ätzend und oxidierend, organische Peroxide in der Regel explosiv.
+
+
+== Verwendung ==
+Natürliche Metalloxide dienen als Erze zur Metallgewinnung. Ihnen wird durch Verhüttung – beispielsweise mittels Kohlenstoff (Hochofenprozess) – der Sauerstoff entzogen und so das reine Metall gewonnen.Metalloxide wurden schon in der Steinzeit als Pigmente benutzt und auch Erdpigmente genannt.Eine weitere Anwendung in der neueren Zeit ist die Verwendung als Isolator in der Informationstechnik.
+
+
+== Einzelne Oxide und weitere Sauerstoff-Verbindungen ==
+
+
+=== Bekannte Oxide ===
+Aluminiumoxid (ein weißer, leicht basischer Feststoff)
+Bleioxid (hier gibt es ein gelbes und ein schwarzbraunes Oxid sowie ein Mischoxid, Mennige genannt)
+Calciumoxid (Gebrannter Kalk, ätzend, stark basisch)
+Dihydrogen(mono)oxid, Diwasserstoffmonoxid (Wasser)
+Eisenoxide wie Eisen(III)-oxid oder Rost
+Kohlenstoffdioxid (bildet mit Wasser Kohlensäure)
+Kohlenstoffmonoxid (toxisch, farb- und geruchlos, brennbar)
+Kupferoxid (hier gibt es rotes Kupfer(I)-oxid und schwarzes Kupfer(II)-oxid)
+Magnesiumoxid (Magnesia, ein weißes, basisches Pulver)
+Phosphorpentoxid (bildet mit Wasser Phosphorsäure)
+Schwefeldioxid (säuerlicher Geruch, mit saurer Reaktion in Wasser löslich)
+Schwefeltrioxid (bildet mit Wasser Schwefelsäure)
+Siliciumdioxid (Quarz, bildet mit Wasser u. U. Kieselsäure)
+Stickoxide (zumeist braun gefärbt durch Stickstoffdioxid, kann u. U. weiterreagieren zu Salpetersäure)
+Zinkoxid (ein erdig-weißes, in Hitze hellgelbes Pulver)Sauerstoffverbindungen mit Sauerstoff in anderen Oxidationsstufen sind:
+
+Hyperoxide (−½),
+Ozonide (−1/3)
+Peroxide (−1) und
+Salze mit dem Dioxygenyl-Kation O2+ (+½).
+
+
+== Siehe auch ==
+Hydroxid
+Oxydul
+Verbrennung
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==

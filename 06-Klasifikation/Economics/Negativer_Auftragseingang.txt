@@ -1,0 +1,53 @@
+Beim negativen Auftragseingang verzeichnen Unternehmen mehr Stornierungen als neue Kundenaufträge oder Bestellungen.
+
+
+== Allgemeines ==
+Der Auftragseingang ist ein wichtiger Frühindikator für das künftige Produktions- und Absatzvolumen in einem Unternehmen. Steigt der Auftragseingang, werden auch die Umsatzerlöse steigen. Werden erteilte Aufträge oder Bestellungen durch die Auftraggeber jedoch storniert, entfällt die Produktion und entsprechend der Umsatzanteil und die Gewinnmarge hierfür. Eine gewisse Stornoquote wird stets einzuplanen sein, bei langlaufenden Verträgen wie in der Bauwirtschaft oder Versicherungswirtschaft ist sie besonders hoch. Dabei besitzt die Versicherungswirtschaft gegenüber der Industrie die Eigenheit, dass sie keinen Auftragseingang kennt; geschlossene Versicherungsverträge sind sofort bilanzwirksam, sodass sich Stornierungen unmittelbar auf den Versicherungsbestand auswirken. In der Industrie liegt beim negativen Auftragseingang die höchste Stornoquote vor, denn es gibt mehr Stornierungen als neue Aufträge.
+
+
+== Ermittlung ==
+Es kann eine seltene Situation eintreten, bei der die Stornierungen 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   größer sind als die neuen Auftragseingänge/Bestellungen 
+  
+    
+      
+        
+          A
+          
+            e
+          
+        
+      
+    
+    {\displaystyle A_{e}}
+  :
+
+  
+    
+      
+        S
+        >
+        
+          A
+          
+            e
+          
+        
+      
+    
+    {\displaystyle S>A_{e}}
+  ,das ist der negative Auftragseingang. Die Stornierungen betreffen lediglich die Auftragseingänge, so dass es nicht mehr Stornos geben kann als insgesamt Aufträge vorliegen. Kommt es nicht zum Storno, wird ein Auftragseingang automatisch zum Auftragsbestand, bei dem die Produktion oder Bearbeitung bereits begonnen hat.   
+
+
+== Folgen ==
+Der negative Auftragseingang stellt für Unternehmen eine kritische Situation dar, denn es ist absehbar, dass sich deswegen Kapazitätsauslastung, Produktionsvolumen, Umsatz und Gewinn deutlich verringern werden. Ursachen können in der Produktqualität, der langen Fertigungszeit, der Konkurrenz oder im Kundenverhalten liegen. 
+
+
+== Einzelnachweise ==

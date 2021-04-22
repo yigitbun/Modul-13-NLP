@@ -1,0 +1,30 @@
+Ein kognitives System ist ein digitales System mit Schnittstellen zwischen der digitalen Welt und der Umwelt, das Dinge wahrnehmen und verstehen kann sowie daraus Schlüsse ziehen und lernen kann. Kognitive Systeme sind in der Lage, selbstständig Lösungen für menschliche Aufgabenstellungen zu erarbeiten. Sie können mit anderen digitalen Systemen interagieren und kooperieren, Kontexte interpretieren und sind anpassungsfähig.
+
+
+== Funktionsweise ==
+
+Mit Sensoren, wie zum Beispiel Kameras, Mikrophonen oder Temperaturfühlern, können Signale aus der Umwelt detektiert werden. Für die Perzeption werden diese Signale durch die Kognition des Systems erkannt und in digitale Information umgewandelt. Diese Information kann dokumentiert werden und wird verarbeitet. Das Ergebnis der Deliberation kann ebenfalls dokumentiert werden und dient zur Steuerung und Ausführung („Exekution“) einer Aktion in der Umwelt mit Hilfe von Aktoren.
+Wenn es eine Rückkopplung zwischen den Aktoren und den Sensoren gibt, kann das kognitive System einen digitalen Regelkreis bilden.
+Typischerweise kommunizieren kognitive Systeme mit anderen Systemen, um Daten auszutauschen, zu verifizieren oder zu validieren. Durch Kooperation können mehrere Systeme gleichzeitig in der digitalen und realen Welt wirken. Menschen können über Mensch-Maschine-Schnittstellen mit kognitiven Systemen interagieren.
+Für die Implementation von kognitiven Systemen werden zum Beispiel neuronale Netze, Big Data oder maschinelles Lernen beziehungsweise Deep Learning eingesetzt.
+
+
+== Anwendungsbeispiele ==
+Kognitive Systeme werden in zunehmend vielen Bereichen eingesetzt und stellen beispielsweise die grundlegende Technologie für selbstfahrende Kraftfahrzeuge, intelligente persönliche Assistenten, die Industrie 4.0 und das Internet der Dinge dar. Ein typisches Merkmal solcher Systeme ist, dass sie in kurzer Zeit große Datenmengen verarbeiten können und in ein übergeordnetes System eingebettet sind („System von Systemen“). In diese Technologie wurden bis 2020 weltweit mehrere zehn Milliarden Euro investiert.
+Kognitive Systeme sollen zur Wertschöpfung bei der digitalen Transformation von Wirtschaftsprozessen beitragen. Sie sollen in Innovationsprozessen als Verstärker menschlicher Kreativität wirken und Unternehmen unterstützen, Produkte und Dienstleistungen zu verbessern.Für die Datenwissenschaften sind kognitive Systeme eine wesentliche Bereicherung für die Entwicklung von Methoden und automatischen Hypothesen. Sie werden in diesem Zusammenhang zum Beispiel beim Entwurf digitaler Zwillinge oder beim Prognostizieren von Ereignissen eingesetzt.
+
+
+== Anforderungen ==
+Kognitive Systeme sollen betriebssicher und zuverlässig sein. Es muss so gut wie möglich verhindert werden, dass diese Systeme zum Beispiel durch Cyberangriffe beeinflusst oder außer Funktion gesetzt werden können. Die Mensch-Maschine-Schnittstellen der Systeme sollen gebrauchstauglich sein, und Menschen dürfen nicht gefährdet werden.Da bei der Datenverarbeitung durch kognitive Systeme sehr viele Daten anfallen, die unter Umständen temporär oder sogar dauerhaft gespeichert werden, lassen sich durch die Analyse der Daten häufig unvermutete Rückschlüsse ziehen. Daher müssen gegebenenfalls datenschutzrechtliche Aspekte berücksichtigt werden. Anwender müssen über die Nutzung der Daten durch Dritte entsprechend informiert werden und müssen dann die Kontrolle über die Nutzung dieser Daten haben.
+
+
+== Abgrenzung ==
+Kognitive Systeme können Verfahren der künstlichen Intelligenz einsetzen, sind jedoch damit nicht gleichzusetzen.Der Oberbegriff für die Gesamtheit aller IT-Infrastrukturen, Technologien, Softwarelösungen und Algorithmen, aus denen kognitive Systeme zusammengesetzt sind, lautet cognitive computing. Damit können kognitive Dienstleistungen (englisch: cognitive services) erbracht werden.
+
+
+== Weblinks ==
+Big Data, Analytics und Cognitive Computing – Warum kognitive Systeme wichtig werden. Computerwoche, 9. August 2016.
+Thomas W. Frick: Kognitive Systeme in Industrie und Gesellschaft – Möglichkeiten und Perspektiven. industrie-wegweiser.de, 28. März 2019.
+
+
+== Einzelnachweise ==

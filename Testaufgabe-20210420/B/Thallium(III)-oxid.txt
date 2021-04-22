@@ -1,0 +1,94 @@
+Thallium(III)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide des Thalliums.
+
+
+== Vorkommen ==
+Thallium(III)-oxid kommt natürlich in Form des sehr seltenen Minerals Avicennit vor.
+
+
+== Gewinnung und Darstellung ==
+Thallium(III)-oxid kann durch Reaktion von Thallium(I)-nitrat mit Kalilauge und Chlor gewonnen werden, wobei dabei das rotbraune Thallium(III)-oxidhydrat mit der ungefähren Zusammensetzung Tl2O3·1,47 H2O entsteht, welches durch Vakuumexsikkation in die wasserfreie Form überführt werden kann.
+
+  
+    
+      
+        
+          2
+           
+          T
+          l
+          N
+          
+            O
+            
+              3
+            
+          
+          +
+          6
+           
+          K
+          O
+          H
+          +
+          2
+           
+          C
+          
+            l
+            
+              2
+            
+          
+          ⟶
+          T
+          
+            l
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          2
+           
+          K
+          N
+          
+            O
+            
+              3
+            
+          
+          +
+          4
+           
+          K
+          C
+          l
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ TlNO_{3}+6\ KOH+2\ Cl_{2}\longrightarrow Tl_{2}O_{3}+2\ KNO_{3}+4\ KCl+3\ H_{2}O} }
+  
+
+
+== Eigenschaften ==
+Thallium(III)-oxid ist ein brauner bis schwarzer (je nach Darstellungsbedingungen) Feststoff, welcher in Wasser unlöslich ist. Er besitzt eine Defektstruktur vom Calciumfluorid-Typ (a = 10,543 Å). Über 500 °C und 65 kBar nimmt es eine Kristallstruktur vom Korund-Typ an. Im Gegensatz zum "isoelektronischen" Blei(IV)-oxid ist Thallium(III)-oxid ein nur mäßiges Oxidationsmittel und zerfällt erst bei hoher Temperatur zu Thallium(I)-oxid und Sauerstoff.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,408 @@
+Kupfer(I)-oxid ist eine chemische Verbindung, die Kupfer und Sauerstoff enthält. In diesem Oxid mit der Summenformel Cu2O ist Kupfer einwertig. Kupfer(I)-oxid ist ein gelber bis rotbrauner Feststoff und wird beim Erhitzen schwarz, nimmt jedoch nach dem Abkühlen wieder seine ursprüngliche Farbe an.
+
+
+== Vorkommen ==
+In der Natur kommt Kupfer(I)-oxid als das Mineral Cuprit vor. Cuprit entsteht bei der Verwitterung von Kupfersulfiden und findet sich daher üblicherweise in oxidierten Teilen von Kupfervorkommen.
+
+
+== Gewinnung und Darstellung ==
+Kupfer(I)-oxid kann durch die Reduktion von Kupfer(II)-oxid mit metallischem Kupfer bei erhöhter Temperatur in einer Komproportionierungsreaktion oder durch die thermische Zersetzung von Kupfer(II)-oxid bei Temperaturen über 800 °C hergestellt werden. Kupfer(I)-oxid bildet sich zusammen mit Kupfer(II)-oxid beim Erhitzen von metallischem Kupfer auf Rotglut an Luft.
+
+  
+    
+      
+        
+          C
+          u
+          O
+          +
+          C
+          u
+          ⟶
+          C
+          
+            u
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {CuO+Cu\longrightarrow Cu_{2}O} }
+  
+  
+    
+      
+        
+          4
+           
+          C
+          u
+          O
+          ⟶
+          2
+           
+          C
+          
+            u
+            
+              2
+            
+          
+          O
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ CuO\longrightarrow 2\ Cu_{2}O+O_{2}} }
+  Kupfer(I)-oxid kann auch durch die Reduktion von Kupfer(II)-salzen in alkalischer Lösung oder durch die Reduktion von Kupfer(II)-hydroxid hergestellt werden. Geeignete Reduktionsmittel sind beispielsweise Hydrazin und Aldehyde. Die Reduktion von Kupfer(II)-salzen wird in der organischen Chemie zum Nachweis von reduzierenden Zuckern mit der Fehling-Probe angewandt.
+
+  
+    
+      
+        
+          2
+           
+          C
+          
+            u
+            
+              2
+              +
+            
+          
+          +
+          R
+          
+            −
+          
+          C
+          H
+          O
+          +
+          4
+           
+          O
+          
+            H
+            
+              −
+            
+          
+          ⟶
+           
+        
+      
+    
+    {\displaystyle \mathrm {2\ Cu^{2+}+R{-}CHO+4\ OH^{-}\longrightarrow \ } }
+   
+  
+    
+      
+        
+          C
+          
+            u
+            
+              2
+            
+          
+          O
+          +
+          R
+          
+            −
+          
+          C
+          O
+          O
+          H
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Cu_{2}O+R{-}COOH+2\ H_{2}O} }
+  Kupfer(I)-oxid kann durch die Reaktion von Kupfer(I)-chlorid oder Kupfer(I)-iodid mit Alkalihydroxiden hergestellt werden.
+
+  
+    
+      
+        
+          2
+           
+          C
+          u
+          C
+          l
+          +
+          2
+           
+          N
+          a
+          O
+          H
+          ⟶
+          C
+          
+            u
+            
+              2
+            
+          
+          O
+          +
+          2
+           
+          N
+          a
+          C
+          l
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ CuCl+2\ NaOH\longrightarrow Cu_{2}O+2\ NaCl+H_{2}O} }
+  
+
+
+== Eigenschaften ==
+
+Kupfer(I)-oxid ist ein je nach Teilchengröße gelbes bis rotes Pulver und praktisch unlöslich in Wasser. Dagegen ist es in verdünnten Säuren löslich. Kupfer(I)-oxid ist unter Komplexbildung in Ammoniak oder Ammoniakwasser löslich. Der gebildete [Cu(NH3)2]+-Komplex ist, im Gegensatz zum [Cu(H2O)4]+-Komplex stabil. Letzterer disproportioniert in Cu und [Cu(H2O)6]2+.
+Feuchtes Kupfer(I)-oxid wird an der Luft leicht zu blauem Kupfer(II)-hydroxid oxidiert. Trockenes Kupfer(I)-oxid reagiert dagegen nicht.
+
+  
+    
+      
+        
+          2
+           
+          C
+          
+            u
+            
+              2
+            
+          
+          O
+          +
+          4
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          4
+           
+          C
+          u
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Cu_{2}O+4\ H_{2}O+O_{2}\longrightarrow 4\ Cu(OH)_{2}} }
+  Kupfer(I)-oxid wird bei erhöhter Temperatur durch Wasserstoff zu metallischem Kupfer reduziert.
+
+  
+    
+      
+        
+          C
+          
+            u
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          C
+          u
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Cu_{2}O+H_{2}\longrightarrow 2\ Cu+H_{2}O} }
+  Kupfer(I)-oxid reagiert mit verdünnter Schwefelsäure zu Kupfer(II)-sulfat und metallischem Kupfer (Disproportionierung).
+
+  
+    
+      
+        
+          C
+          
+            u
+            
+              2
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          C
+          u
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+          C
+          u
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Cu_{2}O+H_{2}SO_{4}\longrightarrow CuSO_{4}+Cu+H_{2}O} }
+  Kupfer(I)-oxid reagiert mit verdünnter Salpetersäure zu Kupfer(II)-nitrat und metallischem Kupfer (Disproportionierung).
+
+  
+    
+      
+        
+          C
+          
+            u
+            
+              2
+            
+          
+          O
+          +
+          2
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          C
+          u
+          (
+          N
+          
+            O
+            
+              3
+            
+          
+          
+            )
+            
+              2
+            
+          
+          +
+          C
+          u
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Cu_{2}O+2\ HNO_{3}\longrightarrow Cu(NO_{3})_{2}+Cu+H_{2}O} }
+  Es besitzt eine kubische Kristallstruktur mit der Raumgruppe Pn3m (Raumgruppen-Nr. 224)Vorlage:Raumgruppe/224, a = 4,268 Å, und eine Bildungsenthalpie von
+−170,3 kJ/mol.
+
+
+== Verwendung ==
+Kupfer(I)-oxid wird für fäulnishemmende Anstriche verwendet, beispielsweise für Unterwasserschiffsanstriche. Das in Lösung gehende Kupfer ist giftig für Algen und hemmt deren Ansatz auf den Schiffswänden. Daneben wird Kupfer(I)-oxid als Ausgangsstoff für die Herstellung von verschiedenen Kupferverbindungen genutzt. Weitere Anwendung findet es als Pigment zum Rotfärben von Glas und Emaille, zur Herstellung von Goldfluss, als Fungizid und als Katalysator.
+Kupfer(I)-oxid ist auch ein Halbleiter mit einer direkten Bandlücke von ca. 2 eV und wurde schon in den 1920er Jahren für den Bau von Gleichrichterdioden verwendet. Solche Kupferoxydul-Gleichrichter bestanden aus mit Cu2O beschichteten Kupferscheiben. Selen und später Germanium und Silicium haben Cu2O später als Halbleitermaterial verdrängt, jedoch werden bis heute Grundlagenuntersuchungen an Cu2O durchgeführt, weil in diesem Material sehr leicht Exzitonen angeregt werden können.
+Im November 2019 stellte die University of Waterloo (Kanada) ein Verfahren vor, bei dem Kupfer(I)-oxid als Katalysator für das "künstliche Blatt (artificial leaf)" dient. Dabei wird Kohlenstoffdioxid (CO2) in ein Gemisch aus Wasser und Kupfer(I)-oxid eingeleitet. Unter Bestrahlung mit sichtbarem Licht findet eine chemische Reaktion statt, bei der CO2 zu Sauerstoff und Methan reagiert. Mit diesem Prozess kann kostengünstig auf technischem Wege erneuerbares Methan als Alternative zu fossilem Brennstoff erzeugt werden.
+
+
+== Weblinks ==
+Mineralogische Daten zu Cuprit (englisch)
+
+
+== Einzelnachweise ==

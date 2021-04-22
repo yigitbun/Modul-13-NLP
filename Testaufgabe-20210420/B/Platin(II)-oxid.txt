@@ -1,0 +1,52 @@
+Platin(II)-oxid (auch Platinmonoxid) ist eines von mehreren Oxiden des chemischen Elementes Platin. Daneben existieren noch Platin(IV)-oxid und Platin(VI)-oxid.
+
+
+== Gewinnung und Darstellung ==
+Platin(II)-oxid lässt sich durch Erhitzen von Platin auf 430 °C in einer Sauerstoff-Atmosphäre mit erhöhten O2-Druck gewinnen. Platin(IV)-oxid zerfällt ab 400 °C zu Platin(II)-oxid und Sauerstoff.
+Es kann auch durch vorsichtiges Erhitzen von Platin(II)-hydroxid unter Abspaltung von Wasser gewonnen werden:
+
+  
+    
+      
+        
+          P
+          t
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+          ⟶
+          P
+          t
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Pt(OH)_{2}\longrightarrow PtO+H_{2}O} }
+  
+
+
+== Eigenschaften ==
+Platin(II)-oxid kristallisiert wie Palladium(II)-oxid nicht in einer Natriumchlorid-, sondern in einer Platinsulfid-Struktur. In dieser liegen kantenverknüpfte Quadrate einer PtO4-Struktur vor. Daneben sind die Platin- und Sauerstoffatome in Bändern angeordnet.
+Mit Ausnahme von Königswasser ist Platin(II)-oxid in Säuren unlöslich. Als starkes Oxidationsmittel wird es auch von schwachen Reduktionsmitteln wie Wasserstoff bei Raumtemperatur zum Element reduziert.
+Das durch Reaktion von Platin(II)-lösungen mit Natronlauge gebildete Platinmonoxid-hydrat lässt sich nicht ohne Sauerstoffabgabe zu Platin(II)-oxid dehydratisieren. Versucht man es unter Anwesenheit von Sauerstoff zu entwässern, bildet sich stattdessen ein Platin(III)-oxid-hydrat.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. Walter de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1, S. 1732–1734.

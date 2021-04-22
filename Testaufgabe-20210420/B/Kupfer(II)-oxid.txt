@@ -1,0 +1,332 @@
+Kupfer(II)-oxid (früher Kupferasche, Kupferrost, gebranntes Kupfer und Kupferhammerschlag oder Kupferschlag genannt) ist eine chemische Verbindung, die Kupfer und Sauerstoff enthält. In diesem Oxid mit der Summenformel CuO ist Kupfer zweiwertig. Kupfer(II)-oxid ist ein schwarzer, amorpher oder kristalliner Feststoff.
+
+
+== Vorkommen ==
+In der Natur kommt Kupfer(II)-oxid als das Mineral Tenorit vor. Tenorit entsteht bei der Verwitterung von Kupfersulfiden und findet sich daher üblicherweise in oxidierten Teilen von Kupfervorkommen. Das Mineral ist nach dem italienischen Botaniker Michele Tenore benannt.
+
+
+== Gewinnung und Darstellung ==
+Kupfer(II)-oxid kann durch thermische Zersetzung (Pyrolyse) von Kupfer(II)-nitrat oder basischem Kupfercarbonat dargestellt werden.
+
+  
+    
+      
+        
+          2
+           
+          C
+          u
+          (
+          N
+          
+            O
+            
+              3
+            
+          
+          
+            )
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          C
+          u
+          O
+          +
+          4
+           
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+           
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Cu(NO_{3})_{2}\longrightarrow 2\ CuO+4\ NO_{2}+\ O_{2}} }
+  
+  
+    
+      
+        
+          C
+          u
+          C
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          C
+          u
+          O
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CuCO_{3}\longrightarrow CuO+CO_{2}} }
+  Kupfer(II)-oxid kann auch durch Erwärmen von (frisch gefälltem) Kupfer(II)-hydroxid hergestellt werden. Das Kupfer(II)-hydroxid wird durch Zugabe von Alkalihydroxiden zu einer Cu(II)-Salzlösung ausgefällt.
+
+  
+    
+      
+        
+          C
+          u
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+          ⟶
+          C
+          u
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Cu(OH)_{2}\longrightarrow CuO+H_{2}O} }
+  
+  
+    
+      
+        
+          C
+          
+            u
+            
+              2
+              +
+            
+          
+          +
+          2
+           
+          O
+          
+            H
+            
+              −
+            
+          
+          ⟶
+          C
+          u
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+          ↓
+        
+      
+    
+    {\displaystyle \mathrm {Cu^{2+}+2\ OH^{-}\longrightarrow Cu(OH)_{2}\downarrow } }
+  Kupfer(II)-oxid bildet sich zusammen mit Kupfer(I)-oxid beim Erhitzen von metallischem Kupfer auf Rotglut an Luft.
+
+
+== Eigenschaften ==
+
+Kupfer(II)-oxid ist unlöslich in Wasser und Alkoholen. Dagegen ist es in verdünnten Säuren löslich. Durch Eindampfen können die entsprechenden Kupfer(II)-salze erhalten werden. Kupfer(II)-oxid ist unter Komplexbildung in Ammoniakwasser löslich.
+Kupfer(II)-oxid adsorbiert leicht Sauerstoff, Stickstoff, Kohlendioxid und andere Gase.
+Beim Erhitzen über etwa 800 °C wird Kupfer(II)-oxid unter Sauerstoffabgabe zu Kupfer(I)-oxid reduziert.
+
+  
+    
+      
+        
+          4
+           
+          C
+          u
+          O
+          ⟶
+          2
+           
+          C
+          
+            u
+            
+              2
+            
+          
+          O
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ CuO\longrightarrow 2\ Cu_{2}O+O_{2}} }
+  Werden metallisches Kupfer und Kupfer(II)-oxid zusammen erhitzt entsteht ebenfalls Kupfer(I)-oxid.
+
+  
+    
+      
+        
+          C
+          u
+          O
+          +
+          C
+          u
+          ⟶
+          C
+          
+            u
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {CuO+Cu\longrightarrow Cu_{2}O} }
+  Kupfer(II)-oxid wird bei erhöhter Temperatur durch verschiedene Reduktionsmittel (beispielsweise Kohlenstoff, Kohlenmonoxid, Wasserstoff) zu metallischem Kupfer reduziert.
+
+  
+    
+      
+        
+          2
+           
+          C
+          u
+          O
+          +
+          C
+          ⟶
+          2
+           
+          C
+          u
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ CuO+C\longrightarrow 2\ Cu+CO_{2}} }
+  
+  
+    
+      
+        
+          C
+          u
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          ⟶
+          C
+          u
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {CuO+H_{2}\longrightarrow Cu+H_{2}O} }
+  Beim Erhitzen von Kupfer(II)-oxid mit Fluorwasserstoff auf 400 °C wird Kupfer(II)-fluorid gebildet.
+
+  
+    
+      
+        
+          C
+          u
+          O
+          +
+          2
+           
+          H
+          F
+          ⟶
+          C
+          u
+          
+            F
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {CuO+2\ HF\longrightarrow CuF_{2}+H_{2}O} }
+  Es besitzt eine monokline Kristallstruktur mit der Raumgruppe C2/c (Raumgruppen-Nr. 15)Vorlage:Raumgruppe/15 (a = 4,683 Å, b = 3,423 Å, c = 5,129 Å, β =
+95,54°). Seine Bildungsenthalpie beträgt −155,8 kJ/mol.
+
+
+== Verwendung ==
+Kupfer(II)-oxid wird als Pigment zum Färben von Glas, Keramik, Porzellan und künstlichen Edelsteinen verwendet. Daneben findet es Anwendung als Kathodenmaterial in Batterien, als Katalysator, zur Entschwefelung von Erdöl und für fäulnishemmende Anstriche. Kupfer(II)-oxid wird auch als Ausgangsstoff für die Herstellung von verschiedenen Kupferverbindungen genutzt. Seit der Entdeckung der Supraleitung von Verbindungen von La2CuO4 (dotiert mit Strontium) und der nachfolgenden Entdeckung von weiteren über hundert ähnlichen Verbindungen, die zum größten Teil nicht ohne Kupfer und Sauerstoff auskommen, wird Kupfer(II)-oxid auch für die keramischen Supraleiter verwendet, die als zukunftsträchtige Materialien gelten.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,10 @@
+Der Begriff Programmabbruch (kurz Abbruch, englisch abort) bezeichnet in der Informatik das vorzeitige Ende eines Programmlaufs.
+Der Abbruch kann entweder durch eine Einflussnahme von außen veranlasst werden – beispielsweise als manueller Eingriff durch einen Systemadministrator –, durch einen Programmfehler oder ein Problem im Betriebssystem (beispielsweise Speichermangel). Ein durch einen Fehler verursachter Abbruch wird umgangssprachlich auch Absturz genannt. Das Betriebssystem liefert beim Programmabbruch oft diagnostische Information zur Ursache des Fehlers.
+
+
+== Literatur ==
+Hermann Engesser (Hrsg.): Duden „Informatik“. 2. Auflage. Dudenverlag, Mannheim 1993, ISBN 3-411-05232-5, S. 7. 
+
+
+== Weblinks ==
+abort im Free On-line Dictionary of Computing

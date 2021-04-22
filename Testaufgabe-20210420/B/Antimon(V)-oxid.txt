@@ -1,0 +1,159 @@
+Antimon(V)-oxid (Antimonpentaoxid) ist eine chemische Verbindung aus der Gruppe der Oxide des Antimons.
+
+
+== Gewinnung und Darstellung ==
+Antimon(V)-oxid wird durch Oxidation von Antimon oder Antimontrioxid, oder durch Calcinieren von Antimonnitrat gewonnen.
+Im Labor erfolgt die Darstellung über zwei mögliche Fällungsreaktionen:
+
+  
+    
+      
+        
+          2
+          
+          
+            HSbCl
+            
+              6
+            
+            
+              
+            
+          
+          +
+          5
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            Sb
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          12
+          
+          HCl
+        
+      
+    
+    {\displaystyle {\ce {2 HSbCl6 + 5 H2O -> Sb2O5 + 12 HCl}}}
+  oder
+
+  
+    
+      
+        
+          2
+          
+          
+            SbCl
+            
+              5
+            
+            
+              
+            
+          
+          +
+          5
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            Sb
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          10
+          
+          HCl
+        
+      
+    
+    {\displaystyle {\ce {2 SbCl5 + 5 H2O -> Sb2O5 + 10 HCl}}}
+  
+
+
+== Eigenschaften ==
+Die Kristallstruktur von Antimon(V)-oxid basiert auf oktaedrisch von Sauerstoff koordinierten Antimonatomen. Es liegt in Form eines weiß bis gelblichen Pulvers vor.
+Beim Erhitzen auf über 300 °C gibt das Oxid Sauerstoff ab und geht langsam in die Verbindung Antimon(III,V)-oxid (
+  
+    
+      
+        
+          
+            Sb
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Sb2O4}}}
+  ) über.
+
+
+== Verwendung ==
+Antimon(V)-oxid wird als Flammschutzmittel in Acrylnitril-Butadien-Styrol und anderen Kunststoffen verwendet. Weiterhin dient es bei der Produktion von Glas und Emaille (als Trübungsmittel) und wird bei Farben (z. B. Mischphasenoxidpigment und Antimonate wie Natriummetaantimonat) sowie Klebstoffen eingesetzt.
+
+
+== Einzelnachweise ==

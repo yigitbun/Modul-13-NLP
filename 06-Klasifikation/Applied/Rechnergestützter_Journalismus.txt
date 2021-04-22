@@ -1,0 +1,25 @@
+Rechnergestützter Journalismus ist die Nutzung von Computerprogrammen bei der Ausübung journalistischer Arbeitsschritte wie dem Sammeln und Organisieren von Informationen, Erstellen und Verbreiten von Nachrichten, wobei handwerkliche Standards der Genauigkeit und Überprüfbarkeit gewahrt bleiben. Dieser Bereich des Journalismus nutzt Bereiche der Informatik, Künstliche Intelligenz, Inhaltsanalyse, Visualisierung, Personalisierungs- und Empfehlungs-Systeme sowie Social Computing und Informationswissenschaft. Eine Anwendung ist der „Robo-Journalismus“, bei dem Schreibprogramme Sportergebnisse oder Wetterdaten mit Hilfe von Textbausteinen vollautomatisch zu Meldungen verarbeiten. Ein anderes Feld ist Datenjournalismus.
+
+
+== Geschichte ==
+Das Gebiet entstand 2006 am Georgia Institute of Technology mit einer Lehrveranstaltung von Irfan Essa. Im Februar 2008 veranstaltete Georgia Tech ein „Symposium on Computation and Journalism“, an dem mehrere hundert Forscher und Journalisten teilnahmen. Im Juli 2009 veranstaltete das Center for Advanced Study in the Behavioral Sciences (CASBS) an der Stanford University einen Workshop zum Thema.Seit 2012 bietet die Columbia University Graduate School of Journalism den Kurs „Frontiers of Computational Journalism“ für Studierende des Studienganges „dual degree in CS and journalism“. Der Kurs behandelt zahlreiche Informatik-Themen aus dem Blickwinkel der journalistischen Anwendung, darunter document vector space representation, algorithmische und soziale Auswahl von Geschichten (Empfehlungs-Algorithmen), Sprach-topic models, Informationsvisualisierung, Wissensrepräsentation und -verarbeitung, Soziale Netzwerkanalyse, quantitative und qualitative Schlussfolgerung, sowie Informationssicherheit. Die Knight Foundation förderte das Tow Center der Columbia University mit 3 Mio. US$, um den Studiengang Computational Journalism fortzusetzen.
+Syracuse University bietet seit 2015 einen „masters in computational journalism“; erklärtes Ziel ist es, die Absolventen darauf vorzubereiten "to be data journalists, able to work with big data sets to organize and communicate the compelling and important news stories that might be hidden in the numbers."An der Stanford University gibt es seit 2015 ein Computational Journalism Lab sowie eine Lehrveranstaltung zu Computational Journalism.2017 veröffentlichte Associated Press eine Handreichung für Redaktionen zum Einsatz künstlicher Intelligence und rechnergestützter Methoden, entwickelt von  Francesco Marconi.
+Am 8. September 2020 veröffentlichte  „The Guardian“ einen Kommentar, der von einem Bot verfasst wurde: GPT-3, ein Sprachgenerator der Firma OpenAI.
+
+
+=== Konferenzen zum Rechnergestützten Journalismus ===
+Im Februar 2013 veranstaltete das Georgia Institute of Technology das Computational Journalism Symposium erneut in Atlanta, GA.
+2014 und 2015 veranstaltete die Columbia University das Computation + Journalism Symposium.2016 veranstaltete die Stanford University das Computation + Journalism Symposium.Google News Lab lobte 2013 „Computational Journalism Research Awards“ aus, die 2014 verliehen wurden für Projekte von Irfan Essa, Susan McGregor, Paul Resnick und Ryan Thornburg. 20115 folgten Auszeichnungen für Projekte in Europa.
+
+
+== Weblinks ==
+Chapter on Computational Journalism in Handbook of Journalism Studies 2nd Ed.
+Columbia University Computational Journalism course
+DocumentCloud project
+Computational+Journalism courses at Georgia Tech
+A computational journalism reading list by Jonathan Stray of the Associated Press
+Communications of the ACM, October 2011, "Computational Journalism"
+How Artificial Intelligence Will Impact Journalism by Francesco Marconi of the Associated Press
+
+
+== Einzelnachweise ==

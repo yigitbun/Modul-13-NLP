@@ -1,0 +1,89 @@
+Germanium(II)-oxid ist eine anorganische chemische Verbindung des Germaniums aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Germanium(II)-oxid kann durch Reaktion von Germanium(IV)-oxid mit Phosphinsäure oder Germanium gewonnen werden.
+
+  
+    
+      
+        
+          G
+          e
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          G
+          e
+          O
+          +
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {GeO_{2}+H_{3}PO_{2}\longrightarrow GeO+H_{3}PO_{3}} }
+  
+
+  
+    
+      
+        
+          G
+          e
+          
+            O
+            
+              2
+            
+          
+          +
+          G
+          e
+          ⟶
+          2
+           
+          G
+          e
+          O
+        
+      
+    
+    {\displaystyle \mathrm {GeO_{2}+Ge\longrightarrow 2\ GeO} }
+  
+
+
+== Eigenschaften ==
+Germanium(II)-oxid ist ein gelber Feststoff, der beim Kochen unter Wasser braun wird. An Luft beginnt bei etwa 550 °C langsam die Oxidation. Er enthält meist einige Prozent Germanium(IV)-oxid und ist leicht oxidierbar. Das durch Reduktion von Germanium(IV)-oxid mit Germanium gewonnene Produkt ist kristallin und diamagnetisch.
+
+
+== Einzelnachweise ==

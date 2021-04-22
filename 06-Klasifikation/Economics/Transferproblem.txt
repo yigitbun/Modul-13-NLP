@@ -1,0 +1,42 @@
+Unter dem Begriff Transferproblem (Transfer lateinisch Übertragung, Überführung), werden Zahlungs-, Devisen- und Ausfallrisiken verstanden, die bei der Übertragung von Gütern, Dienstleistungen, Kapital, Devisen in Form von Export des Inlands an das Ausland oder die Zahlungen eines Landes an ein anderes auftreten. Das Transferproblem wurde nach den wirtschaftlichen Folgen des Ersten Weltkrieges wirtschaftstheoretisch erkannt und prägte in den 1920er Jahren die wissenschaftlichen Diskussionen zwischen John Maynard Keynes und Bertil Ohlin.
+
+
+== Allgemein ==
+Das Transferproblem wurde mit den Reparationszahlungen und dem wirtschaftlichen Zusammenbruch Deutschlands nach dem Ersten Weltkrieg erkannt.
+Es entwickelte sich die Transfertheorie mit 3 Mechanismen:
+
+Die klassischen Mechanismen
+Die Keynesianischen Mechanismen
+Die Neoklassischen MechanismenMan untersucht in der Transfertheorie die Wirkungen internationaler Kapitaltransfer- und Reparationszahlungen, internationale Anleihen sowie internationale finanzielle Schenkungen auf zentrale wirtschaftliche Größen der beteiligten Länder.
+Außerdem versteht man das Transferproblem als die Auswirkungen internationaler Transfers auf die Terms of Trade. Unter Terms of Trade (Handelskonditionen) versteht man das Verhältnis zwischen dem Wert der Exporte und dem Wert der Importe.
+
+Wenn der Exportpreis kleiner als der Importpreis ist, dann verschlechtern sich die Terms of Trade.
+Wenn der Exportpreis größer als der Importpreis ist, dann verbessern sich die Terms of Trade.
+
+
+== Monetärer Transfer ==
+Der monetäre Transfer heißt die Kapitalübertragung in Form von Anleihen und Reparationszahlungen an das Ausland.
+Beispiel: 
+
+Land A (Ausland) soll der Regierung des Landes B (Inland) eine Euro-Anleihe zur Verfügung stellen. Sofern Land A diese Anleihe nicht unmittelbar zum Kauf von Gütern des Landes B verwendet, kommt es zu folgendem Ergebnis: Die Devisennachfrage im Land A nimmt durch diese Kapitalimporte zu, wodurch der monetäre Transfer gelungen ist.
+Ein Geschäftsführer eines Unternehmens verkauft Firmenanteile im Wert von X an einen Ausländer und er nutzt die finanziellen Mittel zum Aufbau seiner Unternehmen. Es kommt zu dem Ergebnis: :Im Inland: Der Kapitalimport führt zu einer Erhöhung von Inlandseinkommen und einer Nachfragesteigerung der Investitionstätigkeit.Im Ausland steigt das Einkommen und zusätzlich der Zinssatz und die Zunahme des Kapitalverkehrs führt zu dem Devisenangebotüberschuss.
+
+
+== Realer Transfer ==
+Als der reale Transfer versteht man den Exportüberschuss von Gütern und Dienstleistungen oder die Veränderung der Exporte und Importe.
+Ganz einfach: Der Geschäftsführer benutzt das transferierte Geld, um Güter zu kaufen. Dann haben wir einen sogenannten realen Transfer.
+
+Das Transferproblem wird untersucht bei dem klassischen Mechanismus und ist das Verhältnis zwischen Import-, Export- und Gesamtausgabenänderung. Sinkt die Gesamtausgabenänderung, dann können die Ausgaben für Inlandsgüter bzw. für Auslandsgüter zurückgehen. Das Ergebnis ist der Rückgang der Inlandsimporte.Beispiel:Wenn das Inland A eine Transferzahlung X vornimmt, dann
+Im Inland A: Seine Staatsausgaben und sein Inlandsimport sinken und Inlandsexport steigt für die Auslandsinvestition.
+Im Ausland B: seine Staatsausgaben und sein Auslandsimport steigen und Auslandsexport sinkt beispiel für Konsum- und Investitionsgüter.Das Transferproblem wird untersucht bei dem Keynesschen Mechanismus und ist der Einfluss auf den Kapitalexport beider Länder. Besonders haben wir das Verhältnis zwischen Einkommen und den Import-, Exportpreis.Beispiel: Das Inland A nimmt eine Transferzahlung X vor.Dann:
+
+Im Inland A: sein Einkommen sinkt um X und seine Importe fallen um a.X
+Im Ausland B: sein Einkommen steigt um X und seine Importe steigen um b.XDas Transferproblem wird untersucht bei dem neoklassischen Mechanismus und ist die internationale Übertragung von Ressourcen. Beispiel: Land A transferiert die Maschinen bzw. maschinellen  Anlagen an Land B, oder die Unternehmen und öffentlichen Institutionen des Landes B nehmen die Anleihe des Landes A für den Kauf von Investitionsgütern auf.Im Rahmen des Transferproblems werden die direkten Auswirkungen eines Transfer auf die Nachfrageseite analysiert sowie die Frage, ob der monetäre Transfer einen Realtransfer zur Folge hat.Wenn X (Transferzahlung) = Export - Import, dann der Finanztransfer hat bei gegebenen Terms of Trade in gleicher Höhe einen Realtransfer zur Folge hat.
+Wenn X (Transferzahlung) > Export - Import, dann der Finanztransfer hat nicht einen Realtransfer zur Folge.
+
+
+== Literatur ==
+Gustav Fischer: Handwörterbuch der Wirtschaftswissenschaft-Band 8, Stuttgart 1988
+Klaus Rose und Karlhans Sauernheimer: Theorie der Außenwirtschaft, München Vahlen 2006, ISBN 3-8006-3287-X
+Manfred Borchert: Außenwirtschaftslehre, 7. Auflage Wiesbaden Gabler 2001, ISBN 3-409-63907-1
+Horst Siebert und Oliver Lorz: Außenwirtschaft, Stuttgart; Lucius&Lucius 2006, ISBN 3-8252-8081-0

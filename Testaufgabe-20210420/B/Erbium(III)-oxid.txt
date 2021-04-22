@@ -1,0 +1,117 @@
+Erbium(III)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide.
+
+
+== Geschichte ==
+Erbium(III)-oxid wurde 1843 teilweise (als Mischung mehrerer Lanthanoidoxide) isoliert durch Carl Gustaf Mosander und 1905 erstmals in reiner Form durch Georges Urbain und Charles James hergestellt.
+
+
+== Gewinnung und Darstellung ==
+Erbium(III)-oxid kann durch Verbrennung von Erbium an Luft gewonnen werden.
+
+  
+    
+      
+        
+          4
+           
+          E
+          r
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          E
+          
+            r
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ Er+3\ O_{2}\longrightarrow 2\ Er_{2}O_{3}} }
+  Es kann auch durch thermale Zersetzung von Erbiumsalzen wie Erbiumnitrat oder Erbiumoxalat gewonnen werden.
+
+  
+    
+      
+        
+          E
+          
+            r
+            
+              2
+            
+          
+          (
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              3
+            
+          
+          ⟶
+          2
+           
+          E
+          
+            r
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          6
+           
+          C
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Er_{2}(C_{2}O_{4})_{3}\longrightarrow 2\ Er_{2}O_{3}+6\ CO} }
+  
+
+
+== Eigenschaften ==
+
+Erbium(III)-oxid ist ein hygroskopisches pinkfarbenes Pulver, das unlöslich in Wasser ist. Es besitzt eine kubische Kristallstruktur. Eine interessante Eigenschaft ist die Photonen-Hochkonversion.
+
+
+== Verwendung ==
+Erbium(III)-oxid wird für die Färbung von Gläsern und Keramik verwendet. Da es in den entsprechenden Gläsern infrarotes Licht absorbiert, wird es für Schutzbrillen in der Glas- und Stahlindustrie eingesetzt. Es dient auch als Ausgangsmaterial zur Herstellung von reinem Erbium.
+
+
+== Einzelnachweise ==

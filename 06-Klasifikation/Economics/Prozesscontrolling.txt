@@ -1,0 +1,19 @@
+Prozesscontrolling bezeichnet die Planung und Kontrolle von Geschäftsprozessen sowie die dafür notwendige Informationsversorgung und Koordination.
+Schwerpunkt der Planung ist die Definition von Ziel- und Messgrößen der Geschäftsprozesse.
+Unter Kontrolle versteht man in diesem Kontext, anhand der definierten Messgrößen die Ist-Leistung von Geschäftsprozessen zu erfassen. Durch den Vergleich von Soll- und Ist-Werten werden Zielabweichungen und deren Ursachen festgestellt.
+Mit der Informationsversorgung ist die Bereitstellung von Informationen gemeint, die für die Steuerung der Geschäftsprozesse benötigt werden.
+Koordination bedeutet, Planung, Kontrolle und Informationsversorgung inhaltlich und zeitlich aufeinander abzustimmen und Maßnahmen zu koordinieren, um Zielabweichungen zu korrigieren.
+
+
+== Ziele ==
+Kernziel des Prozesscontrollings ist es, eine ständige Verbesserung der Prozesse zu erreichen. Hierunter fällt sowohl die Verbesserung der Effektivität der Geschäftsprozesse (Kundenzufriedenheit) als auch die Verbesserung der Effizienz der Geschäftsprozesse (Prozesszeit, Termintreue, Prozessqualität und Prozesskosten). Die Gewichtung der einzelnen Leistungsparameter hängt von den Erfolgsfaktoren, der jeweiligen Wettbewerbssituation und der verfolgten Wettbewerbsstrategie ab.
+
+
+== Abgrenzung ==
+Das laufende Prozesscontrolling kann durch regelmäßige Prozessaudits und/oder ein Prozessassessment ergänzt werden. Das Prozessaudit überprüft die Übereinstimmung der Geschäftsprozesse mit internen und externen Anforderungen. Hierbei sind die Anforderungen der DIN EN ISO 9001:2000 und DIN EN ISO 10011-1:1990 zu beachten. Beim Prozessassessment wird im Rahmen einer Selbstbewertung der Reifegrad eines Geschäftsprozesses oder des gesamten Prozessmanagements festgestellt, d. h. die Zweckmäßigkeit und Wirksamkeit der Prozessorganisation und des Prozesscontrollings.
+
+
+== Literatur ==
+Frank Ahlrichs, Thilo Knuppertz: Controlling von Geschäftsprozessen: prozessorientierte Unternehmenssteuerung umsetzen. Schäffer-Poeschel, Stuttgart 2010, ISBN 978-3-7910-2978-8. 
+Hermann J. Schmelzer: Ganzheitliches Geschäftsprozessmanagement erfolgreich umsetzen. In: Zeitschrift für Controlling und Management. Sonderheft 2, 2011, S. 69–79. 
+Hermann J. Schmelzer, Wolfgang Sesselmann: Controlling in Geschäftsprozessen: Erfahrungen und Empfehlungen aus der Praxis. In: krp-Kostenrechnungspraxis, Zeitschrift für Controlling, Accounting und System-Anwendungen. 45 Jg., Nr. 6, 2001, S. 329.

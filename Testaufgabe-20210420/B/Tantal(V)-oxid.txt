@@ -1,0 +1,26 @@
+Tantal(V)-oxid, Ta2O5, ist eine chemische Verbindung von Tantal und Sauerstoff und neben Tantal(II)-oxid und Tantal(IV)-oxid eines der bekannten Oxide des Tantals. Es ist optisch transparent.
+
+
+== Vorkommen ==
+Tantal(V)-oxid kommt in dem Mineral Columbit vor.
+
+
+== Gewinnung und Darstellung ==
+Tantal(V)-oxid kann durch chemische Transportreaktionen mit Tantal(V)-chlorid, Chlor, Chlorwasserstoff oder Schwefel gewonnen werden.
+
+
+== Eigenschaften ==
+Der Brechungsindex von Tantal(V)-oxid beträgt als optische Dünnschicht bei 500 nm Wellenlänge je nach verwendetem Beschichtungsverfahren zwischen 2,1 bis 2,15 (Elektronenstrahlverdampfen) und etwa 2,2 (Ionenstrahlsputtern). Das Material ist von etwa 350 nm bis ungefähr 8 µm Wellenlänge transparent.
+Tantal(V)-oxid ist ein farbloser Feststoff der in zwei Modifikationen auftritt, wobei die Tieftemperaturform T-Form bei 1360 °C reversibel in die oberhalb dieser Temperatur stabile H-Modifikation übergeht. Die T-Modifikation besitzt eine mit T-Niob(V)-oxid verwandte Kristallstruktur mit der orthorhombischen Subzelle, die durch seine chemische (Verunreinigungen mit Oxiden anderer Metalle) und strukturelle Variabilität aber sehr kompliziert ist. Er ist unlöslich in Säuren außer in Flusssäure.
+
+
+== Verwendung ==
+Eine wichtige Anwendung ist in der optischen Beschichtungstechnologie (PVD-Verfahren), wo es als hochbrechendes Material eingesetzt wird.
+In der Halbleitertechnologie wird Tantal(V)-oxid als sogenanntes High-k-Dielektrikum für On-Chip-Kondensatoren eingesetzt. Im Unterschied zum gewöhnlich verwendeten Siliciumdioxid (SiO2), das eine relative Permittivität von 3,9 besitzt, beträgt die relative Permittivität von Tantalpentoxid je nach Herstellungsverfahren zwischen 24 und 28. Die Oxidabscheidung erfolgt mittels Atomlagenabscheidung (Atomic Layer Deposition, ALD) oder Chemische Gasphasenabscheidung (Chemical Vapour Deposition, CVD). Bevorzugtes Basismaterial des Prozesses ist der flüchtige Tantalkomplex Pentakis(dimethylamino)tantal (Ta[HN(CH3)2]5), der über Tantalpentachlorid (TaCl5), einem wichtigen  Zwischenprodukt in der Tantalherstellung, zugängig ist.
+
+
+== Siehe auch ==
+Tantal-Elektrolytkondensator
+
+
+== Einzelnachweise ==

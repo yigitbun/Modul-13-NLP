@@ -1,0 +1,45 @@
+Unter Schnappschuss oder Fixpunkt (englisch snapshot) versteht man in der Informationstechnik eine Momentaufnahme eines Systems oder Objekts.
+
+
+== Verteilte Systeme ==
+Im Bereich verteilter Systeme wird der Begriff für eine Aufzeichnung des globalen Zustandes zu einem bestimmten Zeitpunkt verwendet. Dies kann zum Beispiel mit einem Schnappschussalgorithmus erreicht werden.
+
+
+== Bildschirmfoto ==
+
+Der beliebige Inhalt auf einem Computerbildschirm wird über die Taste „Druck“, auch „PrtSc“ (Print Screen), in den Zwischenspeicher kopiert. Das ist ein Snapshot (engl. eigentlich Screenshot) des Bildschirminhalts. Nach Aufruf eines Textverarbeitungs- oder Bildbearbeitungsprogramms lässt sich der Bildschirminhalt dort aus dem Zwischenspeicher einfügen.
+
+
+=== Schnappschuss einer Internetseite ===
+Der Schnappschuss einer Internetseite in einem Browser ist eine besondere Form des Bildschirmfotos oder des Screenshots. Hierbei kann auch der nicht direkt sichtbare bzw. der nur durch Scrollen erreichbare Bildschirminhalt in den Schnappschuss aufgenommen werden.
+
+
+== Versionsverwaltung ==
+Als Snapshot bezeichnet man bei Computerprogrammen eine Programmversion, die direkt aus der Datenbank der Versionsverwaltung und nicht als offizielle Version (engl. „release“) herausgegeben wird. Meist werden diese Versionen aus dem momentanen aktuellen Zustand der Versionsverwaltung des Quellcodes oder aus der Arbeitskopie des Projektes eines Entwicklers erzeugt.
+
+
+== Massenspeicher ==
+Man unterscheidet dabei die Verfahren Redirect-on-Write und Copy-On-Write. 
+Bei Redirect-on-Write ist ein Snapshot ein besonderer Speicherbereich, der ältere oder jüngere Versionen geänderter Daten aufnimmt. Er enthält keine vollständige Kopie des Datenbestands, sondern wird bei jeder Änderung schrittweise gefüllt, indem alle Änderungen in den Snapshot umgeleitet werden. Soll nun der Snapshot gelesen werden, wird zuerst geprüft, ob der zu lesende Teil dort vorhanden ist. Ist dies der Fall, wird dieser Teil verwendet, andernfalls wird von der Originaldatei gelesen. 
+Bei Copy-on-Write-Dateisystemen wird beim Anlegen eines Snapshots nur die Top-Level-Metastruktur kopiert. Da Copy-on-Write-Dateisysteme aktive Datenblöcke niemals überschreiben, sondern einen neuen Block mit den geänderten Daten anlegen und den alten löscht, sobald er nicht mehr referenziert wird, bleiben die im Snapshot-Zweig referenzierten Daten- und Metadatenblöcke erhalten, wenn sie im Hauptzweig modifiziert werden, da sie noch vom Snapshot referenziert werden. Der Snapshot baut sich auf diese Art und Weise im normalen Betrieb automatisch auf.
+
+
+=== In Dateisystemen ===
+Snapshots können im Dateisystem implementiert sein, wo z. B. in einem speziellen Verzeichnis auf ältere Versionen des Verzeichnisbaums lesend zugegriffen werden kann.
+Beispiele sind das WAFL-Dateisystem, UFS in FreeBSD 5, das Btrfs, ZFS und NTFS mit dem Volume Shadow Copy Service unter Windows.
+
+
+=== Auf Block-Ebene ===
+Einige Disk-Arrays und Logical Volume Manager können Snapshots von Datenblöcken ihrer virtuellen Festplatten bzw. Logical Volumes vorhalten.
+
+
+=== Anwendungen ===
+Von Snapshots können Datensicherungen angefertigt werden, ohne auf die Konsistenz des aktuellen Datenbestandes angewiesen zu sein. 
+Einige Anwendungen und Dateisysteme bieten auch die Möglichkeit, die benutzten Daten in einen definierten Zustand zu versetzen und neue Schreibzugriffe zu verzögern, bis das darunter liegende System einen Snapshot erstellt hat.
+So kann z. B. eine Datenbank während des Betriebs angehalten und ein Snapshot erstellt werden. Die Datenbank kann dann sofort wieder gestartet werden und der Snapshot z. B. an anderer Stelle gesichert werden. Moderne Datenbanksysteme ermöglichen allerdings konsistente Datensicherungen, ohne sie anzuhalten und Snapshots zu erstellen.
+Ist im Dateisystem ein Snapshot zugänglich, können Anwender ihre Dateien z. B. nach einem versehentlichen Überschreiben selbst wiederherstellen.
+Wichtig ist, dass zum Zeitpunkt des Erstellens des Snapshots keine Schreiboperation aktiv ist, um inkonsistente Daten im Snapshot zu vermeiden. Snapshots können also nur genutzt werden, wenn die Konsistenz des aktuellen Datenbestandes gewährleistet ist.
+
+
+== Siehe auch ==
+Speicherabbild

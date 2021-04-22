@@ -1,0 +1,66 @@
+Uran(V,VI)-oxid (auch Triuranoctoxid, U3O8) ist eine chemische Verbindung des Urans und zählt zu den Oxiden. Es kommt in mehreren Modifikationen vor. Pechblende enthält kein Uran(V,VI)-oxid, sondern Uran(IV)-oxid und zusätzlichen Sauerstoff.
+
+
+== Darstellung ==
+Uran(V,VI)-oxid entsteht beim Erhitzen von Uran(VI)-oxid auf 700–900 °C durch Sauerstoffabgabe bzw. aus Uran(IV)-oxid durch Sauerstoffaufnahme. Genauso bildet es sich beim Erhitzen von anderen Uranoxiden auf ähnliche Temperaturen an der Luft.
+
+  
+    
+      
+        
+          3
+           
+          U
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          
+            U
+            
+              3
+            
+          
+          
+            O
+            
+              8
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {3\ UO_{2}+O_{2}\longrightarrow U_{3}O_{8}} }
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Uran(V,VI)-oxid bildet mehrere Modifikationen. In reinem Uran(V,VI)-oxid ist bei Zimmertemperatur die orthorhombische α-Struktur mit der Raumgruppe C2mm (Nr. 38, Stellung 4)Vorlage:Raumgruppe/38.4 und den Gitterparametern a = 671 pm, b = 1196 pm und c = 414 pm thermodynamisch stabil. Sie geht oberhalb von 210 °C reversibel in eine hexagonale Form (a = 681 pm, c = 414 pm, Raumgruppe P62m (Nr. 189)Vorlage:Raumgruppe/189) über. Bei Zimmertemperatur metastabil ist die orthorhombische β-Struktur mit der Raumgruppe Cmcm (Nr. 63)Vorlage:Raumgruppe/63 und den Gitterparametern a = 707 pm, b = 1145 pm und c = 830 pm, die durch Erhitzen von α-U3O8 auf 1350 °C an der Luft und langsames Abkühlen gebildet werden kann. Daneben ist auch eine kubische, nur bei hohem Druck stabile, unterstöchiometrische Modifikation bekannt.Uran(V,VI)-oxid ist abhängig vom Sauerstoffgehalt leitfähig, bei Raumtemperatur beträgt die Elektrische Leitfähigkeit bei genau stöchiometrischem Uran(V,VI)-oxid etwa 100 Ω−1·m−1. Die Verbindung ist ein Halbleiter vom n-Typ.Frisch erzeugtes Uran(V,VI)-oxid aus irdischem Natururan hat eine spezifische Aktivität von 21450 Bq/g.
+
+
+=== Chemische Eigenschaften ===
+Triuranoctoxid löst sich leicht in oxidierenden Säuren unter Bildung von Uranylionen. Bei der Reaktion mit Chlorwasserstoff bei 700 °C entsteht Uranylchlorid.Durch Reaktion mit Wasserstoff bei 700 °C oder Kohlenstoffmonoxid bei 350 °C wird es über mehrere unstöchiometrische Zwischenprodukte zu Uran(IV)-oxid reduziert.
+
+
+== Verwendung ==
+Da Uran(V,VI)-oxid bei gleichen Temperaturen aus allen Uranoxiden entsteht, wird es zur gravimetrischen Bestimmung des Urangehaltes, etwa von Erzen, genutzt.
+
+
+== Literatur ==
+Ingmar Grenthe, Janusz Drożdżynński, Takeo Fujino, Edgar C. Buck, Thomas E. Albrecht-Schmitt, Stephen F. Wolf: Uranium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements. Springer, Dordrecht 2006, ISBN 1-4020-3555-1, S. 253–698 (doi:10.1007/1-4020-3598-5_5).
+
+
+== Einzelnachweise ==

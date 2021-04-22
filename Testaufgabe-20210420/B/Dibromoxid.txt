@@ -1,0 +1,61 @@
+Dibromoxid, Br2O, ist ein Halogenoxid des Broms und das Anhydrid der Hypobromigen Säure HBrO.
+
+
+== Gewinnung und Darstellung ==
+Analog zu Dichlormonoxid wird Dibrommonoxid durch Quecksilber(II)-oxid und Brom hergestellt.
+  
+    
+      
+        
+          2
+          
+          
+            Br
+            
+              2
+            
+            
+              
+            
+          
+          +
+          3
+          
+          HgO
+          ⟶
+          
+            HgBr
+            
+              2
+            
+            
+              
+            
+          
+          ⋅
+          2
+          
+          HgO
+          +
+          
+            Br
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2 Br2 + 3 HgO -> HgBr2 * 2 HgO + Br2O}}}
+  
+
+
+== Eigenschaften ==
+Die Verbindung ist nur bei Temperaturen unter −40 °C stabil. Darüber beginnt es sich in Brom und Sauerstoff zu zersetzen, was beim Schmelzpunkt teilweise heftig ausfällt.
+
+
+== Einzelnachweise ==

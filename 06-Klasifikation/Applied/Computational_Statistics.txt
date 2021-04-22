@@ -1,0 +1,45 @@
+Computational Statistics oder auch Statistical Computing bezeichnet die Schnittstelle zwischen Statistik und Informatik. Es ein Teilgebiet des Wissenschaftlichen Rechnens (moderner: Scientific Computing) der sich auf die Statistik bezieht, aber auch andere Gebiete der angewandten Mathematik einbezieht.
+
+
+== Inhalte ==
+Dieser Bereich entwickelt sich seit der allgemeinen Verfügbarkeit von Computern sehr schnell. Daher wird gefordert, dass neben den theoretisch-mathematischen Konzepten, auch relevante Inhalte der Informatik und angewandten Mathematik Teil der Statistikausbildung werden.Die Begriffe Computational Statistics und Statistical Computing werden oft synonym benutzt. Carlo Lauro, ein früherer Präsident der International Association for Statistical Computing, schlug vor einen Unterschied zwischen beiden Begriffen zu machen:
+Statistical Computing sei die Anwendung von Informatikkonzepten auf Statistik, z. B. bei der Entwicklung von statistischen Programmen oder Programmiersprachen, während sich
+Computational Statistics mehr auf das Design und die Implementation von statistischen Algorithmen auf dem Computer (z. B. Bootstrapping und Monte-Carlo-Simulationen) bzw. die numerische Lösung analytisch nicht behandelbarer Probleme (z. B. Optimierungsprobleme) bezieht.Der Begriff Computational Statistics bezeichnet auch rechenintensive Methoden der Statistik wie z. B. Resampling, Markov-Chain-Monte-Carlo-Verfahren, die nicht- oder semiparameterische Regression oder Dichteschätzung sowie neuronale Netze.
+
+
+== Literatur ==
+
+
+=== Artikel ===
+James H. Albert, James E. Gentle: Special Section: Teaching Computational Statistics. In: The American Statistician. Band 58, 2004, S. 1-1, doi:10.1198/0003130042872. 
+Leland Wilkinson: The Future of Statistical Computing (with discussion). In: Technometrics. Band 50, Nr. 4, 2008, S. 418–435, doi:10.1198/004017008000000460. 
+
+
+=== Bücher ===
+John H. Drew, Diane L. Evans, Andrew G. Glen, Lawrence M. Lemis: Computational Probability: Algorithms and Applications in the Mathematical Sciences. In: International series in operations research & management science. Springer, New York 2008, ISBN 0-387-74675-7 (englisch). 
+James E. Gentle: Elements of Computational Statistics. Springer, 2002, ISBN 0-387-95489-9. 
+James E. Gentle, Wolfgang Härdle, Yuichi Mori: Handbook of Computational Statistics: Concepts and Methods. Springer, 2004, ISBN 3-540-40464-3. 
+Geof H. Givens, Jennifer A. Hoeting: Computational Statistics. Wiley-Interscience, 2005, ISBN 978-0-471-46124-1. 
+Ben Klemens: Modeling with Data: Tools and Techniques for Statistical Computing. Princeton University Press, 2008, ISBN 978-0-691-13314-0. 
+John Monahan: Numerical Methods of Statistics. Cambridge University Press, 2001, ISBN 978-0-521-79168-7. 
+Colin Rose, Murray D. Smith: Mathematical Statistics with Mathematica. Springer, 2002, ISBN 0-387-95234-9. 
+Ronald Aaron Thisted: Elements of Statistical Computing: Numerical Computation. CRC Press, 1988, ISBN 0-412-01371-1. 
+
+
+== Weblinks ==
+
+
+=== Gesellschaften ===
+International Association for Statistical Computing
+Statistical Computing section of the American Statistical Association
+
+
+=== Zeitschriften ===
+Computational Statistics & Data Analysis
+Journal of Computational & Graphical Statistics
+Statistics and Computing
+Communications in Statistics – Simulation and Computation
+Journal of Statistical Computation and Simulation
+
+
+== Einzelnachweise ==

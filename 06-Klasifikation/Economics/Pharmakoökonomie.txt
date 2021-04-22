@@ -1,0 +1,19 @@
+Die Pharmakoökonomie ist die Wissenschaft, die sich mit den wirtschaftlichen Aspekten der Arzneimitteltherapie beschäftigt. Als ein Teilgebiet der Gesundheitsökonomie stellt sie wie diese eine Schnittmenge aus Medizin, Ökonomie und Statistik dar. Die Pharmakoökonomie setzt sich mit Hilfe pharmakoökonomischer Studien insbesondere mit der wirtschaftlichen Bewertung der Anwendung einzelner oder mehrerer Arzneimittel auf die Versorgungsqualität des Patienten, auf die Leistungserbringer und die Volkswirtschaft auseinander. Im Rahmen dieser Studien werden die Kosten, die Effektivität, die Wirtschaftlichkeit und die Finanzierbarkeit evaluiert und fließen in Kostenanalysen, Kosten-Nutzen-Analysen, Kosten-Effektivitäts-Analysen und Kosten-Nutzwert-Analysen ein. Auch ethische Aspekte, wie beispielsweise die Gerechtigkeit im Gesundheitswesen, können berücksichtigt werden. Ziel dieser Studien ist eine bestmögliche Lösung eines arzneimitteltherapeutischen Problems bei begrenzten finanziellen Ressourcen und eine Steigerung der Versorgungseffizienz. In Deutschland ist auf Basis des Fünften Buches Sozialgesetzbuch das Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG) für pharmakoökonomische Betrachtungen im Rahmen der gesetzlichen Krankenversicherung zuständig.
+
+
+== Grundprinzipien ==
+Eine Aufgabe der Pharmakoökonomie ist die Betrachtung eines therapeutischen oder damit assoziierten Gewinns in Relation zu den dazu nötigen Kosten.
+
+
+=== Gewinn ===
+Der Gewinn einer pharmakotherapeutischen Maßnahme kann im einfachsten Fall in Form von Surrogatparametern, wie Laborwerten oder dem gesenkten Blutdruck oder in Form patientenrelevanter Wirksamkeitsmaße (Outcomes), wie zum Beispiel vermiedener Krankheitstage oder gewonnener Lebensjahre, ausgedrückt werden. Unter Berücksichtigung des Nutzwerts, der Lebensqualität, wird ein Gewinn in der Pharmakoökonomie meist als qualitätskorrigierte Lebensjahre (QALY) angegeben. Mit einem Therapieerfolg kann auch ein materieller Gewinn, beispielsweise durch Rückkehr an den Arbeitsplatz assoziiert sein.
+
+
+=== Kosten ===
+Auf der Seite der Kosten wird zwischen den direkten, indirekten und intangiblen Kosten unterschieden. Die direkten Kosten setzen sich aus dem Preis des Arzneimittels, etwaiger Applikationshilfen und gegebenenfalls der Arbeitszeit des medizinischen Personals zusammen. Indirekte Kosten entstehen insbesondere durch verminderte Arbeitsfähigkeit oder Arbeitsausfall. Zu den intangible Kosten, die nur schwer mit Geld aufwiegbar sind, zählen der Verlust an Freizeit durch die Behandlung und die Beeinträchtigung der Lebensqualität durch Schmerzen, körperliche oder psychische Störungen.
+
+
+== Literatur ==
+Thomas Müller-Bohn, Volker Ulrich: Pharmakoökonomie – Einführung in die ökonomische Analyse der Arzneimittelanwendung. Wissenschaftliche Verlagsgesellschaft mbH,  2000, ISBN 978-3-8047-1761-9.
+Tom Walley, Alan Haycox, Angela Boland: Pharmacoeconomics. Churchill Livingstone, Edinburgh 2004, ISBN 0-443-07240-X.
+Eva Susanne Dietrich: Grundlagen der Pharmakoepidemiologie und Pharmakoökonomie. GOVI-Verlag, Eschborn 2002, ISBN 3-7741-0915-X.

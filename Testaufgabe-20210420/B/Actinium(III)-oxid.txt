@@ -1,0 +1,81 @@
+Actinium(III)-oxid ist eine anorganische chemische Verbindung des Actiniums aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Actinium(III)-oxid kann durch Reaktion von Salpetersäure-Lösung gefälltem Actinium(III)-oxalat in einer Sauerstoffatmosphäre bei 1100 °C gewonnen werden.
+
+  
+    
+      
+        
+          A
+          
+            c
+            
+              2
+            
+          
+          (
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              3
+            
+          
+          ⟶
+          A
+          
+            c
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          3
+           
+          C
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Ac_{2}(C_{2}O_{4})_{3}\longrightarrow Ac_{2}O_{3}+3\ CO_{2}+3\ CO} }
+  
+
+
+== Eigenschaften ==
+Actinium(III)-oxid ist ein weißer Feststoff. Er besitzt eine trigonale Kristallstruktur vom Lanthanoxid-Typ mit der Raumgruppe P3m1 (Raumgruppen-Nr. 164)Vorlage:Raumgruppe/164 und den Gitterparametern a = 408 pm, c = 630 pm.
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der GHS-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen, die eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielt. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Einzelnachweise ==

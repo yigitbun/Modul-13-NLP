@@ -1,0 +1,115 @@
+Calciumoxid, auch gebrannter Kalk, Branntkalk, ungelöschter Kalk, Kalkerde, Ätzkalk oder Freikalk, chemische Formel CaO, ist eine weiße kristalline Substanz, die mit Wasser unter starker Wärmeentwicklung reagiert. Bei dieser Reaktion wird Calciumhydroxid (Löschkalk) nach der Reaktionsgleichung
+
+  
+    
+      
+        
+          CaO
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          Ca
+          
+            
+              (
+              OH
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CaO + H2O -> Ca(OH)2}}}
+  gebildet. Gebrannter Kalk wird in Weichbrannt-, Mittelbrannt- und Hartbranntkalk unterschieden.
+
+
+== Herstellung ==
+
+In größerer Menge wird Calciumoxid durch Kalkbrennen (Kalzinierung) im Kalkofen hergestellt. Ab einer Temperatur von etwa 800 °C wird Calciumcarbonat (in aller Regel Calcit in Form von Kalkstein) entsäuert, das heißt Kohlendioxid wird ausgetrieben und es entsteht Calciumoxid.
+
+  
+    
+      
+        
+          
+            CaCO
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          CaO
+          +
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CaCO3 -> CaO + CO2}}}
+  Man unterscheidet die Branntkalke u. a. nach ihrer Reaktionsgeschwindigkeit (Reaktivität) des Kalkes mit Wasser während des Löschvorgangs:
+
+< 2 min Reaktionsdauer: Weichbranntkalk
+2–6 min Reaktionsdauer: Mittelbranntkalk
+> 6 min Reaktionsdauer: HartbranntkalkEs existieren allerdings keine präziseren Definitionen.
+Die Reaktivität nimmt also mit höherer Brenntemperatur ab. Die Unterschiede sind eine Folge der Kristallitgröße des CaO, Porenvolumen und spezifischer Oberfläche, die durch Brenntemperatur und auch -dauer beeinflusst werden (diese Parameter des Brennvorgangs werden zusammenfassend auch als Brenngrad bezeichnet).Weichgebrannter Kalk entsteht bei Temperaturen von 900 bis 1000 °C, hartgebrannter Kalk bei bis zu 1400 °C, wobei auch die Zeitdauer der Temperatureinwirkung und vor allem die petrographische Ausbildung des Kalksteins eine Rolle spielen.
+Calciumoxid erhält man auch durch thermisches Zersetzen von Calciumhydroxid, welches bei 550 °C unter Atmosphärendruck in Calciumoxid und Wasser zerfällt. Das unter diesen Bedingungen entstandene Calciumoxid ist wenig kristallin, also gut reaktionsfähig.
+Weiter bildet sich Calciumoxid (neben Calciumnitrid) bei der Verbrennung von Calcium an der Luft. Da elementares Calcium selten ist, wird diese Reaktion nur im Rahmen von Laborversuchen durchgeführt.
+
+
+== Natürliches Vorkommen ==
+Unter den Bedingungen der Sanidinit-Fazies kann reiner Kalkstein, wenn er etwa unter geringem Druck (d. h. in der Nähe der Erdoberfläche) in basaltische Lava hoher Temperatur gerät, zu Calciumoxid zersetzt werden. Solche Vorkommen sind sehr selten, und aufgrund der hohen Reaktivität von Calciumoxid werden in natürlichen Gesteinen nur Pseudomorphosen beobachtet.
+
+
+== Eigenschaften ==
+Gebrannter (ungelöschter) Kalk (früher auch als lebendiger Kalk bzw. lateinisch calx viva bezeichnet) ist stark ätzend, daher kann der Kontakt mit den Augen zur Erblindung führen.
+Der Verlauf des Löschvorgangs und die Eigenschaften des dabei gebildeten Löschkalks hängen von der Zusammensetzung und Beschaffenheit des Branntkalks ab.
+Die Löschreaktion kann bereits nach einigen Sekunden abgeschlossen sein, kann aber auch mehr als eine Viertelstunde andauern, abhängig etwa von der inneren Oberfläche (Porosität), der Primärkristallitgröße, dem Versinterungsgrad und der Zusammensetzung des Branntkalks.
+Während der Verlauf der Kalzination beim Brennen von Kalkstein zu Branntkalk weitgehend beherrschbar und vorhersagbar ist, ist es noch nicht möglich, eine befriedigende Prognose über die Reaktivität des entstehenden Branntkalks alleine durch Kenntnis der Zusammensetzung des Ausgangsmaterials zu treffen. Insbesondere spielen auch die genauen Bedingungen eine Rolle, unter denen der Brennvorgang stattfindet.
+
+
+== Verwendung ==
+Gebrannter und anschließend (mit Wasser) gelöschter Kalk wird in der Bauindustrie als Beimischung zu Mörtel und Putzen verwendet sowie zur industriellen Fertigung von Kalksandsteinen. Außerdem ist er ein untergeordneter Bestandteil von Zementklinker. In der Chemie nutzt man die Substanz außerdem als Trocknungsmittel und zur Absorption von Kohlenstoffdioxid. Weitere Einsatzbereiche von Branntkalk sind z. B. Düngekalk, die Produktion von Calciumcarbid sowie seine Nutzung zur Herstellung von Kalkmörtel, Kalkputz und Kalkfarbe und zur Nutzung als Neutralisationsmittel.
+Einer der wesentlichen Einsatzbereiche ist die Entschwefelung von Roheisen, bei dem der Schwefel [S] als Begleiter [FeS] vorkommt und auf dem Weg zum Stahl (Konverter) herausgelöst werden muss.
+Dabei wird Kalk (CaO) entweder in das Roheisen eingeblasen oder mit einem Rührer eingemischt. Der Kalk verbindet sich mit dem Schwefel zu Calciumsulfid [CaS], steigt zur Oberfläche auf und setzt sich dort als Schlacke ab. Diese wird nach dem Entschwefeln mit einer Abkratzmaschine entfernt.
+Der gelöschte Kalk wird unter anderem als Alternative zum Kalkstein in der Rauchgasentschwefelung eingesetzt.
+Die Einsatzmenge ist hierbei ca. 1,8-fach geringer als die von Kalkstein. Der dabei aus Branntkalk gewonnene Gips (Calciumsulfat) hat einen Weißgrad von 80 % und kann kommerziell weiterverwendet werden. Durch seine hohe Reaktivität werden geringere Verbrauchsmengen benötigt. Nachteil ist sein deutlich höherer Preis gegenüber Kalkstein.
+Durch Reaktion mit Chlor kann aus Calciumhydroxid Chlorkalk hergestellt werden.
+Calciumoxid wird Lebensmitteln als Säureregulator zugesetzt. Es dient dabei in erster Linie als sogenannter technischer Hilfsstoff, der im fertigen Lebensmittel nicht mehr vorhanden ist.
+Es ist in der EU als Lebensmittelzusatzstoff unter der Bezeichnung E 529 ohne Höchstmengenbeschränkung, aber mit der Maßgabe, nur die technisch wirklich benötigte Menge zu verwenden (quantum satis), für Lebensmittel allgemein zugelassen.
+Früher wurde Calciumoxid zur Kaustifizierung von Soda und Pottasche eingesetzt, was für die Seifenherstellung von großer Bedeutung war.
+Man verwendete Calciumoxid auch als Ätzkalkladung von Geschützen und Blendtöpfen, die mit Katapulten geworfen wurden.
+Ätzkalk kann dank seiner geruchsbindenden Wirkung auch bei offenen Feldtoiletten (Plumpsklo) verwendet werden.
+Er wurde auch zur Desinfektion von Marktplätzen und Begräbnisstätten verwendet.Ungelöschter Kalk wird gelegentlich anstelle des gelöschten Kalks zur Desinfektion von Ställen (dem „Kalken“ der Ställe) eingesetzt.
+Es sollte jedoch nicht mit Stroh oder ähnlichem leichtentzündlichen Material in Kontakt kommen, da die Temperatur von rund 180 °C, die bei der Reaktion mit Feuchtigkeit entsteht, in seltenen Fällen zur Entzündung ausreichen kann.Nach zumindest einem Augenzeugenbericht wurde Ätzkalk in der Zeit des Nationalsozialismus zumindest im Bereich des Durchgangsghettos Izbica auf dem Boden von Zugwaggons verteilt, welche Opfer des Holocaust zu den Vernichtungslagern transportierten. Beim Kontakt mit der feuchten menschlichen Haut verursachte es gefährliche Verätzungen der Gefangenen.
+
+
+== Weblinks ==
+www.nassloeschkurve.de Informationsportal zur Reaktivität von Calciumoxid mit detaillierten wissenschaftlichen Erläuterungen
+
+
+== Einzelnachweise ==

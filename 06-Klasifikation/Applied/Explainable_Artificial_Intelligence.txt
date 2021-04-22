@@ -1,0 +1,57 @@
+Explainable Artificial Intelligence (XAI; deutsch: erklärbare künstliche Intelligenz oder erklärbares Maschinenlernen) ist ein Neologismus, der seit etwa 2004 in der Forschung und Diskussion über Maschinenlernen verwendet wird.
+XAI soll eindeutig nachvollziehbar machen, auf welche Weise dynamische und nicht linear programmierte Systeme, z. B. künstliche neuronale Netze, Deep-Learning-Systeme (reinforcement learning) und genetische Algorithmen, zu Ergebnissen kommen. XAI ist eine technische Disziplin, die operative Methoden erarbeitet und bereitstellt, die zur Erklärung von AI-Systemen dienen.
+Ohne XAI gleichen einige Methoden des maschinellen Lernens (insbesondere das zurzeit populäre Deep Learning) einem Black-Box-Vorgang, bei dem die Introspektion eines dynamischen Systems unbekannt oder unmöglich ist und der Anwender keine Kontrollmöglichkeiten hat zu verstehen, wie eine Software zur Lösung eines Problems gelangt.
+
+
+== Definition ==
+Es gibt derzeit noch keine allgemein akzeptierte Definition von XAI.
+Das XAI-Programm der Defense Advanced Research Projects Agency (DARPA), deren Ansatz sich schematisch darstellen lässt, definiert seine Ziele mit den folgenden Forderungen:
+
+Produzieren Sie erklärbarere Modelle, während Sie gleichzeitig eine hohe Lernleistung beibehalten (Vorhersagegenauigkeit).
+Ermöglichen Sie menschlichen Nutzern, die entstehende Generation künstlich intelligenter Partner zu verstehen, ihnen angemessen zu vertrauen und mit ihnen effektiv umzugehen.
+
+
+== Geschichte ==
+Während der Begriff „XAI“ noch relativ neu ist – eine frühe Erwähnung des Konzepts erfolgte 2004 – hat der bewusste Ansatz, das Vorgehen von maschinellen Lernsystemen komplett verstehen zu wollen, eine längere Geschichte. Forscher sind seit den 1990er Jahren daran interessiert, Regeln aus trainierten neuronalen Netzen abzuleiten, und Wissenschaftler im Gebiet der klinischen Expertensysteme, die neuronale Entscheidungshilfen für Mediziner liefern, haben versucht, dynamische Erklärungssysteme zu entwickeln, die diese Technologien in der Praxis vertrauenswürdiger machen.In letzter Zeit wird aber der Schwerpunkt darauf gelegt, Maschinenlernen und KI den Entscheidungsträgern – und nicht etwa den Konstrukteuren oder direkten Nutzern von Entscheidungssystemen zu erklären und verständlich zu machen. Seit der Einführung des Programms durch DARPA im Jahr 2016 versuchen neue Initiativen das Problem der algorithmic accountability (etwa ‚algorithmische Rechenschaftspflicht‘) anzugehen und Transparenz zu schaffen (Glass-Box-Vorgang), wie Technologien in diesem Bereich funktionieren:
+
+25. April 2017: Nvidia veröffentlicht Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car.
+13. Juli 2017: Accenture empfahl Responsible AI: Why we need Explainable AI.
+
+
+== Methoden ==
+Verschiedene Methoden werden für XAI angewendet:
+
+Layer-wise relevance propagation (LRP; etwa‚ Schicht für Schicht erfolgende Übertragung von Bedeutung‘) wurde erstmals 2015 beschrieben und ist eine Technik zu Bestimmung der Merkmale von bestimmten Eingangsvektoren, die am stärksten zum Ausgabeergebnis eines neuronalen Netzwerks beitragen.
+Counterfactual method (etwa‚ kontrafaktische Methode‘): Nach dem Erhalten eines Resultats werden gezielt Input-Daten (Text, Bilder, Diagramme etc.) verändert und man beobachtet, wie sich dadurch das Ausgaberesultat verändert.
+Local interpretable model-agnostic explanations (LIME)
+Generalized additive model (GAM)
+Rationalization: Speziell bei AI-basierten Robotern wird die Maschine in die Lage versetzt, dass sie ihre eigenen Handlungen „verbal erklären“ kann.
+
+
+== Anwendungsbeispiele ==
+Bestimmte Industriezweige und Dienstleistungsbereiche sind von XAI-Anforderungen besonders betroffen, da durch die dort immer intensivere Anwendung von KI-Systemen die „Rechenschaftspflicht“ (englisch accountability) mehr und mehr auf die Software und deren – teilweise überraschende – Ergebnisse verlagert („delegiert“) wird.
+Folgende Bereiche stehen dabei besonders im Fokus (alphabetische Auflistung):
+
+Antennendesign
+Hochfrequenzhandel (algorithmischer Handel)
+Medizinische Diagnostik
+Selbstfahrende Kraftfahrzeuge
+Neuronale Netzwerk-Bildgebung
+Training militärischer Strategien
+
+
+== Internationaler Austausch über die Thematik und Forderungen ==
+Da Regulierungsbehörden, Behörden und allgemeine Nutzer von dynamischen Systemen auf KI-Basis abhängig sind, wird eine klarere Rechenschaftspflicht für die Entscheidungsfindung erforderlich sein, um Vertrauen und Transparenz zu gewährleisten.
+Ein Beleg dafür, dass diese berechtigte Forderung an Dynamik gewinnt, ist war die International Joint Conference on Artificial Intelligence: Workshop on Explainable Artificial Intelligence (XAI) im Jahr 2017.In Bezug auf KI-Systeme fordern die australische Publizistin und Wissenschaftlerin Kate Crawford und ihre Kollegin Meredith Whittaker (AI Now Institute), dass „die wichtigsten öffentlichen Einrichtungen, wie z. B. die für Strafjustiz, Gesundheit, Wohlfahrt und Bildung zuständigen Stellen […], keine Black-Box-KI und algorithmische Systeme mehr verwenden sollten“. Zusätzlich fordern sie – noch über die rein technischen Maßnahmen und Methoden der Erklärbarkeit solcher Systeme hinaus – verbindliche ethischen Maßstäbe, wie sie beispielsweise in der pharmazeutischen Industrie und klinischen Forschung angewendet werden.
+
+
+== Weblinks und Literatur ==
+Explainable AI: Making machines understandable for humans. Abgerufen am 2. November 2017.
+Explaining How End-to-End Deep Learning Steers a Self-Driving Car. 23. Mai 2017. Abgerufen am 2. November 2017.
+New isn't on its way. We're applying it right now.. 25. Oktober 2016. Abgerufen am 2. November 2017.
+David Alvarez-Melis und Tommi S. Jaakkola: A causal framework for explaining the predictions of black-box sequence-to-sequence models, arxiv:1707.01943, 6. Juli 2017.
+TEDx Talk von Peter Haas über die Notwendigkeit von transparenten KI-Systemen: The Real Reason to be Afraid of Artificial Intelligence (engl.)
+Mengnan Du, Ninghao Liu, Xia Hu: Techniques for Interpretable Machine Learning, Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 68–77 DOI: 10.1145/3359786 (engl.)
+
+
+== Einzelnachweise ==

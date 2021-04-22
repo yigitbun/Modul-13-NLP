@@ -1,0 +1,80 @@
+Wolfram(VI)-oxid, auch Wolframtrioxid (WO3), stellt das wichtigste Oxid des Wolframs dar.
+
+
+== Vorkommen ==
+Wolfram(VI)-oxid kommt natürlich nur mit Kristallwasser in Form der Minerale Elsmoreit (Wolfram(VI)-oxid Halbhydrat), Tungstit (Wolfram(VI)-oxid Hydrat) und Meymacit (Wolfram(VI)-oxid Dihydrat) vor.
+
+
+== Herstellung ==
+Die Gewinnung von Wolframtrioxid erfolgt durch Glühen von Wolfram oder Wolframverbindungen unter Luftzutritt.
+Es kann auch durch Reaktion von Natriumwolframat-Dihydrat mit Salzsäure dargestellt werden.
+
+  
+    
+      
+        
+          N
+          
+            a
+            
+              2
+            
+          
+          W
+          
+            O
+            
+              4
+            
+          
+          +
+          2
+           
+          H
+          C
+          l
+          ⟶
+          W
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          2
+           
+          N
+          a
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {Na_{2}WO_{4}+2\ HCl\longrightarrow WO_{3}+H_{2}O+2\ NaCl} }
+  
+
+
+== Eigenschaften ==
+
+Wolfram(VI)-oxid ist ein bei Raumtemperatur intensiv gelb gefärbtes, beim Erwärmen orangefarbenes Kristallpulver. Wolframtrioxid ist in Wasser und Säuren völlig unlöslich, kann aber mit Wasser zu Wolframsäure reagieren. Mit Laugen reagiert es zu Wolframaten. 
+Die Kristallstruktur von WO3 besteht aus WO6-Oktaedern, die in den drei Raumrichtungen über gemeinsame Ecken miteinander verbunden sind. Wie in der Abbildung zu sehen ist, können diese Oktaeder gegeneinander verkippt sein. Dadurch treten bereits unter der Raumtemperatur drei Polymorphe, d. h. unterschiedliche Strukturen, auf. Dabei bleibt es erst bei niedriger Symmetrie und geht von monoklin über triklin wieder zu monoklin über. Erst bei hohen Temperaturen geht es auch in eine orthorhombische und eine tetragonale Phase über. Dabei unterscheiden sich vor allem die Position der Oxidionen geringfügig.
+
+
+== Verwendung ==
+Wolframtrioxid wird in der Keramikindustrie als Kontakt sowie als Gelbpigment verwendet. Eine gewisse Bedeutung könnte WO3 bei der Herstellung ultradünner Oxidfilme erlangen, mit denen sich optische Linsen kratzfest beschichten lassen. Auch elektrochrome Verglasungen enthalten Wolframtrioxid.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Peter Pietschmann: Optische Filter. Universität Ulm, Pressemitteilung vom 23. Oktober 1997 beim Informationsdienst Wissenschaft (idw-online.de), abgerufen am 24. August 2015.

@@ -1,0 +1,12 @@
+Molybdän(II)-oxid ist ein nur wenig untersuchtes Oxid des Übergangsmetalls Molybdän.
+
+
+== Kondensierte Phase ==
+Obgleich die meisten Übergangsmetalle bei geeigneten Bindungspartnern die Oxidationsstufe II annehmen können, sind – anders als im Falle zweiwertiger Hauptgruppenmetalle – Monoxide der Übergangsmetalle allgemein nur schwer zugänglich. In kondensierter Phase sind chemische Verbindungen der Stöchiometrie MoO als eigenständige Spezies unbekannt. Erwähnungen in der frühen chemischen Literatur durch Bucholz und Berzelius gelten schon lange als irrtümliche Zuordnungen. Wie bei seinem leichteren Homologen Chrom(II)-oxid CrO ist es jedoch möglich, dünne Schichten von MoO auf einem Trägermaterial zu erzeugen. Die Bildung solcher Schichten gelang im Ultrahochvakuum (10−6 Pa) durch Oxidation von polykristallinem Molybdän bei 200 °C; bei höherem Druck bildet sich stattdessen MoO2 und MoO4. Durch metallorganische chemische Gasphasenabscheidung bei 400 °C unter Stickstoff als Inertgas lassen sich dünne, halbleitende MoO-Schichten auf Kalk-Natron-Glas gewinnen; hierbei dient der Acetylacetonato-Komplex MoO2(acac)2 mit Molybdän in der Oxidationsstufe VI als Vorgänger.
+
+
+== Gasphase ==
+Die spektroskopische Untersuchung des zweiatomigen MoO-Moleküls in der Gasphase wurde in der Vergangenheit durch starke Kontamination mit Subnitriden erschwert, die sich im Lichtbogen aus Molybdän und Stickstoff bilden: 11 von 16 Emissionsbanden, die ursprünglich im Referenzwerk der Vatikanischen Sternwarte für MoO gelistet waren, wurden nachträglich MoN zugeordnet. Diese Schwierigkeiten konnten aber mittlerweile überwunden werden; dabei konnte u. a. der theoretisch vorhergesagte Grundzustand als 5Π mit high-spin-Konfiguration 11σ25π42δ212σ16π1 experimentell bestätigt werden. Dabei haben die 11σ- und 5π-Orbitale bindenden Charakter, die am Metall lokalisierten 2δ- und 12σ-Orbitale dagegen nichtbindenden. Elektronenabgabe liefert MoO+, dessen Grundzustand wahrscheinlich 4Σ− (11σ25π412σ12δ2) ist, wobei es einen weiteren tiefliegenden δ3-konfigurierten 2Δ-Zustand gibt, der ebenfalls als Grundzustand vorgeschlagen wurde. Elektronenaufnahme führt zum MoO−-Molekül mit 4Π-Grundzustand, wobei angenommen wird, dass das zusätzliche Elektron in das nichtbindende, räumlich relativ ausgedehnte 12σ-Orbital aufgenommen wird, womit die geringste zusätzliche Elektron-Elektron-Abstoßung einhergeht.
+
+
+== Einzelnachweise ==

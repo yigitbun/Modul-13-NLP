@@ -1,0 +1,152 @@
+Gesundheitsökonomie (englisch medical economics, health economics, französisch économie de la santé, économie médicale) ist eine fachübergreifende Wissenschaft, die sich mit der Produktion, der Verteilung und dem Konsum von knappen Gesundheitsgütern in der Gesundheitsversorgung beschäftigt und somit Elemente der Gesundheitswissenschaften und der  Volks- und Betriebswirtschaftslehre vereinigt.
+Grundsätzlich werden das Angebot und die Nachfrage von Gesundheitsleistungen sowie von Krankenversicherungsleistungen analysiert, wobei die Berücksichtigung bestehender Informationsasymmetrien von besonderer Bedeutung ist. Zudem sind unterschiedliche Gesundheitssysteme zu beleuchten. Der Spannungsbogen zwischen medizinischer Wirksamkeit („Gesundheits...“) und Wirtschaftlichkeit („...ökonomie“) wird erweitert durch die Qualität von Gesundheitsversorgung und die gerechte Verwendung von Gesundheitsgütern. Die optimale Verwendung begrenzter Gesundheitsbudgets steht im Vordergrund. Die häufigste praktische Anwendung gesundheitsökonomischer Methoden ist die Entscheidungsanalyse, in welche Gesundheitsleistungen bevorzugt investiert werden soll.
+
+
+== Bedeutung und Entwicklung ==
+
+Die Ressourcen des Gesundheitswesens sind von immerwährender Knappheit gekennzeichnet. Das Wirtschaftlichkeitsgebot besagt, dass die von den Gesetzlichen Krankenversicherungen (GKVen) zu erstattenden und von den medizinischen Dienstleistern zu erbringenden Leistungen „ausreichend, zweckmäßig und wirtschaftlich sein müssen; sie dürfen das Maß des Notwendigen nicht überschreiten. Leistungen, die nicht notwendig oder unwirtschaftlich sind, können Versicherte nicht beanspruchen, dürfen die Leistungserbringer nicht bewirken und die Krankenkassen nicht bewilligen“.Vor diesem Hintergrund ergibt sich die Aufgabe, einen Ausgleich zwischen den medizinischen Möglichkeiten, ihrer Finanzierbarkeit, sowie Qualität und Gerechtigkeit herzustellen. Mit wissenschaftlichen Methoden unterstützt die Gesundheitsökonomie somit die Entscheidungsfindung im Gesundheitswesen. Man spricht vom magischen Viereck der Gesundheitsökonomie (Abbildung).
+Die Entwicklung und die Bedeutung werden durch die in Deutschland erlassenen Gesetze deutlich. Die Entwicklung begann 1977 mit der ersten Gesundheitsreform, dem Krankenversicherungs-Kostendämpfungsgesetz. Geregelt waren unter anderem die Zuzahlungen für Arznei-, Verband- und Heilmittel sowie die Kürzung von Zuschüssen zu Zahnersatzleistungen. Seitdem erfolgten kontinuierlich weitere Gesundheitsreformen. Im Jahr 2007 wurde mit dem § 35b SGB V die Wirtschaftlichkeitsprüfung für neue Arzneimittel und für Medikamente von „besonderer Bedeutung“ verbindlich eingeführt.
+
+
+== Zielsetzung ==
+
+Eine von vielen Aufgaben der Gesundheitsökonomie ist die Entwicklung von Modellen und Werkzeugen zur Messung und Bewertung von Veränderungen der Methoden und Prozesse im Gesundheitswesen durch medizinische oder gesundheitspolitische Interventionen und neue Gesundheitstechnologien. Der Begriff Technologie ist dabei sehr weit gefasst und beinhaltet unter anderem auch Arzneimittel, Heil- und Hilfsmittel, Labortechnologie oder Diagnostika sowie Versorgungs- und Versicherungsformen. In der vergleichenden gesundheitsökonomischen Analyse können ökonomisch günstigere, qualitativ gleichwertige oder bessere Alternativen aufgezeigt werden. Hierzu kann auch Stacking zählen, da es geringere Dosierungen und damit meist auch geringere Kosten bedingen kann.
+Die Gesundheitsökonomie verfolgt den Gedanken nach Erfüllung wirtschaftlicher Prinzipien: Es wird eine Beziehung zwischen dem zusätzlichen Nutzen einer Intervention und der Knappheit von verbrauchten Ressourcen hergestellt.
+Des Weiteren ist es Intention der Gesundheitsökonomie, Wechselwirkungen zwischen dem Gesundheitssystem und der Volkswirtschaft zu analysieren.
+
+
+== Kernelemente der gesundheitsökonomischen Evaluation ==
+In der gesundheitsökonomischen Analyse haben Standards zur Durchführung und zur Publikation von gesundheitsökonomischen Studien einen hohen Stellenwert erhalten. Sie legen notwendige Inhalte und Verfahren für die gesundheitsökonomische Analyse fest.
+
+
+=== Perspektiven ===
+Bei der Betrachtung der Kosten und Nutzen einer spezifischen Gesundheitsleistung oder -maßnahme ist die Beachtung unterschiedlicher Sichtweisen wichtig. Je nach gewählter Betrachtungsperspektive wird eine gesundheitsökonomische Analyse zu völlig unterschiedlichen Ergebnissen führen. Was für den Patienten vorteilhaft ist, muss nicht für die in der Zahlungsverpflichtung stehende Krankenversicherung oder für den Arbeitgeber erstrebenswert sein.
+Üblicherweise wird zwischen folgenden grundlegenden Perspektiven unterschieden:
+
+Patient: zum Beispiel finanzielle Belastung oder Zuzahlungen.
+Leistungserbringer (Arzt, Krankenhaus): zum Beispiel Vergütung von Dienstleistungen oder Kostenstruktur.
+Krankenkasse: zum Beispiel Kostenerstattung.
+Gesellschaft: zum Beispiel Verteilungsgerechtigkeit, Allokation oder Erhalt der Gesundheit und Arbeitsfähigkeit.
+Arbeitgeber: zum Beispiel Arbeitsausfall oder Frühberentung.
+Versichertengemeinschaft der GKV: Neueinführung durch das Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen
+
+
+=== Nutzenbewertung ===
+Bei der Bewertung spielen neben den direkten Kosten und Nutzen vor allem die indirekten, positiven und negativen externen Effekte einer Gesundheitsleistung eine erhebliche Rolle. Da Nutzen nicht nur aus monetären Größen besteht, müssen auch medizinische oder epidemiologische Outcome-Einheiten berücksichtigt werden. Beispiele hierfür sind gewonnene symptomfreie Tage, die Anzahl vermiedener Tumore, Veränderungen des Blutdrucks oder zusätzlich gewonnene Lebensjahre bei lebensrettenden Maßnahmen.
+
+
+=== Kostenbewertung ===
+Kosten in der Gesundheitsökonomie sind unter anderem der Verbrauch von monetären Mitteln für eine oder mehrere durchgeführte medizinische Maßnahmen.
+Kosten stehen allerdings nicht nur in Zusammenhang mit Geldmitteln; viel mehr können Kosten in der Gesundheitsökonomie auch negative Effekte (z. B. Nebenwirkungen) sein, die durch eine Maßnahme entstehen. Sie stehen damit in direktem Zusammenhang mit dem Nutzen.
+Die Bedeutung der Kosten ist abhängig von der Sichtweise.
+Für einen Patienten sind die monetären Kosten einer von der Krankenkasse abgedeckten Behandlung uninteressant, während sie für die Krankenkasse am bedeutendsten sind.
+Die Nebenwirkungen der Behandlung sind die für den Patienten wichtigen Kosten.
+Die Gesundheitsökonomie unterscheidet für eine genauere Definition verschiedene Arten von Kosten.
+Die wichtigsten sind:
+
+
+=== Direkte Kosten ===
+Direkte Kosten sind die monetären Mittel, die zur Behandlung eines Patienten notwendig sind.
+Sie umfassen Kosten für Medikamente, Labor, Personal, Verwaltung und andere Materialien, die zur Behandlung benötigt werden.
+Auch Kosten, die durch eine Behandlung entstehen, sind direkte Kosten. (z. B. Kosten zur Behandlung von Nebenwirkungen).
+Direkte Kosten sind bei Retrospektiven Studien nur schwer zu ermitteln, da häufig eine genaue Erfassung der Kosten nicht möglich ist.
+Bei einer Prospektiven Studie können die Kosten beliebig genau ermittelt werden.
+
+
+=== Indirekte Kosten ===
+Indirekte Kosten sind monetäre Kosten, die für den Patienten im persönlichen Umfeld, z. B. durch Verdienstausfall aufgrund von Krankheit entstehen.
+Dem gegenüber steht der indirekte Nutzen, der durch Verbesserung der Gesundheit des Patienten und der damit verbesserten Leistungsfähigkeit einhergeht (z. B. Patient ist wieder arbeitsfähig).
+Häufig wird zur Abschätzung von Kosten und Nutzen der Humankapital-Ansatz verwendet, der zur Berechnung des Produktivitätsverlustes durch Behandlung oder Krankheit das Einkommen des Patienten zu Grunde legt. Benachteiligt werden hier Personen ohne Verdienst, die keinen indirekten Nutzen durch Steigerung ihrer Produktivität haben.
+
+
+=== Intangible Kosten ===
+Nicht direkt monetär messbare Kosten und Nutzen bezeichnet man als intangibel.
+Man unterscheidet physische, psychische und soziale Faktoren.
+Dazu zählen beispielsweise Angst, Schmerz, Stress, Freude, Glück, Veränderung der Compliance oder der Lebensqualität.
+Zum Messen von intangiblen Effekten gibt es mehrere Ansätze. Der QALY Ansatz (Quality adjusted Lifeyears) ist hier sehr geläufig.
+Die Zuordnung von Kosten ergibt sich aus der Bereitschaft Geld auszugeben, um positiv besetzte Ergebnisse wie Glück zu erzielen oder um negativ bewertete Ergebnisse wie Schmerz oder Angst zu vermeiden.
+
+
+== Methoden der gesundheitsökonomischen Evaluation ==
+Grundlage einer methodisch wohl begründeten Evaluation sind Modelle und Daten. Diese Daten werden entweder systematisch erfasst oder in Stichproben erhoben oder aus anderen Daten geschätzt. Durch ein Prozessmodell werden die Daten strukturiert und für die Analyse bereitgestellt. Die Granularität der Modellierung wird dem Ziel der Evaluation angemessen bestimmt.
+
+
+=== Kostenanalysen ===
+Kostenanalysen sind elementarer Bestandteil von Wertprojekten, bei denen es stets um die Wertoptimierung des betrachteten Produktfokus (z. B. Produkt, Baugruppe, Unternehmensbereich, Geschäftsprozess) geht. Dabei werden die wertbestimmenden Komponenten Nutzen und Aufwand entsprechend der Projektzielsetzung, des Projektumfelds und der verfügbaren Ressourcen abgebildet und analysiert.
+
+
+=== Kosten-Minimierungs-Analysen ===
+Die Kosten-Minimierungs-Analyse stellt die einfachste Variante einer ökonomischen Studie dar. Belegen klinische Daten mindestens die Gleichwertigkeit zweier Therapiealternativen, wird des geringeren Aufwandes wegen oft nur noch die Kostenseite betrachtet. Ziel ist es, die kostengünstigere Alternative zu ermitteln. Die Kosten-Minimierungs-Analyse, die gelegentlich auch als Kosten-Kosten-Analyse bezeichnet wird, stellt einen Spezialfall der weiter unten behandelten Kosten-Effektivitäts-Analyse dar.
+
+
+=== Kosten-Nutzen-Analysen ===
+Bei der Kosten-Nutzen-Analyse (auch KNA) werden alle zukünftigen, auf die Gegenwart bezogenen diskontierten Erträge und Kosten eines Projektes errechnet und, vorausgesetzt es gibt Alternativen, mit deren Wert verglichen.
+Es handelt sich dabei um ein Analyseverfahren, bei dem die dringend benötigten Kosten gegen die vermuteten Erträge aufgewogen werden. Hierbei werden sowohl die Kosten als auch die Nutzen in Geldeinheiten gemessen, so dass man die Wirtschaftlichkeit einer Behandlung direkt ermitteln kann. Übersteigt der (monetarisierte) Nutzen die Kosten, ist die Behandlung sinnvoll. Problem: Wenn mehrere Projekte gleichzeitig stattfinden, ist es schwierig, die Kosten und Nutzen den Projekten angemessen zuzurechnen.
+
+
+=== Kosten-Effektivitäts-Analysen ===
+
+Die Kosten-Effektivitäts-Analyse (abgekürzt KEA) stellt die Kosten von Arzneitherapien ihren Wirkungen gegenüber. Im Gegensatz zur Kosten-Nutzen-Analyse wird das therapeutische Ergebnis nicht monetär, sondern als eine klinische oder physikalische Größe dargestellt. Dies können Surrogatparameter (Laborwert, Blutdruck) oder patientenrelevante Wirksamkeitsmaße (Outcome) wie zum Beispiel vermiedene Krankheitstage oder gewonnene Lebensjahre sein. Voraussetzung ist, dass die untersuchten Interventionen identische klinische Endpunkte haben und die Verdichtung auf einen einzigen Zielparameter den oft komplexen Wirkungen und Nebenwirkungen einer Arzneimitteltherapie noch gerecht wird. Darüber hinaus existiert die Annahme oder gegebenenfalls das Problem, dass die Endpunkte, wie zum Beispiel die gewonnenen Lebensjahre, qualitativ gleichwertig sind.
+Das Ergebnis einer Kosten-Effektivitäts-Analyse könnte absolut als für eine klinische oder physikalische Einheit aufgewendeter Geldbetrag dargestellt werden. Da in der Regel Therapiealternativen untersucht werden, ist jedoch die inkrementelle Darstellung sinnvoller und deshalb Standard: Die zusätzlichen Kosten einer neuen im Vergleich zur etablierten Therapie werden zur zusätzlich gewonnenen Effektivität ins Verhältnis gesetzt. In der englischsprachigen Literatur hat sich dafür die Abkürzung ICER für »incremental cost-effectiveness ratio« eingebürgert.
+Einer der häufigsten Ergebnisparameter einer KEA sind die Kosten pro zusätzlich gewonnenem Lebensjahr (engl. cost per life-year gained, kurz CLYG).
+
+
+=== Kosten-Nutzwert-Analyse ===
+Die Kosten-Nutzwert-Analyse ist eine ökonomische Untersuchung, in welcher die Kosten monetär, die Konsequenzen jedoch als Nutzen respektive Nutzwerte ausgedrückt werden.
+Der Nutzwert ist eine Größe, welche die Präferenzen der betroffenen Zielgruppe wiedergibt und den Gesundheitszustand derselben reflektiert.
+Eine der häufigsten Anwendungen ist die Beurteilung der Lebensqualität von Patienten in gesundheitsökonomischen Analysen. Hierbei werden Werte zwischen 0 (Tod) und 1 (vollkommene Gesundheit) definiert. Die Multiplikation dieses so genannten Nutzwertes mit der Lebenserwartung ergibt die qualitätsbereinigten Lebensjahre. Die Messung der Lebensqualität aus Sicht des Patienten hat sich zu einer eigenen Forschungsrichtung entwickelt. Sie ist sehr aufwändig. Auch besteht noch kein Konsens über ein ideales Verfahren. Dennoch führt die Betrachtung der Patientensicht dazu, dass nicht mehr nur die reine Lebensverlängerung als primäres therapeutisches Ziel gesehen wird und unter Umständen alle verfügbaren Mittel bindet, sondern auch subjektiv relevante Lebensqualitätsverbesserungen – wie zum Beispiel die Verbesserung des Sehvermögens – einen angemessenen Stellenwert erhalten. Als Wirksamkeitsmaß hat sich die Maßeinheit des qualitätsbereinigten Lebensjahres QALY für »quality-adjusted life year« durchgesetzt, dem die dafür aufzuwendenden Kosten gegenübergestellt werden.
+Mit einer solchen indikationsunabhängigen Normierung des Behandlungsergebnisses werden Vergleiche zwischen verschiedenen Maßnahmen im Gesundheitswesen möglich.
+
+
+=== Wirtschaftlichkeitsanalysen für Arzneimittel in Deutschland ===
+Seit 2007 ist das IQWiG ein gesetzlich verankertes Institut, das sich mit der Prüfung des Nutzens im Verhältnis zu den Kosten neu zugelassener Arzneimittel beschäftigt. Eine Vorreiterrolle hatte Australien, das eine solche Einrichtung schon 1987 etabliert hat. Neben Kanada und der Schweiz folgten auch viele europäische Staaten 1994.
+Bisher galt, sobald die Zulassung für neue Medikamente nach Prüfung der Qualität, Wirksamkeit und Unbedenklichkeit erteilt war, dass die pharmazeutische Industrie die Preise frei festlegen konnte und die Krankenkassen die Kosten bei ärztlicher Verschreibung erstatten mussten.
+
+
+== Kritik und Grenzen ==
+Die Analyse und Steuerung der Gesundheitsökonomie wird von vielen im Gesundheitswesen beschäftigten Experten kritisch betrachtet. Oftmals entscheiden sich Politiker gegen die Rationalisierungs- und Rationierungsempfehlungen der Gesundheitsökonomen, da diese aus politischen Gründen nicht umsetzbar sind (e.g. Krankenhausschließungen).
+Da die Gesundheitsökonomie sehr medizin- und pharmalastig ist, wird die soziale Lebenswelt jedes einzelnen Patienten in weiten Teilen außer Acht gelassen. Eine sehr starke Konzentration auf Preis- und Marktmechanismen, sowie deren Eigennutzen lassen viele Experten an den Methoden der Gesundheitsökonomen zweifeln. Die Unabhängigkeit gesundheitsökonomischer Analysen wird oft bezweifelt, weil die meisten Studien im Auftrag von Interessengruppen (wie der Pharmaindustrie, der Mediziner oder der Krankenversicherungen) erstellt und finanziert werden.
+Gefordert werden bessere Erklärungen und tragfähige Lösungen, die durch eine leicht verständliche Gesundheitsökonomie umgesetzt werden können. Methoden wie „Standard-Gamble“ und „Time-Trade-Off“ sind nur bedingt geeignet, da sie sehr aufwändig, kostspielig und somit schwer in den Alltag einzubringen sind.
+Die Gesundheitsökonomie wird stark von methodischen Grenzen beeinflusst. Hierzu zählt die Lebensqualität, sowie die Monetarisierung von Nutzen. Eine weitere, nicht außer Acht zu lassende Grenze ist die Wertschätzung des Lebens. Ethische Konfliktsituationen treten häufig auf und sind auch Gegenstand der Medizinethik.
+
+
+== Studium ==
+Mehrere deutsche Hochschulen bieten mittlerweile ein interdisziplinär ausgerichtetes Studium zur Gesundheitsökonomie an. Es ist in der Regel in die Bereiche Betriebs- und Volkswirtschaftslehre, Sozialwissenschaften sowie zunehmend auch Wirtschaftsinformatik eingebettet.
+Ziel ist es zum einen das Verständnis für gesundheitsökonomische Zusammenhänge in einem Gesamtkonzept zu vermitteln, zum anderen die Effizienz von Gesundheitsmitteln gegen ihre Kosten abzuwägen. Dazu werden neben dem Hauptfach Gesundheitsökonomie unter anderem Module für Management im Gesundheitsbereich, Qualitätssicherung, Entscheidungstheorie sowie gesundheitsökonomische Evaluation aber auch Kosten- und Leistungsrechnung, Organisation und Personalwesen oder Marketing gelehrt. Medizin und die Arbeit mit Patienten spielen dagegen keine wesentliche Rolle.
+
+
+== Ethik ==
+Neben den betriebswirtschaftlichen und finanziellen Zielen ergeben sich ebenso ethische Fragen nach Gerechtigkeit und Gleichheit im modernen Gesundheitswesen. Gesundheitsökonomen stehen der schwierigen Aufgabe gegenüber, das ökonomische und ethische Gleichgewicht in ihren Analysen zu vereinigen.
+
+
+== Siehe auch ==
+Epidemiologie, Gesundheitsberichterstattung, Gesundheitsmanagement, Pharmakoökonomie
+Deutsche Gesellschaft für Gesundheitsökonomie
+
+
+== Literatur ==
+Kornelia van der Beek, Gregor van der Beek: 'Gesundheitsökonomik – Einführung.' Oldenbourg Verlag, München 2011, ISBN 978-3-486-58686-2.
+Hartmut Berghoff, Malte Thießen (Hrsg.): Themenheft Gesundheitsökonomien, Zeithistorische Forschungen 17 (2020), Heft 2.
+Friedrich Breyer, Peter Zweifel, Mathias Kifmann: Gesundheitsökonomik. 5., überarb. Auflage, Springer, Berlin/ Heidelberg 2005.
+Michael F. Drummond u. a.: Methods for the Economic Evaluation of Health Care Programmes. 3., überarb. Auflage. Oxford University Press, Oxford 2005, ISBN 3-540-22816-0.
+Leonhard Hajen, Holger Paetow, Harald Schuhmacher: Gesundheitsökonomie. Strukturen – Methoden – Praxisbeispiele. 4., überarb. u. erw. Auflage. Kohlhammer, Stuttgart 2007, ISBN 978-3-17-019938-5.
+Karl W. Lauterbach, Matthias Schrappe (Hrsg.): Gesundheitsökonomie, Qualitätsmanagement und Evidence-based Medicine. eine systematische Einführung. 2., überarb. Auflage. Schattauer, Stuttgart/ New York 2003,
+Karl W. Lauterbach, Stephanie Stock, Helmut Brunner (Hrsg.): Gesundheitsökonomie. Lehrbuch für Mediziner und andere Gesundheitsberufe. Hans Huber, 2006, ISBN 3-456-84333-X.
+Peter Oberender, Thomas Ecker: Grundelemente der Gesundheitsökonomie. PCO-Verlag, Bayreuth 2001, ISBN 3-931319-78-4.
+David Matusiewicz, Jürgen Wasem: Gesundheitsökonomie in Deutschland – ein Blick zurück nach vorne. In: Mühlbauer u. a.: Zukunftsperspektiven der Gesundheitswirtschaft. LIT-Verlag, 2012, S. 420–439.
+G. Noelle, E. Jaskulla, P. T. Sawicki: Aspekte zur gesundheitsökonomischen Bewertung im Gesundheitssystem. In: Bundesgesundheitsblatt – Gesundheitsforschung – Gesundheitsschutz. 49, 2006, S. 28–33.
+Thomas Rice: Stichwort: Gesundheitsökonomie. Eine kritische Auseinandersetzung. KomPart-Verlag, Bonn 2004.
+Reinhard Rychlik: Gesundheitsökonomie. Gesundheit und Praxis. Ferdinand Enke Verlag, Stuttgart 1999.
+Herbert Rebscher: Gesundheitsökonomie und Gesundheitspolitik. Economica Verlag, Heidelberg 2006.
+Dennis Häckl: Neue Technologien im Gesundheitswesen. Gabler Verlag|Springer Fachmedien Wiesbaden, Leipzig 2010, ISBN 978-3-8349-2410-0.
+O. Schöffski, J. M. Graf v. d. Schulenburg Gesundheitsökonomische Evaluationen. 3. Auflage. Springer, 2007.
+
+
+== Weblinks ==
+Kommentierte Literatur- und Linkliste zu Gesundheitsökonomie
+HealthEconomics.Com – Übersichtsseite für gesundheitsökonomische Ressourcen im Web (in Englisch)
+iHEA – Die internationale Vereinigung der Gesundheitsökonomen (in Englisch)
+Reinhard Busse, Detlev Ganten, Stefan Huster, Erich Reinhardt, Norbert Suttorp, Urban Wiesing: Diskussionspapier: 'Zum Verhältnis von Medizin und Ökonomie im deutschen Gesundheitssystem'. Nationale Akademie der Wissenschaften Leopoldina (Herausgeber: Jörg Hacker), Oktober 2016, S. 28, abgerufen am 28. Oktober 2016. 
+
+
+== Einzelnachweise ==

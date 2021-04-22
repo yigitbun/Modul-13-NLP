@@ -1,0 +1,48 @@
+Cadmiumoxid ist eine chemische Verbindung des Cadmiums und zählt zu den Oxiden. Es kommt in zwei unterschiedlichen Formen als amorphes Pulver oder kristalline Verbindung vor, die sich in ihren Eigenschaften deutlich unterscheiden.
+
+
+== Vorkommen ==
+Cadmiumoxid kommt in der Natur in Form des seltenen Minerals Monteponit vor.
+
+
+== Gewinnung und Darstellung ==
+Cadmiumoxid lässt sich durch die Oxidation von Cadmiumdampf mit Sauerstoff oder von Cadmiumschmelzen mit anderen Oxidationsmitteln gewinnen.
+
+  
+    
+      
+        
+          2
+           
+          C
+          d
+          +
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          C
+          d
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ Cd+O_{2}\longrightarrow 2\ CdO} }
+  Alternativen sind die thermische Zersetzung von Cadmiumcarbonat oder Cadmiumnitrat. Auch beim Rösten von Cadmiumsulfid entsteht Cadmiumoxid.
+
+
+== Eigenschaften ==
+
+Amorphes Cadmiumoxid ist ein gelbes, je nach Partikelgröße auch braunes bis schwarzes Pulver mit einer Dichte von 6,95 g·cm−3. Es ist leicht reduzierbar und in Wasser und Basen unlöslich. Löslich ist es in verdünnten Säuren, Ammoniak, Ammoniumsalz-Lösungen sowie Natriumcyanidlösung. Beim starken Erhitzen in einer Sauerstoffatmosphäre wandelt es sich in das kristalline Cadmiumoxid um. Dieses ist dunkelrot, beim Erhitzen ändert sich die Farbe jedoch zu Schwarz.Cadmiumoxid kristallisiert im kubischen Kristallsystem in der Raumgruppe Fm3m (Raumgruppen-Nr. 225)Vorlage:Raumgruppe/225 mit dem Gitterparameter a = 4,695 Å sowie vier Formeleinheiten pro Elementarzelle. Die Struktur entspricht damit der Natriumchloridstruktur. Es handelt sich bei Cadmiumoxid wie bei Zinkoxid um ein nichtstöchiometrisches Oxid, bei dem ein geringer Unterschuss an Oxidionen im Vergleich zu den Cadmiumionen herrscht. Dies wird – im Gegensatz zu Zinkoxid, bei dem zusätzliche Zinkionen in tetraedrischen Zwischengitterplätzen vorhanden sind – durch Fehlstellen im Oxidgitter verursacht. Durch unterschiedliche Anzahl an Fehlstellen je nach Temperatur wird auch die typische Farbänderung verursacht.Cadmiumoxid ist ein II-VI-Verbindungshalbleiter mit einem für ein Salz geringen spezifischen Widerstand von 5,5·10−3 Ω · cm bei 0 °C  und einer Bandlücke von 2,16 eV.
+
+
+== Verwendung ==
+Cadmiumoxid wird als Glaszusatz für Anlaufgläser, spezielle Farbgläser, die ihre Färbung erst nach einer Temperung (Wärmebehandlung) annehmen, und als Hydrierungs- und Dehydrierungskatalysator in der organischen Synthesechemie verwendet. Legiert mit Silber, schützt es die Oberfläche von hochbelasteten  elektrischen Relaiskontakten.
+
+
+== Einzelnachweise ==

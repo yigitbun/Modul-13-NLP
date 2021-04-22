@@ -1,0 +1,128 @@
+Unter Nutzen (englisch utility) versteht man in der Wirtschaftswissenschaft das Maß an Bedürfnisbefriedigung, das den Wirtschaftssubjekten aus dem Konsum von Gütern und Dienstleistungen entsteht.
+
+
+== Allgemeines ==
+Als Wirtschaftssubjekte, die einen Nutzen erzielen können, kommen Privathaushalte, Unternehmen, sonstige Personenvereinigungen und der Staat mit seinen Untergliederungen (öffentliche Verwaltung, öffentliche Unternehmen und Kommunalunternehmen) in Betracht. Erforderlich ist, dass diese Wirtschaftssubjekte ihren Bedarf durch Konsum von Gütern und Dienstleistungen decken müssen, um einen Nutzen hieraus erzielen zu können. Das ist bei den Privathaushalten ausschließlich der Fall, während Unternehmen dies nur mit der betrieblichen Funktion der Beschaffung von Roh-, Hilfs- und Betriebsstoffen verwirklichen können. Die erworbenen Produkte und Dienstleistungen stiften einen Nutzen, wenn sie der Bedürfnisbefriedigung der Wirtschaftssubjekte dienen. Dabei entsteht der Nutzen durch die Verbindung der Eigenschaften eines Konsumguts und den Zweckvorstellungen des Konsumenten. Während Unternehmen das Ziel der Gewinnmaximierung verfolgen, betreiben Privathaushalte Nutzenmaximierung. Die Gewinnmaximierung lässt sich in Form des Gewinns quantifizieren, der Nutzen hingegen ist in hohem Maße subjektiv (englisch customer benefit) und hängt vor allem davon ab, ob Produkt oder Dienstleistung zur Verwirklichung der individuellen Werthaltungen beiträgt. Deshalb beschränkt sich der ordinale Nutzen auf die Bildung einer Rangfolge im Hinblick auf die Bedeutung verschiedener Güter und Dienstleistungen für einen Konsumenten:
+
+  
+    
+      
+        
+          U
+          
+            1
+          
+        
+        >
+        
+          U
+          
+            2
+          
+        
+        >
+        
+          U
+          
+            3
+          
+        
+        >
+        
+          U
+          
+            4
+          
+        
+      
+    
+    {\displaystyle U_{1}>U_{2}>U_{3}>U_{4}}
+  Das Gut 
+  
+    
+      
+        
+          U
+          
+            1
+          
+        
+      
+    
+    {\displaystyle U_{1}}
+   stiftet demnach mehr Nutzen als Gut 
+  
+    
+      
+        
+          U
+          
+            2
+          
+        
+      
+    
+    {\displaystyle U_{2}}
+   und dieses wiederum mehr als 
+  
+    
+      
+        
+          U
+          
+            3
+          
+        
+      
+    
+    {\displaystyle U_{3}}
+   usw. Diese Rangfolgen können präferenzbedingt für jeden Konsumenten unterschiedlich sein.
+
+
+== Geschichte ==
+
+Ausgehend von der philosophisch-ethischen Richtung des Utilitarismus, hat dessen grundlegende Kategorie „Nutzen“ auf breiter Front Eingang in die moderne Ökonomik wie beispielsweise in der Kosten-Nutzen-Analyse gefunden. Das Wort „Utilitarismus“ ist von „Nutzen/Vorteil“ (lateinisch utilitas) abgeleitet, auf dem der englische Fachbegriff (englisch utility) zurückzuführen ist. Einer seiner ersten Vertreter war Jeremy Bentham mit der kardinalen Nutzentheorie (Nutzen als metrische Größe), wie sie in seinem 1789 erschienenen Buch „An introduction to the Principles of Morals and Legislation“ zum Ausdruck kam. Der deutsche Ökonom Hermann Heinrich Gossen stellte 1854 in seinem Werk „Entwickelung der Gesetze des menschlichen Verkehrs und der daraus fließenden Regeln für menschliches Handeln“ Regeln auf, die lange unbeachtet blieben und erst später als Gossensche Gesetze oder „Gesetzmäßigkeiten der Bedürfnisbefriedigung“ bezeichnet wurden. Kernpunkt des Werks ist das Gesetz vom abnehmenden Grenznutzen im Rahmen der kardinalen Nutzentheorie. Danach ist der Nutzen der letzten Verbrauchseinheit umso geringer, je mehr bereits von einem bestimmten Gut konsumiert worden ist (erstes Gossen'sches Gesetz). Das zweite Gossen'sche Gesetz befasst sich mit der Frage, wie der Konsument sein Einkommen bei gegebenen Marktpreisen so auf verschiedene Güter aufteilt, dass er Nutzenmaximierung erreichen kann. Nach Gossen ist Nutzen jedoch nicht nur ein Problem der Intensität des Genusses, sondern auch der Zeit, in der dieser Nutzen genossen wird. Wesentliche Weiterentwicklungen der kardinalen Nutzentheorie sind William Stanley Jevons (1871), Carl Menger (1871) und Léon Walras (1874) gelungen. Sie gehen davon aus, dass jedes Individuum unterschiedliche Nutzenausprägungen anhand einer Kardinalskala vergleichen kann. Die kardinale Nutzenlehre geht davon aus, dass der Nutzen genauso messbar sei wie etwa das Gewicht. Im Jahr 1881 schlug Francis Ysidro Edgeworth das Hedonimeter, ein Nutzen- bzw. Glücksmessgerät, vor, das auf Basis physiologischer Parameter arbeiten sollte, aber wissenschaftlich ohne Belang blieb. Edgeworth argumentierte, dass Nutzen wegen der Atome des Genusses (englisch atoms of pleasure) oder anhand der eben merklichen Zunahme (englisch just perceivable increment) messbar sei. Alfred Marshall sah 1890 den Nutzen in Abhängigkeit zum Preis eines Gutes, gleichgültig, ob sich Nutzen objektiv oder nur subjektiv aus einem Gut ablesen lasse.Die größte Schwäche der bisherigen Nutzenbetrachtungen ist darin zu erblicken, dass sich eine subjektive Größe wie der Nutzen nicht in Zahlen ausdrücken lässt wie es die Auffassung der kardinalen Nutzenlehre war. In der modernen ordinalen Nutzenlehre beschränkte sich die Untersuchung auf die Festlegung von Rangfolgen. Diese ordinale Nutzentheorie entwickelte im Jahre 1906 der italienische Ökonom Vilfredo Pareto, nach dessen Pareto-Optimum die wohlfahrtsstaatlichen Ressourcen so verteilt sind, dass für mindestens einen Akteur die aktuelle Situation nicht mehr zu verbessern ist und sich für die Übrigen die Bedürfnisbefriedigung nicht verschlechtert hat. Er entwickelte mit seiner „Theorie der Wahlakte“ eine ordinale Messbarkeit des Nutzens anhand von Indifferenzkurven. Die ordinale Nutzentheorie fordert im Gegensatz zur kardinalen lediglich eine individuelle Rangordnung der Nutzenausprägungen durch verschiedene Güter. So kann nach der ordinalen Nutzentheorie jedes Individuum eine Rangordnung der einzelnen Nutzenausprägungen für sich angeben, ohne jedoch die Differenz der Nutzenwerte exakt beziffern zu können. Paul Anthony Samuelson fand 1937 heraus, wenn ein bestimmtes Güterbündel einem anderen vorgezogen wird, dass das präferierte Güterbündel einen höheren Nutzen stiftet. Dieser Nutzen wird auch als Entscheidungsnutzen bezeichnet. Nach dem hedonistischen Konzept spricht man vom erfahrenen Nutzen. Wilhelm Vershofen entwickelte 1940 ein Nutzenschema zur Beschreibung der Bedeutung von Konsumgütern für den Konsumenten.
+Auf der Grundlage des im Jahre 1738 von Daniel Bernoulli entwickelten Bernouilli-Prinzips entstand durch John von Neumann und Oskar Morgenstern zwischen 1944 und 1947 die Erwartungsnutzentheorie, die die Grundlage rationalen Handelns bei Entscheidungen unter Risiko bildet. Ihr zufolge ist der Erwartungsnutzen bei Entscheidungen zu maximieren. Sie erweiterten den Nutzenbegriff um die Unsicherheit des Eintritts der nutzenauslösenden Bedingung in der Zukunft. John von Neumann und Oskar Morgenstern haben hiermit einen Weg vorgeschlagen, aus dem ordinalen Nutzen zweier Güter den kardinalen Nutzen dieser Güter abzuleiten. Hierzu wird dem Individuum eine Lotterie empfohlen, bei der mit einer gewissen Wahrscheinlichkeit Gut A bzw. Gut B gewonnen werden kann. Wenn das Individuum Entscheidungen zwischen jeweils zwei solcher Lotterien mit verschiedenen Wahrscheinlichkeiten fällt, lässt sich aus der Reihe der gefällten Entscheidungen ein kardinaler Erwartungsnutzen beider Güter ableiten. Kardinale Nutzenwerte finden sich auch in der Zufallsnutzen-Theorie (englisch Random utility theory), die beispielsweise Daniel McFadden 1973 für die Analyse von Konsumenten-Entscheidungen nutzt. Daniel Kahneman und Amos Tversky stellten 1979 mit ihrer Prospect Theory eine Alternative zur Erwartungsnutzentheorie vor.
+In der wirtschaftswissenschaftlichen Diskussion ist die ökonomische Glücksforschung (englisch Happiness economics) mittlerweile fest etabliert. Die Vertreter der Glücksforschung berufen sich auf die Erkenntnisse der Verhaltensökonomik und behaupten, dass Menschen nicht immer rationale Entscheidungen treffen, weswegen man ihren wahren Nutzen nicht aus den von ihnen getroffenen Entscheidungen ablesen kann.
+
+
+== Arten ==
+Man unterscheidet zwischen utilitaristischem, hedonistischem und symbolischem Nutzen:
+
+Utilitaristischer oder funktionaler Nutzen ist ein problemlösender Nutzen in der klassischen ökonomischen Theorie, wobei der Wert eines Produktes durch seinen utilitaristischen Wert bestimmt wird. Der ökonomische Nutzen ergibt sich aus dem Preis-Leistungs-Verhältnis. Wilhelm Vershofen unterteilte den funktionalen Nutzen 1959 in den stofflich-technischen Grundnutzen und den geistig-seelischen Zusatznutzen.
+Hedonistisch-sinnlicher Nutzen: er beschreibt das Potenzial eines Produktes, den Konsumenten bei seiner Verwendung Freude, Vergnügen und Spaß erleben zu lassen. Er fokussiert sich auf individuelle, persönlichkeitsbezogene und damit emotionale Prozesse eines Käufers.
+Symbolischer Nutzen (Geltungsnutzen): Produkte können auch als Mittel zum Ausdruck oder zur Verstärkung der eigenen Identität verwendet werden (Statussymbol). Das Produkt vermittelt für den Käufer Prestige, Identifikation, Gruppenzugehörigkeit, Selbstverwirklichung und Erlebniswert.
+
+
+== Volkswirtschaftlicher und betriebswirtschaftlicher Nutzen ==
+Wegen der unterschiedlichen Erkenntnisobjekte wird der Nutzenbegriff in beiden Wissenschaften unterschiedlich verwendet.
+
+
+=== Volkswirtschaftslehre ===
+Die Volkswirtschaftslehre griff den Nutzen als erste auf und untersuchte ihn umfassend im Hinblick auf seine Bedeutung für die Wirtschaftssubjekte. Das Streben der Haushalte nach Nutzenmaximierung ist eine der zentralen Annahmen der Volkswirtschaftslehre. Im Privathaushalt ist gemäß dem Rationalprinzip das gegebene Einkommen so auf Güter und Dienstleistungen aufzuteilen, dass der Haushaltsnutzen maximiert werden kann und das Haushaltsoptimum erreicht wird. Bei einem bestimmten Konsumniveau tritt meist Sättigung ein, der Grenznutzen (englisch marginal utility) wird null oder gar negativ; dies ist der Inhalt des ersten Gossen'schen Gesetzes. Aus Präferenzbeziehungen bestimmter Rangfolgen von Gütern kann eine Präferenzordnung abgeleitet werden. Unter idealisierenden Annahmen über die Beschaffenheit menschlicher Präferenzen (z. B. Sättigung bei zunehmender Ausstattung mit einem Gut) sowie unter Nutzung idealisierter Produktionsfunktionen zieht die neoklassische Wirtschaftswissenschaft Folgerungen hinsichtlich Preisen, Angebot und Nachfrage, Produktion und Konsum. Die Mikroökonomie lebt von der Erkenntnis, dass im Marktgleichgewicht Nutzenmaximierung herrscht. Dieser Gleichgewichtszustand ist zugleich Pareto-optimal, da er so beschaffen ist, dass man kein Individuum besser stellen kann, ohne dadurch ein anderes Individuum schlechter zu stellen (normativ-wertende Verwendung des Nutzenbegriffs).
+
+
+=== Betriebswirtschaftslehre ===
+
+Die Betriebswirtschaftslehre untersucht den Nutzen insbesondere mit Hilfe der Kosten-Nutzen-Analyse (englisch cost-benefit analysis), die ihren Ursprung um 1844 in Frankreich hatte. Hier plante der französische Straßenbau- und Brückenbauingenieur Jules Dupuit seine Projekte bereits nach Nutzen- und Kostenkriterien. Die Kosten-Nutzen-Analyse kommt heute vorwiegend auch im öffentlichen Sektor bei öffentlichen Unternehmen und Kommunalunternehmen zum Einsatz, da nach § 7 BHO und § 6 Abs. 1 HGrG und den gleichlautenden Bestimmungen der LHO die Grundsätze der Wirtschaftlichkeit und Sparsamkeit zu beachten sind. Die Nutzwertanalyse ist eine Analysemethode der Entscheidungstheorie, die bei Investitionsrechnungen eine Rolle spielt.
+Die Betriebswirtschaftslehre untersucht zudem den Kundennutzen in seinen Ausprägungen funktionaler (Basisfunktion des Produkts), ökonomischer (Effizienz bei der Produktverwendung), prozessbezogener (Handhabung eines Produkts), emotionaler (ausgelöste Gefühle des Kunden) und sozialer Nutzen (Gefühle im sozialen Kundenumfeld). Das Unternehmen muss eine Positionierung anstreben, die sein Produkt aus Kundensicht als einzigartig erscheinen lässt. Der betriebswirtschaftliche Nutzenbegriff wird z. B. für die Erforschung des Kaufverhaltens oder das Produktdesign verwendet.
+
+
+== Disnutzen ==
+Der Nutzen kann auch negativ werden, er heißt dann Disnutzen. Der englische Nationalökonom Adam Smith sprach in seinem Grundlagenwerk Der Wohlstand der Nationen (März 1776) vom Arbeitsleid als der Anstrengung und Mühe (englisch toil and trouble), die aufgewendet werden müssten, um ein Gut zu erwerben. Der aus dem Genuss der Freizeit resultierende Freizeitnutzen führe dazu, dass Arbeit für den Arbeitnehmer keinen direkten Nutzen stifte, sondern im Gegenteil Arbeitsleid (englisch disutility, „sozialer Unwert“, „Disnutzen“) verursache. 
+Dieser Disnutzen lässt sich auch anhand der Risikopräferenzen erklären. Risikoneutrale Wirtschaftssubjekte ordnen dem Risiko weder einen Disnutzen noch einen Nutzen zu. Risikoaverse gehen von einem Disnutzen aus, wobei sie zu dessen Vermeidung bereit sind, eine Risikoprämie zu zahlen. Risikofreudige Akteure sehen in der Risikoübernahme stets eine Nutzensteigerung, wofür sie von ihrem Kontrahenten die Risikoprämie vereinnahmen können. Wirtschaftssubjekte optimieren ihre Ziele (Unternehmensziele, persönliche Ziele, Staatsziele) durch Gewinnmaximierung oder Nutzenmaximierung oder minimieren Disnutzen oder Kosten. Der negative Grenznutzen wird „Übel“ genannt. 
+
+
+== Bedeutung ==
+Der Nutzen stellt den Kern der ökonomischen Theorie und somit des wirtschaftlichen Handelns dar und ist deshalb eines der zentralen ökonomischen Konstrukte. Ging man bis in das späte 19. Jahrhundert noch von der kardinalen Messbarkeit des Nutzens aus, so beschränkt sich die moderne Nutzenlehre auf skalierbare Rangfolgen von nützlichen Gütern und Dienstleistungen, die interpersonell nicht vergleichbar sind. Die Ergebnisse der Nutzenlehre sind im Alltag anwendbar und weit verbreitet, denn bei Konsumentscheidungen liegen beim Konsumenten stets auch – mehr oder weniger – Nutzenüberlegungen zugrunde. Diese berücksichtigen den Gebrauchswert genauso wie den Nutzwert eines Gutes. Bei Nutzenfragen spielt die Vergleichbarkeit eine Rolle, dem Merkmal einer kardinalen Skalierung; genau genommen leben wir in einer kardinal skalierten Welt. Auch andere Wirtschaftssubjekte berücksichtigen in starkem Maße Fragen der Nützlichkeit und wenden dabei die Nutzwertanalyse an.
+
+
+== Literatur ==
+Paul A. Samuelson: A Note on Measurement of Utility, Review of Economic Studies 4 (1937) S. 155–161.
+Wilhelm Vershofen: Handbuch der Verbrauchsforschung, Berlin 1940.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

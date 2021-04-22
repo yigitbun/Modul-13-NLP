@@ -1,0 +1,81 @@
+Berkelium(IV)-oxid ist ein Oxid des Elements Berkelium. Es besitzt die Summenformel BkO2. Da alle Isotope des Berkeliums nur künstlich hergestellt sind, besitzt Berkelium(IV)-oxid keine natürlichen Vorkommen. Es entsteht unter anderem implizit in geringen Mengen in Kernreaktoren beim Bestrahlen von Urandioxid (UO2) bzw. Plutoniumdioxid (PuO2) mit Neutronen.
+
+
+== Darstellung ==
+Berkelium(IV)-oxid ist ein brauner Feststoff und kristallisiert im kubischen Kristallsystem in der Fluorit-Struktur in der Raumgruppe Fm3m (Nr. 225)Vorlage:Raumgruppe/225 mit den Koordinationszahlen Bk[8], O[4]. Der Gitterparameter beträgt 533,4 ± 0,5 pm.
+
+
+== Reaktionen ==
+Berkelium(III)-oxid (Bk2O3) entsteht aus BkO2 durch Reduktion mit Wasserstoff:
+
+  
+    
+      
+        
+          2
+          
+          
+            BkO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            Bk
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2 BkO2 + H2 -> Bk2O3 + H2O}}}
+  
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen und eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielen. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+David E. Hobart, Joseph R. Peterson: Berkelium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 1444–1498 (doi:10.1007/1-4020-3598-5_10).

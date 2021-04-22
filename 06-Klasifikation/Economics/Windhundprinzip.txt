@@ -1,0 +1,29 @@
+Windhundprinzip oder Windhundverfahren bezeichnet ein Verfahren, bei dem der Zugang zu einer nur begrenzt vorhandenen Ressource von der ressourcenverwaltenden Stelle nur nach der zeitlichen Reihenfolge der Bedarfsanmeldungen, nicht jedoch nach anderen Kriterien freigegeben wird. Die bekannteste und prägnanteste deutsche Formulierung dieser Regel ist die sprichwörtliche Wendung: „Wer zuerst kommt, mahlt zuerst.“ Ein vergleichbares Verfahren in juristischen Zusammenhängen ist das Prioritätsprinzip.
+
+
+== Anwendung ==
+
+Angewendet wird das Windhundprinzip heute zum Beispiel bei dem Verkauf von Eintrittskarten für ein Konzert, da die Sitzplätze oder Eintrittskarten ohne Ansehen der Person einfach der Reihe nach vergeben werden.
+Die grundsätzliche Stärke des Windhundprinzips, nämlich die Reduzierung der Vergabeauswahl auf ein einziges ausschlaggebendes Kriterium (den Zeitpunkt des Nachfrageeingangs), ist zugleich die entscheidende Schwäche: Zusätzliche Kriterien, wie z. B. die erhöhte Bedürftigkeit eines Antragstellers, dürfen strenggenommen nicht berücksichtigt werden.
+Das Windhundprinzip bezieht sich ausdrücklich auf eine begrenzte Ressource; falls die Ressource nicht begrenzt ist, sondern eine im Prinzip unbegrenzten Menge nach ihrer zeitlichen Reihenfolge geordnet wird, wird dieses Ordnungsprinzip als First In – First Out oder First come, first served („Zuerst gekommen, zuerst bedient“) bezeichnet.
+
+
+== Probleme bei der Umsetzung auf elektronischer Basis ==
+Das klassische Windhundverfahren weist zwei wichtige Merkmale auf, die sich nur mit erhöhtem Aufwand elektronisch – beispielsweise bei Webanmeldungen – abbilden lassen:
+
+Es gibt nur eine Schlange, und der Zugriff auf die Ressource erfolgt exklusiv. Das oben beschriebene Beispiel über den Konzertkartenverkauf stellt streng genommen eine ganze Reihe von isolierten Windhundverfahren dar, nämlich eines pro Verkaufsstelle (wenn diese nicht vernetzt sind).
+Die Schlange kann sich beliebig lange vor Beginn der Aktion bilden und ist nur durch den individuell in Kauf genommenen Aufwand beschränkt. Bei sehr begehrten Konzerten kann es daher durchaus passieren, dass Leute schon einen Tag früher zur Verkaufsstelle kommen und dort campen.
+
+
+== Manipulationsmöglichkeiten ==
+Das Windhundverfahren in der Variante mit mehreren Einzelverfahren ist anfällig für Absprachen zwischen Teilnehmern: So können zwei Teilnehmer ihre Chancen verbessern, indem sie sich zu unterschiedlichen Schlangen begeben. Je nach Ziel kauft entweder der erste die Karten für beide Personen, oder, sofern es sich um Listen handelt, tragen beide Personen auch den jeweils anderen mit ein.
+Im elektronischen Umfeld kommt hinzu, dass sich Webanfragen leicht automatisieren lassen, so dass sich Benutzer mit Programmierkenntnissen einen Vorteil verschaffen können.
+Ein weiteres Problem ist das des Schwarzmarktes: Wer es einmal bis zum Anfang der Schlange geschafft hat, kann oft deutlich mehr Karten kaufen, als er für sich selbst braucht, und diese dann überteuert verkaufen. Dies ist insbesondere dann problematisch, wenn die Ressource selbst kostenfrei ist.
+
+
+== Siehe auch ==
+Gießkannenprinzip
+Rasenmäherprinzip
+
+
+== Einzelnachweise ==

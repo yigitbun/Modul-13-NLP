@@ -1,0 +1,28 @@
+Computergenealogie bezeichnet die methodische Unterstützung der Familiengeschichtsforschung durch Computer, sowie den zunehmenden Austausch genealogischer Daten im Internet. Die Computergenealogie ist in Ergänzung zur traditionellen Genealogie (einer historischen Hilfswissenschaft) entstanden und stellt eine methodische Aufbereitung der Daten dar (siehe Genealogieprogramme). In den deutschsprachigen Ländern sind viele dieser Familienforscher im Verein für Computergenealogie organisiert, der auch das GenWiki betreibt. Weltweit wird der Markt jedoch zunehmend von kommerziellen Anbietern dominiert.
+Während Genealogen ihre Daten überwiegend in schriftlicher Form in Archiven und Bibliotheken aller Art sammeln (siehe Genealogische Quellen), bieten Digitalisierungsprojekte und Datenbanken weitere Möglichkeiten der Suche. Bei der Vielzahl der zu erfassenden Originalquellen kann es allerdings lange dauern, bis die für die Forschung relevanten Quellen erfasst und digital beispielsweise über das Internet zugänglich sind. Rechtliche Gründe (beispielsweise das Abwarten von Schutzfristen) oder Unsicherheiten und Vorbehalte der Eigentümer der Originaldokumente können diesen Prozess bisweilen verlangsamen.
+Die Datenabfragen basieren bis heute auf der Grundlage der rund 3,5 Milliarden Familiendokumente, welche die Kirche Jesu Christi der Heiligen der Letzten Tage aus religiösen Gründen im US-Bundesstaat Utah sammelt und kostenlos im Internet zur Verfügung stellt (FamilySearch). Im direkten Umfeld dieses Archivs ist der kommerzielle Anbieter Ancestry.com mit mehreren Firmenzukäufen und einer umfangreichen weltweiten Datensammlung in öffentlichen Archiven zu einem marktbeherrschenden Anbieter aufgestiegen. Das Unternehmen bietet zudem einen ebenfalls kostenpflichtigen Internet-Abgleich von DNA-Profilen an, der (unerwartete) familiäre Verbindungen aufzeigen soll. Auch der Anbieter MyHeritage.com ist in mehreren lukrativen Märkten führend und unterhält eine Zusammenarbeit mit dem DNA-Test-Marktführer 23andMe.Die DNA-Analyse zur Genetischen Genealogie wirft rechtliche und ethische Fragen auf, die zum heutigen Zeitpunkt noch nicht ausreichend geklärt sind. 
+
+
+== Publikationsmöglichkeiten für genealogische Forschungsergebnisse ==
+auf einer eigenen Homepage, durch das Bereitstellen einer GENDEX-Datei, deren Daten über einen globalen Index gefunden werden können
+in Genealogie-Datenbanken, einschließlich vorhandener GEDCOM-Dateien
+
+
+== Siehe auch ==
+Computergenealogie (Zeitschrift)
+Genealogische Zeichen und Symbole
+Liste genealogischer Datenbanken
+
+
+== Literatur ==
+Matthew L. Helm, April Leigh Helm, Birgit Wendt (Hrsg.): Ahnenforschung online für Dummies. 2. Auflage. mitp, Bonn 2004, ISBN 3-8266-3099-8.
+Verein für Computergenealogie: Familienforschung. Ahnenforschung leicht gemacht. Computergenealogie für jedermann. Ausgabe 2019/2020. Ehlers, Bremen 2019, ISBN 978-3-934624-35-1 (Info).
+Thomas Wieke: Ahnenforschung. So erkunden Sie Ihre Familiengeschichte. Stiftung Warentest, Berlin 2013, ISBN 978-3-86851-085-0, S. 127–153.
+
+
+== Weblinks ==
+Verein für Computergenealogie: Homepage. (CompGen).
+Verein für Computergenealogie: GenWiki.
+
+
+== Einzelnachweise ==

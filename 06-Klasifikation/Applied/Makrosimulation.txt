@@ -1,0 +1,8 @@
+Eine Makrosimulation ist eine Simulation (meistens mit Hilfe elektronischer Datenverarbeitung, EDV), deren Ziel es ist, komplexe Vorgänge oder Situationen zu simulieren, ohne die einzelnen Bestandteile in besonderer Weise zu betrachten. Anwendung finden solche Simulationen etwa in der koordinierten Bevölkerungsvorausberechnung des Statistischen Bundesamtes, in der Astronomie oder der Meteorologie, wo Vorhersagen über zukünftige Entwicklungen gemacht werden sollen.
+
+
+== Siehe auch ==
+Mikrosimulation
+
+
+== Einzelnachweise ==

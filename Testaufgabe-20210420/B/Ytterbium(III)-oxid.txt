@@ -1,0 +1,233 @@
+Ytterbium(III)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide.
+
+
+== Vorkommen ==
+Ytterbium(III)-oxid kommt natürlich in Spuren im Mineral Gadolinit vor. Es wurde 1878 von Jean Charles Galissard de Marignac aus diesem isoliert.
+
+
+== Gewinnung und Darstellung ==
+Ytterbium(III)-oxid lässt sich durch Reaktion von Ytterbium mit Sauerstoff gewinnen.
+
+  
+    
+      
+        
+          4
+           
+          Y
+          b
+          +
+          3
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          Y
+          
+            b
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ Yb+3\ O_{2}\longrightarrow 2\ Yb_{2}O_{3}} }
+  Es kann auch durch thermale Zersetzung von Ytterbiumcarbonat oder Ytterbiumoxalat bei Temperaturen um 700 °C gewonnen werden.
+
+  
+    
+      
+        
+          Y
+          
+            b
+            
+              2
+            
+          
+          (
+          
+            C
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+          
+            )
+            
+              3
+            
+          
+          ⟶
+          Y
+          
+            b
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          3
+           
+          C
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Yb_{2}(C_{2}O_{4})_{3}\longrightarrow Yb_{2}O_{3}+3\ CO_{2}+3\ CO} }
+  
+
+
+== Eigenschaften ==
+
+Ytterbium(III)-oxid ist ein weißes Pulver. Wie die anderen dreiwertigen Oxide der schwereren Lanthanoide kristallisiert es in einer kubischen Lanthanoid-C-Struktur. Es reagiert mit Tetrachlorkohlenstoff oder heißer Salzsäure zu Ytterbium(III)-chlorid.
+
+  
+    
+      
+        
+          2
+           
+          Y
+          
+            b
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          C
+          C
+          
+            l
+            
+              4
+            
+          
+          ⟶
+          4
+           
+          Y
+          b
+          C
+          
+            l
+            
+              3
+            
+          
+          +
+          3
+           
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ Yb_{2}O_{3}+3\ CCl_{4}\longrightarrow 4\ YbCl_{3}+3\ CO_{2}} }
+  
+  
+    
+      
+        
+          Y
+          
+            b
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          6
+           
+          H
+          C
+          l
+          ⟶
+          2
+           
+          Y
+          b
+          C
+          
+            l
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Yb_{2}O_{3}+6\ HCl\longrightarrow 2\ YbCl_{3}+3\ H_{2}O} }
+  
+
+
+== Verwendung ==
+Ytterbium(III)-oxid wird als Zusatz für spezielle Legierungen und dielektrische Keramikwerkstoffe, als Katalysator und in Spezialgläsern verwendet. Es kann auch als Zusatz für Kohlenstoff-Elektroden von Lichtbogenlampen verwendet werden, die ein sehr helles Licht erzeugen.
+
+
+== Einzelnachweise ==

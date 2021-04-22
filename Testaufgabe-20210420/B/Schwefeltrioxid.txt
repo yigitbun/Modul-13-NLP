@@ -1,0 +1,310 @@
+Schwefeltrioxid, SO3, ist das Anhydrid der Schwefelsäure. Es bildet bei Normbedingungen farblose, nadelförmige Kristalle, die äußerst hygroskopisch sind und sehr heftig (explosiv) mit Wasser reagieren. Es existieren für den Feststoff Schwefeltrioxid drei verschiedene Modifikationen. Einatmen hat Reizerscheinungen zur Folge, in der Lunge wird daraus Schwefelsäure, die ein lebensgefährliches Lungenödem auslösen kann.
+
+
+== Gewinnung und Darstellung ==
+Schwefeltrioxid wird technisch im Kontaktverfahren durch mit Vanadiumpentoxid katalysierte Oxidation von Schwefeldioxid mit Luftsauerstoff bei 420 °C hergestellt. Reines Schwefeltrioxid erhält man durch Abdestillieren aus Oleum, welches ein Zwischenprodukt bei der Schwefelsäureherstellung ist. Das zunächst gasförmige abdestillierte Schwefeltrioxid wird anschließend durch Kühlung zu flüssigem Schwefeltrioxid kondensiert. Bei Kondensation und Lagerung sind enge Temperaturgrenzen einzuhalten, da Festpunkt und Siedepunkt sehr nahe beieinander liegen.
+Um kleinere Mengen Schwefeltrioxid zu erhalten, kann man es auch aus einer Mischung von Schwefelsäure und Phosphorpentoxid oder Metaphosphorsäure (H4P4O12, cyclo-Phosphat) abdestillieren.
+Schwefeltrioxid lässt sich jedoch auch durch die Oxidation von Schwefeldioxid mit Stickstoffdioxid darstellen.
+
+
+== Eigenschaften ==
+
+
+=== Chemische Eigenschaften ===
+Das Schwefeltrioxid-Molekül kann durch drei gleichwertige mesomere Grenzstrukturen beschrieben werden:
+
+Es liegt im Gleichgewicht mit S3O9-Molekülen vor. Wird (gasförmiges) SO3 unter −80 °C abgekühlt, bildet sich das sog. γ-SO3. Dieses besteht aus S3O9-Molekülen. Es ist nicht planar aufgebaut, sondern formt einen gewellten Ring. Dabei sind die Schwefelatome von Sauerstoff verzerrt tetraedisch umgeben.
+
+Schwefeltrioxid verkohlt augenblicklich Gummi und die meisten Kunststoffe wie PVC, nur spezielle Kunststoffe wie beispielsweise Teflon und Perfluoralkoxy sind relativ beständig.
+
+
+=== Molekülgeometrie ===
+Gasförmiges Schwefeltrioxid liegt als Monomer vor und besitzt gemäß dem VSEPR-Modell eine trigonal-planare Molekülgeometrie. Die drei OSO-Winkel betragen dabei 120°. Die drei gleichlangen Doppelbindungen haben eine Länge von 143 pm.
+Schwefeltrioxid besitzt als Molekülsymmetrie die Punktgruppe D3h.
+
+
+== Verwendung ==
+Gasförmiges Schwefeltrioxid dient hauptsächlich zur Herstellung von Schwefelsäure:
+
+  
+    
+      
+        
+          S
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {SO_{3}+H_{2}O\longrightarrow H_{2}SO_{4}} }
+  In Wasser löst sich das gasförmige SO3 nur sehr langsam und wird daher in konzentrierte Schwefelsäure eingeleitet, wobei sich Dischwefelsäure (H2S2O7) bildet. Mit Wasser wird diese dann zu Schwefelsäure umgesetzt:
+
+  
+    
+      
+        
+          S
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          ⟶
+          
+            H
+            
+              2
+            
+          
+          
+            S
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {SO_{3}+H_{2}SO_{4}\longrightarrow H_{2}S_{2}O_{7}} }
+  
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          
+            S
+            
+              2
+            
+          
+          
+            O
+            
+              7
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}S_{2}O_{7}+H_{2}O\longrightarrow 2\ H_{2}SO_{4}} }
+  Weiter zur Herstellung von Fluorsulfonsäure und Chlorsulfonsäure
+
+  
+    
+      
+        
+          S
+          
+            O
+            
+              3
+            
+          
+          +
+          H
+          F
+          ⟶
+          F
+          S
+          
+            O
+            
+              3
+            
+          
+          H
+        
+      
+    
+    {\displaystyle \mathrm {SO_{3}+HF\longrightarrow FSO_{3}H} }
+  Vermischt man Schwefeltrioxid mit Alkoholen, entstehen Schwefelsäureester:
+
+  
+    
+      
+        
+          S
+          
+            O
+            
+              3
+            
+          
+          +
+          R
+          
+          −
+          
+          O
+          H
+           
+          ⟶
+           
+          R
+          
+          −
+          
+          O
+          −
+          S
+          
+            O
+            
+              3
+            
+          
+          H
+        
+      
+    
+    {\displaystyle \mathrm {SO_{3}+R\!-\!OH\ \longrightarrow \ R\!-\!O-SO_{3}H} }
+  Diese Reaktion wird bei der Herstellung von Tensiden genutzt:
+
+  
+    
+      
+        
+          S
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            C
+            
+              12
+            
+          
+          
+            H
+            
+              23
+            
+          
+          
+          −
+          
+          O
+          H
+           
+          ⟶
+           
+          
+            C
+            
+              12
+            
+          
+          
+            H
+            
+              23
+            
+          
+          
+          −
+          
+          O
+          −
+          S
+          
+            O
+            
+              3
+            
+          
+          H
+        
+      
+    
+    {\displaystyle \mathrm {SO_{3}+C_{12}H_{23}\!-\!OH\ \longrightarrow \ C_{12}H_{23}\!-\!O-SO_{3}H} }
+  Die Schwefelsäureester werden mit Natronlauge neutralisiert und liefern so Fettalkoholsulfate.
+Weiter ist Schwefeltrioxid als Oxidationsmittel geeignet. Es wurde auch zur Herstellung von Rauchgranaten benutzt, da bereits ein Tropfen flüssiges Schwefeltrioxid einen großen Raum komplett einnebeln kann.
+
+
+== Messtechnische Erfassung von Schwefeltrioxid-Emissionen ==
+Schwefeltrioxid-Emissionen können mit einem Kondensationsverfahren ermittelt werden, bei dem ein Teilstrom des zu beprobenden Abgases mittels einer beheizten Entnahmesonde dem Abgas entnommen und in ein Kondensationsgefäß geleitet wird. Die Randbedingungen im Kondensationsgefäß bewirken, dass Schwefeltrioxid als Schwefelsäure abgeschieden wird. Die quantitative Bestimmung des Sulfats erfolgt per Ionenchromatographie oder Titration.Eine weitere Methode zur Messung von Schwefeltrioxid ist das 2-Propanol-Verfahren. Bei diesem Verfahren wird das beladene Abgas durch eine Lösung mit 2-Propanol geleitet. Im Gegensatz zu Schwefeldioxid wird Schwefeltrioxid durch diese Lösung sehr gut absorbiert. Nach Abschluss der Probenahme wird das absorbierte Schwefeltrioxid mit einer Bariumperchloratlösung gegen Thorin titriert. Dieses Verfahren hat sich in der Praxis nicht bewährt.
+
+
+== Einzelnachweise ==

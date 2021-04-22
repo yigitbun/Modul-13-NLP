@@ -1,0 +1,36 @@
+Thorotrast und Umbrathor sind die Handelsnamen für ein 1929 in den Markt eingeführtes Röntgenkontrastmittel, auf der Basis einer stabilisierten kolloidalen 25%igen Suspension von Thoriumdioxid. Es wurde bis zu seinem Verbot Mitte der 1950er Jahre vor allem als Kontrastmittel für die Angiographie verwendet. Die hohe Ordnungszahl und die hohe Atommasse von Thorium bewirken eine starke Absorption von Röntgenstrahlen durch dieses Kontrastmittel. Bei ersten Anwendungen konnten vor der Markteinführung keine unmittelbaren Nebenwirkungen bei Patienten festgestellt werden. Man wusste zwar, dass das Thorium radioaktiv ist, aber das sehr langlebige Isotop 232Th – natürliches Thorium besteht zu 100 Prozent aus diesem Isotop mit einer Halbwertszeit von 1,405 · 1010 Jahren – wurde als harmlos eingestuft. Dies war ein fataler Irrtum, wie sich viele Jahre später herausstellen sollte.
+
+
+== Toxikologie ==
+Das kolloidale Thoriumdioxid reichert sich im retikulohistiozytären System an und kann dort aufgrund örtlich erhöhter Strahlenbelastung zu Krebs führen. Es bestehen klare Assoziationen zwischen Thorotrast und dem Gallengangskarzinom, außerdem können ein Angiosarkom oder ein Hämangioendotheliom der Leber, sonst sehr seltene bösartige Tumoren, durch Thorotrast induziert werden. Karzinome der Nasennebenhöhlen nach der Verabreichung von Thorotrast sind ebenfalls beschrieben. Typischerweise treten die Erkrankungen 30 bis 35 Jahre nach der Exposition auf. Die biologische Halbwertszeit – die Zeit, bis 50 Prozent des verabreichten Thoriumdioxids aus dem Körper ausgeschieden sind – beträgt etwa 400 Jahre.
+
+
+== Anwendung ==
+Meist wurde das Kontrastmittel in Mengen von ca. 25 ml unverdünnt intravenös oder intraarteriell injiziert. Die dabei in den Körper gebrachte Menge Thorium betrug ca. 5 Gramm.
+
+
+== Thorotrast in den Medien ==
+Der dänische Regisseur und Chirurg Nils Malmros hat im Jahr 2002 unter dem deutschen Titel „In Kenntnis der Wahrheit“ (orig. At kende sandheden, engl. Facing the Truth) einen biographischen Film über seinen Vater Richard Malmros gedreht. In dem preisgekrönten Film wird das Dilemma von Malmros' Vater verdeutlicht, entweder das als Kontrastmittel für die Diagnostik hervorragend geeignete Thorotrast – mit den ihm bekannten langfristigen Nebenwirkungen zu verwenden – oder die einzige damals verfügbare Alternative (Per-Abrodil = Diethanolamin-3,5-diiodpyridon-4-essigsäure mit Iod als absorbierender Komponente), welches erhebliche unmittelbare Nebenwirkungen zeigte, einen deutlich schlechteren Bildkontrast lieferte und zudem im Zweiten Weltkrieg schwierig zu besorgen war.
+
+
+== Alternativen ==
+An Stelle von Thorotrast werden heute deutlich verbesserte aromatische Iodderivate als intravenöse oder intraarterielle Röntgenkontrastmittel verwendet.
+
+
+== Literatur ==
+John Abbatt: History of the Use and Toxicity of Thorotrast in Environmental Research, 18/1979, S. 6–12.
+W. E. Strole, J. Wittenberg: Case records of the Massachusetts General Hospital. Weekly clinicopathological exercises. Case 15-1981. In: N Engl J Med 304, 1981, S. 893–899.
+K. Wegener, H. Wesch, H. Kampmann: Investigations into human thorotrastosis. Tissue concentrations of 232-Th and late effects in 13 autopsy cases. In: Virchows Arch A Pathol Anat Histol. 371/1976, S. 131–143.
+J. L. Poggio, D. M. Nagorney, A. G. Nascimento u. a.: Surgical treatment of adult primary hepatic sarcoma. In: Br J Surg. 87/2000, S. 1500–1505.
+A. Spiethoff, H. Wesch, K. Wegener u. a.: Translocation of Thorotrast in the body. In: Radiat Res. 138/1994, S. 409–414.
+T. Mori, C. Kido, K. Fukutomi u. a., Summary of entire Japanese thorotrast follow-up study: updated 1998. In: Radiat Res. 152/1999, S. 84–87.
+C. W. Mays: Alpha-particle-induced cancer in humans. In: Health Phys. 55/1988, S. 637–652.
+J. S. da Horta: Late effects of thorotrast on the liver and spleen, and their efferent lymph nodes. In: Ann NY Acad Sci. 145/1967, S. 676–699.
+J. D. Abbatt: History of the use and toxicity of thorotrast. In: Environ Res. 18/1979, S. 6–12.
+C. F. Tessmer, J. P. Chang: Thorotrast localization by light and electron microscopy. In: Ann NY Acad Sci. 145/1967, S. 545–575.
+H. Irie, W. Mori: Long term effects of thorium dioxide (thorotrast) administration on human liver. Ultrastructural localization of thorium dioxide in human liver by analytical electron microscopy. In: Acta Pathol Jpn. 34/1984, S. 221–228.
+J. A. Terzakis, S. C. Sommers, R. W. Snyder u. a.: X-ray microanalysis of hepatic thorium depositions. In: Arch Pathol. 98/1974, S. 241–242.
+A. Odegaard, E. M. Ophus, A. M. Larsen: Identification of thorium dioxide in human liver cells by electron microscopic X-ray microanalysis. In: J Clin Pathol. 31/1978, S. 893–896.
+
+
+== Einzelnachweise ==

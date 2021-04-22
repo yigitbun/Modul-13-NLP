@@ -1,0 +1,55 @@
+Titan(III)-oxid ist eine anorganische chemische Verbindung des Titans aus der Gruppe der Oxide.
+
+
+== Gewinnung und Darstellung ==
+Titan(III)-oxid kann durch Reaktion von Titan mit Titan(IV)-oxid bei 1600 °C gewonnen werden.
+
+  
+    
+      
+        
+          T
+          i
+          +
+          3
+           
+          T
+          i
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          T
+          
+            i
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Ti+3\ TiO_{2}\longrightarrow 2\ Ti_{2}O_{3}} }
+  Es kann auch durch Reaktion von Kohlenmonoxid mit Titan(IV)-oxid bei 800 °C hergestellt werden.
+
+
+== Eigenschaften ==
+Titan(III)-oxid ist ein dunkelviolettes bis schwarzes Pulver, das unlöslich in Wasser ist. Es löst sich in Schwefelsäure unter Violettfärbung der Säure. Bei Erwärmung mit Flusssäure und Königswasser erfolgt eine Zersetzung. Seine Kristallstruktur ist trigonal, isotyp zu der von Korund mit Raumgruppe R3c (Raumgruppen-Nr. 167)Vorlage:Raumgruppe/167 (a = 514,8 pm, c = 1363,6 pm). Die Verbindung existiert im Bereich von TiO1,49 bis TiO1,51. Unterhalb von 200 °C ist es ein Halbleiter, darüber metallisch leitend.
+
+
+== Verwendung ==
+Titan(III)-oxid wird als Ausgangsmaterial für Interferenzschichten, Dünnschichtwiderstände und Kondensatoren verwendet.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,761 @@
+Opening (im deutschen auch Öffnen bzw. Öffnung) ist eine morphologische Basis-Operation in der digitalen Bildverarbeitung. Das Öffnen dient u. a. der Unterdrückung lokaler Störungen durch helle Bildpunkte oder dem Ausfiltern kleiner Strukturen. Die zum Öffnen duale Operation ist das Schließen.
+
+
+== Formale Definition ==
+Gegeben sei ein vollständiger Verband 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  . Ein Operator 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   auf 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   ist ein (algebraisches) Öffnen, wenn für alle 
+  
+    
+      
+        x
+        ,
+        y
+        ∈
+        V
+      
+    
+    {\displaystyle x,y\in V}
+   gilt:
+
+  
+    
+      
+        γ
+        (
+        x
+        )
+        ≤
+        x
+      
+    
+    {\displaystyle \gamma (x)\leq x}
+  ; d. h. der Operator ist anti-extensiv (das Ergebnis ist „kleiner“ als das Original)
+
+  
+    
+      
+        x
+        ≤
+        y
+        ⇒
+        γ
+        (
+        x
+        )
+        ≤
+        γ
+        (
+        y
+        )
+      
+    
+    {\displaystyle x\leq y\Rightarrow \gamma (x)\leq \gamma (y)}
+  ; d. h. die Ordnungsstruktur des Verbandes bleibt durch die Operation erhalten.
+
+  
+    
+      
+        γ
+        
+          (
+          
+            γ
+            (
+            x
+            )
+          
+          )
+        
+        =
+        γ
+        (
+        x
+        )
+      
+    
+    {\displaystyle \gamma \left(\gamma (x)\right)=\gamma (x)}
+  ; d. h. der Operator ist idempotent (ein mehrmaliges Anwenden führt zu keiner weiteren Veränderung des Ergebnisses).
+
+
+== Öffnen in der Binärbildmorphologie ==
+Im Fall der Binärbildmorphologie ist der Verband 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   gegeben durch den Potenzmengenverband aller Bildpunkte. Ein Binärbild wird also aufgefasst als Punktmenge. Die ersten beiden der oben genannten Eigenschaften lassen sich dann wie folgt formulieren:
+
+Durch ein Öffnen werden keine zusätzlichen Bildpunkte gesetzt, sondern höchstens Punkte entfernt.
+Wenn ein Bild 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   ein Bild 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   als Teilmenge enthält, so gilt, dass nach einem Öffnen auch das Ergebnis von 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   auch das Ergebnis von 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   enthält. Man beachte, dass es sich nicht um echte Teilmengen handeln muss. Daraus folgt u. a., dass zwei unterschiedliche Bilder durch ein Öffnen auf dasselbe Bild abgebildet werden können. Ein Öffnen ist also i.a. nicht umkehrbar (es wird also Information vollständig gelöscht).Diese Definition ist sehr weit gefasst; in der Praxis haben sich verschiedene Verfahren etabliert, die im Folgenden kurz skizziert werden.
+
+
+=== Öffnen mittels strukturierendem Element ===
+
+Ein Spezialfall ist das Öffnen mittels strukturierendem Element. Es ist wie folgt definiert:
+
+  
+    
+      
+        A
+        ∘
+        X
+        =
+        (
+        A
+        ⊖
+        X
+        )
+        ⊕
+        X
+      
+    
+    {\displaystyle A\circ X=(A\ominus X)\oplus X}
+  Es handelt sich also um das nacheinander Ausführen einer Erosion und einer Dilatation jeweils mit demselben strukturierenden Element. Durch die Erosion werden alle Strukturen gelöscht, die kleiner sind als das strukturierende Element. Die anschließende Dilatation macht die Erosion für den verbleibenden Rest wieder rückgängig.
+Anschaulicher wird die Definition, wenn man sie umschreibt zu 
+
+  
+    
+      
+        A
+        ∘
+        X
+        =
+        
+          ⋃
+          
+            {
+            y
+            
+              |
+            
+            
+              X
+              
+                y
+              
+            
+            ⊆
+            A
+            }
+          
+        
+        
+          X
+          
+            y
+          
+        
+      
+    
+    {\displaystyle A\circ X=\bigcup _{\{y|X_{y}\subseteq A\}}X_{y}}
+   wobei 
+  
+    
+      
+        
+          X
+          
+            y
+          
+        
+      
+    
+    {\displaystyle X_{y}}
+   das um 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   verschobene Element 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   darstellt.
+Das Öffnen eines Bildes 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   mit einem strukturierenden Element 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   ist also die Vereinigung aller verschobenen Versionen von 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  , die vollständig in 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   enthalten sind.
+
+
+=== Öffnen mittels Größe ===
+Beim Öffnen mittels Größe werden alle zusammenhängenden Strukturen gelöscht, die weniger Bildpunkte enthalten als ein bestimmter Schwellenwert. Auch dieser Operator genügt der formalen Definition des Öffnens.
+
+
+=== Öffnen mittels Rekonstruktionsfilter ===
+Die bedingte Dilatation von 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   mit 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   unter der Bedingung 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   ist definiert zu
+
+  
+    
+      
+        A
+        
+          ⊕
+          
+            B
+          
+        
+        X
+        =
+        (
+        A
+        ⊕
+        X
+        )
+        ∩
+        B
+      
+    
+    {\displaystyle A\oplus _{B}X=(A\oplus X)\cap B}
+  .Man dilatiert also 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   mit 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   und „schneidet“ anschließend alle Punkte ab, die nicht in 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   liegen. Wählt man als strukturierendes Element 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   die Einheitsumgebung (also die benachbarten Pixel eines Punktes), so spricht man von der geodätischen Dilatation
+
+  
+    
+      
+        
+          δ
+          
+            B
+          
+          
+            (
+            1
+            )
+          
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle \delta _{B}^{(1)}(A)}
+  .Die n-te geodätische Dilatation ist definiert zu
+
+  
+    
+      
+        
+          δ
+          
+            B
+          
+          
+            (
+            n
+            )
+          
+        
+        (
+        A
+        )
+        =
+        
+          δ
+          
+            B
+          
+          
+            (
+            1
+            )
+          
+        
+        (
+        
+          δ
+          
+            B
+          
+          
+            (
+            n
+            −
+            1
+            )
+          
+        
+        (
+        A
+        )
+        )
+      
+    
+    {\displaystyle \delta _{B}^{(n)}(A)=\delta _{B}^{(1)}(\delta _{B}^{(n-1)}(A))}
+  .Man nimmt also nach und nach alle benachbarten Pixel hinzu, die in der unmittelbaren Umgebung des Bildes liegen und prüft, ob sie auch noch in 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   liegen. Wiederholt man diesen Vorgang beliebig oft, so erreicht man irgendwann den Punkt, an dem sich nichts mehr verändert. Man bezeichnet dies als die Rekonstruktion von 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   aus dem Marker 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+
+  
+    
+      
+        
+          ρ
+          
+            A
+          
+        
+        (
+        B
+        )
+        =
+        
+          ⋃
+          
+            n
+            ≥
+            1
+          
+        
+        
+          δ
+          
+            B
+          
+          
+            (
+            n
+            )
+          
+        
+        (
+        A
+        )
+      
+    
+    {\displaystyle \rho _{A}(B)=\bigcup _{n\geq 1}\delta _{B}^{(n)}(A)}
+  .Ist der Marker 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   aus dem Bild 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   durch ein Öffnen mittels strukturierendem Element 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+   gewonnen worden, so bezeichnet man dies als Öffnen durch Rekonstruktion
+
+  
+    
+      
+        
+          μ
+          
+            X
+          
+        
+        (
+        B
+        )
+        =
+        
+          ρ
+          
+            A
+          
+        
+        (
+        B
+        )
+        ;
+        A
+        =
+        B
+        ∘
+        X
+      
+    
+    {\displaystyle \mu _{X}(B)=\rho _{A}(B);A=B\circ X}
+  .
+
+
+=== Beispiel ===
+Die folgende Abbildung zeigt die Ergebnisse der unterschiedlichen Verfahren.
+Das Originalbild ist in (a) dargestellt, das in (b) nach Größe geöffnet wurde.
+Bei einem Öffnen mit einem Kreis als strukturierendem Element (gelb dargestellt) erhält man das Ergebnis (c). Die linke untere Struktur wird vollständig gelöscht, da der Kreis nicht „hineinpasst“. Das Bild (d) schließlich ist die Rekonstruktion von (a) aus (c), also ein Rekonstruktionsöffnen mit dem Kreiselement.
+
+
+== Öffnen in der Grauwertmorphologie ==
+Im Fall der Grauwertmorphologie ist der Verband 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   die Menge aller Funktionen 
+  
+    
+      
+        D
+        ↦
+        
+          R
+        
+      
+    
+    {\displaystyle D\mapsto \mathbb {R} }
+  . Formal benötigt man für die Definition (um einen vollständigen Verband zu erhalten) die Werte -∞ und +∞. In der Praxis von Bedeutung ist allerdings nur der Fall von diskretem, endlichen Definitions- und Wertebereich.
+Die allgemeinen Eigenschaften des Öffnens werden dann wie folgt dargestellt:
+
+  
+    
+      
+        γ
+        (
+        f
+        (
+        x
+        )
+        )
+        ≤
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle \gamma (f(x))\leq f(x)}
+  ; 
+  
+    
+      
+        ∀
+        x
+        ∈
+        D
+      
+    
+    {\displaystyle \forall x\in D}
+   (kein Bildpunkt erhält einen Wert, der höher ist als das Original, d. h. das Bild wird an keinem Punkt heller)
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        ≤
+        g
+        (
+        x
+        )
+        ⇒
+        γ
+        
+          (
+          
+            f
+            (
+            x
+            )
+          
+          )
+        
+        ≤
+        γ
+        
+          (
+          
+            g
+            (
+            x
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle f(x)\leq g(x)\Rightarrow \gamma \left(f(x)\right)\leq \gamma \left(g(x)\right)}
+  ; 
+  
+    
+      
+        ∀
+        x
+        ∈
+        D
+      
+    
+    {\displaystyle \forall x\in D}
+   (wenn ein Bild 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   an jedem Punkt nicht heller ist als ein zweites Bild 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  , so ist das geöffnete Bild 
+  
+    
+      
+        γ
+        
+          (
+          
+            f
+            (
+            x
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle \gamma \left(f(x)\right)}
+   auch an keinem Punkt heller als 
+  
+    
+      
+        γ
+        
+          (
+          
+            g
+            (
+            x
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle \gamma \left(g(x)\right)}
+  ).Analog zur Binärbildmorphologie gibt es auch hier verschiedene etablierte Verfahren.
+
+
+=== Öffnen mittels strukturierendem Element ===
+Die Definition erfolgt analog zur Binärbildmorphologie.
+
+  
+    
+      
+        A
+        ∘
+        X
+        =
+        (
+        A
+        ⊖
+        X
+        )
+        ⊕
+        X
+      
+    
+    {\displaystyle A\circ X=(A\ominus X)\oplus X}
+  Die Anschauung ist (fast) analog zu der im Fall der Binärbildmorphologie. Auch hier bleiben die Strukturen erhalten, in die das strukturierende Element vollständig hineinpasst. Allerdings wird das Bild hier als Gebirge über einer Ebene (die Grauwerte bestimmen die Höhe, die Bildkoordinaten den Punkt in der Ebene) interpretiert. Das strukturierende Element tastet das Gebirge von unten ab.
+Als strukturierendes Element kommen meist „flache“ strukturierende Elemente zum Einsatz, d. h. der Wert des Elementes ist 0 im Bereich der darzustellenden Struktur und sonst -∞.
+
+
+=== Öffnen mittels Rekonstruktionsfilter ===
+Das Öffnen mittels Rekonstruktionsfilter definiert man analog zur Binärbildmorphologie. Dabei ist als strukturierendes Element für die Darstellung der Einheitsumgebung i. a. die flache Einheitsumgebung.
+
+
+== Siehe auch ==
+Closing
+Erosion
+Dilatation
+
+
+== Literatur ==
+Image Processing and Mathematical Morphology. Jean Serra. Academic Press, London, 1982
+Image Processing and Mathematical Morphology, Part II: Theoretical Advances. Jean Serra. Academic Press, London, 1988
+Methoden der digitalen Bildsignalverarbeitung. Piero Zamperoni, Vieweg Verlag, 1989
+Granulometrien in der Grauwertmorphologie. Martin Pfeiffer. Shaker Verlag Aachen, 1999. ISBN 3-8265-4784-5

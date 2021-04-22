@@ -1,0 +1,27 @@
+Die Angewandte Informatik ist ein Teilgebiet der Informatik. Sie beschäftigt sich mit der Anwendung informatischer Methoden in informatikfremden Gebieten – z. B. Biologie, Betriebswirtschaft oder Medizin. Dies unterscheidet sie von der Praktischen Informatik, welche sich mit informatikeigenen Problemstellungen beschäftigt.
+
+
+== Anwendungsgebiete ==
+Die Angewandte Informatik bearbeitet Problemstellungen anderer Wissenschaftsbereiche durch Informatik-Lösungen, zum Beispiel:
+
+der klassischen Wissenschaften wie Physik, Chemie, Elektrotechnik und Medizin durch Anwendungsprogramme zur Datenaufbereitung, statistischen Analyse oder Prognose aufgrund von Rechnungen aufgrund analytisch erkannter Gesetzmäßigkeiten
+moderne interdisziplinäre Wissenschaften wie Wirtschaftsinformatik, Medieninformatik, Geoinformatik, Humanities Computing, Umweltinformatik, Legal Technology, Medizinische Informatik und Bioinformatik sowie deren Teilgebiete wie z. B. E-Commerce oder ComputertomographieNachfolgend werden beispielhaft einige konkrete Anwendungsgebiete der Angewandten Informatik beschrieben; entsprechende IT-Lösungen werden dort hergestellt und betrieben:
+
+
+=== Computergrafik ===
+Die Erzeugung von Bildern aus gespeicherten Beschreibungen oder aus Eingabekommandos des Benutzers mit dem Computer wird als Computergrafik verstanden.
+Zwei weitere Bereiche, die digitale Signal- und Bildverarbeitung, die unvollkommene Bilder durch Beseitigung von Unreinheiten, Kontrastverstärkung und Färbung verbessert und die Mustererkennung, welche Bilder, die nur aus einer strukturlosen Folge von Punkten vorliegen, daraufhin analysiert was sie darstellen, werden im Allgemeinen nicht zur Computergrafik gezählt.
+Diese drei Bereiche werden unter dem Begriff grafische Datenverarbeitung zusammengefasst.
+
+
+=== Simulation ===
+In vielen technischen Computeranwendungen werden Computermodelle des zu untersuchenden Gegenstandes oder Prozesses aufgebaut und anschließend anstatt der Wirklichkeit untersucht. Dieses Verfahren wird als Simulation bezeichnet.
+Die Problematik bei den Modellen besteht darin, dass Modelle Abstraktionen sind, da sie unwichtige Teile der wirklichen Einrichtung weglassen. An ihnen lassen sich nur bestimmte Eigenschaften der wirklichen Einrichtung studieren. Das kann dazu führen, dass die Modelle fehlerhaft sind, wenn in der Wirklichkeit Ereignisse auftreten, die im Modell nicht berücksichtigt wurden. Der Vorteil von Computersimulationen besteht unter anderem darin, sämtliche Prozesse virtuell durchzuführen, deren reale Durchführung aus zeitlichen, sicherheitsrelevanten, physikalischen, finanziellen oder anderen Gründen aktuell gar nicht möglich wäre.
+
+
+=== Datenverarbeitung ===
+Die Erfassung und Aktualisierung von großen Datenmengen wird unter dem Begriff Datenverarbeitung verstanden. In diesem Anwendungsbereich wird der Computer hauptsächlich dazu gebraucht, Eingabedaten zu verarbeiten und Ausgabedaten zu erzeugen. Die Hauptprobleme in der Datenverarbeitung liegen bei der Organisation und dem Umfang der zu verwaltenden Datenmengen. Die Strukturierung großer Datenmengen, in die neue Daten hinzugefügt werden können ohne die Struktur zu zerstören, und das Finden von vorhandenen Daten stehen im Mittelpunkt, außerdem ist die Eingabe und Ausgabe von vorrangiger Bedeutung.
+
+
+== Literatur ==
+Peter Rechenberg: Was ist Informatik?, Hanser Fachbuch, München 2000, ISBN 978-3-446-21319-7

@@ -1,0 +1,24 @@
+Palladium(II)-oxid ist das stabilste Oxid von Palladium. Es ist ein grünlich schwarzer, kristalliner Feststoff, der bei 750 °C schmilzt.
+
+
+== Gewinnung und Darstellung ==
+Palladiumoxid wird durch Erhitzung von Palladiumschwamm in Gegenwart von Sauerstoff bei 350 °C gebildet. Das Oxid wird als schwarzes Pulver erhalten. Speziell für katalytische Anwendungen kann es auch durch Erhitzung einer Mischung aus Palladium(II)-chlorid und Kalium- oder Natriumnitrat bei 600 °C mit anschließender Auslaugung des wasserlöslichen Rückstandes erhalten werden. Die Hydratform kann durch Fällung von Palladium(II)-nitrat mit Natronlauge erhalten werden. Das braune Oxidhydrat kann durch Erhitzung in die dehydratisierte Form überführt werden. Die Löslichkeit in Säuren nimmt mit abnehmendem Wassergehalt ab.
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Palladium(II)-oxid liegt in Form von grünlich schwarzen tetragonalen Kristallen vor. Es ist unlöslich in Wasser und Säuren, jedoch schwach löslich in Königswasser.
+
+
+=== Chemische Eigenschaften ===
+Palladium(II)-oxid  zersetzt sich oberhalb von 750 °C zu Palladiummetall.
+Bei Zugabe von Alkalilauge zu Palladium(II)-haltigen Lösungen fällt gelb-braunes Palladium(II)-oxid-Hydrat PdO · x H2O aus, welches sich nicht ohne gleichzeitige Abgabe von Sauerstoff entwässern lässt. Es ist im Gegensatz zu wasserfreiem PdO in Säuren löslich.
+
+
+== Verwendung ==
+Palladiumoxid wird für die Herstellung von Palladium-Hydrierkatalysatoren durch Reduktion mit Wasserstoff verwendet.
+
+
+== Einzelnachweise ==

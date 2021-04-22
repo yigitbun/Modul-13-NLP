@@ -1,0 +1,24 @@
+Das EVA-Prinzip beschreibt ein Grundprinzip der Datenverarbeitung. Die Abkürzung leitet sich aus den ersten Buchstaben der Begriffe Eingabe, Verarbeitung und Ausgabe ab (englisch IPO model: input-process-output). Diese drei Begriffe beschreiben die Reihenfolge, in der Daten verarbeitet werden. Das Prinzip ist aus der Sicht der verarbeitenden Einheit zu sehen (das kann auch ein Mensch sein) und ist somit unabhängig von elektronischen Maschinen. Es ist daher allgemeingültig für den Vorgang der Verarbeitung von Daten.
+
+Das EVA-Prinzip im EDV-Bereich kann so beschrieben werden:
+Eingabe – Verarbeitung per Datenverarbeitungsanlage (DVA) – Ausgabe. Es gilt als Grundschema der Datenverarbeitung. Entgegen der allgemeinen Meinung gehört der Speicher nicht zur Verarbeitung, sondern er hat im EVA-Prinzip eine Art Sonderstellung, er kapselt sich ab. Das wird als EVA (S)-Prinzip ausgedrückt. Ein Gerät nach reinem EVA-Prinzip ist zustandslos, es besitzt keinen internen Zustand, der dazu führen könnte, dass dieselbe Eingabe bei zwei Verarbeitungen zu verschiedenen Ergebnissen führen könnte. Daher muss sich der Speicherinhalt bei Verarbeitungsstart in einem immer gleichen Zustand befinden (z. B. „leer“ sein).
+Erst das Abweichen vom reinen EVA-Prinzip zu zustandsbehafteten Logikschaltungen (siehe Medwedew-Automat, sowie Moore-Automat und Mealy-Automat) führte von den einfachen Rechenmaschinen zur Entwicklung heutiger Computer.
+
+
+== Sichtweisen ==
+Das EVA-Prinzip kann sowohl „räumlich“ (im weitesten Sinne) als auch zeitlich gesehen werden:
+
+räumlich: Ein Bereich der DV-Anlage ist für Dateneingabe vorgesehen (z. B. eine Seite einer Platine; Tastatur, Maus; aber auch „logisch räumlich“: eine Programmbibliothek eines Programms), ein weiterer Bereich für die Verarbeitung, und der dritte Teil für die Ausgabe. Das kann sich sowohl auf die Organisation der Hardware als auch auf die Software oder auch auf das EDV-System (Hard- und Software) als Ganzes beziehen:
+In der Hardware muss klar sein, welche Eingangssignale empfangen werden sollen (Tastatur- oder Mauseingaben, Netzwerkverbindungen, …), wie sie verarbeitet werden sollen (z. B. eine Berechnung durchführen) und in welcher Form die Daten ausgegeben werden sollen (Bildschirmausgang, Drucker-, Netzwerk-, Ton-Ausgänge, …). Gegenteilige Entwicklungen sind z. B. Smartphones, bei denen Eingabe (Touchscreen) und Ausgabe (derselbe Bildschirm) keine explizite, klare Trennung besitzen.
+In der Software muss klar sein, welche Eingangsdaten ein Programm erhält (Tastendrücke und/oder Dateien von einem Datenträger, …), was es damit machen soll (mathematische Berechnungen, Berechnung von Grafikelementen, …) und was in welcher Form ausgegeben werden soll (Bildschirmausgaben in Text oder Grafik, Abspeicherung auf einen Datenträger, …). Gegenteiliges Prinzip ist hier z. B. die Objektorientierung, bei der nicht funktional getrennt wird, sondern objektbezogen: Sowohl Methoden zum Einlesen, als auch zum Verarbeiten und Ausgeben eines Objekts sind Objektmethoden, also nicht „räumlich getrennt“; zweites Beispiel: die Fuzzylogik versucht, aus unklaren Eingangssignalen dennoch eindeutige Entscheidungen zu treffen; Künstliche neuronale Netze versuchen, aus ungenauen Eingabedaten definierte Ausgaben zu erzeugen, wobei oft keine exakte Verarbeitungsvorschrift festgelegt werden kann – das Netz soll es „irgendwie“ durchführen und durch Training erlernen.
+zeitlich: zuerst werden alle Eingaben erfasst (danach sind keine weiteren Eingaben mehr möglich), dann wird verarbeitet (solange sind noch keine Ergebnisse verfügbar), zuletzt werden die Ergebnisse ausgegeben. Das hierzu gegenteilige Prinzip nennt sich Streaming, bei dem kontinuierlich neue Eingaben eintreffen, zeitgleich die vorigen verarbeitet werden, und die vor-vorigen an der Ausgabe-Schnittstelle gerade abgegeben werden.Grundsätzlich kann jede Rechenmaschine, die sowohl das utm-, als auch das smn-Theorem erfüllt, jede berechenbare Funktion auch ausrechnen. Sowohl Computer als auch Computerprogramme können somit als Funktionen angesehen werden, die Parameter (E) entgegennehmen, mit diesen Parametern eine Berechnung (V) anstellen und das Ergebnis der Berechnung ausgeben (A).
+
+
+== Siehe auch ==
+HIPO-Diagramm
+Garbage In, Garbage Out
+
+
+== Literatur ==
+Sebastian Dworatschek: Einführung in die Datenverarbeitung. 5. Auflage. ISBN 3-11-004280-0, S. 48 ff. 
+Franz-Josef Lintermann, Udo Schaefer, Walter Schulte-Göcking, Klaas Gettner: Einfache IT-Systeme. Lehr-/Fachbuch. 5, 1. korrigierter Nachdruck Auflage. Bildungsverlag EINS, 2008, ISBN 978-3-8237-1140-7, S. 16.

@@ -1,0 +1,26 @@
+Die Bauinformatik ist eine Querschnittsdisziplin (Bauingenieurwesen und Informatik), die essentielle informatorische Grundlagen für die Entwicklung und den Einsatz von Fachsoftware und -hardware in den Bau- und Umweltingenieurwissenschaften schafft und eine solide Basis liefert, um fachgebietsübergreifende Projekte im Bau- und Umweltbereich computergestützt bearbeiten zu können. Die Bauinformatik zielt darauf ab, die modernen Informations- und Kommunikationstechnologien für verteilte und kooperative Arbeitsprozesse bei durchgängigem Informationsfluss nutzbar zu machen und das Zusammenwirken von allen an der gesamten Wertschöpfungskette Beteiligten (Architekten, Entwurfsplaner, Bauleiter sowie Industrieunternehmen, Softwarehäuser, Anwender und politische Verantwortungsträger) zielgerichtet zu unterstützen.Die Erstellung entsprechender Bausoftware stellt dabei nur einen von vielen Aspekten dar.
+Die Geburtsstunde der Bauinformatik war der Bau des ersten Computers Z3 durch den Bauingenieur Konrad Zuse zur Erleichterung der aufwändigen statischen Berechnungen.
+Vermutlich deswegen sieht sich die Bauinformatik auch heute noch häufig nahe der Baustatik.
+Der von namhaften Professoren des Fachgebiets Bauinformatik gegründete Arbeitskreis Bauinformatik hat sich zum Ziel gesetzt, die gemeinsame Gestaltung und Vertretung der Bauinformatik an den Universitäten im deutschsprachigen Raum zu koordinieren.
+
+
+== Veranstaltungen ==
+Das Forum Bauinformatik ist eine jährlich stattfindende Konferenz "von jungen Forschenden für junge Forschende", d. h. Doktoranden und Studierenden der Bauinformatik.
+
+
+== Siehe auch ==
+3D-Druck im Bauwesen
+Architekturinformatik
+Building Information Modeling
+
+
+== Literatur ==
+Konrad Zuse und die Baustatik – Zur Vorgeschichte der Computerstatik, von Karl-Eugen Kurrer; Bautechnik, Volume 87, Issue 11, November 2010
+
+
+== Weblinks ==
+Bauinformatik-Institute in Deutschland
+Website des Arbeitskreis Bauinformatik
+
+
+== Einzelnachweise ==

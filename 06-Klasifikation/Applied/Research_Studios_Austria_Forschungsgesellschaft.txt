@@ -1,0 +1,27 @@
+Die Research Studios Austria Forschungsgesellschaft (kurz: RSA FG) ist eine österreichische Forschungsgesellschaft mit Schwerpunkt auf neuen Informations- und Kommunikationstechnologien. Sie hat ihren Hauptsitz in Salzburg und weitere Forschungsstätten („Studios“) in Wien und Linz. Die Forschungsgesellschaft ist „die einzige bundesweit agierende außeruniversitäre Forschungseinrichtung mit Hauptsitz in Salzburg“. Sie wird seit ihren Anfängen vom österreichischen Kommunikationswissenschaftler, Unternehmensgründer und Juristen Peter A. Bruck geleitet. Gegenwärtig beschäftigt sie mehr als 50 Forscher. Zu den namhaftesten Forscher gehören der Pervasive-Computing-Applications-Pionier Alois Ferscha, JKU Linz, der Open-Data-Pionier Petr Knoth, Open University Milton Keynes, und der Business-Informatiker Christian Huemer, TU Wien.
+
+
+== Geschichte ==
+Die Forschungseinrichtung wurde in den Jahren 2001/2002 nach einem Konzept von Peter A. Bruck gegründet und unter dem Dach der führenden österreichischen Forschungsgesellschaft, der „Austrian Research Centers Seibersdorf“ (ARC Seibersdorf GmbH), als „Research Studios Austria“ (RSA) gestartet. Bei den ARC handelt es sich um die Vorgängerinstitution des heutigen „Austrian Institute of Technology“ (AIT). Die Research Studios wurden 2008 aus der ARC ausgegründet und operieren seither als eigenständige Forschungseinrichtung „Research Studios Austria Forschungsgesellschaft“ (RSA FG) mit insgesamt vier Forschungsstandorten.
+
+
+== Struktur ==
+Die Forschungsgesellschaft ist auf den Wissens- und Technologietransfer von Universitäten in den Markt ausgerichtet und in Research Studios organisiert. Das sind kleine Forscherteams unter der Leitung von renommierten Wissenschaftlern, die sich mit der Prototypisierung von Innovationen, vor allem im Rahmen von Forschungsprojekten der FFG und der EU, beschäftigen, aber auch Auftragsforschung für Kunden betreiben. Gegenwärtig verfügt die Research Studios Austria Forschungsgesellschaft über fünf Studios und ein Forschungslab:
+
+iSPACE Smart Settlement Systems (Salzburg)
+iSPACE Smart 4D Environments (Salzburg)
+Pervasive Computing Applications (Linz/Wien/Salzburg)
+Smart Applications Technologies (Wien)
+Data Science (Wien/Salzburg)
+Mobile Knowledge Lab (Linz/Wien)(Alle Angaben und Weblinks Stand Februar 2020)
+
+
+== Gegenwärtige Forschungsschwerpunkte und Kompetenzen ==
+Gegenwärtige Forschungsschwerpunkte umfassen u. a. Assistive Geoinformatics, Digital Twins, Internet of Things, Smart Applications wie Bots, Mobile und Social MicroLearning, Open Access und Open Data, Big Data Analytics, Machine Learning, Künstliche Intelligenz, Fraud Detection, Predictive Analytics, Data Market Technologies, Aware Systems, Attention Research, EyeTracking, Augmented Reality sowie Smart Buildings/Klimaschonendes Bauen.
+
+
+== Zusammenarbeit mit Universitäten ==
+Die Research Studios Austria Forschungsgesellschaft arbeitet eng mit österreichischen Universitäten wie TU Wien, Universität Wien, JKU Linz oder DUK Donau Universität Krems, besonders aber mit der Paris Lodron Universität Salzburg und der Universität Mozarteum Salzburg zusammen. Die Research Studios iSPACE Smart Settlement Systems und Smart 4D Environments sind über eine Leistungsvereinbarung mit der Universität Salzburg in der Umsetzung des Wissens- und Technologietransfers verbunden. 2019 begann eine Forschungskooperation zu "Digitaler Intelligenz" mit der Universität Mozarteum Salzburg in den Bereichen Interactive Music Technologies und Open Access Science Solutions.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,237 @@
+Natriumoxid ist ein Oxid des Natriums mit der Summenformel Na2O.
+
+
+== Herstellung ==
+Es kann direkt aus den Elementen gewonnen werden. Hierbei ist es jedoch erforderlich, die Stöchiometrie der Reaktion sowie die Temperatur zu beachten, da sonst bei Sauerstoffüberschuss auch Natriumperoxid und Natriumhyperoxid gebildet werden.
+
+  
+    
+      
+        
+          4
+          
+          Na
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            Na
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {4Na + O2 -> 2Na2O}}}
+  Die Reaktion wird in einem Temperaturbereich von 150 – 200 °C durchgeführt. Höhere Temperaturen begünstigen die Bildung von Natriumperoxid.
+Eine weitere Möglichkeit ist durch die Umsetzung von flüssigem Natrium mit Natriumnitrat gegeben.
+
+  
+    
+      
+        
+          10
+          
+          Na
+          +
+          2
+          
+          
+            NaNO
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          6
+          
+          
+            Na
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {10Na + 2NaNO3 -> 6Na2O + N2}}}
+  Reines Natriumoxid kann durch die Reaktion von Natriumazid mit Natriumnitrat gewonnen werden.
+
+  
+    
+      
+        
+          5
+          
+          
+            NaN
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            NaNO
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          3
+          
+          
+            Na
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          8
+          
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {5NaN3 + NaNO3 -> 3Na2O + 8N2}}}
+  Ebenfalls möglich ist die Reaktion von Natriumhydroxid und Natrium.
+
+  
+    
+      
+        
+          2
+          
+          NaOH
+          +
+          2
+          
+          Na
+          ⟶
+          2
+          
+          
+            Na
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2NaOH + 2Na -> 2Na2O + H2}}}
+  
+
+
+== Eigenschaften ==
+Es handelt sich um einen farblosen Feststoff, der in einer Antifluoritstruktur kristallisiert. Natriumoxid reagiert heftig mit Wasser unter Bildung von Natriumhydroxid
+
+  
+    
+      
+        
+          
+            Na
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          2
+          
+          NaOH
+        
+      
+    
+    {\displaystyle {\ce {Na2O + H2O -> 2NaOH}}}
+  Die Standardbildungsenthalpie von Natriumoxid beträgt ΔHf0 = −418 kJ/mol.
+
+
+== Verwendung ==
+Natriumoxid wird als Ätzmittel bei der Glasherstellung, zur Polymerisation und als Trockenmittel zum Trocknen organischer Lösemittel verwendet.
+
+
+== Siehe auch ==
+Natriumperoxid
+Natriumhyperoxid
+
+
+== Einzelnachweise ==

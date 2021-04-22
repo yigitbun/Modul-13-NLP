@@ -1,0 +1,14 @@
+Services Computing ist ein interdisziplinärer Ansatz, der sich wissenschaftlich und technologisch mit der Frage beschäftigt, wie Informationstechnologien (IT) die geschäftsrelevanten Strategien und Prozesse der unternehmerischen Wertschöpfung von Produkten und Diensten substantiell unterstützen können. Grundlegende Technologien, die dabei ihre Anwendung finden, sind Webservices und Service-orientierte Architekturen (SOA), Cloud Computing, Geschäftsprozessmodellierung, Methoden und Werkzeuge der Unternehmensberatung, sowie Transformations- und Integrationstechnologien.
+Services Computing umfasst den gesamten Lebenszyklus IT-gestützter unternehmensbezogener Dienste. Das bezieht sich u. a. auf die Entwicklung, Umsetzung und Verteilung von IT-Services und dem zugehörigen Service-Management, der Verbindung von IT- und Businessprozessen, der Analyse und Optimierung von Geschäftsprozessen, Beratungsmethoden, dem  Datenmanagement (Big Data) sowie der Gestaltung innovativer IT-Architekturen, z. B. Cloud Computing, und der Sicherheit bzw. Zuverlässigkeit von Systemen.
+Ziel von Services Computing ist es, mittels computergestützter Verfahren und IT-Services  geschäftsrelevante Prozesse und unternehmensbezogene Dienste effizienter und effektiver zu erbringen.
+
+
+== Weblinks ==
+IEEE Services Computing Online Community
+Technical Committee on Services Computing, IEEE Computer Society
+IEEE International Conference on Services Computing
+IEEE Transactions on Services Computing
+Master-Studiengang Services Computing
+
+
+== Einzelnachweise ==

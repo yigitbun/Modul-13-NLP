@@ -1,0 +1,74 @@
+Vanadium(III)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide. Es liegt in Form eines schwarzen Pulvers vor.
+
+
+== Vorkommen ==
+In der Natur kommt Vanadium(III)-oxid in Form des seltenen Minerals Karelianit vor.
+
+
+== Gewinnung und Darstellung ==
+Vanadium(III)-oxid kann durch Reduktion von Vanadium(V)-oxid mit Wasserstoff oder Kohlenmonoxid hergestellt werden.
+
+  
+    
+      
+        
+          
+            V
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          ⟶
+          
+            V
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {V_{2}O_{5}+2\ H_{2}\longrightarrow V_{2}O_{3}+2\ H_{2}O} }
+  
+
+
+== Eigenschaften ==
+Vanadium(III)-oxid ist ein mattschwarzes Pulver mit einer Kristallstruktur vom Korund-Typ (Aluminiumoxid) und der Raumgruppe R3c (Raumgruppen-Nr. 167)Vorlage:Raumgruppe/167, a = 4,952, c = 14,003 Å. Es oxidiert an der Luft zu Vanadium(V)-oxid. Bei hohen Temperaturen zersetzt es sich zu anderen Vanadiumoxiden.
+
+
+== Sicherheitshinweise ==
+Vanadium(III)-oxid ist als krebserzeugend und keimzellmutagen in Kategorie 2 eingestuft.
+
+
+== Einzelnachweise ==

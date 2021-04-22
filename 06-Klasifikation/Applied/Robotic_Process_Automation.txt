@@ -1,0 +1,58 @@
+Robotic Process Automation (RPA, deutsch: Robotergesteuerte Prozessautomatisierung) ist ein Ansatz zur Prozessautomatisierung, bei dem repetitive, manuelle, zeitintensive oder fehleranfällige Tätigkeiten durch sogenannte Softwareroboter (Bots)   erlernt und automatisiert ausgeführt werden. Softwareroboter verwenden dabei nicht nur technische APIs von Systemkomponenten, sondern können Anwendungssoftware auch über die Präsentationsschicht steuern, vergleichbar mit der Durchführung durch einen Menschen. Je nach verwendeter RPA-Plattform können notwendige Schritte mit modellgetriebenen oder selbstlernenden Ansätzen aufgezeichnet werden. RPA vereint die Modellierung von Abläufen, Skripting und Job-Scheduling.
+
+
+== Softwareroboter als Paradigma der Automatisierung ==
+Softwareroboter sind Anwendungen, die auch eine menschliche Interaktion mit Benutzerschnittstellen von Softwaresystemen nachahmen können. Dabei arbeiten Softwareroboter in einer vergleichbaren Art und Weise auf dem User Interface (siehe auch Mensch-Maschine-Interface), wie es ein Mensch würde. Während RPA die manuellen Schritte digitalisiert, ändert traditionelles Business Process Management (BPM) die Ebene der Geschäftslogik. Beispielsweise kann die Ausführung einer Dateneingabe in ein ERP-System oder sogar das Ausführen eines gesamten Geschäftsprozesses durch einen Roboter abgebildet werden.Im weiteren Sinne ist RPA "mehr als nur eine Technologie zur Roboter unterstützten Geschäftsprozess Automatisierung. Sie ist Vorgehensmodell, Framework und nicht zuletzt eine sich neu etablierende Unternehmensphilosophie, die das Ziel hat, sämtliche Prozesse des Unternehmens neu auf Aktualität, Angemessenheit und Performanz zu hinterfragen, um den sich im Zuge der wachsenden Digitalisierung beschleunigenden Abläufen innerhalb und außerhalb des Unternehmens Rechnung zu tragen. Konkret geht es um den Einsatz von Robotern zur Automatisierung von Prozessen, die verschiedene Eigenschaften besitzen, mit dem Ziel der Erhöhung von Zuverlässigkeit, Geschwindigkeit, Einfachheit und Sicherheit, bei gleichzeitiger Reduzierung der ursprünglichen Prozesskosten, der mit der Durchführung des Prozesses verbundenen Risiken sowie der Abhängigkeit von externen Ressourcen."
+
+
+=== Historische Entwicklung ===
+Nachdem zunächst einfache Probleme mittels RPA-basierter Systeme gelöst werden konnten, sind moderne Softwareroboter mittlerweile bereits in der Lage, komplexe Aufgaben zu übernehmen. So liegt der Fokus nicht nur auf der Prozessoptimierung im Kundendienst, sondern gewinnt zunehmend auch unternehmensintern an Relevanz (siehe hierzu auch RPA-Beispiele). Seit Anfang 2000 werden Softwareroboter vermehrt für die Erstellung von Social Media Beiträgen, den Versand generierter E-Mails oder auch für die telefonische Kundenberatung in Form von Interactive Voice Response eingesetzt. Ein bedeutender Entwicklungsschritt in der Geschichte der robotergesteuerten Prozessautomatisierung erfolgte in der Testautomatisierung der Software-Qualitätssicherung.Ein RPA-Rechenbeispiel in der Testautomatisierung:
+Während manuelle Tester an einem 8 stündigen Arbeitstag aufgrund weiterer berufsbegleitender Aktivitäten (z. B. Lesen von E-Mails, Teilnahme an Meetings, Gespräche mit Kollegen, sonstige Arbeitsunterbrechungen) effektiv etwa 3,5 Stunden testen, was in der Woche 17,5 Stunden entspricht, ermöglicht beispielsweise die RPA-gestützte Testautomatisierung im 24/7 Einsatz 168 Stunden Testzeit, während zudem gleichzeitig eine lückenlose automatische Protokollierung, der sogenannte Testreport, erstellt werden kann.
+Das Screen Scraping ist eine der robotergesteuerten Prozessautomatisierung verwandte Art der Automatisierung. RPA gilt allerdings als eine wesentlich bedeutsamere, technologische Weiterentwicklung dieser Technik. Aus ihr hervorgehende Softwareplattformen bieten einen wesentlich reiferen, flexibleren, skalierbareren und verlässlicheren Ansatz zum Einsatz in großen Unternehmen.Fortschrittliche RPA-Lösungen können in ihrer Erscheinung über reine Software Roboter hinausgehen und verfügen neben Maschinen Vision Systemen sogar über Kinematiken und Stimmen, um auch Touch Devices und sprachgesteuerte Geräte bedienen zu können.
+
+
+=== Deployment ===
+Das Anbieten von solchen RPA-Diensten unterstreicht die Metapher des KI-getriebenen Arbeiters in dem Sinne, dass jede Softwareroboterinstanz ihrer eigenen virtuellen Workstation zugewiesen wird, vergleichbar der eines menschlichen Arbeiters. Der Roboter verwendet dabei Kontrollinstrumente für Maus und Tastatur, um Interaktionen auf der Benutzeroberfläche auszuführen. Verständlicherweise finden diese Interaktionen im Verborgenen in einer virtuellen Umgebung ohne physischen Bildschirm statt, da ein Softwareroboter auf diesen verzichten kann – stattdessen interpretiert er das Bildschirmsignal elektronisch.
+
+
+== Charakteristiken von RPA-Anwendungen ==
+
+
+=== Programmierung ===
+
+RPA-Plattformen modellieren Prozesse abstrakt in einzelnen Schritten (häufig als "Step" oder "Task" bezeichnet). Viele bedienen sich der Technik von Flussdiagrammen oder anderen Entscheidungsbäumen, um so eine graphische Prozessmodellierung mittels Drag&Drop zu ermöglichen. Prozessschritte greifen auf wiederverwendbare Bausteine aus Bibliotheken zurück, so dass keine Programmierung zur Steuerung von Systemkomponenten notwendig ist. So gibt es in RPA-Plattformen zum Beispiel häufig bereits Module zur Steuerung von Webbrowsern. Die abstrahierte Ablauflogik wird in der Regel innerhalb der RPA-Software in eine Skriptsprache übersetzt.
+
+
+==== Beispiel (Robot Framework) ====
+Im folgenden Beispiel wird mit Hilfe von Robot Framework ein Prozessablauf abstrahiert (im Abschnitt Tasks Zeile 6–8). Die Abstraktion geschieht hier nicht über Visualisierungstools, sondern über menschenlesbare textuelle Prozessbeschreibung. Ein Task setzt sich hier aus sogenannten Keywords zusammen. Die bereits vorimplementierten Keywords sind hier in Englisch und werden in Zeile 2 importiert. Zum besseren Verständnis baut ein RPA-Entwickler daraus eigene Keywords, die der Fachsprache des Prozesses entsprechen (Abschnitt Keywords, Zeile 10 ff.). Das Prozessmodell wird hier zwar in Python übersetzt, der RPA-Entwickler muss zur Modellierung aber kein Pythonprogrammierer sein, sondern braucht nur rudimentäre Programmierkenntnisse.
+
+
+=== Deployment ===
+Eine wesentliche Herausforderung von Softwaredeployments ist, dass Änderungen von bestehenden Systemen zunächst die Kenntnis der komplexen Zusammenhänge zwischen den Systemkomponenten erfordert. Die Erneuerung, Erweiterung oder sogar der Austausch bestehender Systeme in großen Unternehmen (Systemmodifikation oder auch als "Change" bezeichnet), stellt ein großes Risiko dar, weil die Veränderung der Systemkomponenten auch ungewollte Seiteneffekte in der Systeminfrastruktur erzeugen kann – sogar mit Auswirkung auf Teilkomponenten, die selbst gar nicht modifiziert wurden. Ein Prinzip von RPA ist es, für solche Änderungen automatisierte Regressionstests durchzuführen.
+
+
+== Ziele der RPA ==
+Zu den häufigsten Zielen einer RPA-Lösung gehören:
+
+Kostenreduktion repetitiver Tätigkeiten / Arbeitsschritte
+Vermeidung von Risiken durch menschliche Fehler:
+Bei der Durchführung der eigentlichen Aufgabe
+Bei der Erstellung eines RPA-Prozesses
+Mitarbeiterentlastung zur Fokussierung auf wertschöpfende Tätigkeiten
+Prozessgeschwindigkeit erhöhen
+Reduzierung der Abhängigkeit vom Fachkräftemangel
+Prozessstabilität
+
+
+== Die Zukunft von RPA ==
+Die Zukunft von RPA kann vielfältig sein. Aus der Mehrheit der frühzeitigen Anwender ergeben sich neue Anwendungsfälle und Synergien. Mögliche Szenarien können wie folgt aussehen:
+
+Annäherung von Plattformen des Business Process Managements (BPM) und RPA.
+Ein breiterer Einsatz von künstlicher Intelligenz zur fortgeschrittenen Entscheidungsfindung (Hyperautomation).
+
+
+=== Gesellschaftlicher Einfluss ===
+Akademische Studien gehen davon aus, dass RPA neben anderen technologischen Trends maßgeblich für Produktivitäts- und Effizienzsteigerungen verantwortlich sein wird und in diesem Zusammenhang innerhalb der nächsten zwei Dekaden (~2035), wenn auch nicht allein auf RPA zurückzuführen, rund 47 % aller amerikanischen Berufe automatisiert werden könnten.Der Unternehmer David Moss zeichnet ein Szenario bei einem TEDx-Event, in dem der Einsatz digitaler Arbeitskräfte den Dienstleistungssektor revolutionieren wird. Neben einem weitreichenden Einfluss auf die Kostenstrukturen von Dienstleistungen ergeben sich vor allem Möglichkeiten in der Dienstleistungsreichweite, -ausgestaltung, -qualität und insbesondere der Individualisierbarkeit von Dienstleistungen.Prof. Willcocks geht indes davon aus, dass Softwareroboter darüber hinaus maßgeblich das gesellschaftliche Bild verändern. Durch das Wegfallen (die Übernahme durch die Softwareroboter) von vielen profanen und hochrepetitiven Tätigkeiten wird das tägliche Arbeitsvolumen maßgeblich reduziert. Das führt zu einer gesteigerten Arbeitszufriedenheit und intellektueller Stimulation. Somit können humane Arbeitnehmer sich mehr auf ihre wesentlichen Tätigkeiten konzentrieren.
+
+
+== Einzelnachweise ==

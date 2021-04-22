@@ -1,0 +1,12 @@
+Die Energieinformatik ist ein Fachgebiet der Informatik, das Methoden aus der Informatik und angrenzenden Gebieten wie Elektrotechnik, Kybernetik, Automatisierung und den Wirtschaftswissenschaften erforscht, entwickelt und nutzt, um Fragen komplexer Energiesysteme zu lösen.
+Solche Fragestellungen umfassen die Gestaltung, den Betrieb und die Optimierung verteilter, heterogener und vernetzter Energiesysteme und zielen auf eine sichere, verlässliche, nachhaltige und effiziente Energieversorgung im Smart Grid.
+Verschiedene Hochschulen bieten Bachelor- und Master-Studiengänge mit Fokus Energieinformatik an.
+
+
+== Literatur ==
+Sebastian Lehnhoff: Dezentrales Vernetztes Energiemanagement. Ein Ansatz auf Basis eines verteilten adaptiven Realzeit-Multiagentensystems. Springer-Verlag, 2010, ISBN 978-3-8348-1270-4.
+Michael Decker, Torsten Fleischer, Jens Schippl, Nora Weinberger: Zukünftige Themen der Innovations- und Technikanalyse. Methodik und ausgewählte Ergebnisse. (= KIT Scientific Reports. 7605). KIT Scientific Publishing, 2012, ISBN 978-3-86644-802-5.
+Alexander Stuckenholz: Basiswissen Energieinformatik. Ein Lehr- und Arbeitsbuch für Studierende und Anwender. Springer-Verlag, 2021, ISBN 978-3-658-31808-6.
+
+
+== Einzelnachweise ==

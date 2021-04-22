@@ -1,0 +1,474 @@
+Ein Transformer ist eine Methode, mit der ein Computer eine Folge von Zeichen in eine andere Folge von Zeichen übersetzen kann. Dies kann z. B. benutzt werden, um Text von einer Sprache in eine andere zu übersetzen. Dazu wird ein Transformer mittels maschinellem Lernen auf einer (großen) Menge von Beispiel-Daten trainiert, bevor das trainierte Modell dann zur Übersetzung verwendet werden kann.
+Transformer gehören zu den Deep-Learning-Architekturen. Transformer wurden 2017 im Rahmen der Neural-Information-Processing-Systems-Konferenz veröffentlicht. 
+Weitere Beispielanwendungen von Transformern sind die Textgenerierung oder die Zusammenfassung längerer Texte. Transformer weisen hierbei eine bessere Effizienz gegenüber Long short term memory-Architekturen (LSTM) auf und sind die Grundarchitektur vieler vortrainierter Machine-Learning-Modelle wie Bidirectional Encoder Representations from Transformers (BERT) und Generative Pretrained Transformer (GPT). 
+
+
+== Hintergrund ==
+Vor der Einführung des Transformers wurden in der Verarbeitung natürlicher Sprache (NLP) rekurrente Modelle wie LSTM, GRU und Seq2Seq eingesetzt, welche eine Eingangssequenz sequenziell abgearbeitet haben. Diese Methoden wurden später durch einen Aufmerksamkeits-Mechanismus (engl. Attention) erweitert. Transformer bauen auf dem Aufmerksamkeits-Mechanismus auf und verzichten auf die rekurrente Struktur. Hierbei werden bei geringerem Rechenaufwand ähnliche oder bessere Ergebnisse bei der Transformation von Sequenzen erzielt, als mit den rekurrenten Modellen.
+
+
+== Architektur ==
+Ein Transformer besteht im Wesentlichen aus in Serie geschalteten Kodierern und in Serie geschalteten Dekodierern. Die Eingabesequenz wird durch eine sogenannte Embedding-Schicht in eine Vektorrepräsentation überführt. Die Gewichte der Embedding-Schicht werden während des Trainings angepasst. Im Falle des Transformers kommt zusätzlich eine Positionskodierung zum Einsatz, wodurch die sequentielle Abfolge der Wörter berücksichtigt werden kann. Ein Wort erhält somit zu Beginn eines Satzes eine andere Repräsentation als am Ende.Die Eingabesequenz wird in der Vektorrepräsentation einer Serie von Kodierern übergeben und in eine interne Repräsentation überführt. Diese interne Repräsentation bildet die Bedeutung der Eingabesequenz abstrakt ab und wird durch die Dekodierer in eine Ausgabesequenz übersetzt. Die Eingabesequenz wird hierbei in Batches verarbeitet, wobei die Länge der Kodierer-Dekodierer-Pipeline die maximale Länge der Eingabesequenz beschränkt. Je nach Größe des Netzwerks können beispielsweise einzelne Sätze oder auch ganze Absätze verarbeitet werden. Bei Eingabesequenzen, welche kürzer sind als die Länge der Kodierer-Dekodierer-Pipeline, wird Padding genutzt, um die Eingabesequenz aufzufüllen.Ein Kodierer besteht aus einem Self-Attention-Modul und einem Feedforward-Modul, während der Dekodierer aus einem Self-Attention-Modul, einem Kodierer-Dekodierer-Attention-Modul und einem Feedforward-Modul besteht.
+
+
+== Attention-Modul ==
+Die Aufgabe des Attention-Moduls besteht darin, die Korrelation eines Eingabesymbols zu den anderen Eingabesymbolen zu berechnen. Etwa die Zuordnung eines Pronomens zum zugehörigen Nomen. Man unterscheidet zwischen der Einbettung (engl. embedding) 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+  , wobei es sich um das als Vektor kodierte Eingabesymbol handelt, dem Abfragevektor (engl. query) 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q_{i}}
+  , dem Schlüsselvektor (engl. key) 
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+      
+    
+    {\displaystyle k_{i}}
+   und dem Wertevektor (engl. value) 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v_{i}}
+  . Aus jeder Einbettung werden die anderen drei Vektoren berechnet, indem diese mit einem durch Training erlernte Matrizen 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  , 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   und 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   multipliziert werden: 
+
+  
+    
+      
+        
+          q
+          
+            j
+          
+        
+        =
+        
+          x
+          
+            i
+          
+        
+        ⋅
+        
+          Q
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle q_{j}=x_{i}\cdot Q_{ij}}
+  
+
+  
+    
+      
+        
+          k
+          
+            j
+          
+        
+        =
+        
+          x
+          
+            i
+          
+        
+        ⋅
+        
+          K
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle k_{j}=x_{i}\cdot K_{ij}}
+  
+
+  
+    
+      
+        
+          v
+          
+            j
+          
+        
+        =
+        
+          x
+          
+            i
+          
+        
+        ⋅
+        
+          V
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle v_{j}=x_{i}\cdot V_{ij}}
+  Hieraus wird eine Bewertung (engl. score) 
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+      
+    
+    {\displaystyle s_{i}}
+   berechnet
+
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+        =
+        
+          q
+          
+            i
+          
+        
+        ⋅
+        
+          k
+          
+            i
+          
+        
+      
+    
+    {\displaystyle s_{i}=q_{i}\cdot k_{i}}
+  und schließlich durch die Quadratwurzel der Länge der Schlüsselvektoren 
+  
+    
+      
+        dim
+        ⁡
+        (
+        k
+        )
+      
+    
+    {\displaystyle \dim(k)}
+   geteilt, um stabilere Gradienten zu erhalten:
+
+  
+    
+      
+        
+          
+            
+              s
+              
+                i
+              
+            
+            
+              dim
+              ⁡
+              (
+              k
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {s_{i}}{\sqrt {\dim(k)}}}}
+  Hierauf wird die Softmax-Funktion 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   angewendet:
+
+  
+    
+      
+        σ
+        
+          (
+          
+            
+              
+                s
+                
+                  i
+                
+              
+              
+                dim
+                ⁡
+                (
+                k
+                )
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \sigma \left({\frac {s_{i}}{\sqrt {\dim(k)}}}\right)}
+  Dieser Wert wird nun mit dem Wertevektor multipliziert. Dies führt dazu, dass für die Bedeutung unwichtige Symbole mit einem kleinen Wert und für die Bedeutung wichtige Symbole mit einem hohen Wert multipliziert werden:
+
+  
+    
+      
+        
+          z
+          
+            i
+          
+        
+        =
+        σ
+        
+          (
+          
+            
+              
+                s
+                
+                  i
+                
+              
+              
+                dim
+                ⁡
+                (
+                k
+                )
+              
+            
+          
+          )
+        
+        ⋅
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle z_{i}=\sigma \left({\frac {s_{i}}{\sqrt {\dim(k)}}}\right)\cdot v_{i}}
+  Wobei der Vektor 
+  
+    
+      
+        
+          z
+          
+            i
+          
+        
+      
+    
+    {\displaystyle z_{i}}
+   die berechnete Ausgabe des Attention-Moduls darstellt. Der Vektor 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   repräsentiert die Wahrscheinlichkeitsverteilung über das Vokabular der möglichen Ausgabesymbole.
+Der Unterschied zwischen dem Self-Attention-Modul und dem Kodierer-Dekodierer-Attention-Modul besteht darin, dass das Self-Attention-Modul ausschließlich die Werte des vorhergehenden Kodierers bzw. Dekodierers verwendet und die Vektoren 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q_{i}}
+  , 
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+      
+    
+    {\displaystyle k_{i}}
+   und 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v_{i}}
+   berechnet. Das Kodierer-Dekodierer-Attention-Modul hingegen berechnet nur den Vektor 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q_{i}}
+   aus dem vorgelagerten Attention-Modul, während die Vektoren 
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+      
+    
+    {\displaystyle k_{i}}
+   und 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+      
+    
+    {\displaystyle v_{i}}
+   aus dem Kodierer bezogen werden.
+In der Praxis wird die sogenannte Multi-Head-Attention eingesetzt. Jeder Head besteht hierbei aus einer eigenen Version der Matrizen 
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  , 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+   und 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  . Jedes Attention-Modul besitzt mehrere Heads. Wenn ein Head für eine bestimmte Eingabe 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   nicht relevant ist, wird ein niedriger Wert berechnet, während ein für eine Eingabe relevanter Head einen hohen Ausgabewert berechnet.
+
+
+== Quellen ==

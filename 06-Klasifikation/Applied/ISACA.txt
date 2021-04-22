@@ -1,0 +1,45 @@
+Die ISACA (Information Systems Audit and Control Association, heute nur mehr als Akronym in Verwendung) ist ein unabhängiger, globaler Berufsverband für IT-Revisoren, Wirtschaftsprüfer sowie Experten der Informationssicherheit und IT-Governance. Die ISACA unterstützt ihre Mitglieder durch Angebote zur Aus- und Weiterbildung sowie die Entwicklung, Einführung und Nutzung von weltweit anerkannten Fachkenntnissen und Methoden.
+
+
+== Organisation ==
+Der internationale ISACA-Dachverband ist in Schaumburg, einem Vorort von Chicago und unweit von CompTIA angesiedelt, unterstützt die 224 lokalen Chapter in 188 Ländern und hat mehr als 150.000 Mitglieder. Die ISACA entstand im Jahr 1967 durch den Zusammenschluss einer Gruppe von Prüfern von Computersystemen, die den wachsenden Informationsbedarf in ihrem Berufsfeld erkannt hatten. 1969 erfolgte die formelle Gründung der EDP Auditors Association und seit 1994 trägt sie den Namen Information Systems Audit and Control Association. Der Germany Chapter der ISACA wurde am 14. April 1986 in Düsseldorf gegründet, hat heute seinen Sitz in Berlin und besitzt über 3.000 Mitglieder.Heute veranstaltet die ISACA eine Reihe internationaler Konferenzen, veröffentlicht das ISACA Journal (bis 2008: Information Systems Control Journal), entwickelt internationale Prüfungsstandards und vergibt weltweit anerkannte Berufszertifizierungen. Die ISACA entwickelt und pflegt seit 1996 auch das COBIT-Rahmenwerk für Governance und Management der Unternehmens-IT. Durch Aufkauf des CMMI Institute ist die ISACA seit 2016 auch verantwortlich für das Capability Maturity Model Integration.
+
+
+== Zertifizierungen ==
+Alle nachfolgenden Zertifizierungen setzen mehrjährige Berufserfahrung in den genannten Bereichen voraus und müssen nach Ablauf von drei Jahren re-zertifiziert werden:Certified Information Systems Auditor (CISA)
+
+über 158.000 Zertifizierte seit 1978
+Voraussetzung: 5 Jahre Berufserfahrung in IT-Prüfung, Kontrolle, Assurance oder Sicherheit
+Inhalte: Prüfung von Informationssystemen (21 %), IT-Governance und IT-Management (17 %), Beschaffung, Entwicklung und Implementierung von Informationssystemen (12 %), Betrieb von Informationssystemen und Business Resilience (23 %), IT-Sicherheit (27 %)Certified Information Security Manager (CISM)
+
+über 50.000 Zertifizierte seit 2002
+Voraussetzung: 5 Jahre Berufserfahrung in IT-Sicherheit
+Inhalte: Information Security Governance (24 %), Information Risk Management (30 %), Information Security Program Development and Management (27 %), Information Security Incident Management (19 %)Certified in the Governance of Enterprise IT (CGEIT)
+
+über 8.500 Zertifizierte seit 2007
+Voraussetzung: 5 Jahre Berufserfahrung in IT-Governance
+Inhalte: Framework for the Governance of Enterprise IT (25 %), Strategic Management (20 %), Benefits Realization (16 %), Risk Optimization (24 %), Resource Optimization (15 %)Certified in Risk and Information Systems Control (CRISC)
+
+über 28.000 Zertifizierte seit 2010
+Voraussetzung: 3 Jahre Berufserfahrung in Risikomanagement und IT-Kontrolle
+Inhalte: IT-Risikoidentifizierung (27 %), IT-Risikobewertung (28 %), Risikobehandlung und -minderung (23 %), Risiko- und Kontrollüberwachung sowie -berichterstattung (22 %)CSX Cybersecurity Practitioner Certification (CSX-P)
+
+seit 2020Certified Data Privacy Solutions Engineer (CDPSE)
+
+ab 2021
+
+
+== Siehe auch ==
+Sicherheitsaudit
+CIA, Certified Internal Auditor
+CISSP, Certified Information Systems Security Professional
+
+
+== Weblinks ==
+Offizielle Seite der ISACA
+Offizielle Seite des deutschen ISACA-Chapters
+Offizielle Seite des schweizerischen ISACA-Chapters
+Offizielle Seite des österreichischen ISACA-Chapters
+
+
+== Quellen ==

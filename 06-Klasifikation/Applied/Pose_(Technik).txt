@@ -1,0 +1,13 @@
+Als Pose oder räumliche Lage wird im technischen Zusammenhang die Kombination von Position und Orientierung eines Objektes bezeichnet.
+
+
+== Eingrenzung ==
+Nach der DIN EN ISO 8373 (Industrieroboter Wörterbuch) ist die Pose die Kombination von Position und Orientierung im dreidimensionalen Raum. Die Position einer punktförmigen Masse in Relation zu einem kartesischen Koordinatensystem definiert sich demnach durch die Abstände entlang den Koordinatenrichtungen x, y, z. Spannt man an diesem Massepunkt ein zweites kartesisches Koordinatensystem auf, so definiert sich die Orientierung dieses Koordinatenkreuzes durch den Winkelversatz seiner Koordinatenachsen in Bezug zu den entsprechenden Achsen des Basiskoordinatensystems. Es sind somit zusätzlich drei Winkel notwendig, die die Lage des neuen Koordinatensystems bezogen auf das Basiskoordinatensystem beschreiben.
+
+
+== Ermittlung der Pose ==
+Aus bekannten Positionen von Markern im Raum und im Bild kann die Pose einer Kamera bestimmt werden. Umgekehrt kann aus Markern, die z. B. an einem Roboter angebracht sind, die Position des Endeffektors mit Hilfe einer Kamera bestimmt werden. Diese Methode kommt auch bei der Roboterkalibrierung zum Einsatz.
+Eine Möglichkeit, die Transformation zwischen den Koordinatensystemen anzugeben, ist mit Hilfe von Roll-Nick-Gier-Winkel (englisch roll-pitch-yaw angle). Darüber hinaus gibt es diverse weitere Konventionen so z. B. die Kardan- und Eulerwinkel oder auch „Drehachse & Winkel“.
+
+
+== Einzelnachweise ==

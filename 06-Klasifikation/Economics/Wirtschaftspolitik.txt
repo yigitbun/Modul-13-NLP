@@ -1,0 +1,88 @@
+Unter der Wirtschaftspolitik versteht man die Gesamtheit der Maßnahmen, mit denen der Staat regelnd und gestaltend, durch dazu legitimierte Instanzen, in die Wirtschaft eingreift. Wirtschaftspolitik unterliegt dem bestehenden Wirtschaftssystem und bestimmt die Regeln wie die Wirtschaftssubjekte zusammenwirken sollen. Wirtschaftspolitik ist so ein Teilgebiet der allgemeinen staatlichen Politik.
+
+
+== Theorie der Wirtschaftspolitik ==
+Die Theorie der generellen Wirtschaftspolitik ist ein Teilgebiet der Volkswirtschaftslehre und beschäftigt sich mit den Organisationsprinzipien von Wirtschaftssystemen und den wirtschaftlichen Abläufen. Sie wird unterteilt in positive und normative Ökonomik. Die positive Ökonomik beschreibt und erklärt die wirtschaftliche Situation (Diagnose) und versucht, zukünftige Entwicklungen vorherzusagen (Prognose). Die normative Ökonomik beschäftigt sich mit Zielsystemen, Zielkonflikten und Ziel-Mittel-Beziehungen und leitet daraus Handlungsempfehlungen für die Politik ab.
+
+
+== Arten von Wirtschaftspolitik ==
+Grundsätzlich wird Wirtschaftspolitik eingeteilt in Ordnungspolitik, Strukturpolitik und Prozesspolitik. Erstere zielt auf die Rahmenbedingungen ab, unter denen die Wirtschaftssubjekte ihre Entscheidungen fällen, Zweitere beinhaltet Eingriffe in die regionale und sektorale Branchenstruktur, Letztere ist dadurch gekennzeichnet, dass der Staat aktiv in die Marktprozesse eingreift.
+
+Zur Ordnungspolitik zählt insbesondere die Wettbewerbspolitik.
+Zur Strukturpolitik gehören Infrastrukturpolitik, regionale und sektorale Strukturpolitik.
+Zur Prozesspolitik gehören Arbeitsmarktpolitik, Finanzpolitik, Fiskalpolitik, Geldpolitik, Handelspolitik, Konjunkturpolitik.
+Zur Wirtschaftspolitik gehören ebenso die Gebiete der Sozialpolitik und der Währungspolitik.
+
+
+== Wirtschaftspolitische Richtungen ==
+Die beiden Hauptrichtungen sind die
+
+Angebotspolitik (angebotsorientierte Wirtschaftspolitik) stellt die Renditeerwartungen der Kapitalgeber in den Mittelpunkt der Überlegungen. Die Mittel beziehen sich daher überwiegend auf die wirtschaftspolitischen Rahmenbedingungen (Geldwertstabilität, Löhne, Arbeitszeitregelungen, Steuern etc.).
+Nachfragepolitik (nachfrageorientierte Wirtschaftspolitik), beschäftigt sich mit der Stabilisierung der gesamtwirtschaftlichen Entwicklung. Die Mittel sind antizyklische Fiskalpolitik (z. B. Ausgabenerhöhung bei schwacher privatwirtschaftlicher Nachfrage bzw. Ausgabensenkung bei Übernachfrage) sowie expansive bzw. kontraktive Geldpolitik.
+
+
+== Zielsystem der Wirtschaftspolitik ==
+Im Zielsystem der Wirtschaftspolitik bestehen viele unterschiedliche Ziele:
+
+Das wirtschaftspolitische Endziel, z. B. das Gemeinwohl, die Maximierung der gesellschaftlichen Wohlfahrt
+Die wirtschaftspolitischen Hauptziele
+Maximierung der ökonomischen Wohlfahrt
+Allokationsziel
+Wettbewerbsschutz und Wettbewerbsförderung
+staatliche Versorgung mit öffentlichen Gütern
+Umweltschutz
+Meritorisierung bei verzerrten Präferenzen
+Stabilitätsziel
+Hoher Beschäftigungsstand
+Preisniveaustabilität
+Wachstumsziel
+Steigerung des realen Pro-Kopf-Einkommens ("quantitatives Wachstum")
+Verbesserte Versorgung mit Kollektivgütern ("qualitatives Wachstum")
+Außenwirtschaftliches Gleichgewicht
+Strukturziel
+Förderung der Anpassungsflexibilität des Angebots
+Angleichung regionaler Lohn-, Wohn- und Freizeitwerte
+Verteilungsziel/Distributionsziel
+(Leistungs)Gerechte Einkommensverteilung und Vermögensverteilung
+soziale Gerechtigkeit der Verteilung von Einkommen und Vermögen
+Die wirtschaftspolitischen Detailziele
+Die gesellschaftspolitischen Grundziele, z. B. die Freiheit, die Gerechtigkeit, die Sicherheit und der Fortschritt.
+
+
+== Wirtschaftspolitik und Zielbeziehungen ==
+Im deutschen Stabilitätsgesetz wird das gleichzeitige Erreichen der vier wirtschaftspolitischen Ziele verlangt (siehe auch Magisches Viereck).
+Da die genannten Ziele untereinander in Wechselbeziehungen stehen, kann ein bestimmter Eingriff auf irgendeine Weise alle Ziele berühren, was zu einem kaum überschaubaren Wirkungsgefüge führt. Zwischen den Zielen bestehen jedoch unterschiedliche Beziehungen:
+
+Zielkonflikt (Trade-off) oder Zielkonkurrenz liegt vor, wenn eine Maßnahme einem wirtschaftspolitischen Ziel dient, jedoch ein anderes benachteiligt oder ihm abträglich ist. Eine Förderung des einen Ziels geht also auf Kosten eines anderen (siehe auch Phillips-Kurve).
+Zielharmonie liegt vor, wenn eine bestimmte wirtschaftspolitische Maßnahme zwei oder mehreren Zielen gleichzeitig dient.Ob ein Zielkonflikt oder eine Zielharmonie vorliegt, hängt unter anderem auch von der Zeitperspektive (kurz- vs. langfristig) ab.
+So scheint das Nachhaltigkeitsziel kurzfristig einen Zielkonflikt mit den anderen Zielen zu haben, da Umweltschutzmaßnahmen Geld kosten. Langfristig ergeben sich jedoch Zielharmonien.
+Die 4 quantitativen Ziele der Wirtschaftspolitik sind (Magisches Viereck):
+
+hoher Beschäftigungsstand
+Preisniveaustabilität
+Wirtschaftswachstum
+außenwirtschaftliches GleichgewichtQualitative Ziele der Wirtschaftspolitik sind (magisches Viereck zu magischem Sechseck):
+
+Verteilungsgerechtigkeit (§ 2 SachvRatG)
+Umweltschutz (Art. 20a GG)
+
+
+== Literatur ==
+Jörn Altmann: Wirtschaftspolitik. Lucius & Lucius, Stuttgart 2007, 382521317X.
+Friedrich Breyer, Martin Kolmar: Grundlagen der Wirtschaftspolitik. Mohr Siebeck, Tübingen 2010, ISBN 978-3-16-150193-7.
+Juergen B. Donges, Andreas Freytag: Allgemeine Wirtschaftspolitik. Lucius & Lucius, Stuttgart 2009 (Neuauflage), ISBN 3-8252-2191-1.
+Hans Peter Grüner: Wirtschaftspolitik: Allokationstheoretische Grundlagen und politisch-ökonomische Analyse (Springer-Lehrbuch) 4. Auflage. 2012, ISBN 978-3-642-28373-4
+Josef Gruntzel: Grundriß der Wirtschaftspolitik. 5 Bände: 1. Allgemeine Volkswirtschaftslehre, 2. Agrarpolitik, 3. Industriepolitik, 4. Handelspolitik, 5. Verkehrspolitik. Hölder-Pichler-Tempsky, Wien 1909. 
+Ullrich Heilemann, Heinz Gebhardt, Hans Dietrich von Loeffelholz: Wirtschaftspolitische Chronik der Bundesrepublik. Lucius & Lucius, Stuttgart 2003, ISBN 3-8282-0264-0.
+Rainer Klump: Wirtschaftspolitik – Instrumente, Ziele und Institutionen. Pearson Studium, München 2006, ISBN 3-8273-7238-0.
+Walter A.S. Koch, Christian Czogalla, Martin Ehret: Grundlagen der Wirtschaftspolitik. UTB Lucius & Lucius 2008, ISBN 3-8252-8265-1.
+Ralf Kronberger, Reinhold Hofer: Österreichische Wirtschaftspolitik. Facultas, Wien 2012, ISBN 978-3-7089-0763-5.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+
+Zeitschrift für Wirtschaftspolitik
+Bernard Degen: Wirtschaftspolitik. In: Historisches Lexikon der Schweiz.

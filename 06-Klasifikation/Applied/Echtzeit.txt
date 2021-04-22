@@ -1,0 +1,77 @@
+Der Begriff Echtzeit (englisch real-time) charakterisiert den Betrieb informationstechnischer Systeme, die bestimmte Ergebnisse zuverlässig innerhalb einer vorbestimmten Zeitspanne, zum Beispiel in einem festen Zeitraster, liefern können.
+
+
+== Definition ==
+Die Definition der inzwischen durch DIN ISO/IEC 2382 abgelösten Norm DIN 44300 (Informationsverarbeitung), Teil 9 (Verarbeitungsabläufe) lautete:
+
+„Unter Echtzeit versteht man den Betrieb eines Rechensystems, bei dem Programme zur Verarbeitung anfallender Daten ständig betriebsbereit sind, derart, dass die Verarbeitungsergebnisse innerhalb einer vorgegebenen Zeitspanne verfügbar sind. Die Daten können je nach Anwendungsfall nach einer zeitlich zufälligen Verteilung oder zu vorherbestimmten Zeitpunkten anfallen.“Durch die Hardware und Software muss sichergestellt werden, dass keine Verzögerungen auftreten, welche die Einhaltung dieser Bedingung verhindern könnten. Die Verarbeitung der Daten muss dabei nicht besonders schnell erfolgen, sie muss nur garantiert schnell genug für die jeweilige Anwendung erfolgen.
+Der Duden bietet für Echtzeit zwei Beschreibungen an, einerseits als eine „vorgegebene Zeit, die bestimmte Prozesse einer elektronischen Rechenanlage in der Realität verbrauchen dürfen“, sowie als „simultan zur Realität ablaufende Zeit“. Für Echtzeitbetrieb in der EDV gibt der Duden folgende Bedeutung an: „Arbeitsweise einer elektronischen Rechenanlage, bei der das Programm oder die Datenverarbeitung (nahezu) simultan mit den entsprechenden Prozessen in der Realität abläuft“.
+
+
+== Eigenschaften ==
+
+
+=== Reaktionszeit ===
+Der Begriff Echtzeit sagt etwas über die Fähigkeit eines Systems aus, auf ein Ereignis innerhalb eines vorgegebenen Zeitrahmens zu reagieren. Der Begriff sagt nichts über die Geschwindigkeit oder Verarbeitungsleistung eines Systems aus. In der Umgangssprache wird dies fälschlicherweise jedoch oft so verwendet, anstelle der zutreffenderen Begriffe verzögerungsarm oder verzugsarm.
+So werden etwa bei Neartime-Daten von Wettersatelliten wie bei EUMETSAT auch einige Stunden alte Messungen noch als Real-time-Daten bezeichnet. Auch bei Anwendungen wie Fahrgastinformations-Systemen (Dynamische Fahrgastinformation) mit Weiterverarbeitung der Daten im Minutenbereich wird von Echtzeit gesprochen.
+Je nach Art der Anwendung kann sich diese Reaktionszeit innerhalb eines weiten Bereichs bewegen:
+
+Für Einsatzbereiche wie Temperaturregelungen oder Füllstandsüberwachungen sind häufig Reaktionszeiten von einigen Sekunden ausreichend [realisiert mit günstigen Mikrocontrollern, einfache Speicherprogrammierbare Steuerung (SPS)].
+Automatisierungslösungen mit einer Speicherprogrammierbaren Steuerung (SPS) oder auf einem Feldbussystem basierende Produktionslinien kommen typischerweise mit Reaktionszeiten im Millisekunden-Bereich aus.
+Interaktive-Anwendungen auf dem Computer wie Spiele oder Demos erfordern bei der Aktualisierung der Bildschirmanzeige Reaktionszeiten von ≤ 63 ms (≥ 15–16 Bilder pro Sekunde), um als flüssiger Ablauf wahrgenommen zu werden.
+Bei den Reaktionszeiten von Computer-Programmen auf Eingaben durch Anwender mit Eingabegeräten (Tastatur, Maus etc.) sind ≤ 10 ms gefordert, um subjektiv als sofort wahrgenommen zu werden.
+Schnelle digitale Regelungen, Steuerungen, Filterungen und Überwachungen, Messdaten-Onlineauswertung benötigen häufig Echtzeit-Systeme, die im Mikrosekunden-Bereich arbeiten.
+
+
+=== Echtzeit-Qualität ===
+Zur Beschreibung einer Steuerungs- und Regelungsaufgabe reicht es aber nicht aus, eine Echtzeit über die Reaktionszeit zu definieren. Um die Anforderungen an Echtzeitsysteme klarer zu fassen, wird häufig noch die Zuverlässigkeit bei der Erfüllung dieser Reaktionszeit definiert. Hierzu wird meistens zwischen harter Echtzeit (englisch hard real-time) und weicher Echtzeit (englisch soft real-time) unterschieden:
+
+harte Echtzeit garantiert, dass die definierte Reaktionszeit niemals überschritten wird. Auf diese Eigenschaft kann man sich beim Einsatz eines harten Echtzeitsystems verlassen, zum Beispiel bei der Aufzeichnung des zeitlichen Verlaufs der Sensordaten bei einem Crashtest.
+weiche Echtzeit, hier ist eine Reaktionszeit nur statistisch garantiert. Solche Systeme arbeiten zwar typischerweise alle ankommenden Eingaben schnell genug ab, jedoch ist dies nicht garantiert. Die Antwortzeit erreicht beispielsweise einen akzeptablen Mittelwert oder ein anderes statistisches Kriterium. Ein Überschreiten der Zeitanforderung führt nicht zu Fehlern oder anderen technischen Problemen.
+feste Echtzeit wird manchmal verwendet, um eine schärfere Anforderung als bei der harten Echtzeit zu definieren. Bei der festen Echtzeit ist keine Variation auch nach unten bei der Reaktionszeit erlaubt (Isochronität). Ein praktisches Beispiel wäre ein ADC-Baustein, der idealerweise mit einer fixen Taktrate arbeiten sollte (in der Realität durch Jitter des Takts eingeschränkt).
+
+
+== Anwendungen ==
+
+Anwendungen in Echtzeit sind beispielsweise:
+
+Echtzeituhren,
+das Global Positioning System (GPS),
+der Hochpräzise Echtzeit-Positionierungs-Service und der Austrian Positioning Service,
+Echtzeit-Fahrgastinformations-Systeme als Dynamische Fahrgastinformation beispielsweise im Verkehrsverbund Region Kiel oder der Straßenbahn Potsdam, eingebunden auch in Google Maps,
+der Bildfahrplan bei Bahnen, Binnenschifffahrtsinformationsdienste in der Binnenschifffahrt,
+die Echtzeit-Lokalisierung in der Funknavigation und beim Flightradar24 als cyber-physisches System,
+Intelligent information system supporting observation, searching and detection for security of citizens in urban environment (INDECT), etwas komplizierter als das altbewährte Prüfblatt für die Echtzeiterfassung,
+das Realtime-Decision-System (ein Echtzeitentscheidungssystem im Telefon-Marketing), sowie Real Time Bidding als Auktionsmodell in der Werbung,
+der Echtzeitkurs an der Börse,
+Twitter und Chat,
+die Kollaborative Textbearbeitung in Echtzeit,
+Intelligent Teaching And Learning with Computers (iTALC) und weitere Anwendungen bei der Real-time Collaboration,
+Live-Streaming und anderen Streaming Media,
+die Virtuelle Realität oder die weniger rechnerintensive 3D-Echtzeit,
+Anwendungen in der Digitalen Kunst, dem Speedpainting oder der Physikalischen Modellierung der Klangerzeugung in Computermusik und Live-Elektronik,
+Echtzeit Computerspiele wie beispielsweise Echtzeit-Strategiespiele
+Anwendungen in der Wetterbeobachtung wie beim Satelliten Castor,
+in der Energie- und Umwelttechnik wie beim Smart Metering, dem Intelligenten Stromnetz oder Umweltinformationssystemen wie das Fernerkundungsprogramm Spot Vegetation,
+ein Manufacturing Execution System in der Produktionstechnik,
+Laser Speckle Extensometer zur Verformungsmessung,
+das Echtzeit-MRT, 4D-Ultraschall, die Farbkodierte Doppler-Sonografie, das Neurofeedback in der Medizin,
+das Echtzeit-PCR (englisch: Real Time Quantitative PCR), eine Vervielfältigungsmethode für Nukleinsäuren,
+wissenschaftliche Anwendungen wie bei der Photoemissionselektronenmikroskopie, dem Collider Detector at Fermilab, der Kernquadrupolresonanz-Spektroskopie, oder der Gravitationswellendetektor bei der Erforschung der Gravitationswelle.Geschieht die Aufzeichnung mit Sensoren und Hochgeschwindigkeitskameras in Echtzeit, so können später die aufgezeichneten Daten auch langsamer (in Zeitlupe) wiedergegeben werden. Andererseits lassen sich manche physikalischen Modelle sehr viel schneller durchrechnen als in Echtzeit, etwa die Sternentstehung in einer Gas- und Staubwolke. Hier ist die Wiedergabe im Zeitraffer für die (wissenschaftliche) Interpretation angebracht.
+
+
+== Siehe auch ==
+Echtzeitsystem
+Echtzeitbetriebssystem
+Neartime-Daten
+Gleichzeitigkeit
+
+
+== Literatur ==
+Kaul, Susanne (Hg.); Brössel, Stephan (Hg.): Echtzeit im Film. Konzepte – Wirkungen – Kontexte, Fink 2020, ISBN 978-3-8467-6251-6.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

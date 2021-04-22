@@ -1,0 +1,25 @@
+Ruthenium(VIII)-oxid oder Rutheniumtetroxid ist eine chemische Verbindung des Rutheniums und das Oxid mit der höchsten Oxidationsstufe des Elements. Es handelt sich um einen gelben, leichtflüchtigen Feststoff, der ein starkes Oxidationsmittel ist und mit organischen Verbindungen explosiv reagiert.
+
+
+== Geschichte ==
+Ruthenium(VIII)-oxid wurde erstmals 1860 von Karl Ernst Claus isoliert. Dieser gilt auch als Entdecker des Rutheniums.
+
+
+== Gewinnung und Darstellung ==
+Rutheniumtetroxid lässt sich durch Oxidation von wässrigen Lösungen von Ruthenium(III)-chlorid oder Ruthenaten mit Natriumperiodat, Natriumhypochlorit oder Natriumbromat gewinnen. Durch die schlechte Löslichkeit in Wasser entweicht es gasförmig aus der Lösung und lässt sich dann in geeigneten Lösungsmitteln auffangen.
+
+
+== Eigenschaften ==
+In Ruthenium(VIII)-oxid liegt das Ruthenium in seiner maximalen Oxidationsstufe +8 vor. Es ist die höchste bekannte Oxidationsstufe bei ungeladenen Verbindungen und wird nur bei wenigen weiteren Verbindungen, wie z. B. Osmiumtetroxid und Xenon(VIII)-oxid, erreicht. Nur vom IrO4+-Ion ist eine noch höhere Oxidationsstufe bekannt (+9 für Iridium).Das Ruthenium(VIII)-oxid-Molekül ist tetraedrisch gebaut und besitzt einen Ru-O-Abstand von 170,5 pm. Es kristallisiert in Form von gelben, rhombischen Nadeln und hat einen typischen an Ozon erinnernden Geruch.
+Rutheniumtetroxid ist thermisch instabil und zersetzt sich beim Erhitzen in Ruthenium(IV)-oxid und Sauerstoff. Es ist instabiler als das entsprechende Osmiumanalogon. Auch durch Kalilauge wird Rutheniumtetroxid reduziert, es bilden sich sechswertige Ruthenate. Explosiv reagiert die Verbindung mit Ammoniak, Ethanol, oxidierbaren organischen Verbindungen, Schwefel und Iodwasserstoff.
+
+
+== Verwendung ==
+Ruthenium(VIII)-oxid wird in der organischen Chemie als Oxidationsmittel genutzt. Beispiele sind die Djerassi-Rylander-Oxidation, bei der Alkene in Carbonylverbindungen gespalten werden, die Oxidation von Alkoholen zu Aldehyden, Ketonen oder Carbonsäuren oder von Alkinen zu 1,2-Diketonen. Häufig wird es in situ während der Reaktion erzeugt.Bei der Trennung der Platinmetalle und Gewinnung von elementarem Ruthenium ist Ruthenium(VIII)-oxid ein wichtiges Zwischenprodukt. Durch die Bildung dieser Verbindung kann Ruthenium von den anderen Platinmetallen abgetrennt werden.In der Transmissionselektronenmikroskopie kommt Ruthenium(VIII)-oxid als Kontrastierungsmittel von Polymeren und biologischen Proben zum Einsatz. Zu diesem Zweck lässt man Ruthenium(VIII)-oxid in die Probe eindiffundieren. Liegen innerhalb der Probe unterschiedliche Zusammensetzungen vor (z. B. Polymermischungen), so geht dies meist mit verschiedenen Diffusionsgeschwindigkeiten einher, was dazu führt, dass sich Ruthenium(VIII)-oxid in den Bereichen unterschiedlicher Zusammensetzung verschieden stark anreichert. Da Ruthenium auf Grund seiner vergleichsweise hohen Ordnungszahl jedoch die Elektronen stärker streut kommt in den Bereichen unterschiedlicher Rutheniumkonzentration zur Ausbildung von Kontrastunterschieden.
+
+
+== Sicherheitshinweise ==
+Ruthenium(VIII)-oxid ist brandfördernd. Bei Kontakt mit oxidierbaren Stoffen (wie zum Beispiel organischen Materialien) besteht sogar schon bei Raumtemperatur Explosionsgefahr.
+
+
+== Einzelnachweise ==

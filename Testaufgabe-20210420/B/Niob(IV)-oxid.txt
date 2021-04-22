@@ -1,0 +1,117 @@
+Niob(IV)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide von Niob.
+
+
+== Gewinnung und Darstellung ==
+Niob(IV)-oxid kann durch Reaktion von Niob(V)-oxid mit Wasserstoff bei 800–1350 °C gewonnen werden. Eine alternative Herstellungsmethode ist die Reaktion von Niob(V)-oxid mit Niobpulver bei 1100 °C.
+
+  
+    
+      
+        
+          
+            Nb
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            NbO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {Nb2O5 + H2 -> 2 NbO2 + H2O}}}
+  
+
+  
+    
+      
+        
+          Nb
+          +
+          2
+          
+          
+            Nb
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          ⟶
+          5
+          
+          
+            NbO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Nb + 2 Nb2O5 -> 5 NbO2}}}
+  
+
+
+== Eigenschaften ==
+Niob(IV)-oxid ist ein schwarzes, etwas bläuliches, Pulver. Die oben genannten Darstellungsmethoden liefern das α-Niob(IV)-oxid. Außer einer reversiblen Umwandlung in eine Hochtemperaturform ist eine sehr nahe strukturverwandte β-Modifikation bekannt. Letztere ist mit Transportmitteln (wie Iod, Niob(V)-chlorid, Quecksilber(II)-chlorid) aus Niob(II)-oxid–Niob(IV)-oxid-Gemengen zugänglich. Beide Kristallstrukturen leiten sich vom Rutiltyp ab, unterscheiden sich jedoch durch Niob-Niob-Paare. Die α-Modifikation hat die Raumgruppe I41/a (Raumgruppen-Nr. 88)Vorlage:Raumgruppe/88 und die Gitterparameter a = 13,681, c = 5,976 Å. Die β-Modifikation hat die Raumgruppe I41 (Nr. 80)Vorlage:Raumgruppe/80 mit den Gitterparametern a = 9,686, c = 5,985 Å. Der Homogenitätsbereich von Niobdioxid reicht von NbO1,94 bis NbO2,09. Bei Temperaturen unter 500 °C reduziert es leicht Kohlendioxid zu Kohlenstoff, Schwefeldioxid zu Schwefel und zersetzt Natriumhydroxid unter Freisetzung von Wasserstoff. Es oxidiert an Luft zu Niob(V)-oxid.
+
+
+== Einzelnachweise ==

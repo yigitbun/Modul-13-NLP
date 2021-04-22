@@ -1,0 +1,21 @@
+Computational Social Science (CSS, deutsch: computergestützte Sozialwissenschaft) ist ein interdisziplinäres Feld, das, vorrangig in den Sozialwissenschaften, der Psychologie und den Wirtschaftswissenschaften, mit computergestützten Methoden Theorien zu menschlichem Verhalten entwickelt und testet. Diese Methoden werden auf große Datensätze zu menschlichem Verhalten, u. a. aus sozialen Medien oder digitalisierten Archiven, wie solche mit administrativen Daten, angewendet. Oft wird dies mit dem Einsatz von Big Data gleichgesetzt, doch die computergestützte Sozialwissenschaft umfasst auch Textanalyse und Simulation.
+
+
+== Entwicklung ==
+Der Begriff Computational Social Science entstand im letzten Viertel des 20. Jahrhunderts in den Sozialwissenschaften sowie in den MINT-Fächern (Mathematik, Ingenieurwissenschaften, Naturwissenschaften und Technik). Er erlangte 2009 durch eine Publikation in Science breite Sichtbarkeit. Innerhalb der Sozialwissenschaften beschrieb der Begriff ursprünglich die Verwendung von Computerprogrammen zur Simulation von menschlichem Verhalten (z. B. agent-based modelling). Die Arbeit führte zu theoretischen Fortschritten z. B. in der Sozialpsychologie und der Netzwerkanalyse. Innerhalb der MINT-Fächer werden dagegen oft alle Studien, die große Datensätze zu menschlichem Verhalten verwenden, als Computational Social Science bezeichnet. Aus Sicht der Sozialwissenschaften bleiben diese Studien, z. B. der Soziophysik, obwohl sie Theorien aus der Physik und Mathematik elegant anwenden, weitgehend von der sozialwissenschaftlichen Theorie – und damit von ihrer inhaltlichen Verstehbarkeit – abgekoppelt.Das Feld hat sich in den letzten Jahren zunehmend konsolidiert, so dass seine Methoden zunehmend auch in Lehr- und Handbüchern beschrieben sind. Außerdem hat sich eine Vielzahl von Konferenzen, beispielsweise die International Conference on Computational Social Science (IC2S2), etabliert und die Zahl der Publikationen im Bereich ist stark gestiegen.. Gleichwohl bleibt das Feld kleiner als beispielsweise Computational Biology. International haben sich mehrere Forschungszentren in diesem Bereich etabliert. Zu erwähnen sind neben dem Oxford Internet Institute das Berkman Klein Center for Internet & Society in Harvard und dem Stanford Center for Internet and Society die Abteilung Computational Social Science bei GESIS in Köln sowie der Arbeitsbereich COSS von Dirk Helbing an der ETH Zürich. Das Verzeichnis für Forschungseinrichtungen in Deutschland der DFG, GERiT, listet insgesamt zehn Institute im Bereich CSS. Als dezidierten Studiengang listet der Hochschulkompass der HRK im März 2021 nur den Master-Studiengang Computational Social Systems an der RWTH Aachen. Daneben existiert eine Vielzahl von Big Data-Studiengängen mit inhaltlichen Parallelen.
+2018 erschien eine Liste mit über 50 Forscherinnen, die maßgeblich zu Computational Social Science beitragen.
+
+
+== Themen ==
+In ihrem Übersichtsartikel identifizieren Edelmann, et. al. anhand einer Analyse der Veröffentlichungen zu Computational Social Science folgende thematische Schwerpunkte mit einen Bezug zur Soziologie: Die Untersuchung von sozialen Netzwerken und Gruppenbildung; kollektives Verhalten und Politik sowie Soziologie des Wissens (z. B. Einsatz von Zitationsdaten zur Untersuchung der Konsensbildung innerhalb der Wissenschaft). Ein weiteres Thema sind Sozialpsychologie und Emotionen sowie Studien zur Beurteilung von kulturellen Produkten wie Musik, Kunst oder Filmen. Die Schnittmenge von Computer- und Netzwerkmethoden blüht auch innerhalb der Wirtschaftssoziologie auf. Erst seit relativ kurzer Zeit ist Computational Social Science auch innerhalb der Demografie angekommen, gewinnt dort aber schnell an Popularität.
+
+
+== Siehe auch ==
+Soziophysik
+
+
+== Weblinks ==
+International Conference on Computational Social Science
+
+
+== Einzelnachweise ==

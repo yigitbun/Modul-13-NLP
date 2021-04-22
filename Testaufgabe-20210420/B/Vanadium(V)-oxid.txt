@@ -1,0 +1,481 @@
+Vanadium(V)-oxid (Vanadiumpentoxid) ist die stabilste Vanadiumverbindung mit dem Element Sauerstoff. In der Natur kommt Vanadium(V)-oxid als sehr seltenes Mineral Shcherbinait vor.
+
+
+== Darstellung ==
+Vanadium(V)-oxid kann direkt aus den Elementen erzeugt werden.
+
+  
+    
+      
+        
+          4
+           
+          
+            V
+            
+              (
+              s
+              )
+            
+          
+          +
+          5
+           
+          
+            O
+            
+              2
+            
+          
+          →
+          2
+           
+          
+            V
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {4\ V_{(s)}+5\ O_{2}\rightarrow 2\ V_{2}O_{5}} }
+  ; 
+  
+    
+      
+        △
+        
+          H
+          
+            B
+          
+        
+        =
+        −
+        1560
+         
+        
+          k
+          J
+          
+            /
+          
+          m
+          o
+          l
+        
+      
+    
+    {\displaystyle \triangle H_{B}=-1560\ \mathrm {kJ/mol} }
+  Es kann auch durch Glühen von Ammoniummetavanadat (NH4VO3) bei 500–550 °C an Luft hergestellt werden.
+
+  
+    
+      
+        
+          2
+          
+          
+            NH
+            
+              4
+            
+            
+              
+            
+          
+          
+            VO
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          
+            V
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            NH
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2 NH4VO3 -> V2O5 + 2 NH3 + H2O}}}
+  Da bei der thermischen Zersetzung von Ammoniummetavanadat an Luft stets leicht verunreinigtes Oxid entsteht, wird bei der Notwendigkeit der hochreinen Verbindung ein größerer Umweg in Kauf genommen, um ein exakt stöchiometrisches Produkt zu erhalten. Hierzu wird zunächst technisches Ammoniummetavanadat im Sauerstoffstrom zum Oxid verglüht, dieses dann mittels Thionylchlorid zum Vanadium(V)-oxidtrichlorid umgesetzt, hydrolysiert, mit Ammoniak zu einem hochreinen Ammoniummetavanadat umgesetzt und selbiges letztendlich erneut im Sauerstoffstrom zum Oxid verglüht:
+
+  
+    
+      
+        
+          
+            V
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            SOCl
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            VOCl
+            
+              3
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            SO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {V2O5 + 3 SOCl2 -> 2 VOCl3 + 3 SO2}}}
+  
+
+  
+    
+      
+        
+          2
+          
+          
+            VOCl
+            
+              3
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            HNO
+            
+              3
+            
+            
+              
+            
+          
+          
+            
+              →
+              
+                
+                  H
+                  2
+                
+                O
+              
+            
+          
+          
+            V
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          NO
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2 VOCl3 + 2 HNO3 ->[H_2O][]V2O5 + 3 Cl2 + 2 NO + H2O}}}
+  
+
+  
+    
+      
+        
+          
+            V
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            NH
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          2
+          
+          
+            NH
+            
+              4
+            
+            
+              
+            
+          
+          
+            VO
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {V2O5 + 2 NH3 + H2O -> 2 NH4VO3}}}
+  
+
+  
+    
+      
+        
+          2
+          
+          
+            NH
+            
+              4
+            
+            
+              
+            
+          
+          
+            VO
+            
+              3
+            
+            
+              
+            
+          
+          
+            
+              →
+              
+                
+                  O
+                  2
+                
+              
+              
+                T
+              
+            
+          
+          
+            V
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            NH
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2 NH4VO3 ->[T][O_2]V2O5 + 2 NH3 + H2O}}}
+  
+
+
+== Eigenschaften ==
+
+Vanadium(V)-oxid ist ein gelber bis rotbrauner, geruchloser Feststoff, in dessen Kristallstruktur Vanadium-Ionen sich in den Oktaederlücken einer dichtesten Kugelpackung von Sauerstoff-Ionen befinden. Jedes Vanadium-Ion ist von fünf Sauerstoff-Ionen umgeben, wodurch eine verzerrte trigonale Dipyramide gebildet wird. Die Kristallstruktur ist orthorhombisch, Raumgruppe Pmn21 (Raumgruppen-Nr. 31)Vorlage:Raumgruppe/31, mit den Gitterparametern a = 11,54 Å, b = 4,383 Å und c = 3,571 Å.
+
+
+== Verwendung ==
+Vanadium(V)-oxid wird als Katalysator bei der Schwefelsäure-Gewinnung nach dem Kontaktverfahren genutzt. Zudem findet es Gebrauch bei der Herstellung von Stahllegierungen wie Ferrovanadium. Es wird unter anderem als Katalysator bei der Rauchgasreinigung in Müllverbrennungsanlagen und zur Erniedrigung des Schmelzpunkts bei der Emailleherstellung verwendet.
+Vanadium(V)-oxid wird auch verwendet, um Weißglas undurchlässiger für UV-Licht zu machen. Dazu wird es der Glasschmelze zugesetzt, das fertige Glas ist weder von außen noch von innen beschichtet. Flaschen aus diesem Glas werden vor allem für Bier verwendet, um den Lichtgeschmack zu vermeiden.
+Nanostrukturiertes Vanadium(V)-oxid bildet in Kombination mit Wasser einen Verbundwerkstoff, der als "keramisches Papier" bezeichnet wird. Dieses "keramische Papier" hat ausgezeichnete mechanische Eigenschaften und ist elektrisch leitfähig. Mögliche Anwendungsbereiche sind deshalb Batterien, Gassensoren und künstliche Muskeln.
+
+
+== Literatur ==
+H. Oppermann, W. Brückner, W. Reichelt, E. Wolf, J. I. Terukow, F. A. Tschudnowski: Vanadiumoxide. Akademie-Verlag, Berlin 1983.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==

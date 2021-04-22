@@ -1,0 +1,26 @@
+Americium(IV)-oxid ist ein Oxid des Elements Americium. Es besitzt die Summenformel AmO2. Da alle Isotope des Americiums nur künstlich hergestellt sind, besitzt Americium(IV)-oxid keine natürlichen Vorkommen. Es entsteht unter anderem implizit in Kernreaktoren beim Bestrahlen von Urandioxid (UO2) bzw. Plutoniumdioxid (PuO2) mit Neutronen. Americium(IV)-oxid ist die wichtigste Verbindung dieses Elements. Nahezu alle Anwendungen dieses Elements basieren auf dieser Verbindung.
+
+
+== Darstellung ==
+Für Kleinstmengen bietet sich das Glühen von Salzen des Americiums an. Meistens werden hierzu Americium(III)-oxalat (Am2(C2O4)3) oder Americium(III)-nitrat (Am(NO3)3) herangezogen. Die Americium(III)-nitratlösungen werden eingedampft und dann bei 1000 °C zum Oxid geglüht. Ebenso verfährt man mit gefälltem Americium(III)-oxalat und anschließendem Glühen bei 900 °C.
+
+
+== Eigenschaften ==
+Americium(IV)-oxid ist ein schwarzer Feststoff. Es kristallisiert im kubischen Kristallsystem, der Strukturtyp ist der CaF2-Typ (Fluorit) mit der Raumgruppe Fm3m (Raumgruppen-Nr. 225)Vorlage:Raumgruppe/225 und den Koordinationszahlen Am[8], O[4].
+
+
+== Verwendung ==
+
+Americium(IV)-oxid (mit dem Isotop 241Am) wird als Quelle für ionisierende Strahlung eingesetzt. Anwendungsgebiete sind die Fluoreszenzspektroskopie und als Ionisationsrauchmelder.
+In zukünftigen Radionuklidbatterien könnte Americium(IV)-oxid mit demselben Radionuklid als Brennstoff zum Einsatz kommen.
+
+
+== Sicherheitshinweise ==
+Einstufungen nach der CLP-Verordnung liegen nicht vor, weil diese nur die chemische Gefährlichkeit umfassen und eine völlig untergeordnete Rolle gegenüber den auf der Radioaktivität beruhenden Gefahren spielen. Auch Letzteres gilt nur, wenn es sich um eine dafür relevante Stoffmenge handelt.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Wolfgang H. Runde, Wallace W. Schulz: Americium, in: Lester R. Morss, Norman M. Edelstein, Jean Fuger (Hrsg.): The Chemistry of the Actinide and Transactinide Elements, Springer, Dordrecht 2006; ISBN 1-4020-3555-1, S. 1265–1395 (doi:10.1007/1-4020-3598-5_8).

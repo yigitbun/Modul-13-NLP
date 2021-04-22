@@ -1,0 +1,32 @@
+Als Spezialisierung (auch Spezialisation und als in der logisch zuordnenden Bedeutung nahe verwandter Begriff der Spezifikation) wird ganz allgemein die differenzierte Betrachtung bezeichnet, die einzelnen Aspekten sich zuwendende Besonderung, die Ausbildung und Beachtung von Verschiedenheiten sowie die logisch zuordnende Einteilung in Unterabteilungen ausgehend von einem gleichen Ursprung.
+
+
+== Etymologie ==
+Das Eigenschaftswort speziell ist abgeleitet von lateinisch specialis = „besonders wert“, „vertraut“, „abgesondert“ „ausersehen“ oder „[ab]sonderlich“, dieses Eigenschaftswort wieder gehört zur Bedeutung von lat. species = Aussehen, Schönheit, Ansehen, Unterabteilung einer Gattung – und zu lat. spectare = „sehen“.
+
+
+== Berufsausbildung ==
+Bei der beruflichen Ausbildung wird unter Spezialisierung die Ausrichtung oder Beschränkung auf ein bestimmtes Fachgebiet bezeichnet, um genauere Kenntnisse zu erwerben. Teilweise wird auch im allgemeinen Sprachgebrauch eine beliebige Tätigkeit, die sich auf ein eng umschriebenes Gebiet begrenzt, als Spezialisierung verstanden. Durch berufliche Ausbildungs- und Wettbewerbsprozesse wird ein höherer sozialer Status erzielt. Dies sollte sich jedoch nicht zu Lasten der Allgemeinbildung vollziehen.
+
+
+== Biologie ==
+In der Biologie erfolgt Spezialisierung meist über die Differenzierung von weniger spezialisierten Stammformen durch Ausbildung einer bestimmten Form von Einnischung, wie etwa die Ab-/Eingrenzung auf einen bestimmten Lebensraum oder die Umstellung auf eine Lebensweise, die sich auf besondere Funktionen konzentriert, wie etwa bei der Kleidermottenraupe. Eine Spezialisierung ist u. a. auch durch eine bestimmte Organisation zwischen unterschiedlich differenzierten Zellen eines Organsystems möglich, vgl. → Zentralisierung. Dieser Gewinn und Aufbau an Spezialisierung wird erkauft durch einen Verlust bzw. einen Abbau an Reaktionsmöglichkeiten auf Umweltänderungen. Die allmähliche epigenetische Ausbildung solcher Differenzierungen in der Stammesgeschichte ist als Spezialisierung anzusehen. Zum Beispiel die Herausbildung der beiden einander eindeutig ergänzenden Geschlechter. Zwitter scheinen zwar flexibler zu sein, dies Muster führt aber häufig zu besonders rabiaten Formen der männlichen (kämpferischen) Funktion.Die logische Einteilung und systematische Unterscheidung dieser Differenzierungen in Gattungs- und Artnamen, wie sie Carl von Linné (1707–1778) eingeführt hat, wird als Spezifikation oder Bestimmung bezeichnet (so beispielsweise „Panthera leo“).
+
+
+== Wirtschaft ==
+Auch in der Wirtschaftslehre spielt die Spezialisierung eine besondere Rolle: durch entsprechende Spezialisierungsmaßnahmen innerhalb von Betrieben soll die Funktionalität und Produktivität des jeweiligen Unternehmens gewährleistet werden, was unter anderem durch eine entsprechende Organisationsstruktur (Unternehmensstruktur) erreicht wird. Spezialisierung geschieht im Rahmen der Arbeitsteilung durch Aufteilung von Arbeitsinhalten auf mehrere Arbeitsplätze.
+
+
+== Turnen und Sport ==
+Das turnerische Ideal ist die Vielseitigkeit, dem stellte sich am Ende des 19. Jahrhunderts in Deutschland das sportliche Ideal der Spezialisierung gegenüber. Hierüber kam es zwischen Turnen und Sport zeitweise zu einer reinlichen Scheidung, bei der sich die Athleten bzw. ihre Vereine entscheiden mussten, für welchen Verband sie starten wollten. Selbst in der Kompromiss-Sportart Zehnkampf wurde um die Punktwertung gerungen: Die sportliche Wertung ist pro Disziplin nach Oben offen (d. h. Spitzenleistungen werden belohnt), die turnerische ist in jeder Disziplin gedeckt, d. h. man kann nicht mehr als ein Maximum erreichen und muss das zusätzliche Training in die anderen Disziplinen stecken. Auch bei der Einführung des Modernen Fünfkampf in das Programm der Olympischen Spiele gab es dieselbe Auseinandersetzung. In Deutschland wurde die Diskussion erst in Zeiten des Nationalsozialismus beendet, da der Reichsbund für Leibesübungen bei den Olympischen Spielen viele Medaillen gewinnen wollte und das ging nicht ohne Spezialisierung.
+
+
+== Frühe Spezialisierung ==
+Da spitzensportliche Leistungen in der Regel sieben Jahre zielgerichtetes Training erfordern, führt dies in Sportarten mit einem sehr frühen Leistungshöhepunkt (u. a. Turnen, Schwimmen, Eiskunstlauf) zu Spezialisierung häufig im Kindergarten- oder Grundschulalter. Dies ist durch die einseitige Ausrichtung pädagogisch überaus problematisch.  Neuere Forschungsergebnisse zeigen, dass es aber keine Schäden der physischen Gesundheit und kein erhöhtes Verletzungsrisiko gibt.
+
+
+== Siehe auch ==
+Abschnitt Spezialisierung und Generalisierung mittels is-a-Beziehung im Artikel Entity-Relationship-Modell
+
+
+== Einzelnachweise ==

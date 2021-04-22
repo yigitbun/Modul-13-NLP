@@ -1,0 +1,84 @@
+Titan(II)-oxid ist eine anorganische chemische Verbindung des Titans aus der Gruppe der Oxide.
+
+
+== Vorkommen ==
+Titan(II)-oxid kommt natürlich in Form des Minerals Hongquiit vor. Absorptionsbanden der Verbindung wurden in den Spektren verschiedener Sterne nachgewiesen.
+
+
+== Gewinnung und Darstellung ==
+Titan(II)-oxid kann durch Reaktion von Titan mit Titan(IV)-oxid bei 1600 °C gewonnen werden.
+
+  
+    
+      
+        
+          T
+          i
+          +
+          T
+          i
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          T
+          i
+          O
+        
+      
+    
+    {\displaystyle \mathrm {Ti+TiO_{2}\longrightarrow 2\ TiO} }
+  Ebenfalls möglich ist die Herstellung durch Reduktion von Titan(IV)-oxid durch Wasserstoff bei 2000 °C und einem Druck von 130 atm.
+
+
+== Eigenschaften ==
+Titan(II)-oxid ist ein goldgelber Feststoff und besitzt einen beträchtlichen Homogenitätsbereich (TiO1,2–TiO0,85). Es löst sich in verdünnter Salzsäure oder Schwefelsäure unter teilweiser Oxidation gemäß Ti2+ + H+ = Ti3+ + 1/2 H2. Es ist ein starkes Reduktionsmittel, da es sich leicht zu Titan(IV)-oxid umsetzt. So reduziert es Wasser unter Wasserstoffbildung.
+
+  
+    
+      
+        
+          T
+          i
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          T
+          i
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {TiO+H_{2}O\longrightarrow TiO_{2}+H_{2}} }
+  Die Verbindung hat eine Kristallstruktur vom Natriumchlorid-Typ (a = 418,2 pm). Dabei bleiben auch bei stöchiometrischer Zusammensetzung etwa 15 % der Gitterplätze unbesetzt und erst bei Erwärmung im Vakuum auf 990 °C beginnen die Leerstellen zufällig ihre Plätze zu tauschen, so dass Röntgenstrukturanalysen das typische Streumuster von Natriumchlorid zeugen. Bei Normaltemperatur ist die stöchiometrische Verbindung ein metallischer Leiter mit monokliner Kristallstruktur. Durch Überlappung der d-Orbitale der Titan-Ionen entsteht ein Metallband mit delokalisierten d-Elektronen. Wahrscheinlich begünstigen die Sauerstoffleerstellen die Überlappung. Bei Erhitzung an Luft wandelt sich die Verbindung abhängig von der Temperatur zu anderen Titanoxiden um. So entsteht bei 200–250 °C Titan(III)-oxid und ab 350 °C Titan(IV)-oxid.
+
+
+== Verwendung ==
+Titan(II)-oxid wird in elektrochromen Systemen verwendet.
+
+
+== Einzelnachweise ==

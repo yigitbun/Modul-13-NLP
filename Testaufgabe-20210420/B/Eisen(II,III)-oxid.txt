@@ -1,0 +1,214 @@
+Eisen(II,III)-oxid ist ein Oxid des Eisens, das sowohl zwei- als auch dreiwertiges Eisen enthält. Es  hat die chemische Formel FeO · Fe2O3 bzw. Fe3O4 und wird deshalb auch als Trieisentetraoxid bezeichnet.
+In der Natur findet es sich als Magnetit. Der Schmelzpunkt liegt bei 1538 °C.
+
+
+== Darstellung ==
+
+Aus Eisen und Sauerstoff bei sehr hohen Temperaturen:
+
+  
+    
+      
+        
+          3
+           
+          F
+          e
+          +
+          2
+           
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          F
+          
+            e
+            
+              3
+            
+          
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {3\ Fe+2\ O_{2}\longrightarrow Fe_{3}O_{4}} }
+  Aus Eisen und Wasserdampf bei Temperaturen unterhalb 560 °C
+
+  
+    
+      
+        
+          3
+           
+          F
+          e
+          +
+          4
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          F
+          
+            e
+            
+              3
+            
+          
+          
+            O
+            
+              4
+            
+          
+          +
+          4
+           
+          
+            H
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {3\ Fe+4\ H_{2}O\longrightarrow Fe_{3}O_{4}+4\ H_{2}} }
+  Aus Eisen(III)-oxid  bei Temperaturen oberhalb 1200 °C
+
+  
+    
+      
+        
+          6
+           
+          F
+          
+            e
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          ⟶
+          4
+           
+          F
+          
+            e
+            
+              3
+            
+          
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {6\ Fe_{2}O_{3}\longrightarrow 4\ Fe_{3}O_{4}+O_{2}} }
+  Aus Eisen(III)-oxid durch Reduktion mit Wasserstoff
+
+  
+    
+      
+        
+          3
+           
+          F
+          
+            e
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          ⟶
+          2
+           
+          F
+          
+            e
+            
+              3
+            
+          
+          
+            O
+            
+              4
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {3\ Fe_{2}O_{3}+H_{2}\longrightarrow 2\ Fe_{3}O_{4}+H_{2}O} }
+  Als Eisenhammerschlag  oder Zunder  bezeichnete man früher  die beim Schmieden von glühendem Eisen abspringenden Eisenteilchen, die an der Luft sofort zu Fe3O4 oxidierten.
+Sinter ist eine weitere Bezeichnung für die Eisenoxide, die beim Strangguss bei der Herstellung von Stahlbrammen und beim Warmwalzen von Stahl anfallen. Durch den Kontakt des heißen Stahls mit dem Luftsauerstoff bilden sich auf der Oberfläche der Brammen Eisenoxide, die neben Eisen(III)-oxid einen hohen Anteil an Magnetit enthalten.
+
+
+== Eigenschaften ==
+Schwarze, temperaturbeständige, ferrimagnetische Substanz mit Spinellstruktur.
+Unlöslich in Wasser, Säuren und Laugen, löslich jedoch in Flusssäure.
+
+
+== Verwendung ==
+Als Pigment Eisenoxid-Schwarz  für temperaturbeständige, schwarze Einfärbungen.
+Als magnetisches Pigment (Magnetpigment) für Ton- und Videobänder.
+Eine der wichtigsten Anwendungen ist die als preiswerter Katalysator mit hoher Lebensdauer im Haber-Bosch-Verfahren zur Synthese von Ammoniak. Magnetit dient weiterhin als Katalysatorkomponente bei der Dehydrierung von Ethylbenzen zu Styrol.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. Walter de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1.

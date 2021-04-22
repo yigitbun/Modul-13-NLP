@@ -1,0 +1,272 @@
+Vanadium(IV)-oxid ist eines von mehreren Oxiden des Vanadiums. Es ist ein hochschmelzender, schwarzer Feststoff. Vanadium(IV)-oxid spielt eine wichtige Rolle bei der katalytischen Umsetzung von Schwefeldioxid zu Schwefeltrioxid im Kontaktverfahren zur Schwefelsäureherstellung. 
+
+
+== Gewinnung und Darstellung ==
+Vanadium(IV)-oxid lässt sich aus Vanadium(V)-oxid gewinnen. Dieses wandelt sich beim Erhitzen mit schwachen Reduktionsmitteln, wie Kohlenstoffmonoxid, Schwefeldioxid oder Oxalsäure in Vanadium(IV)-oxid um:
+
+  
+    
+      
+        
+          
+            V
+            
+              2
+            
+          
+          
+            O
+            
+              5
+            
+          
+          +
+          S
+          
+            O
+            
+              2
+            
+          
+           
+          ⟶
+          2
+           
+          V
+          
+            O
+            
+              2
+            
+          
+          +
+          S
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {V_{2}O_{5}+SO_{2}\ \longrightarrow 2\ VO_{2}+SO_{3}} }
+  
+
+  
+    
+      
+        
+          
+            V
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            C
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              4
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            VOC
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              4
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          2
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {V2O5 + 3 H2C2O4 -> 2 VOC2O4 + 3 H2O + 2 CO2}}}
+  
+
+  
+    
+      
+        
+          2
+          
+          
+            VOC
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              4
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            VO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          CO
+          +
+          2
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 VOC2O4 -> 2 VO2 + 2 CO + 2 CO2}}}
+  
+
+
+== Eigenschaften ==
+
+
+=== Physikalische Eigenschaften ===
+Vanadium(IV)-oxid besitzt zwei verschiedene Modifikationen, die sich bei 70 °C ineinander umwandeln. Unterhalb von 70 °C besitzt es eine verzerrte Rutil-Struktur, in der jeweils zwei Vanadiumatome durch eine Bindung miteinander verbunden sind. Oberhalb von 70 °C brechen diese Bindungen auf. Dabei bildet sich eine unverzerrte Rutilstruktur aus. Gleichzeitig erhöht sich die elektrische Leitfähigkeit und der Paramagnetismus deutlich. 
+
+  
+    
+      
+        
+          
+            V
+            
+              2
+            
+          
+          
+            O
+            
+              4
+            
+          
+           
+          ⟶
+          2
+           
+          V
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {V_{2}O_{4}\ \longrightarrow 2\ VO_{2}} }
+  Neuere Untersuchungen an einkristallinen Nanodrähten von Vanadium(IV)-oxid ergaben, dass bei 65,0 °C ein Tripelpunkt von einer metallischen und zwei isolierende Phasen des Metalloxids vorliegt. Nur geringste Änderungen dieser Bedingungen reichten aus, um jeweils nur eine einzige Phase zu stabilisieren, wobei sich die Wechsel binnen weniger Pikosekunden vollziehen. In der metallischen Hochtemperatur (Rutil, R)-Phase sind alle Ketten gerade und regelmäßig, während in der nicht leitenden Niedertemperaturphase (monoklin M1) jede Kette dimerisiert. Es gibt auch zwei andere bekannte isolierende Phasen: eine monokline M2, in denen nur ein Satz von Ketten dimerisiert und eine trikline, die ein Zwischenprodukt von M1 und M2 darstellt. Das Vorhandensein von sowohl M1 und M2, mit ähnlichen dielektrischen Eigenschaften aber unterschiedlichen magnetischen Eigenschaften liefert Einschränkungen der bisherigen Theorie von Metall-Isolator-Übergängen. Zum Beispiel schließt es einen reinen Peierls-Mechanismus aus.
+
+
+=== Chemische Eigenschaften ===
+Vanadium(IV)-oxid ist wie Titan(IV)-oxid amphoter, es löst sich sowohl in starken Säuren, als auch in starken Basen. Mit Säuren bildet es [VO(H2O)5]2+-Ionen, mit Basen [VO(OH)3]−-Ionen.
+
+
+== Verwendung ==
+Während der Schwefelsäureproduktion im Kontaktverfahren entsteht durch Übertragung eines Sauerstoffions vom Vanadium(V)-oxid auf das Schwefeldioxid Vanadium(IV)-oxid. Die Rückgewinnung des eingesetzten Vanadium(V)-oxids erfolgt durch Oxidation mit Sauerstoff. 
+Bedingt durch die Umwandlung zwischen den unterschiedlichen Phasen lässt sich Vanadium(IV)-oxid als optischer Schalter verwenden. Es wandelt sich bei 68 °C in kürzester Zeit von einem Infrarot transparenten und halbleitenden in einen spiegelnden und leitenden Zustand um. Durch Einbringen geringer Mengen Wolfram in Vanadiumdioxid lässt sich die Umwandlungstemperatur auf etwa 29 °C senken, was das Oxid zur hitzeabweisenden Beschichtung von Glasflächen geeignet macht.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. Walter de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1, S. 1548.

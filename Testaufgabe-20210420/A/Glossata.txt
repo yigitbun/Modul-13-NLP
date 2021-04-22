@@ -1,0 +1,32 @@
+Die Glossata sind die hauptsächliche Unterordnung der Schmetterlinge (Lepidoptera). Sie enthalten mit Ausnahme von drei urtümlichen Gruppen – mit zusammen gut 100 bekannten Arten – alle Vertreter dieser Insektenordnung.
+
+
+== Merkmale ==
+
+
+=== Imagines ===
+Die Glossata unterscheiden sich stark von den anderen drei anderen, ursprünglich gebliebenen Gruppen, die in eigene Unterordnungen gestellt werden (Urmotten, Agathiphaga und Heterobathmia). Die Mandibeln sind stark zurückgebildet, und an den Maxillen fehlt eine der sklerotisierten Kauladen, die Lacinia. Bei manchen Familien, wie z. B. den Trugmotten (Eriocraniidae), ist die zurückgebildete Lancinia aber noch an der Basis der Innenseite der Maxillen an einer gefalteten Membran erkennbar. Bei diesen Arten ist auch der vom Kopf ausgehende Lacinia-Muskel vorhanden. Die zweite Kaulade der Maxillen, die Galea, ist zu einem Saugrüssel umgebildet, der aus zwei flexiblen Halbröhrchen besteht, die mit Falznähten verbunden sind. Zwischen den beiden Röhrchen bildet sich das Saugrohr, mit dem flüssige Nahrung aufgenommen werden kann. Der Saugrüssel ist in Ruheposition spiralförmig unter dem Kopf aufgewickelt. Bei manchen Familien ist diese Errungenschaft aber wiederum verkümmert und zurückgebildet. Das Prälabium, der distale (vom Körper weg gerichtete) Teil des Labiums am Hypopharynx (Anhang der Kopfkapsel) ist nur bei den wenig entwickelten Familien ausgebildet und zwar zu einem schmalen Lappen. An der Basis des Hypopharynx fehlt die Infrabuccaltasche (eine sackförmige Tasche an der Unterseite des Mundraums). Das Cerebrum (paariger, lappenförmiger Teil des Gehirns) ist mit den Neuronen unterhalb des Speiseröhrenkanals verbunden, die als suboesophageales Ganglion bezeichnet werden.
+
+
+=== Raupen ===
+Der Untere Teil des Clypeus (Stirnplatte) bei den Raupen ist unbehaart und nicht eindeutig abgegrenzt. Dies ist aber bei den primitiven Familien der Glossata sehr wohl der Fall, weswegen dieses Merkmal noch nicht eindeutig der Unterordnung zugewiesen werden kann. Bei diesen Raupen sind auch gut ausgebildete Mandibeln vorhanden (z. B. Trugmotten und Acanthopteroctetidae). Die Raupen haben gut ausgebildete Spinndrüsen am Apex (Spitze) des Prelabiums am Hypopharynx.
+
+
+== Systematik ==
+Die Verwandtschaftsverhältnisse innerhalb der Glossata sind bisher nicht vollständig geklärt. Eine phylogenetische Untersuchung durch Nielsen & Kristensen (1996) anhand von 46 Merkmalen ergab folgende Verwandtschaftsverhältnisse:
+
+
+=== Molekularphylogenetische Studie (März 2013) ===
+Eine groß angelegte Studie, die im März 2013 veröffentlicht wurde, hat die Ordnung der Schmetterlinge auf Verwandtschaftsbeziehungen untersucht. In dieser Studie bilden Acanthopteroctetidae und Neopseustidae eine gemeinsame Gruppe. Diese Gruppe wird als Schwestergruppe von Heteroneura eingeordnet. Exoporia wird als Schwestergruppe von Lophocoronidae eingeordnet.
+Das Kladogramm bezüglich Glossata sieht wie folgt aus:
+
+
+== Belege ==
+
+
+=== Einzelnachweise ===
+
+
+=== Literatur ===
+N. P. Kristensen, A. W. Skalski: Phylogeny and paleontology. In: N. P. Kristensen (Hrsg.): Lepidoptera: Moths and Butterflies. 1. Evolution, Systematics, and Biogeography. Handbook of Zoology Vol. IV, Part 35. De Gruyter, Berlin und New York 1999, S. 7–25. 
+B. M. Wiegmann, J. C. Regier, C. Mitter: Combined molecular and morphological evidence on the phylogeny of the earliest lepidopteran lineages. In: Zoologica Scripta. Band 31, 2002, S. 67–81.

@@ -1,0 +1,90 @@
+Sozialinformatik, seltener Informatik in der Sozialen Arbeit ist ein Fachbereich der Sozialen Arbeit, der sich etwa Mitte der 1990er Jahre herausgebildet hat. Sozialinformatik befasst sich zum einen mit dem IT-Betrieb in sozialen Organisationen, zum anderen mit Technik und Informatik als Instrument der Sozialen Arbeit, wie zum Beispiel beim Ambient Assisted Living.
+
+
+== Historie und Definition ==
+Zur Entstehungsgeschichte des Begriffs Sozialinformatik gibt es nur wenige systematische Erläuterungen.
+Erste Publikationen zur Thematik der Sozialinformatik tauchten bereits in den 1980er Jahren in Form von Einzelbeiträgen in Fachzeitschriften auf. Auch sind es bisher vor allem diese, welche immer noch primär zur Klärung und Abgrenzung des Fachbereiches beitragen.
+Der Begriff Sozialinformatik wurde erstmals von Mehlich und Halfar benutzt.
+Der stark interdisziplinäre Charakter der Sozialinformatik bringt es jedoch mit sich, dass Versuche einer deutlicheren Begriffsdefinition immer wieder verwässert werden. Dies ist einer Abgrenzung des Fachbereiches auf wissenschaftlichem Niveau nicht zuträglich. Die Sozialinformatik steht in enger Beziehung zur allgemeinen Debatte über Technik (speziell die Informatik), vor allem aber zu den realen soziokulturellen und soziotechnischen Entwicklungen der Gesellschaft. Für eine weitere Klärung von Begriff und Inhalt ist vor allem die soziologische Diskussion zur Informatisierung von Arbeit hilfreich.
+Eine erste Definition und Beschreibung des Aufgabengebietes lieferte Wendt (2000). Danach befasst sich die Sozialinformatik „mit der systematischen Verarbeitung von Information im Sozialwesen in ihrer technischen Konzipierung, Ausführung und Evaluation, und […] geht damit verbunden den Bedingungen, Wirkungen und Begleiterscheinungen des Technologieeinsatzes nach. Kurz: Die Sozialinformatik nimmt fachliche Verantwortung für den Produktionsfaktor Information im System sozialer Dienstleistungen und ihrem Umfeld wahr“. Eine einheitliche Definition des Begriffs liegt im Moment noch nicht vor und eine interdisziplinäre Einigung auf diesen Begriff hat es bisher ebenfalls noch nicht gegeben.
+
+
+== Überblick ==
+Die Sozialinformatik versteht sich als interdisziplinär ausgerichtete Fachdisziplin, im Kontext von Theorie und Methodik angewandter Informatik. Es bestehen in den Anforderungen einer solchen Disziplin ein Brückenschlag, nicht nur von den Ingenieurwissenschaften der (Kern)Informatik zu den wirtschaftswissenschaftlichen Aspekten, sondern zusätzlich und vor allem auch zum Gegenstand und den Methoden der Sozialen Arbeit. Neben der (Kern)Informatik besteht eine weitere Pflichtverwandtschaft zur Sozioinformatik, welche jedoch eher auf die Qualität der Wechselwirkung sozialer Systemen im gesellschaftlichen Bezug fokussiert ist. Weitere Verwandtschaften der Sozialinformatik finden wir z. B. in der Wirtschaftsinformatik, der Verwaltungsinformatik, der Medizinischen Informatik und der Pflegeinformatik. Sehr deutliche Abgrenzungen findet die Sozialinformatik zum Bereich der Technik-Soziologie, der Medienpädagogik und vor allem auch den empirischen Sozialforschung. Neben dem grundsätzlichen Anspruch, eine Wissenschaftsdisziplin zu werden und Forschung zu betreiben, will die Sozialinformatik nicht selbst Gegenstand der Sozialforschung sein.
+
+Aus der elementaren Beziehung der Sozialinformatik zur „Mutterdisziplin“ der Sozialen Arbeit heraus entwickelt sich der Anspruch, wissenschaftlicher Partner der Praxis zu sein und im technisch- prozessorientierten Sinne wissenschaftliche Forschung zu betreiben. Unstrittig ist also, dass die Sozialinformatik ihre Fragestellungen primär aus dem Feld der Sozialen Arbeit bezieht. Inwieweit sie jedoch auch Aspekte  aus den Bereichen des IT-Geschäftsmanagements, des IT-Managements oder der Betriebswirtschaftslehre einbezieht, ist umstritten.In der Entwicklung integrierter Softwaresysteme anderer Branchen und Bereiche zeigt sich jedoch auch im Feld der Sozialen Arbeit, dass ebendiese Bereiche nicht getrennt voneinander zu betrachten sind. Konkret befasst sich die Sozialinformatik, wie andere Fachinformatiken auch, mit der Implementierung und Entwicklung organisations- und prozessorientierter, fachspezifischer IT-Anwendungen. Dazu zählen neben den managementorientierten Bereichen, den speziellen Anforderungen des Controllings und der Unternehmenssteuerung z. B. in Non-Profit-Organisationen, Fachverbänden und Verwaltungen über die pflegerischen und pädagogischen Komponenten wie z. B. der Dokumentation und der Klientenakte, auch Schnittstellen zur Unterstützung und Einbeziehung von Klienten bis hin zum Ambient Assisted Living. In der Reihenfolge der Schwerpunkte sind also in erster Linie das IT-Management und die technische Administration zu nennen, direkt verbunden mit den speziellen Anforderungen des Sozialmanagements. Nachfolgend steht der Bereich der Assistenz-Technologien für Klienten sowie IT fachliche Fragen aus der Praxis.
+Zum primären Wesen der Sozialinformatik gehört eine hohe Praxisrelevanz. Die IT-vermittelnde Klientenarbeit ist dabei jedoch eher als Randbereich zu sehen. IT in der Gesellschaft, also in der Lebenswelt der Klienten ist nicht oder nur zu sehr geringen Teilen Bestandteil der Sozialinformatik. An dieser Stelle greifen Inhalte der Sozioinformatik. Die Akteure der Sozialinformatik sind also die Wissenschaft wie Fakultäten für Soziale Arbeit, soziale Einrichtungen und Sozialverwaltungen, Fachsoftware und sonstige IT-Anbieter, sowie Branchen- und Fachverbände. Die Adressaten sind in der Arbeitspraxis Sozialer Arbeit, dem Sozialmanagement, der Sozialverwaltung und bei Fachsoftwareherstellern zu finden.
+
+
+== Inhalte und Anwendungsbereiche ==
+Im Bereich der Sozialinformatik sollen Spezialisten im Umgang mit Mensch-Computer-Schnittstellen ausgebildet werden. Besonders im sozialen Bereich, aber auch in der öffentlichen Verwaltung existiert hier – zumindest im Moment – eine Kompetenzlücke. Mit dem Begriff der Sozialinformatik sind dabei mehrere unterschiedliche Vorstellungen verbunden:
+
+So kann darunter die wissenschaftliche Beschäftigung mit Informatisierungsbestrebungen der Sozialen Arbeit gefasst werden. Es stellen sich bei dieser Definition von Sozialinformatik Fragen nach den optimalen Informatik-Lösungen für die Soziale Arbeit (Sozialarbeit, Sozialpädagogik und soziokulturelle Animation) sowie für die Verwaltung und das Management sozialer Organisationen. Insbesondere geht es hier darum, Prozesse der Sozialen Arbeit und der Administration sozialer Organisationen mit Hilfe von Software-Systemen zu unterstützen.
+Es kann aber auch als Fachbereich verstanden werden, bei dem es darum geht, Informations- und Kommunikationstechnologien im Sinne einer verbesserten gesellschaftlichen Partizipation von Betroffenen nutzbar zu machen. Damit sollen ein Fortschreiten der „digitalen Armut“ oder der gesellschaftlichen „digitalen Spaltung“ verhindert werden. Gesellschaftliche Teilnahmechancen sind im Rahmen dieser Vorstellung an die Möglichkeiten gekoppelt, Informationstechnologien aktiv nutzen zu können.
+Drittens kann man damit das Ineinandergreifen von technologischen und sozialen Entwicklungen fokussieren. In diesem Zusammenhang wird teilweise auch von „Soziotechnik“ gesprochen. Im gegenwärtigen sozialwissenschaftlichen Diskurs spielen die sozialen Folgen von technologischen Innovationen und die technologischen Folgen von sozialen Entwicklungen eine eher untergeordnete Rolle.
+In jüngerer Zeit kommen zudem integrative Ansätze hinzu, welche die zuvor genannten Orientierungen auf sozialarbeitswissenschaftlicher Grundlage integrieren und eigene Kompetenzen hinsichtlich der fachspezifischen Anwendungserstellung, Forschung und Theoriebildung mit deutlichem Klientenbezug entwickeln wollen. Ein solcher Ansatz birgt eine weitere emanzipatorische Komponente sowie professionsbildende Aspekte.„Zur professionellen Sozialarbeit gehört die Fähigkeit, sich der Informations- und Kommunikationstechnik bedienen zu können.“ Immer mehr Lehrstühle von Hochschulen bieten die Disziplin Sozialinformatik als eigenständiges Studienfach oder zumindest zur Ergänzung des Studiums der Sozialen Arbeit an. Die Lehrpläne enthalten dann Angebote zur Einführung üblicher Computertechnologien wie etwa
+
+typische Anwendungsprogramme (Textverarbeitung oder Tabellenkalkulation),
+branchenspezifische Informationstechnologien (Klientenverwaltung, Case-Management) oder
+Auseinandersetzungen mit den Auswirkungen von Informationstechnologien auf die Arbeitsorganisation sozialer Einrichtungen.
+
+
+== Soziale Arbeit und Informatik ==
+
+Formal zählt die Sozialinformatik als Bindestrich-Disziplin. Das bedeutet zunächst, dass eine grundlegende Disziplin einen speziellen Fokus erfährt. Im Rahmen der Sozialinformatik wird üblicherweise die Informatik als grundlegende Disziplin in Bezug auf die Felder der sozialen Arbeit betrachtet. „Es stellt sich allerdings die Frage, ob es zur Nutzung neuer Technologien in der Sozialen Arbeit der Begründung einer eigenen Sozialinformatik bedarf“. Betrachtet man nämlich die inhaltliche Besetzung des Begriffs Sozialinformatik genauer, so hat diese im Grunde sehr wenig mit dem eingeführten Begriff der Informatik zu tun. Es handelt sich also meist nicht um eine angewandte Informatik auf dem Gebiet der sozialen Arbeit. Das hat unter anderem damit zu tun, wie man Technik, Informatik und Soziale Arbeit grundsätzlich versteht.
+
+
+=== Technik als soziale Praxis ===
+Technologien, wie sie in Form der sozialen Netzwerke bestehen, existieren nicht nur im Sinne physischer Bestandteile (Artefakte), wie etwa Computer und Internet. Sie bestehen immer auch aus den dazugehörigen und über sie vermittelten sozialen Institutionen und Verhaltensweisen. Obwohl sich beispielsweise soziale Netzwerke über die Technologie des Internets verbreitet haben, sind sie auf der Ebene des realen Gebrauchs sozio-kulturelle Technologien des Knüpfens und Aufrechterhaltens sozialer Beziehungen. Eine soziale (oder kulturelle) Praxis sieht das Handeln von Menschen in diesem zeitlichen und gesellschaftlichen Zusammenhang. Die Praxis ist dabei „von vornherein eingebettet in Routinekomplexe repetitiver Praktiken, die von der klassischen Handlungstheorie in den scheinbar unterkomplexen Bereich traditionalen Handeln abgeschoben worden waren“. Beim Ausüben bekommen die sozialen Praktiken in der Regel eine „materiale Verankerung“ in den Gebrauchsgegenständen. Der Gebrauch sozialer Netzwerke ist umgekehrt, wenn man sie nutzt, über kurz oder lang ziemlich „selbstverständlich in unsere alltäglichen Handlungen eingebaut“. Und damit ein zentrales Feld der Sozialinformatik. Erst wenn Informatik selbst als soziale Aktivität beschrieben wird, die ihren Sitz in lebensweltlichen Praxen hat und beispielsweise Menschen miteinander in Verbindung oder kommunikativen Austausch bringt, wird sie zum Untersuchungsgegenstand.
+
+
+=== Informatisierung als soziotechnischer Prozess ===
+Dies spiegelt sich sehr deutlich in der sogenannten Informatisierung der Arbeit wider. Die derzeitige Arbeitswelt, und noch mehr wahrscheinlich die künftige, sind stark von Informationstechnologien geprägt. Dies bezieht sich nicht nur auf die rein technische Ausstattung der Arbeitsplätze, sondern auch auf die soziale Praxis, mit Informationen in den Arbeitsprozessen umzugehen. Je komplexer und vermittelnder dabei das zu Grunde liegende Informationssystem ist, desto „unsinnlicher“ und abstrakter wird der Arbeitsprozess. Auch das spiegelt sich wiederum in der täglichen Arbeitspraxis in unterschiedlichen Gestaltungsmodi und Nutzungsgewohnheiten wider. Die medienvermittelten Arbeitsstrukturen führen parallel zu einer Entgrenzung räumlicher Strukturen, was schließlich über entsprechende Plattformen im Sinne einer Social Collaboration gelöst werden kann. Die Informatisierung von Arbeit hat als soziotechnischer Prozess alltäglicher Handlungspraxis zwangsläufig Rückwirkungen darauf, wie Soziale Arbeit erbracht oder angeboten wird.
+
+
+== Künftige Aufgaben und Kritik ==
+Eines der Merkmale einer angewandten Informatik besteht in ihrer jeweiligen Gestaltungsaufgabe. Das kann die Sozialinformatik bisher nicht erfüllen, da sie andere Schwerpunkte setzt und beispielsweise auf die Erstellung (Programmierung) eigener fachspezifischer Anwendungen verzichtet. „Die Vorstellung, durch eigene Entwicklungen die Handlungsfähigkeit zu erweitern, erscheint in den bisherigen Entwürfen einer Sozialinformatik so fern, daß es gar nicht mehr erwogen wird, die dafür notwendigen Sprachen zu erwerben“.
+
+
+=== Sozialinformatik als Entwickleraufgabe ===
+Betrachtet man die Entwicklung branchenspezifischer Lösungen, so ergibt sich bisher in der Sozialinformatik ein Defizit. Gerade die aktive Gestaltung von Kommunikations- und Informationsnotwendigkeiten im Bereich der Sozialen Arbeit legen nahe, nicht nur verfügbare Anwendungen praktisch einzusetzen, sondern ggf. selbständig zu entwickeln oder sinnvoll anzupassen. Dazu wird entsprechendes Know-how, beispielsweise grundlegender Programmiersprachen, benötigt. Oder ein Wissen darum, wie man Apps erstellt. Genauso wie man ein Wissen um die technischen Grundlagen benötigt, um die entsprechenden Programme aktiv verwenden bzw. den partizipativen Anspruch real einlösen zu können. Eine voll entwickelte Sozialinformatik wird letztlich um die Erfüllung dieser Anforderungen nicht herumkommen.
+
+
+=== Kritik ===
+
+Von einigen Autoren wird der Sozialinformatik der Status einer angewandten Informatik abgesprochen. Oder sie wird lediglich als Arbeitsteilung zwischen Softwareindustrie und sozialen Organisationen bezeichnet. „Sozialinformatik“ sei dabei eine von Sozialpädagogen kreierte Wortschöpfung, welche das Primat der Sozialpädagogik im Monopolisierungsprozess hervorzuheben und profundes Fachwissen außen vor zu halten versuche. Eine weitere Kritik richtet sich darauf, dass der Markt für Sozialinformatik einen von Steuergeldern und privaten sowie öffentlichen Subventionen unterschiedlicher Herkunft (Privatspender, Stiftungen, Kommunen, Länder, Bund, EU) finanzierten Bereich betrifft, der zwar groß und lukrativ sei, dabei jedoch altertümlich, hierarchisch und monopolistisch strukturiert. Anzumerken bleibt auch, dass der Begriff „Sozialinformatik“ nicht einfach gleichgesetzt werden kann mit den angelsächsischen „social informatics“. Letzteres bezeichnet eine Gesellschaftswissenschaft, die u. a. die Frage der gesellschaftlich-technischen Zusammenhänge verfolgt, was in Deutschland eher der (Technik-)Soziologie zuzuordnen wäre. Eine Sozialinformatik unter dem Primat einer Wissenschaft der Sozialen Arbeit wäre aber wohl eher als Subdisziplin einer Handlungswissenschaft zu verstehen, die gesellschaftswissenschaftlich-theoretische Bezüge aufweist.
+
+
+== Siehe auch ==
+Soziale Arbeit
+Informatik
+Informatisierung
+Sozioinformatik
+Social Collaboration
+Soziales Netzwerk (Internet)
+
+
+== Weblinks ==
+
+Arbeitsstelle für Sozialinformatik an der Kath. Universität Eichstätt-Ingolstadt: www.sozialinformatik.de
+Arbeitsgruppe Sozioinformatik am Technologie-Zentrum Informatik und Informationstechnik an der Universität Bremen
+Fachverband Informationstechnologie in Sozialwirtschaft und Sozialverwaltung FINSOZ e.V 
+
+
+== Literatur ==
+Klaus Bredl: Sozialinformatik international: Lernchancen für Forschung, Lehre und Praxis. Beitrag präsentiert im Rahmen der 3. Fachtagung für Sozialinformatik an der Katholischen Universität Eichstätt, März 13.–14. 2008.
+Bernd Halfar: Sozialinformatik unerläßlich. In: Blätter der Wohlfahrtspflege, 144 Jg., 6, S. 113–114, 1997.
+Uwe Janatzek: Sozialinformatik – eine wissenschaftstheoretische Verortung. In: Standpunkt : sozial (2014), 3/2013, pp. 36–45. URN: http://nbn-resolving.de/urn:nbn:de:0168-ssoar-382159
+Uwe Janatzek: Sozialinformatik – empirisch begründete Zuordnungen und Verständnisweisen. Unter besonderer Berücksichtigung einer wissenschaftstheoretischen Verortung der managerialen Sozialinformatik als Protowissenschaft. Dissertation Universität Bielefeld. URN: http://nbn-resolving.de/urn:nbn:de:0070-pub-29096064
+Uwe Janatzek: Sozialinformatik in der Sozialen Arbeit. Vdm Verlag Dr. Müller (Saarbrücken), 2007, ISBN 978-3-8364-0584-3
+Manfred Jurgovsky: Was ist Sozialinformatik? In: Neue Praxis, H. 3, 32. Jg., S. 297–303, 2002.
+Manfred Jurgovsky: Sozioinformatik. Ein Vorschlag zur Neupositionierung der Informatik in der Sozialen Arbeit (PDF; 112 kB). In: Archiv für Wissenschaft und Praxis der sozialen Arbeit, H. 1 / 2004, S. 40–48.
+Helmut Kreidenweis: Lehrbuch Sozialinformatik. UTB / Nomos Verlagsgesellschaft (Baden-Baden) Ersch. in der Lehrbuch-Reihe Studienkurs Management in der Sozialwirtschaft, 2012
+Thomas Ley (2003): Sozialinformatik. Weg in die neue Fachlichkeit!? Diplomarbeit an der katholischen Fachhochschule Mainz
+Christiane Rudlof: Sozialinformatik- Soziale Organisationen gestalten. IN: EMISA Forum (Mitteilungen der GI- Fachgruppe Entwicklungsmethoden für Informationssysteme und deren Anwendungen) Jahrgang 25, Heft 1, Januar 2005, ISSN 1610-3351
+Harald Steffens: Soziale Arbeit im Kontext der IT-Technologien: Anforderungen an eine Profession in der digitalisierten Welt. Shaker Media Verlag, Aachen, 2009, ISBN 978-3-86858-240-6
+Wolf R. Wendt: Sozialinformatik – Stand und Perspektiven. Mit Beiträgen von Silke Axhausen, Josef Hilbert, Helmut Kreidenweis u. a. Edition SocialManagement Bd. 15. Nomos Verlagsgesellschaft (Baden-Baden), 2000
+
+
+== Zitate und Einzelnachweise ==
+Zitate:

@@ -1,0 +1,51 @@
+Der Begriff Pervasive computing (aus engl. pervasive, ‚allgegenwärtig‘, ‚um sich greifend‘, und computing, ‚Informatik‘, ‚EDV‘) bzw. Rechnerdurchdringung bezeichnet die allesdurchdringende Vernetzung des Alltags durch den Einsatz „intelligenter“ Gegenstände.
+
+
+== Überblick ==
+Computerprozessoren und Sensoren werden ständig kleiner und billiger, drahtlose Kommunikation ist schon heute, im westlichen Europa, nahezu überall verfügbar. Durch automatisiertes Sammeln (z. B. durch RFID-Chips) und Auswerten (z. B. durch KDD und Data-Mining) von Daten können präzise Persönlichkeitsprofile erstellt werden.
+
+
+== Abgrenzung ==
+Der Begriff Pervasive Computing ist die von der Industrie geprägte Sicht auf die Rechnerallgegenwart (englisch ubiquitous computing), wobei die Rechnerallgegenwart eine Voraussetzung für die Rechnerdurchdringung ist, jedoch die Rechnerdurchdringung noch die Bedingung der Verknüpfung aller Rechner hat. Mit zum Teil bereits verfügbarer Technik wird versucht, Geschäftsprozesse und allgemeine Lebensbereiche zu durchdringen. Die gewonnenen Daten werden kommerziell verwendet, zum Beispiel für den E-Commerce. In diesem Bereich befindet sich Pervasive Computing bereits heute im Einsatz.
+
+
+== Ausblick ==
+Pervasive Computing hat das Potenzial, die Gesellschaft nachhaltig zu verändern. Eine gesellschaftliche Debatte auf breiter Basis findet jedoch nicht statt. Vorangetrieben wird die Entwicklung auch durch die öffentliche Sicherheitsdebatte. Einige Sicherheitsexperten sehen in den wachsenden Kontrollmöglichkeiten – Überwachung – jedoch keinen Sicherheitsgewinn.
+Anhänger des Pervasive Computing sehen neue Möglichkeiten für Anwender und neue Massenmärkte. Gegner kritisieren die aus ihrer Sicht überstürzte Einführung durch Industrie und Politik.
+
+
+== Konsequenzen ==
+Mit Pervasive Computing sind weitreichende Folgen für die Gesellschaft verbunden. Im Wesentlichen sind fünf Lebensbereiche bzw. Themen besonders betroffen:
+
+Datenschutz (Privacy): Wo endet die Freiheit des Einzelnen, Daten zu sammeln?
+Sicherheit (Security): Wer ist für Sicherheitsmängel verantwortlich?
+Unbeherrschbare Komplexität (Unmastered Complexity): Wer ist verantwortlich, wenn ein technisches System versagt?
+Freie Meinungsäußerung (Freedom of Speech): Wo gerät dieses Grundrecht mit anderen Rechten in Konflikt?
+Geistiges Eigentum (Intellectual Property): Wo verläuft die Grenze zu Information als öffentlichem Gut?
+
+
+== Siehe auch ==
+Internet der Dinge
+Ambient Intelligence
+Wearable Computing
+Cloud Computing
+Machine to Machine
+
+
+== Literatur ==
+Mark Weiser: The Computer for the 21st Century (in: Scientific American, 265)
+Daniel Amor: Das Handy gegen Zahnschmerzen und andere Geschäftsmodelle für die Dienstleister von morgen. Galileo 2002, Bonn
+Aus Politik und Zeitgeschichte (B 42/2003): Digitalisierung des Alltags
+Siegfried Behrendt, Mathias Binswanger, Arend Bruinink u. a.: Das Vorsorgeprinzip in der Informationsgesellschaft: Auswirkungen des Pervasive Computing auf die Gesundheit und die Umwelt http://www.ta-swiss.ch/www-remain/projects_archive/information_society/pervasive_d.htm, TA-Swiss 2003
+Uwe Hansmann, Lothar Merk, Martin S. Nicklous und Thomas Stober: Pervasive Computing. The Mobile World. 2nd Ed. Springer 2003, Berlin Heidelberg New York
+Friedemann Mattern: Pervasive/Ubiquitous Computing (Fachbeitrag im Informatiklexikon der Gesellschaft für Informatik)
+Carsten Orwat, Andreas Graefe und Timm Faulwasser: Towards pervasive computing in health care - A literature review, in: BMC Medical Informatics and Decision Making, Vol. 8, 2008, No. 26
+ULD, HU Berlin: Technikfolgenabschätzung Ubiquitäres Computing und Informationelle Selbstbestimmung (TAUCIS), Studie im Auftrag des Bundesministeriums für Bildung und Forschung, 2006
+
+
+== Weblinks ==
+International Conference on Pervasive Computing (englisch)
+International Conference on Ubiquitous Computing (englisch)
+Eingebettete Interaktion – aktuelle Forschung im Bereich Pervasive Computing
+Informationen der Stiftung Risiko-Dialog
+Hewlett Packards CeNSE Project (Central Nervous System for the Earth)

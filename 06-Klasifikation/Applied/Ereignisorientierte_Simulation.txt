@@ -1,0 +1,45 @@
+Ereignisorientierte Simulation oftmals abgekürzt als DES (discrete event simulation) ist eine Art der diskreten Simulation. Bei der ereignisorientierten Simulation erfolgt der Simulationsfortschritt durch Abarbeitung einer Liste von Ereignissen (englisch: events).
+Ein ereignisorientiertes Simulationsmodell kann durch einen endlichen Automaten, einen Ereigniskalender (oder eine Ereignisliste), Ereignisroutinen und die Zeit eindeutig beschrieben werden. Der endliche Automat beschreibt die Übergänge zwischen den Ereignissen, der Ereigniskalender enthält eine Liste zukünftiger Ereignisse mit dem Namen und der Art des Ereignisses und dem Zeitpunkt seines Eintretens. Die Ereignisroutinen enthalten Anweisungen zur Ausführung je eines Ereignistyps und legen die Logik fest, nach der die Simulation abzulaufen hat. Dabei können bestimmte Ereignisse wiederum neue Ereignisse in der Zukunft (niemals in der Vergangenheit) auslösen. Somit können auch komplexe Verhalten simuliert werden. In der programmiertechnischen Umsetzung wird die Ereignisliste nach dem Eintrittszeitpunkt sortiert und immer das als nächstes eintretende Ereignis abgearbeitet.
+Nur wenn es sich beim Zustandsmodell um ein formales Modell handelt, kann das zugehörige Simulationsmodell mit Hilfe eines Computerprogramms verarbeitet werden (Kausalität).
+Eine Simulation endet in der Regel, wenn keine Ereignisse mehr im Ereigniskalender vorhanden sind oder eine definierte simulierte Zeit erreicht wurde.
+Vorteil dieser Art der Simulation im Vergleich z. B. zur zeitdiskreten Simulation ist, dass nur die jeweiligen Ereignisse simuliert werden und nicht die Zeit zwischen selbigen. Dies ermöglicht es lange Zeiträume innerhalb kurzer Zeit zu simulieren. Ereignisorientierte Simulationen werden z. B. im  Bereich der Rechnernetze verwendet: ns-3 und OMNeT++ sind zwei Beispiele für Frameworks bzw. Simulatoren, die ereignisorientierte Simulationen verwenden.
+
+
+== Beispiel: Simulation einer Fußgängerampel ==
+Am Beispiel einer Fußgängerampel soll nun die Ereignisorientierte Simulation beschrieben werden. Wir nehmen an, dass die Vorzugsrichtung der Straßenverkehr ist und dauerhaft grün hat. Kommt ein Fußgänger an die Ampel und betätigt den Taster, wechselt die Ampel für den Fahrzeugverkehr auf rot und für den Fußgänger auf grün. Nach einer definierten Zeit wechselt die Ampel wieder auf rot für den Fußgänger und grün für die Fahrzeuge. Zur Vereinfachung nehmen wir an, dass die Ampel nur rot und grün (ohne gelb) zeigt.
+
+
+=== Modell ===
+Das Zustandsmodell besteht aus folgenden Zuständen:
+
+Straßenverkehr: grün, Fußgänger rot
+Straßenverkehr: rot, Fußgänger rot, Folgezustand: Fußgänger grün
+Straßenverkehr: rot, Fußgänger grün
+Straßenverkehr: rot, Fußgänger rot, Folgezustand: Straßenverkehr grünDie Übergänge sind wie folgt definiert:
+
+Zustand 1 auf Zustand 2
+Fußgänger erreicht Ampel und drückt den Taster
+Zustand 2 auf Zustand 3
+Nach einer Zeit von 2 Sekunden
+Zustand 3 auf Zustand 4
+Nach einer Zeit von 10 Sekunden
+Zustand 4 auf Zustand 1
+Nach einer Zeit von 2 Sekunden
+
+
+=== Ereignisse ===
+Wir gehen davon aus, dass unsere Simulation zum Zeitpunkt t=0 startet und zum Zeitpunkt t=10 ein Fußgänger die Ampel erreicht. Folgende Ereignisse werden nun simuliert:
+
+t=0: Start der Simulation
+t=10: Fußgänger betätigt den Taster, Ampel wechselt in den Zustand 2 (rot/rot) und reiht ein neues Ereignis für den Zeitpunkt t=10+2=12 ein
+t=12: Ampel wechselt in den Zustand 3 (rot/grün) und reiht ein neues Ereignis für den Zeitpunkt t=12+10=22 ein
+t=22: Ampel wechselt in den Zustand 4 (rot/rot) und reiht ein neues Ereignis für den Zeitpunkt t=22+2=24 ein
+t=24: Ampel wechselt in den Zustand 1 (grün/rot). Es gibt keine weiteren Ereignisse; die Simulation ist beendet.
+
+
+=== Ergebnisse der Simulation ===
+Dieses Beispiel zeigt die grundsätzliche Idee hinter der ereignisorientierten Simulation: Statt die gesamte Zeitdauer von 24 Sekunden zu simulieren, werden nur die für die Ergebnisse wichtigen Schritte simuliert.
+Dieses Beispiel lässt sich nun recht einfach zu einem praxisnahen Simulationsszenario erweitern. Man könnte z. B. annehmen, dass Fußgänger im Mittel alle 15 Sekunden normalverteilt an der Ampel ankommen und 5 Sekunden für die Überquerung der Straße benötigen. Mit Hilfe des obigen Beispieles könnte man nun simulieren, wie groß die Wahrscheinlichkeit ist, dass 1, 2, 3,... Fußgänger in einer Grünphase die Straße überqueren oder wie man die Zeiten anpassen müsste, um möglichst viele Fußgänger mit möglichst wenigen Rotphasen für den Fahrzeugverkehr die Straße queren zu lassen.
+
+
+== Einzelnachweise ==

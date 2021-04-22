@@ -1,0 +1,28 @@
+Kontextsensitivität (auch: Kontextabhängigkeit, englisch context awareness) bezeichnet das Verhalten von Anwendungsprogrammen, die Informationen über ihren Kontext, also ihre Umgebung, benutzen, um ihr Verhalten darauf abzustimmen.
+Die Basis, auf der diese Systeme arbeiten, sind Informationen, welche durch unterschiedlichste Quellen oder Sensoren zur Verfügung gestellt werden. Mit Hilfe dieser Informationen werden Schlüsse über den Kontext gezogen. Der ermittelte Kontext wird von der Anwendung verwendet, um ihr Verhalten anzupassen, insbesondere das Verhalten der Benutzerschnittstelle. Kontext wird z. B. definiert als „[…] jegliche Information, die genutzt werden kann, um die Situation einer Entität zu charakterisieren.“ Der Gebrauch von Kontextinformationen ist am häufigsten mit dem Zeit- und Ortsaspekt von Personen verbunden. Jedoch können beliebig weitere Aspekte in ein Kontextmodell aufgenommen werden, wenn entsprechende Quellen oder Sensoren dazu existieren. Dieses können beispielsweise Archivdaten oder Vitalwerte von Personen, die Temperatur in einer Umgebung oder auch die Beziehungen zwischen Personen sein.
+Das Ziel der Entwicklung kontextsensitiver Anwendungen ist es, einen höheren Nutzwert als mit klassischen Anwendungen zu erreichen.
+
+
+== Unterformen ==
+Als Unterformen der Kontextsensitivität gelten
+
+Change Awareness, das Bewusstsein für Änderungen des Datenbestandes; siehe z. B. Computer Supported Cooperative Work
+Collaboration Awareness, das Bewusstsein für den Einsatzzweck „Anwendung für Gruppenarbeit“; siehe z. B. Computer Supported Cooperative Work
+Gaze Awareness, das Bewusstsein für die Blickrichtung des Benutzers; siehe z. B. Computer Supported Cooperative Work
+Location Awareness (Ortsabhängigkeit), das Bewusstsein für den Standort; siehe z. B. Standortbezogene Dienste
+Security Awareness, das Bewusstsein bzw. Sensibilität der IT-Nutzer für Belange der InformationssicherheitFür die Kontextmodellierung in der Entwicklung webbasierter Systeme wurde eine Unterteilung in die Kontextkategorien Benutzer&Rolle, Aufgabe, Ort, Zeit und Gerät als zweckmäßig vorgeschlagen.
+
+
+== Arten kontextabhängiger Systeme ==
+Ein kontextabhängiges System kann Kontextinformationen auf vielfältige Weise nutzen. Kontextinformationen können als Auslöser für Funktionen des Systems genutzt werden, z. B. Auslösen eines Alarms beim Überschreiten von zulässigen Vitalwerten. Weiterhin können Kontextinformationen genutzt werden, um Dokumente oder andere Ressourcen mit Hintergrundinformationen anzureichern. So können beispielsweise Bilder automatisch mit einem Zeit- und Ortsstempel versehen werden. Weiterhin können Kontextinformationen zur Parametrisierung von Funktionen genutzt werden. So lassen sich über das Kontextmodell alle Personen ermitteln, die sich im selben Raum befinden. Diese Information kann genutzt werden, um einen raumabhängigen Mail-Verteiler zu realisieren. Letztendlich können Kontextinformationen vom System visualisiert und dem Nutzer zur Information zur Verfügung gestellt werden.
+
+
+== Existierende Systeme ==
+Derzeit verfügbare Systeme konzentrieren sich auf den Ortsaspekt und realisieren ortsabhängige Dienste. Auf der Basis von Ortssensoren, z. B. GPS oder auch Zellortung von Mobilfunkgeräten werden hier Dienste oder Informationen bereitgestellt, welche im Umkreis des Nutzers nützlich sind. Location based services (LBS) sind jedoch nur ein Spezialfall. Komplexere kontextabhängige Systeme existieren derzeit nur in den Forschungslaboren der einschlägigen Universitäten und Institute.
+
+
+== Video- und Computerspiele ==
+Kontextsensitivität kommt bei Spielen überall da zum Einsatz, wo wenig Tasten zur Verfügung stehen, wie bei Computer-Mäusen, Gamepad und Joysticks. So werden manche Tastenfunktionen nur dann aktiv, wenn die Aktion der Situation passend gebraucht wird. Beispielsweise erscheint die Aktion des Ansprechens von Nicht-Spieler-Charakteren durch die Spielfigur erst dann, wenn sie sich in der Nähe befindet. Die auszuführenden Aktionen werden dabei meist auf dem Bildschirm angezeigt.
+
+
+== Belege ==

@@ -1,0 +1,6 @@
+In der Informatik gibt das Auswertungsdefizit (engl. gulf of evaluation, auch als Kluft der Auswertung oder Einschätzungsdefizit) an, wie direkt ein System oder Artefakt mithilfe der Darstellungstheorie (genauer der Gruppentheorie) bezüglich der Erwartungen und Absichten des Nutzers dargestellt, wahrgenommen und interpretiert werden kann. Das Auswertungsdefizit gibt an, wie schwer ein System und dessen Zustand zu beschreiben ist. In Donald Normans The Design Of Everyday Things heißt es: "Diese Kluft ist klein, wenn das Gerät leicht zu verstehende und zu interpretierende Informationen darüber bietet, in welchem Zustand es sich befindet und ob dieser Zustand damit übereinstimmt, wie die Person über das System denkt."Bei der Mensch-Computer-Interaktion steht das Auswertungsdefizit für die zu überwindende psychologische Lücke zwischen Nutzer und Nutzerschnittstelle nach den folgenden Schritten: Schnittstelle → Wahrnehmung → Interpretation → Auswertung.
+
+Ausführungsdefizit
+
+
+== Einzelnachweise ==

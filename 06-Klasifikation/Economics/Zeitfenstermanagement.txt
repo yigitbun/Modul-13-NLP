@@ -1,0 +1,39 @@
+Zeitfenstermanagement (auch Zeitfenstersteuerung oder Rampenmanagement genannt) bezeichnet in der Logistik die Koordination sämtlicher Be- und Entladeprozesse an der Laderampe.
+
+
+== Allgemeines ==
+Eine bestmögliche Koordination dieser Prozesse ist notwendig, um eine pünktliche Versorgung der Produktion und eine zeitgerechte Belieferung der Endkunden mit den fertigen Produkten zu gewährleisten.
+Zeitfenstermanagement ist sowohl für die produzierende Industrie als auch für die beteiligten Logistikdienstleister und Spediteure relevant. Diese müssen ihre Abholungen oder Anlieferungen häufig ankündigen und im Voraus ein Zeitfenster buchen. Es kommt häufig zu zwei Problemen. Zum einen warten die Logistikdienstleister trotz der gebuchten Zeitfenster lange an den Laderampen, zum anderen kommt es zu Informationsdefiziten.Vor allem im Handel ist die Problematik langer Wartezeiten an Laderampen ein ständiges Thema. Hier werden Zeitfenster den Spediteuren und Logistikdienstleistern häufig vorgegeben. Bei Nichteinhalten wegen Staus oder anderen Verzögerungen können die Zeitslots jedoch nicht anderweitig vergeben werden. Daher bleiben viele Ressourcen ungenutzt, und die Auslastung ist unregelmäßig. Kommen Logistikdienstleister zu spät an die Laderampe, verfällt häufig ihr gebuchtes Zeitfenster. Eine höhere Flexibilität wäre wünschenswert, so dass wartende Fahrzeuge außerplanmäßig früher verladen werden können und verspätete Lkw ein anderes Zeitfenster zur Verladung erhalten. Außerdem wird von Verbänden wie dem Bundesverband Wirtschaft, Verkehr und Logistik (BWVL) das Anbieten von Expressrampen und längeren Öffnungszeiten gefordert.
+
+
+== Einsatz in der Praxis ==
+In der Praxis ist die Handhabung mit der Vergabe von Zeitfenstern von Branche zu Branche unterschiedlich. Die meisten IT-Systeme zum Zeitfenstermanagement verpflichten Speditionen und Logistikdienstleister jedoch dazu, mindestens 24 Stunden im Voraus einen Zeitslot zu buchen. Das bedeutet einen hohen Zeitverlust für Speditionen, die die umzuschlagende Ware nicht sofort ausliefern oder abholen können. Dadurch verstreicht teilweise mehr als ein Tag, bis die Ware transportiert werden kann und verzögert letztendlich die Abläufe. Zu Problemen kommt es außerdem, weil die Zusammenarbeit zwischen Verladern und Logistikdienstleistern noch nicht optimal funktioniert. Ein Grund hierfür sind die nicht vorhandenen Daten.
+Wenn die Avisierung der Spediteure über die Lieferung nur manuell per Fax oder Telefon erfolgt, kann keine Planung der anliefernden Lkws und der notwendigen Ressourcen erfolgen. Ein IT-System könnte zu einer partnerschaftlichen Zusammenarbeit führen und sinnvolle Zeitfenster anhand der Menge der Ware vorschlagen. Zusätzlich würde das auch die Wareneingangskontrolle erleichtern, da bereits klar wäre, welche Ware wann angeliefert wird. Es müssten dann lediglich Abweichungen wie beispielsweise eine variierende Menge kontrolliert werden.
+
+
+== Ausblick und Möglichkeiten des Zeitfenstermanagements ==
+Sämtliche Unternehmen, die Güter produzieren und transportieren, verladen ihre Waren an Laderampen. Sowohl für Anlieferungen von Lieferanten als auch für den Versand an Kunden werden Laderampen zur Be- und Entladung benötigt. Bei kleineren Unternehmen verläuft die Koordination der Zeitfenster und der einzelnen Rampen reibungslos und es werden keine fixen Termine im Voraus benötigt.
+Bei Konzernen oder produzierenden Unternehmen, die eine bestimmte Ware zu einem bestimmten Zeitpunkt benötigen, führt die Koordination der Zeiten, Rampen, Parkplätze und der benötigten Personalressourcen häufig zu Problemen. Wenn jedoch die Statusdaten der anliefernden Lkws in das Zeitfenstermanagement einbezogen werden und ein IT-System diese Informationen intelligent verarbeitet, könnten Zeitfenster anhand der tatsächlichen aktuellen Auslastung vergeben werden. Der Lkw-Fahrer könnte seine Statusmeldungen per Smartphone von unterwegs abgeben und eine Verspätung in Echtzeit anzeigen. Das würde eine Nutzung nicht benötigter Zeitfenster ermöglichen und die Wartezeiten reduzieren. Die Berufskraftfahrer könnte zusätzlich eine App unterstützen, die an das Zeitfenstermanagement-System angebunden wäre. Diese könnte über aktuelle Wartezeiten informieren und den Fahrer nicht nur zur richtigen Adresse, sondern auch zu einem freien Parkplatz oder zur richtigen Laderampe navigieren.
+
+
+== Literatur ==
+Andreas Richter: Dynamische Tourenplanung: Grundlagen und Verfahren. AV Akademikerverlag, 2012, ISBN 978-3-639-45098-9.
+David Schipior: Transport- und Tourenplanung: Verfahren und Software zur Lösung komplexer Tourenplanungsprobleme. Diplomica Verlag, 2012, ISBN 978-3-8428-9253-8.
+
+
+== Fachzeitschriften ==
+Logistik Heute
+Verkehrsrundschau
+Deutsche Verkehrszeitung (DVZ)
+ MM Logistik
+
+
+== Weblinks ==
+Webseite der GS1 Germany mit Standardisierungsempfehlungen für die Zeitfenstersteuerung
+Informationsportal zum Thema Rampenmanagement.
+Studie des Bundesamts für Güterverkehr
+IT-System zur Steuerung der Rampen, Zeitfenster und Ressourcen
+Referenzstudie: Zeitfenstermanagement bei Lufthansa Cargo
+
+
+== Einzelnachweise und Anmerkungen ==

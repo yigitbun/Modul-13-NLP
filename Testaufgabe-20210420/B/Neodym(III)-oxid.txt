@@ -1,0 +1,113 @@
+Neodym(III)-oxid ist eine chemische Verbindung zwischen dem seltenem Erdmetall Neodym und Sauerstoff und gehört zur Gruppe der Metalloxide.
+
+
+== Darstellung ==
+Nach der aufwendigen Abtrennung der anderen Lanthanoide aus deren Erzen wird letztendlich Neodymoxalat gewonnen, das anschließend zu Neodymnoxid Nd2O3 verglüht wird.
+
+  
+    
+      
+        
+          2
+          
+          
+            Nd
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              (
+              
+                C
+                
+                  2
+                
+                
+                  
+                
+              
+              
+                O
+                
+                  4
+                
+                
+                  
+                
+              
+              )
+            
+            
+              3
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            Nd
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          +
+          12
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 Nd2(C2O4)3 + 3 O2 -> 2 Nd2O3 + 12 CO2}}}
+  
+
+
+== Eigenschaften ==
+
+Neodym(III)-oxid besitzt eine hexagonale Kristallstruktur vom Lanthanoid-A-Typ.
+
+
+== Verwendung ==
+Neodym(III)-oxid wird als Pigment für Keramiken und farbige bzw. optische Spezialgläser verwendet. Es erzeugt sehr warme violette bis weinrote und graue Töne. Es wird z. B. auch im Glas von Tageslichtglühlampen eingesetzt. Solche Gläser besitzen scharfe Absorptionsbanden und werden in der Astronomie zum Kalibrieren sowie als Lasermaterial benutzt. Neodym(III)-oxid wird weiterhin für hochtemperaturbeständige Emaille, als Bestandteil von keramischen Materialien oder Dotierungsmitteln, in Keramikkondensatoren (als Dotierungsmittel von Bariumtitanat) und als Katalysator in der Gummi-Herstellung verwendet. Es kommt auch als Pulver in der Nanotechnologie zum Einsatz.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,54 @@
+Molybdän(IV)-oxid ist eine chemische Verbindung aus der Gruppe der Oxide.
+
+
+== Vorkommen ==
+Molybdän(IV)-oxid kommt sehr selten natürlich als Mineral Tugarinovit vor.
+
+
+== Gewinnung und Darstellung ==
+Molybdän(IV)-oxid kann durch Reduktion von Molybdän(VI)-oxid mit Wasserstoff, Ammoniak oder elementarem Molybdän oberhalb einer Temperatur von 470 °C  gewonnen werden:
+
+  
+    
+      
+        
+          2
+           
+          M
+          o
+          
+            O
+            
+              3
+            
+          
+          +
+          M
+          o
+          →
+          3
+           
+          M
+          o
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ MoO_{3}+Mo\rightarrow 3\ MoO_{2}} }
+  Größere Einkristalle können durch chemischen Transport von polykristallinem Molybdän(IV)-oxid mit Iod im Temperaturgefälle 900 zu 700 °C gewonnen werden.
+
+
+== Eigenschaften ==
+Molybdän(IV)-oxid ist ein braunvioletter Feststoff, der wenig löslich in Wasser ist. Er hat eine monokline Kristallstruktur mit der Raumgruppe P21/c (Raumgruppen-Nr. 14)Vorlage:Raumgruppe/14 (a = 558,4 pm, b = 484,2 pm, c = 560,8 pm, β = 120,59°). Sehr feinverteiltes Pulver ist selbstentzündlich an der Luft.
+
+
+== Verwendung ==
+Molybdän(IV)-oxid kann als Katalysator für Dehydrierung von Alkoholen verwendet werden.
+
+
+== Einzelnachweise ==

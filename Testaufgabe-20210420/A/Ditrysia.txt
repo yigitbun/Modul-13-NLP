@@ -1,0 +1,29 @@
+Ditrysia ist ein Taxon der Schmetterlinge (Lepidoptera) aus der Unterordnung Glossata. Es umfasst trotz Abspaltung von fünf Überfamilien innerhalb des gemeinsamen Taxons Heteroneura dennoch vermutlich nahezu 99 % aller bekannten Schmetterlingsarten. Die restlichen fünf Überfamilien der Heteroneura werden gelegentlich als Schwestertaxon mit dem Namen Monotrysia zu den Ditrysia betrachtet. Die Monophylie dieser ist jedoch zweifelhaft. Sicher scheint nur, dass zumindest die Ditrysia und die Tischerioidea ein Monophylum bilden.
+
+
+== Merkmale ==
+Obwohl die Gruppe der Ditrysia extrem artenreich ist, sind die Arten in ihrem Körperbau recht ähnlich, was die Entschlüsselung ihrer Verwandtschaft erschwert. Durch folgende Autapomorphien werden die Ditrysia abgegrenzt: Die Begattungsöffnung (Ostium bursae) ist wie auch bei den Exoporia von der Legeöffnung (Oviporus) getrennt. Bei den Ditrysia sind die beiden jedoch miteinander verbunden. Am zweiten Sternum des Hinterleibs sind innen hervorstehende Apodeme ausgebildet und die Muskulatur des Saugrüssels ist in zahlreichen kurzen Bändern, statt langen Fasern angeordnet.Eine Reihe der Überfamilien, insbesondere die basalen Gruppen, haben auffällige, aber plesiomorphe Merkmale, die auch bei den meisten Taxa außerhalb der Ditrysia auftreten. Es handelt sich in der Regel um kleine Falter, mit einer zumindest auf den Hinterflügeln deutlich ausgeprägten Flügelader CuP. Dieses Merkmal ist jedoch bei einigen Subtaxa wiederum verschwunden. Die Raupen dieser Arten entwickeln sich im Inneren der Pflanzen und haben kreisförmig oder oval angeordnete Hakenkränze an den Bauchbeinen. Gemeinsam mit den Taxa außerhalb der Ditrysia werden diese ansonsten nicht näher miteinander verwandten Falter aus praktischen Gründen als Kleinschmetterlinge (Microlepidoptera bzw. „Micros“) bezeichnet.
+
+
+== Systematik ==
+In jüngerer Vergangenheit wurden einige Subtaxa der Ditrysia weiter aufgeteilt, sodass dem Taxon derzeit 33 Überfamilien zugerechnet werden.
+Überfamilie Gracillarioidea
+Überfamilie Tineoidea
+Überfamilie Yponomeutoidea
+Überfamilie Gelechioidea
+restliche Überfamilien: Apoditrysia
+
+
+=== Molekularphylogenetische Studie (März 2013) ===
+Eine groß angelegte Studie, die im März 2013 veröffentlicht wurde, hat die Ordnung der Schmetterlinge auf Verwandtschaftsbeziehungen untersucht. In dieser Studie gibt es bezüglich Ditrysia einige Unterschiede zu älteren Systematiken. Douglasiidae und Millieriidae werden in Apoditrysia eingeordnet. Lypusidae wird in Gelechioidea eingeordnet und Gelechioidea wird in Obtectomera angesiedelt. Tineoidea und Gracillarioidea werden nicht aufgeführt, weil sie sich als nicht monophyletisch herausstellen. Deren Familien werden einzeln aufgeführt.
+Das Kladogramm bezüglich Ditrysia sieht wie folgt aus:
+
+
+== Belege ==
+
+
+=== Einzelnachweise ===
+
+
+=== Literatur ===
+Niels P. Kristensen: Lepidoptera, moths and butterflies. In: Maximilian Fischer (Hrsg.): Handbook of Zoology. 1. Auflage. Band 4 – Arthropoda: Insecta, Teilband 35. de Gruyter, Berlin / New York 1998, ISBN 3-11-015704-7 (englisch).

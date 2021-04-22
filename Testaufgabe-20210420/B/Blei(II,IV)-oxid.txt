@@ -1,0 +1,48 @@
+Blei(II,IV)-oxid, auch Bleimennige, Mennige oder Blei(II)-orthoplumbat, ist ein leuchtend rotes Pulver mit der Summenformel Pb3O4. Als Pigment wird es auch als Pariser Rot, Bleirot, Goldsatinober, Goldzinnober, Kristallmennige, Mineralorange, Sandix, Saturnmennige und  Saturnrot bezeichnet.
+
+
+== Geschichte ==
+Mennige wurde bereits von den Römern als färbender Stoff unter den Sand im Zirkus gemischt, um die blutigen Spuren der dort stattfindenden Kämpfe unsichtbar zu machen. Beim Triumphzug war das Gesicht des Triumphators mit Mennige rot gefärbt, eine Praxis, die in der Antike auch bei Götterstatuen Verwendung fand. Die Farbe erinnert damit an Götterstatuen, die in „alter Zeit“ aus Terracotta gefertigt wurden. Seit der Antike wird sie auch als Pigment in Malerfarben verwendet. Die Verwendung in der Buchmalerei – Mennige wird im lateinischen minium genannt – soll über italienisch minia (‚Kleinmalerei‘) und wohl beeinflusst durch lateinisch minor (‚kleiner‘) den Begriff „Miniatur“ geprägt haben.
+Mennige kann durch gezielte Oxidation („Glühen“) von Bleiweiß oder Bleigelb bei 480 °C erzeugt werden. Die erste fabrikmäßige Herstellung erfolgte schließlich in Venedig im 16. Jahrhundert. Die erste industrielle Herstellung in Deutschland erfolgte im Jahr 1687 in der Nähe von Hannover. Die Bezeichnung „Mennige“ ist vom lateinischen minium, ‚Zinnober‘ abgeleitet; das Wort ging über das althochdeutsche minio und mittelhochdeutsch minig (in Handschriften auch minie und menie sowie menig) in „Mennige“ über.
+
+
+== Vorkommen ==
+Blei(II,IV)-oxid kommt in der Natur in Form des seltenen Minerals Minium vor.
+
+
+== Eigenschaften ==
+
+Es handelt sich hierbei nicht um ein Gemisch aus Blei(II)-oxid und Blei(IV)-oxid, sondern um eine Verbindung daraus, wobei das Blei in der Oxidationsstufe +IV mit den Sauerstoffatomen zu einer Art Anion, dem Plumbat-Ion (PbO44−), komplexiert ist. Dabei liegen in der Kristallstruktur Stränge kantenverknüpfter PbIVO6-Oktaeder vor, während die PbII-Ionen quadratisch pyramidal durch vier koordinierende Sauerstoffatome und das freie Elektronenpaar (an der Spitze der Pyramide) umgeben sind. Chemisch ähnelt das Plumbat dem Silicat-Ion SiO44− und dem Stannat-Ion SnO44− (Silicium und Zinn stehen in derselben Hauptgruppe wie Blei und haben daher periodische Ähnlichkeiten).
+Löst man Mennige in Salpetersäure, so bilden sich Blei(II)-nitrat und Blei(IV)-oxid als Dehydratationsprodukt der intermediär auftretenden Orthoblei(IV)-säure H4PbO4. Die Verbindung heißt damit präzise Blei(II)-orthoplumbat Pb2[PbO4], das zweiwertige Blei tritt darin als Kation auf.
+Seine leuchtend orange Farbe verdankt Mennige Charge-Transfer-Übergängen von Sauerstoff- und insbesondere 6s-Blei(II)-Zuständen in 6s/6p-Blei(IV)-Zustände.
+
+
+== Verwendung ==
+
+
+=== Pigment ===
+Mennige wird als Pigment verwendet, wo es unter verschiedenen Namen verzeichnet ist. Die Bezeichnung Pariser Rot ist etwas irreführend, da sie nicht nur für Bleimennige, sondern auch für Eisenoxidrot (Eisen(III)-oxid, auch Eisenmennige genannt) eingesetzt wird. Goldsatinober grenzt ihn gegen das natürliche Erdpigment Satinober ab.
+Bleimennige ist mit Bindemitteln sehr gut mischbar, aber unverträglich mit schwefelhaltigen Substanzen. Als Pigment ist es unter Lichteinfluss unbeständig. Unter bestimmten Umständen wird die Farbe dunkler, wobei sich entweder Plattnerit (Blei(IV)-oxid) oder Galenit (Blei(II)-sulfid) bildet. Das Pigment kann sich aber auch aufhellen, wobei sich Anglesit (Blei(II)-sulfat) und Cerussit (Blei(II)-carbonat) formt. Als Zwischenstufe der Aufhellung tritt Plumbonacrit auf.
+
+
+=== Rostschutzfarbe ===
+Früher diente Bleimennige als Rostschutzfarbe. Wegen ihrer bekannten Giftigkeit wird Mennige in gesundheitsbewussten Staaten aber immer seltener verwendet. Seit Januar 2005 verbietet das Chemikaliengesetz in der Schweiz den Einsatz von Bleimennige. In Deutschland ist Bleimennige als Rostschutz seit 2012 verboten. Beispielsweise ist der charakteristische rote Farbton der Golden Gate Bridge auf die ursprüngliche Verwendung eines Mennigeanstrichs zurückzuführen, dieser ist heute durch Acrylfarbe ersetzt. Im Heizungsbau wird Bleimennige zum Teil noch verwendet, um die Stahlnippel zwischen den Gusskesselgliedern damit zu bestreichen. Dies verhindert eine Oxidation zwischen dem Stahl und dem unedleren Guss.
+Das Pigment wurde mit Leinöl und/oder Terpentinöl verrieben und verstrichen. Später setzte man zur Erreichung einer kürzeren Trocknungszeit flüchtige Lösungsmittel zu, beispielsweise Alkohole (Methanol, Ethanol) oder Benzine (Farbverdünner).
+
+
+=== Arzneipflaster ===
+Früher wurde Mennige auch für Arzneipflaster verwendet, für sogenannte Mutterpflaster oder Universal-Defensivpflaster.
+
+
+=== Kristallglas ===
+Bleimennige wird heutzutage immer noch für die Herstellung von Kristallgläsern verwendet, wobei es mit Quarzsand und Pottasche gemischt und dann geschmolzen wird.
+
+
+== Sicherheitshinweise und Toxikologie ==
+Bei oraler Aufnahme erwies sich das Bleioxid für Meerschweinchen als mäßig giftig (LDLo ~1 g·kg−1), erzeugte jedoch Zuckungen, vermindertes Größenwachstum und Veränderungen der Thrombocyten. Die intraperitoneale Gabe zeigte bei Mäusen eine geringe Toxizität (LD50 17,7 g·kg−1), bei Ratten eine wesentlich höhere von 630 mg·kg−1. Beim Menschen erwies sich Mennige vor allem gefährlich bei Aufnahme über die Atemwege und den Verdauungstrakt als feinste Partikel mit Größen von 0,1–1 μm, die in den Lungenbläschen fast vollständig resorbiert werden. Im Verdauungstrakt können auch schwerlösliche Bleiverbindungen wie Blei(II,IV)-oxid zu maximal 15 % aufgenommen werden. Vergiftungssymptome und -wirkungen sind Erbrechen, Verstopfung, Koliken des Darms, Schädigungen von Blut und Nieren, Abfall von Körpertemperatur und Blutdruck bis zum Kreislaufkollaps. Chronische Intoxikationen geringer Mengen zeigen oft unspezifische Symptome wie leichten Kopfschmerz und Schwindel, Schlafstörungen, Schmerzen in Muskeln und Gliedern mit Parästhesien und Appetitverlust. Bleiverbindungen wirken dabei vorwiegend giftig auf das Blut, die Muskulatur und das Zentralnervensystem. Beim Menschen sind auch die Beeinträchtigung der Fortpflanzungsfähigkeit sowie Aborte bei Schwangeren und Schädigungen des Nervensystems von Embryonen durch anorganische Bleiverbindungen sicher nachgewiesen.Zwar wird Mennige heute kaum noch als Rostschutzmittel verwendet, bei vielen älteren Baukonstruktionen (z. B. Brücken oder Dachstühlen) oder Stahl- bzw. Eisengegenständen im Freien (z. B. Zäunen, Gittern, Laternen usw.) sind noch Anstrichschichten aus bleihaltiger Schutzfarbe vorhanden. Werden solche Anstriche mechanisch entfernt (etwa durch Sandstrahlen), sind entsprechende Schutzmaßnahmen notwendig.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

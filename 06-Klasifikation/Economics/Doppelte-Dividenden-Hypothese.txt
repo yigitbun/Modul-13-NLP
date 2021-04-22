@@ -1,0 +1,64 @@
+Die Doppelte-Dividenden-Hypothese (englisch: double dividend hypothesis) beschäftigt sich mit der Theorie einer aufkommensneutralen Steuerreform. Ausgangspunkt ist, dass jede Steuer bzw. Abgabe auch zu Verzerrungen am Markt führen kann.
+Bei Ausgestaltung von Ökosteuern als Lenkungsabgaben könne dies vermieden werden: Die Bepreisung von Umweltschäden, also die Einbeziehung (Internalisierung) externer Kosten in den Verkaufspreis, könne sogar doppelt positive Auswirkungen haben:
+
+Bei der ersten Dividende geht man von der Annahme aus, dass Umweltsteuern eine Lenkungsfunktion haben. Die Marktteilnehmer (Unternehmen und Konsumenten) werden zu einem umweltgerechten Verhalten bewegt und somit die Umweltqualität gesteigert. Umweltverschmutzung wird vermieden.Eine zweite Dividende entsteht, wenn der Staat die eingenommenen Steuern an die Marktteilnehmer zurückgibt (z. B. durch Senkung von Unternehmenssteuern oder Einkommensteuern, Senkung der Sozialabgaben, Pro-Kopf-Rückvergütung mit einem Ökobonus). Der Faktor Arbeit wird entlastet. Der Sozialstaat wird durch die Einnahmen aus den Ökosteuern gestärkt.
+
+
+== Marktversagen ==
+Auch wenn die Theorie der vollkommenen Konkurrenz gerne die Selbstheilung der Märkte suggeriert, gibt es Gründe, warum der Markt versagen kann (Hauptartikel: Marktversagen). In der Theorie werden folgende Gründe für staatliche Intervention genannt:
+
+Schutz von Öffentlichen Gütern
+Meritorische Güter
+Positive und negative externe Effekte
+Natürliches Monopol
+Ruinöse Konkurrenz
+Asymmetrische Informationen der MarktteilnehmerDie Doppelte-Dividenden-Hypothese fußt auf der Theorie der negativen externen Effekte. Umweltschäden werden typischerweise als solche aus der Betriebswirtschaft ausgelagerten Kosten angesehen, weil diese Gesellschaft und Natur an sich einen Nachteil zufügen.
+
+
+== Die weiche doppelte Dividende ==
+Die weiche Form der doppelten Dividende ist relativ unproblematisch. Dies liegt daran, dass sie von möglichen Verzerrungen, die durch eine Umweltsteuer entstehen könnte, abstrahiert. Die Ökosteuer entspricht also einer erstbesten Lösung, da durch Erhebung der Ökosteuer keine Zusatzlast zur Zahllast entsteht. Im Grunde entspricht dies der Idee einer Pigou-Steuer.
+
+
+== Die mittlere doppelte Dividende ==
+Es gibt mindestens eine verzerrende Steuer, bei der eine Rückführung des Ökosteueraufkommens zu einer insgesamt verminderten oder zumindest gleichbleibenden Belastung der Gesamtwirtschaft führt.
+
+
+== Die strenge doppelte Dividende ==
+Die Einführung einer Ökosteuer führt zu weniger Kosten, als insgesamt durch eine typische oder repräsentative verzerrende Steuer entstehen. Dies ist deshalb strenger, da eine Umweltsteuer dann immer zu weniger Wohlfahrtsverlusten führt als jede bereits existierende Steuer bzw. Abgabe. Wenn eine Ökosteuer diesem Postulat standhält, dann ist eine Steuerreform eventuell auch dann wünschenswert, wenn es zu keiner Verbesserung der Umwelt führt. Allerdings wäre es dann keine „doppelte Dividende“ mehr, da die erste Dividende als Argument wegbrechen würde.
+
+
+== Dritte Dividende ==
+Es gibt auch Verfechter einer potentiellen dritten Dividende. Durch Reduzierung von bestehenden Verzerrungen im Arbeitsmarkt könnten positive Beschäftigungseffekte entstehen. Ist dies der Fall, so kann man auch von drei Dividenden reden. Erstens wird die Umweltqualität verbessert (1. Dividende). Zweitens wird das Steuersystem effizienter und entzerrt (2. Dividende). Schließlich und endlich gibt es positive Beschäftigungseffekte (3. Dividende).
+
+
+== Intertemporäre doppelte Dividende ==
+Eine intertemporäre doppelte Dividende könnte man als diskontierte Rechnung zwischen Nichtumwelt- und Umwelt Wohlfahrtssteigerungen über Generationen hinweg betrachten.
+Diese Betrachtungsweise analysiert die Wohlfahrt über Generationen und nicht nur statisch. Den positiven Wohlfahrtseffekten vom Beginn bis Ende der Einführung einer Umweltsteuer werden die Wohlfahrtsverluste von Beginn bis Ende im stabilen Dauerzustand (Steady-state) gegengerechnet. Das soziale Wohlfahrtskriterium führt zu einer modifizierten Goldenen Regel, da ethische und praktische Probleme mit einbezogen werden. Verzichtet die heutige Generation auf Umweltschäden, so profitiert die nachfolgende Generation von der Weitsicht.
+Die zweite Dividende wäre also nicht eine Entzerrung des Steuersystems, sondern in den Wohlfahrtsgewinnen zukünftiger Generationen zu sehen.
+
+
+== Literatur ==
+
+
+=== Bücher ===
+Giacomo Corneo: Öffentliche Finanzen: Ausgabenpolitik. 2. Auflage, Mohr Siebeck, 2007, ISBN 978-3-16149200-6.
+Ruud A. de Mooij: Environmental Taxation and the Double Dividend. North Holland, 2000, ISBN 0-44450491-5.
+Manfred Rose: COMPSTAT Lectures: Integriertes Steuer- und Sozialsystem. Physica-Verlag, Heidelberg, ISBN 978-3-79080008-1.
+Ary Lans Bovenberg, Sijbren Cnossen: Public Economics and the Environment in an Imperfect World. Kluwer Academic Publishers, 1995, ISBN 0792396189, S. 151–156.
+
+
+=== Zeitschriftenaufsätze und Berichte ===
+Lawrence H. Goulder: Environmental Taxation and the Double Dividend, A Reader’s Guide. In: International Tax and Public Finance. 1994, S. 157–184.
+Ary Lans Bovenberg: Green Tax Reforms and the Double Dividend, A Reader’s Guide. In: International Tax and Public Finance. 1999, S. 421–443.
+Ary Lans Bovenberg, Ruud A. de Mooij: Environmental Levies and Distortionary Taxation, In: American Economic Review. 1994, S. 1085–1089.
+Ary Lans Bovenberg, Frederick van der Ploeg: Consequences of Environmental Tax Reform for Unemployment and Welfare. In: Environmental and Resource Economics. 1998, S. 137–150.
+Thomas Aronsson: Environmental Policy, Efficient Taxation and Unemployment. In: International Tax and Public Finance. 2005, S. 131–144.
+Johanna Elisabeth Ligthart, Frederick van der Ploeg: Pollution, the Cost of Public. Funds and Endogenous Growth. In: Economics Letters. 1994, S. 339–348.
+Frank Hettich: Growth effects of a revenue-neutral environmental tax reform. In: Journal of Economics. 1998, S. 287–316.
+Don Fullerton, Gilbert E. Metcalf: Environmental Taxes and the Double-Dividend Hypothesis: Did You Really Expect Something for Nothing? In: Chicago-Kent Law Review 73, 1998, S. 221–256.
+Christian M. Scholz: Involuntary Unemployment and Environmental Policy: The Double Dividend Hypothesis: A Comment. In: The Scandinavian Journal of Economics 100, Nr. 3, 1998, S. 663–664.
+Ronnie Schöb: The Double Dividend Hypothesis of Environmental Taxes: A Survey. In: FEEM Working Paper. Nr. 60; CESifo Working Paper Series. Nr. 946, 2003 (doi:10.2139/ssrn.413866, PDF).
+Mireille Chiroleu-Assouline, Mouez Fodha: Double Dividend Hypothesis, Golden Rule and Welfare Distribution (PDF; 211 kB) In: Journal of Environmental Economics and Management, 51(3), 2006, S. 323–335.
+
+
+== Einzelnachweise ==

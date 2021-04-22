@@ -1,0 +1,142 @@
+Cobalt(II)-oxid ist eines von mehreren Oxiden des chemischen Elementes Cobalt. Es ist ein olivgrünes, in Wasser unlösliches Salz.
+
+
+== Gewinnung und Darstellung ==
+Cobalt(II)-oxid entsteht, wenn elementares Cobalt an der Luft oder Cobalt(II)-nitrat, Cobalt(II)-hydroxid oder Cobalt(II)-carbonat unter Luftabschluss erhitzt werden.
+
+  
+    
+      
+        
+          2
+           
+          C
+          o
+          +
+          
+            O
+            
+              2
+            
+          
+           
+          
+            
+              →
+              
+                Δ
+              
+            
+          
+           
+           
+          2
+           
+          C
+          o
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ Co+O_{2}\ {\xrightarrow {\Delta }}\ \ 2\ CoO} }
+  
+  
+    
+      
+        
+          C
+          o
+          (
+          O
+          H
+          
+            )
+            
+              2
+            
+          
+           
+          
+            
+              →
+              
+                Δ
+              
+            
+          
+           
+           
+          C
+          o
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ↑
+        
+      
+    
+    {\displaystyle \mathrm {Co(OH)_{2}\ {\xrightarrow {\Delta }}\ \ CoO+H_{2}O\uparrow } }
+  
+  
+    
+      
+        
+          C
+          o
+          C
+          
+            O
+            
+              3
+            
+          
+           
+          
+            
+              →
+              
+                Δ
+              
+            
+          
+           
+           
+          C
+          o
+          O
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+          ↑
+        
+      
+    
+    {\displaystyle \mathrm {CoCO_{3}\ {\xrightarrow {\Delta }}\ \ CoO+CO_{2}\uparrow } }
+  
+
+
+== Eigenschaften ==
+Die Verbindung kristallisiert in der Natriumchlorid-Struktur, also im kubischen Kristallsystem in der Raumgruppe Fm3m (Raumgruppen-Nr. 225)Vorlage:Raumgruppe/225. Der Gitterparameter beträgt a = 424,9 pm, in der Elementarzelle befinden sich vier Formeleinheiten. Meist kommt (ähnlich wie bei Eisen(II)-oxid FeO) ein leichter Cobalt-Unterschuss vor. Trocken ist Cobaltoxid beständig, feucht kann es leicht zu Cobaltoxidhydroxid CoO(OH) oxidiert werden. Unterhalb von 16 °C ist die Verbindung antiferromagnetisch.Wird es an der Luft auf 400–500 °C erhitzt, bildet sich Cobalt(II,III)-oxid.
+
+
+== Verwendung ==
+Cobalt(II)-oxid wird als Rohstoff für die Herstellung von Pigmenten verwendet, insbesondere zur Herstellung des Pigments Smalte, das auch in der Keramikindustrie verwendet wird. Außerdem kann es zur Herstellung von Kobaltglas sowie von Thénards Blau (CoAl2O4) verwendet werden.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+A. F. Holleman, E. Wiberg, N. Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage. Walter de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1.
+N. N. Greenwood, A. Earnshaw: Chemie der Elemente, 1. Auflage, VCH Verlagsgesellschaft, Weinheim 1988, ISBN 3-527-26169-9.

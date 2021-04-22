@@ -1,0 +1,162 @@
+Bortrioxid oder Dibortrioxid ist eine chemische Verbindung der Elemente Bor und Sauerstoff mit der Summenformel B2O3.
+
+
+== Geschichte ==
+Bortrioxid war Ausgangspunkt zur ersten Darstellung von Bor. Im Jahre 1808 gelang den französischen Chemikern Joseph Louis Gay-Lussac und Louis Jacques Thénard erstmals die Darstellung von unreinem Bor aus Bortrioxid durch Reduktion mit Kalium. Das erste hochreine Bor wurde dann im Jahre 1909 von dem amerikanischen Chemiker W. Weintraub durch die Reduktion von gasförmigem Bortrioxid mit Wasserstoff im Lichtbogen gewonnen.
+
+
+== Gewinnung und Darstellung ==
+Glüht man Borsäure, so erhält man eine farblose, glasig-amorphe Masse (Boroxidglas), die schwierig zu kristallisieren ist:
+
+  
+    
+      
+        
+          2
+           
+          
+            H
+            
+              3
+            
+          
+          B
+          
+            O
+            
+              3
+            
+          
+          +
+          190
+          ,
+          5
+           
+          k
+          J
+          ⇌
+          
+            B
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {2\ H_{3}BO_{3}+190,5\ kJ\rightleftharpoons B_{2}O_{3}+3\ H_{2}O} }
+  Durch langsame Dehydratisierung von Borsäure bei 150–250 °C kann kristallines Bortrioxid hergestellt werden.Im Jahr 2007 wurden weltweit etwa 3,8 Millionen Tonnen Bortrioxid produziert. Hauptproduzenten sind die Türkei, Argentinien und Chile.
+
+
+== Eigenschaften ==
+Bortrioxid reagiert sauer und bildet Borsäure bei Kontakt mit Wasser. Sowohl die amorphe als auch die kristalline Form sind hygroskopisch. Bei Reduktion mit Magnesium, Kalium, Wasserstoff und anderen entsteht Bor.
+
+  
+    
+      
+        
+          
+            B
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          +
+          3
+           
+          M
+          g
+          ⇌
+          2
+           
+          B
+          +
+          3
+           
+          M
+          g
+          O
+           
+           
+          Δ
+          H
+          =
+          −
+          533
+           
+          k
+          J
+        
+      
+    
+    {\displaystyle \mathrm {B_{2}O_{3}+3\ Mg\rightleftharpoons 2\ B+3\ MgO\ \ \Delta H=-533\ kJ} }
+  Bortrioxid (α-Bortrioxid) kristallisiert trigonal in der Raumgruppe P3121 (Raumgruppen-Nr. 152)Vorlage:Raumgruppe/152 bzw. P3221 (Nr. 154)Vorlage:Raumgruppe/154 mit den Gitterparametern a = 434 pm und c = 834 pm sowie sechs Formeleinheiten pro Elementarzelle. In der Kristallstruktur ist jedes Boratom von je drei Sauerstoffatomen planar umgeben, die einzelnen [BO3]3−-Einheiten sind über alle drei Sauerstoffatome jeweils mit benachbarten Boratomen verbunden, wodurch sich ein dreidimensionales Netzwerk ergibt. Dieses Netzwerk lässt sich mit der Niggli-Formel 
+  
+    
+      
+        
+          
+            
+
+            
+            
+              ∞
+            
+            
+              3
+            
+          
+          {
+          [
+          B
+          
+            O
+            
+              3
+              
+                /
+              
+              2
+            
+            
+              e
+            
+          
+          ]
+        
+        }
+      
+    
+    {\displaystyle \mathrm {{}_{\infty }^{3}\lbrace [BO_{3/2}^{e}]} \rbrace }
+   beschreiben, wodurch sich ein Bor-Sauerstoff-Verhältnis von 1:1,5 bzw. 2:3 ergibt, was sich in der chemischen Formel B2O3 widerspiegelt. Bei der Verbindung B2O3 handelt es sich korrekt betrachtet damit nicht um ein Trioxid, sondern um ein Sesquioxid.
+Neben der α-Form und der amorphen Form existiert auch eine Hochtemperaturvariante (β-Bortrioxid).Bortrioxid wird aufgrund seiner Reproduktionstoxizität seit Juni 2012 als „Substance of Very High Concern“ (deutsch: „Besonders besorgniserregende Stoffe“) eingestuft.
+
+
+== Verwendung ==
+Bortrioxid ist ein Ausgangsstoff zur Herstellung weiterer Borverbindungen (z. B. reinem Bor, Borkarbid, Borsäuretrimethylester durch Auflösung in Methanol, Diboran durch Hydrierung). Praktische Verwendung findet es als Flussmittel und Bestandteil (Borsilikatglas, Borphosphatglas) in Emails und Gläsern. In heißgepresster Bornitrid-Keramik ist es in Mengen von 2–6 Prozent Bindemittel.
+Bortrioxid wird unter anderem auch als Feuerlöschmittel bei Bränden von Metall eingesetzt.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,10 @@
+CodePen ist eine Online-Community zum Testen und Zeigen von HTML-, CSS- und JavaScript-Code, die von Benutzern erstellt worden sind. CodePen funktioniert als ein Online-Code-Editor und als eine Open-Source-Lernumgebung, in der Entwickler Codeschnipsel, auch „Pens“ genannt, erstellen und testen können. Die Plattform wird darüber hinaus im professionellen Bereich von zahlreichen Entwicklern benutzt. Dafür nutzen die User die von CodePen bereitgestellten Funktionen eines Dashboards (ähnlich wie bei Instagram). Hier können die registrierten User durch die Einstellungen bestimmte „Pens“ ausblenden oder besonders hervorheben. Es besteht außerdem die Möglichkeit, Social Media zu verlinken. Hat man sich ein Abonnement gekauft, kann man auch den Hintergrund, seines Dashboards ändern. Die Plattform enthält außerdem Funktionen zum kollaborativen Schreiben. Sie unterstützt unter anderem die Stylesheet-Sprache Sass sowie das Erstellen von Forks anderer Projekte.Im Gegensatz zu Integrierten Entwicklungsumgebungen (IDEs) mit größerem Funktionsumfang dient CodePen vor allem der spontanen Entwicklung und Ausführung kleiner Programme. Typische Anwendungsfälle sind das Testen von Programmbibliotheken, das Erstellen von minimalen Programmen zur Behebung von Bugs sowie das Austauschen von Codeschnipseln.CodePen wurde 2012 von den Full-Stack-Entwicklern Alex Vazquez, Tim Sabat und Front-End-Designer Chris Coyier gegründet. CodePen ist mit geschätzt 330.000 registrierten Benutzern und 16,9 Millionen Besuchern monatlich (Stand: September 2015) eine der größten Communitys für Webdesigner und Entwickler zum Präsentieren der eigenen Programmierfähigkeiten.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Firmenüberblick von CodePen, Inc. (englisch)
+t3n Magazin: CodePen: HTML, CSS und JavaScript entdecken, lernen und teilen
+t3n Magazin: Das sind die 100 beliebtesten Code-Snippets auf Codepen

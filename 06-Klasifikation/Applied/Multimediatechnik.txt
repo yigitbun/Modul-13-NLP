@@ -1,0 +1,64 @@
+Multimediatechnik ist ein Teilgebiet der Informatik, das sich mit der Verknüpfung verschiedener Technologien im Bereich Multimedia befasst. Dabei spielen sowohl elektrotechnische als auch softwaretechnische Aspekte eine Rolle.
+Als Studiengang lässt sich die Multimediatechnik als Schnittmenge zwischen Medieninformatik und Technischer Informatik beschreiben.
+
+
+== Studienschwerpunkte ==
+Die Multimediatechnik ist vor allem durch die Implementierung komplexer Systeme durch die Kombination von verschiedenen Medien charakterisiert. Daher deckt das Studium viele Aspekte der Informatik ab. Hierdurch wird eine zu frühe Spezialisierung, die in der Regel erst im Masterstudium stattfindet, vermieden. Diese universelle Ausbildung ermöglicht den Studenten eine flexible Wahl des Arbeitsplatzes, da sie während des Studiums mit vielen Technologien in Berührung kommen, was vor allem die Fähigkeit des zügigen Einarbeitens in neue Themengebiete fördert. Andererseits sollte bei einem bestehenden Interesse für einen Teilaspekt der Informatik ein speziellerer Studiengang gewählt werden. Im Rahmen des Multimediatechnikstudiums werden u. a. folgende Themenkomplexe behandelt:
+
+Mathematisch-technische Grundlagen
+Technische Informatik und Programmierung
+Softwaresysteme und Angewandte Programmierung
+Betriebswirtschaftslehre und Fachenglisch
+Multimediagrundlagen
+Grafik/Grafische Datenverarbeitung/Bildverarbeitung
+Technische Grundlagen und Kommunikationstechnologie
+Datenbanken/Datenbanksysteme/Datenbank-Programmierung/Datenbank-Management
+Multimediaschnittstellen und Anwendungsprogrammierung
+Aspekte des multimedialen EinsatzesNeben Mathematik gehören zu den mathematisch-technischen Grundlagen u. a. die Fächer Elektronik und Digitaltechnik, Grundlagen der Nachrichten- bzw. Automatisierungstechnik und Inhouse-Energietechnik sowie Sensorik und Aktorik. Die Grundlagen der technischen Informatik, die Programmierung mit modernen Programmiersprachen, Betriebssysteme und die übergreifende Methodik zur Gestaltung von Software-Lösungen (Software-Engineering) sind wesentliche Inhalte der Ausbildung.
+Dieser Studiengang sollte nicht mit den Gebieten (Web)design oder Fernsehtechnik verwechselt werden. Es handelt sich ausdrücklich um einen technischen Studiengang, der Inhalte der Informatik und Elektrotechnik miteinander verbindet.
+
+
+== Studienmöglichkeiten ==
+Multimediatechnik kann seit 1998 an der Fakultät für Ingenieurwissenschaften der Hochschule Wismar studiert werden und wurde dort bis einschließlich Wintersemester 2003/2004 als Diplom-Studiengang immatrikuliert. Seit dem Wintersemester 2004/2005 wird der Studiengang dort mit Bachelor-Abschluss angeboten. Zusätzlich gibt es einen konsekutiven Masterstudiengang unter der englischen Bezeichnung Multimedia Engineering, dessen Schwerpunkte sich auf Sprachverarbeitung, Bildverarbeitung, Netzwerksicherheit und Verteiltes Rechnen konzentrieren. Weitere Studienmöglichkeiten befinden sich u. a. an der Hochschule Mittweida. Verwandte Studiengänge sind unter der Bezeichnung Medieninformatik bzw. Medientechnik z. B. an der TU Ilmenau zu finden. Die Multimediatechnik ist nicht zwangsläufig ein gesamter Studiengang, sondern ist oftmals auch als Spezialisierung innerhalb eines allgemeinen Informatikstudiums zu finden.
+
+
+== Verwandte Studiengänge ==
+Medieninformatik
+Mediensysteme
+Medientechnologie
+Medientechnik
+Digitale Medien
+Technische Informatik
+
+
+== Einsatzfeld ==
+Software-Unternehmen
+Telekommunikation
+Dienstleistungen im Multimediabereich
+Werbung
+Handel
+Reiseveranstalter
+Industrie
+Aus- und Weiterbildung
+Forschung
+Öffentlicher Dienst
+Bereiche der Medizintechnik
+
+
+== Literatur ==
+Henning, Peter A.: Taschenbuch Multimedia. Hanser Fachbuchverlag 2003 – ISBN 3-446-22308-8
+Stotz, Dieter: Computergestützte Audio- und Videotechnik: Multimediatechnik in der Anwendung. Springer-Verlag Berlin Heidelberg 2011 – ISBN 978-3642232527
+
+
+== Weblinks ==
+Studiengang Multimediatechnik (Bachelor) an der Hochschule Wismar
+Studiengang Multimedia Engineering (Master) an der Hochschule Wismar
+Studiengang Multimediatechnik (Bachelor) an der FH Mittweida
+Institut für Medientechnik an der TU Ilmenau
+Heinz - Nixdorf - Stiftungslehrstuhl für Multimediatechnik an der TU Dresden
+Online-Kurs Multimediatechnik der Universität Mannheim
+Studentenportal des Studiengangs Multimediatechnik an der FH Mittweida
+IFM Institut für Multimediatechnik gGmbH
+
+
+== Einzelnachweise ==

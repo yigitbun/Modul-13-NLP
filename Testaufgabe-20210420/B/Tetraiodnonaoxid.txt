@@ -1,0 +1,352 @@
+Tetraiodnonaoxid ist eine chemische Verbindung aus der Gruppe der Iodoxide.
+
+
+== Gewinnung und Darstellung ==
+Tetraiodnonaoxid kann durch Einwirkung von Ozon auf Iod in Tetrachlorkohlenstoff bei −78 °C in quantitativer Ausbeute gewonnen werden.
+
+  
+    
+      
+        
+          2
+          
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+          +
+          9
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          
+            I
+            
+              4
+            
+            
+              
+            
+          
+          
+            O
+            
+              9
+            
+            
+              
+            
+          
+          +
+          9
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2I2 + 9O3 -> I4O9 + 9O2}}}
+  Die Verbindung kann auch durch Erhitzung von Iodsäure in Phosphorsäure gewonnen werden.
+
+  
+    
+      
+        
+          8
+          
+          
+            HIO
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            I
+            
+              4
+            
+            
+              
+            
+          
+          
+            O
+            
+              9
+            
+            
+              
+            
+          
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {8 HIO3 -> 2 I4O9 + 4 H2O + O2}}}
+  
+
+
+== Eigenschaften ==
+Tetraiodnonaoxid ist ein hellgelber, hygroskopischer Feststoff, der beim Erhitzen auf über 75 °C zerfällt.
+
+  
+    
+      
+        
+          4
+          
+          
+            I
+            
+              4
+            
+            
+              
+            
+          
+          
+            O
+            
+              9
+            
+            
+              
+            
+          
+          ⟶
+          6
+          
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              5
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4 I4O9 -> 6 I2O5 + 2 I2 + 3 O2}}}
+  Die Verbindung ist ähnlich wie Diiodtetraoxid als Iod(III)-iodat(V) I(IO3)3 aufzufassen und reagiert mit Alkalilaugen unter Bildung von Iodat und Iodid.
+
+  
+    
+      
+        
+          3
+          
+          
+            I
+            
+              4
+            
+            
+              
+            
+          
+          
+            O
+            
+              9
+            
+            
+              
+            
+          
+          +
+          12
+          
+          
+            OH
+            
+              −
+            
+          
+          ⟶
+          
+            I
+            
+              −
+            
+          
+          +
+          11
+          
+          
+            IO
+            
+              3
+            
+            
+              −
+            
+          
+          +
+          6
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {3 I4O9 + 12 OH- -> I- + 11 IO3- + 6 H2O}}}
+  .Mit Wasser reagiert die Verbindung unter Freisetzung von Iod.
+
+  
+    
+      
+        
+          4
+          
+          
+            I
+            
+              4
+            
+            
+              
+            
+          
+          
+            O
+            
+              9
+            
+            
+              
+            
+          
+          +
+          9
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          18
+          
+          
+            HIO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            I
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4I4O9 + 9H2O -> 18HIO3 + I2}}}
+  
+
+
+== Einzelnachweise ==

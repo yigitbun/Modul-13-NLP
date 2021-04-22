@@ -1,0 +1,47 @@
+Die Noctuoidea sind eine Überfamilie der Schmetterlinge (Lepidoptera). Mit etwa 70.000 Arten ist sie die mit Abstand größte und gleichzeitig weltweit am meisten verbreitete Überfamilie der Schmetterlinge. Sie umfasst in Europa 2250 Arten und Unterarten. Sowohl die Falter als auch die Raupen umfassen eine große Vielfalt an Körpergrößen, Körperfarben, Lebensweisen und ökologischen Anpassungen.
+
+
+== Merkmale ==
+
+
+=== Falter ===
+Auch wenn die Falter in ihrer Gestalt und Größe sehr unterschiedlich sind, so haben doch viele Arten einen kräftigen und robusten Körperbau. Die Monophylie ist sehr gut durch die Tympanalorgane am Metathorax und die mit ihnen zusammengehörigen Strukturen am Hinterleib begründet. Mit diesen Organen können die Tiere Ultraschalllaute unterschiedlicher Frequenzen wahrnehmen. Es wird vermutet, dass die Hauptfunktion der Tympanalorgane in der Erkennung der Ultraschalllaute von jagenden Fledermäusen liegt. Es gibt jedoch auch einige Hinweise darauf, dass sie für den Empfang von Paarungssignalen eingesetzt werden.Auf jeder Seite des Thorax ist das Metepimeron hinten so modifiziert, dass sich eine Einbuchtung ergibt, in der die Membran des Tympanalorgans (Tympanum) liegt. Die Membran ist in der Regel durch das Epaulette vom Metepimeron getrennt. Vor dem Epaulette kann das Metepimeron membranös sein. Dorsomedial zum Tympanalorgan liegt das Gegentympanum, das mit diesem durch die gleiche Luftkammer verbunden ist. Diese zweite Membran fungiert wahrscheinlich als ein zusätzliches Resonanzorgan. Die Vorderseite des ersten Hinterleibssegmentes kann stark nach innen gestülpt sein und so ein paar Einbuchtungen für die Gegentympana bilden. Seitlich kann sich eine sklerotisierte Klappe befinden, die vor oder nach dem Stigma des ersten Hinterleibssegments liegt. Sie dient vermutlich dazu, empfangene Geräusche zu lokalisieren. Die genaue Funktion dieser Klappe ist aber noch nicht vollständig erforscht.
+
+
+==== Flügeladerung ====
+
+Innerhalb der Noctuoidea treten zwei Muster der Flügeladerung an den Vorderflügeln auf. Bei der plesiomorphen Variante entspringt M2 auf halber Länge von M1 und M3 zwischen diesen. Dadurch ergibt sich eine Dreiteilung ab der unteren Ecke der Diskalzelle. Diese „trifide“ Flügeladerung tritt bei der Gattung Oenosandra und den Zahnspinnern auf. Bei der zweiten Variante entspringt M2 sehr nahe an M3, ist mit dieser verwachsen oder mit ihr gestielt. Diese vierteilige beziehungsweise „quadrifide“ Flügeladerung tritt bei allen übrigen Noctuoidea auf, mit Ausnahme derer, bei denen dieses Merkmal wiederum so weiterentwickelt ist, dass die Adern so miteinander verschmolzen sind, dass man weniger Äste erkennen kann.
+
+
+==== Tympanalorgane ====
+Auch bei den Tympanalorganen gibt es zwei wesentliche Baupläne. Bei den Zahnspinnern und einigen Arten der Syntomini ist das Metepimeron dorsal stark konkav, was bewirkt, dass die Membran ventral orientiert ist. Epaulette und Klappe am Gegentympanum fehlen in diesem Fall. Bei der Gattung Oenosandra und den quadrifinen Familien der Gruppe ist das Metepimeron maximal nur wenig konkav, wodurch die Membran nach vorne orientiert ist. Epaulette und Klappe am Gegentympanum sind ausgebildet. Bei den Notodontidae wird das Tympanum nur durch eine akustische Sinneszelle angeregt, wohingegen bei den Noctuidae zwei ausgebildet sind. Die Ausbildung dieses Merkmals ist jedoch noch nicht ausreichend gut erforscht.
+
+
+=== Eier ===
+Die Eier sind vom aufrechten Typ.
+
+
+=== Raupen ===
+Die Raupen haben mittig am Rücken des Metathorax zwei Borsten, die vermutlich mit Ausnahme der Oenosandridae eine gute Synapomorphie der Überfamilie darstellen. Diese Borsten sind allerdings bei den mitunter stark behaarten Untergruppen nur schwer zu lokalisieren. Andere Merkmale der Raupen, die in älterer Literatur genannt werden, sind plesiomorph.
+
+
+== Lebensweise ==
+Die Raupen der meisten Arten ernähren sich auf Pflanzen sitzend, es gibt jedoch auch eine Reihe von Arten, die sich als Bohrer in den Pflanzen entwickeln.
+
+
+== Systematik ==
+Die Gruppe umfasst mindestens 42.000 bis etwa 70.000 Arten in über 7200 Gattungen. Kristensen (2003) unterteilte die Noctuoidea in acht Familien: Oenosandridae, Doidae und Notodontidae sowie die quadrifiden restlichen Familien (Noctuidae, Pantheidae, Lymantriidae, Nolidae und Arctiidae). Fibiger und Lafontaine haben 2005 eine revidierte Klassifikation der Noctuoidea mit zehn Familien vorgestellt. Zusätzlich zu den oben genannten Gruppen wurden die Erebinae als Erebidae sowie die Strepsimaninae als Strepsimanidae in den Familienrang erhoben und die Micronoctuidae als eigene Familie etabliert. Die Pantheidae wurden als Unterfamilie Pantheinae in die Familie der Eulenfalter (Noctuidae) gestellt. Später wurden vier Gruppen im Familienrang (Arctiidae, Lymantriidae, Micronoctuidae und Strepsimanidae) wieder auf Unterfamilienniveau gesetzt. Die Familie Doidae wurde in die Überfamilie Drepanoidea transferiert. Die Familie Euteliidae wurde für die Unterfamilien Euteliinae und Stictopterinae errichtet. Die folgende Systematik geht im Wesentlichen auf Zahiri et al. 2011 zurück und umfasst sechs Familien. Die Anzahl der Gattungen und Arten spiegelt de Stand von 2011 wider.
+Familie Oenosandridae (4 Gattungen, 8 Arten)
+Familie Zahnspinner (Notodontidae) (704 Gattungen, 3800 Arten)
+Familie Erebidae (1760 Gattungen, 24.569 Arten)
+Familie Kahneulchen (Nolidae) (176 Gattungen, 1738 Arten)
+Familie Euteliidae (29 Gattungen, 520 Arten)
+Familie Eulenfalter (Noctuidae) (1089 Gattungen, 11.772 Arten)Die phylogenetische Stellung der Familien wird derzeit hauptsächlich so wiedergegeben: Notodontidae + (Erebidae + (Nolidae + (Euteliidae + Noctuidae))).
+
+
+== Belege ==
+
+
+=== Literatur ===
+Niels P. Kristensen: Lepidoptera, moths and butterflies. In: Maximilian Fischer (Hrsg.): Handbook of Zoology. 1. Auflage. Band 4 – Arthropoda: Insecta, Teilband 35. de Gruyter, Berlin / New York 1998, ISBN 3-11-015704-7 (englisch). 
+Malcolm J. Scoble: The Lepidoptera: Form, Function and Diversity. Oxford University Press, Oxford 1995, ISBN 0-19-854952-0 (englisch).

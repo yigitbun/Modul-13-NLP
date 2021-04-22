@@ -1,0 +1,79 @@
+Chrom(II)-oxid (CrO) ist eine anorganische chemische Verbindung von Chrom und Sauerstoff (genauer ein Oxid von Chrom).
+
+
+== Gewinnung und Darstellung ==
+Chrom(II)-oxid kann durch Reduktion von Chrom(III)-oxid mit Phosphinsäure gewonnen werden:
+
+  
+    
+      
+        
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          C
+          
+            r
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+          →
+          4
+           
+          C
+          r
+          O
+          +
+          
+            H
+            
+              3
+            
+          
+          P
+          
+            O
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{3}PO_{2}+2\ Cr_{2}O_{3}\rightarrow 4\ CrO+H_{3}PO_{4}} }
+  Schwarzes Chrom(II)-oxid entsteht auch bei der thermischen Zersetzung von Chromhexacarbonyl bei 250 bis 550 °C im Vakuum oder bei Reaktion von Chromamalgam mit Salpetersäure.Ein hexagonales braun-rotes Kristallpulver kann durch Reduktion von Chrom(III)-oxid mit Wasserstoff gewonnen werden.
+
+
+== Eigenschaften ==
+Chrom(II)-oxid besitzt eine Natriumchlorid-Struktur und disproportioniert bei höheren Temperaturen in Chrom und Chrom(III)-oxid. Es existiert nicht in kompakter Form, kann aber auf kubischen Substraten als CrxO (0,67<x<1) wachsen.
+
+
+== Verwendung ==
+Verwendet wird Chrom(II)-oxid als Bestandteil von Tonermaterialien und als Bestandteil und Zwischenprodukt von Chromoxid-Dünnschicht-Strukturen in der Elektronikindustrie.
+
+
+== Weblinks ==
+Spektroskopische Eigenschaften von Chrom(II)-oxid
+
+
+== Einzelnachweise ==

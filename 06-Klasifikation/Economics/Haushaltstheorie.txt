@@ -1,0 +1,111 @@
+Die Haushaltstheorie ist eine grundlegende Theorie der Mikroökonomie innerhalb der Volkswirtschaftslehre. In ihr werden die wirtschaftlichen Entscheidungen der (privaten) Haushalte untersucht. Die Konsumentscheidungen werden aufgrund des optimalen Konsumbündels getroffen, die sich im Haushaltsoptimum widerspiegeln. 
+
+
+== Der Haushalt ==
+Ein Haushalt besteht aus einer oder mehreren natürlichen Personen, die zusammen einen Wirtschaftsplan aufstellen. In ihm werden die gesamten geplanten Einnahmen und Ausgaben gegenübergestellt. Außerdem produziert ein Haushalt ausschließlich Güter für den eigenen Konsum. Nur, wenn alle drei Eigenschaften erfüllt sind, spricht man von einem Haushalt. Dies unterscheidet ihn von anderen Wirtschaftssubjekten.Die Familie ist ein typisches Beispiel eines Haushalts. Dieser Haushalt besteht aus mehreren Personen, die einen gemeinsamen Wirtschaftsplan aufstellen. Außerdem produzieren sie keine Güter oder Dienstleistungen für den Markt, sondern vielmehr für den eigenen Gebrauch beispielsweise Erziehungsleistungen oder Verpflegungsleistungen. Ein Haushalt wird in der Haushaltstheorie als eine Einheit beschrieben, die Konsumentscheidungen gemäß ihrer gemeinsamen Präferenzstruktur als ein Wirtschaftssubjekt trifft. Außerdem werden private Haushalte und öffentliche Haushalte voneinander unterschieden. Die Haushaltstheorie beschäftigt sich jedoch mit den ökonomischen Entscheidungen privater Haushalte.
+
+
+== Grundlegende Annahmen ==
+
+
+=== Bedürfnisbefriedigung ===
+Den Überlegungen der Haushaltstheorie liegt zugrunde, dass alle Bedürfnisse (materiell wie immateriell) in einem Haushalt befriedigt werden. Die Befriedigung der Bedürfnisse ist der eigentliche Zweck eines jeden wirtschaftlichen Handelns. Das Ziel eines Haushalts ist seine individuelle Nutzenmaximierung. Der Nutzen ist als Maß für die Zufriedenheit zu verstehen, die ein Haushalt aufgrund seiner Konsumentscheidung erfährt. Der Haushalt trifft demnach seine Entscheidungen unter den gegebenen Bedingungen so, dass er die höchste mögliche ökonomische Wohlfahrt erzielt.
+
+
+=== Präferenzen ===
+Voraussetzung für die Nutzenmaximierung eines Haushalts ist es, dass er sich über eine Rangfolge seiner Bedürfnisse im Klaren ist. Diese subjektive Wertschätzung wird von den Haushalten durch eine so genannte Präferenzordnung widergespiegelt, das heißt, gewissen Gütern wird ein höherer Nutzen zugeordnet als anderen. Es können auch Kombinationen aus mehreren Gütern hinsichtlich ihrer Präferenz höheren Nutzen stiften als andere. Die Haushalte entscheiden hierbei aufgrund ihrer eigenen Bedürfnisse und somit unabhängig von anderen Haushalten über ihre Präferenzordnung. Das Verhältnis zwischen der Menge konsumierter Güter und deren Nutzen lässt sich durch die Nutzenfunktion abbilden. Das Verhältnis zwischen der Zusammensetzung verschiedener Güterbündel und deren subjektiver Nutzenempfindung wird auf Indifferenzkurven dargestellt. Hierbei strebt der Haushalt das höchst mögliche Nutzenniveau an.
+
+
+=== Rationales Verhalten ===
+Die Haushaltstheorie unterstellt dem Haushalt, dass er nach dem Rationalitätsprinzip handelt. Jeder Haushalt versucht, im Rahmen des ihm zur Verfügung stehenden Budgets seine Bedürfnisbefriedigung, also seinen durch den Güterverbrauch verursachten Eigennutzen, zu maximieren. Die Möglichkeiten zum Konsum, die der Haushalt hat, befinden sich auf und unterhalb der sogenannten Budgetgerade. Es wird unterstellt, dass der Haushalt sich gemäß dem ökonomischen Prinzip rational verhält. Somit strebt der Haushalt das höchstmögliche Nutzenniveau an, das er mit gegebenen Güterpreisen und Einkommen erreichen kann. Dieses Prinzip wird Maximalprinzip genannt.Zusätzlich wird angenommen, dass die Mehrheit der Haushalte durch ihre individuellen Nachfragen bzw. Angebote keinen Einfluss auf die Marktpreise haben. Dies bedeutet, dass die Haushalte Mengenanpasser sind.
+
+
+=== Konsumentensouveränität ===
+Eine grundlegende Annahme der Haushaltstheorie ist die Konsumentensouveränität. Im engeren Sinne bedeutet dies, dass der Haushalt gemäß seiner Präferenzordnung mit den ihm zur Verfügung stehenden Mitteln frei darüber entscheidet, in welchen Mengen er die angebotenen privaten Güter konsumiert. Im weiteren Sinne wird unter der Konsumentensouveränität verstanden, dass sich die Produktion von privaten Gütern, die durch den Marktprozess koordiniert wird und die Bereitstellung öffentlicher Guter im besten Fall an den Präferenzstrukturen der Haushalte orientieren.
+
+
+=== Entscheidungen unter Sicherheit/Unsicherheit ===
+Gemäß der neoklassischen Theorie wird den vorhergehenden Annahmen zugrunde gelegt, dass der Haushalt im Entscheidungsprozess vollständige Informationen besitzt und seine Entscheidungen unter Sicherheit trifft. Langfristig trifft der Haushalt aufgrund von unvollständigen Informationen jedoch Entscheidungen unter Unsicherheit. Hierfür liefert die Erwartungsnutzentheorie eine Erklärung bzw. einen Lösungsansatz. Die Annahme vollständiger Informationen ist legitim, um die Komplexität der wirtschaftlichen Entscheidungssituation zu reduzieren und so relevante Einflussgrößen zu erkennen.
+
+
+== Die Haushaltsnachfrage ==
+Der Haushalt entscheidet über die Verwendung seines Einkommens in Form von Konsum und Ersparnis.
+
+
+=== Nachfragefunktionen ===
+In den Wirtschaftswissenschaften wird die individuelle Nachfragefunktion und die Gesamtnachfragefunktion, d. h. die Marktnachfrage voneinander unterschieden. Die Marktnachfrage ist hierbei die Aggregation der individuellen Nachfragefunktionen der einzelnen Marktteilnehmer.Außerdem gibt es spezielle Nachfragefunktionen, welche einkommensabhängig sind. Dies sind die Einkommen-Konsum-Kurve und die Engel-Kurven. Es entsteht eine anomale Nachfragereaktion bei inferioren Gütern.  Weitere spezielle Nachfragekurven verändern sich bei Preisänderungen. Dazu zählen die Preis-Konsum-Kurve, die Marshallsche-Nachfragekurve und die Kreuznachfragekurve. Einen weiteren Einfluss auf die Nachfragefunktion hat der Einkommens- und Substitutionseffekt.
+Die Preiselastizität der Nachfrage gibt an, wie elastisch/unelastisch eine Nachfragekurve ist. Sie sagt aus um wie viel Prozent die Nachfragemenge zurückgehen/ansteigen würde, bei einer Preiserhöhung/-senkung um 1 %.
+
+
+=== Abnehmender Grenznutzen ===
+Um den Nutzen eines Haushalts zu maximieren, muss das erste Gossensche Gesetz erfüllt sein. Dieses besagt, dass der Grenznutzen eines Gutes mit steigender konsumierter Menge abnimmt. Der Nutzenzuwachs pro weiterer Einheit ist somit abnehmend. Der Gesamtnutzen eines Haushalts wird in der Sättigungsmenge maximiert, das heißt, es werden so viele Einheiten konsumiert, bis der Grenznutzen null beträgt.
+
+
+=== Optimaler Konsumplan ===
+Wie bereits im vorherigen Abschnitt „rationales Verhalten“ erwähnt, handelt der rationale Haushalt nach dem Maximalprinzip. Er wählt jenes Konsumgüterbündel, bei welchem die gegebene Budgetgerade die höchst mögliche Indifferenzkurve tangiert. Dieser Punkt wird als optimaler Konsumplan, d. h. als Haushaltsoptimum beschrieben. Die Grenzrate der Substitution beschreibt die Bereitschaft eines Konsumenten, ein Gut gegen das andere zu tauschen. Diese ist gleich der Steigung der Indifferenzkurve. Im Haushaltsoptimum muss außerdem das zweite Gossensche Gesetz erfüllt sein. Dies bedeutet, dass das Einkommen so auf den Kauf beider Güter aufgeteilt wird, dass für den jeweils letzten für Gut 1 oder Gut 2 ausgegebenen Cent der gleiche Nutzen erzielt wird.Für die formale Bestimmung des Haushaltsoptimums wird in der Mikroökonomik die Lagrange-Funktion verwendet. Hier wird die Zielfunktion als Nutzenfunktion maximiert unter der Nebenbedingung der Budgetrestriktion.
+
+
+== Das Haushaltsangebot ==
+Da man Haushalte als konsumierende Wirtschaftssubjekte sieht, wird oft vergessen, dass Haushalte Produktionsfaktoren anbieten, um Einkommen zu generieren. Auf den Faktormärkten bietet der Haushalt somit die Produktionsfaktoren Arbeit und Kapital an. Die Entscheidungen über das Arbeits- und Kapitalangebot werden unter der Prämisse der Nutzenmaximierung getroffen.
+
+
+=== Arbeitsangebot ===
+Der Haushalt entscheidet über sein Arbeitsangebot, d. h. zu welchen Anteilen er seine verfügbare Tageszeit in Arbeits- und Freizeit aufteilt. Diese Aufteilung entscheidet darüber, wie viel Einkommen dieser Haushalt erwirtschaftet.
+
+
+=== Kapitalangebot ===
+Der Haushalt kann ebenfalls darüber entscheiden, wie er sein Vermögen auf unterschiedliche Anlagemöglichkeiten verteilen möchte, sodass er Vermögenseinkommen erzielt. Somit entscheidet er sich im Wesentlichen zwischen einem Gegenwarts- und Zukunftskonsum, d. h. zwischen Konsum und Ersparnis.Angebots- und Nachfrageentscheidungen des Haushalts sind in der Regel wechselseitig voneinander abhängig, weil sie das ihm zur Verfügung stehende Budget beeinflussen.
+
+
+== Sonstige Entscheidungen ==
+Die in den vorherigen Kapiteln beschriebene Haushaltstheorie bezieht sich nur auf die Entscheidungen der Haushalte in der klassischen Ökonomie. Jedoch trifft der Haushalt neben den Entscheidungen über sein Angebot an Produktionsfaktoren und der Nachfrage nach Konsumgütern auch weitere Entscheidungen über den Einsatz knapper Ressourcen. Hierzu zählen beispielsweise die Entscheidungen über die Partner- und Berufswahl, Anzahl der Kinder oder die Wohngegend. Diese sind durch die Rationalitätsannahme zu erklären.Der große Unterschied zwischen den Entscheidungen eines Haushalts in der klassischen Haushaltstheorie und den sonstigen Entscheidungen ist, dass sich die zu erwartenden Erträge bei sonstigen Entscheidungen schwerer messen lassen. Ein Beispiel hierfür ist Zufriedenheit oder Lebensqualität.
+
+
+== Die intertemporale Theorie des Haushalts ==
+
+
+=== Die Konsumzeit ===
+In der älteren Haushaltstheorie wurde davon ausgegangen, dass es keine zeitlichen Restriktionen für den Verbrauch der Güter gibt. Dies wurde durch Gary Becker widerlegt. Durch die optimalen Kombinationen von Gütermengen und ihrer Konsumzeiten ergibt sich eine Verbrauchsleistung, mit Hilfe dieser die Bedürfnisse befriedigt werden können. Die Nutzenfunktion ist somit abhängig von der Verbrauchsleistung. Beispielsweise erfordert das Reisebedürfnis die Verbrauchsleistungen in Form von Transport- und Unterkunftsleistungen sowie Reisezeit.
+
+
+=== Nachfrageseitiges Gleichgewicht ===
+Unter der Berücksichtigung der zeitlichen Komponente könnte der Haushalt den Wunsch haben, dass in einem bestimmten Zeitraum der Konsum vom Einkommen abweicht. In diesem Fall entstehen positive Ersparnisse, d. h., es wird mehr Einkommen erzielt als Ausgaben generiert oder andersherum. Wenn durch diese positiven/negativen Ersparnisse die Haushaltsaktiva nicht steigen/sinken, dann spricht man bei positiven Ersparnissen von einem Kapitalangebot und bei negativen Ersparnissen von einer Kapitalnachfrage des Haushalts.
+
+
+=== Angebotsseitiges Gleichgewicht ===
+Man spricht bei der Entscheidung über das Arbeitsangebot neben der Güterallokation auch von einer Zeitallokation, da der Haushalt die Möglichkeit hat, über einen Zeitraum von mehreren Perioden hinweg sein Einkommen variabel zu gestalten. In der Gegenwart könnte er somit weniger Arbeit anbieten und dadurch ein geringeres Einkommen generieren, da er durch eine Ausbildung oder Schulung seine Qualifikationen erhöht, um dafür in der Zukunft ein höheres Einkommen zu erzielen.
+
+
+== Kritik ==
+
+
+=== Nachfrageinterdependenzen ===
+Anders als in den Annahmen der Haushaltstheorie angenommen, hängt der Nutzen und somit auch die Nachfrage eines Haushaltes auch von der Nachfrage anderer Haushalte ab. Somit kann man von Interdependenzen von verschiedenen Haushalten bei ihrer Konsumentscheidung sprechen. Die Einflüsse anderer Haushalte werden externe Nachfrage- bzw. Konsumeffekte genannt. Es werden folgende externe Effekte unterschieden:
+
+Mitläufereffekt
+Snobeffekt
+Veblen-Effekt
+
+
+=== Kritik an grundlegenden Annahmen ===
+Kritisiert werden an der Haushaltstheorie die Voraussetzung von vollständigen Informationen über Güter und Preise, das Abwägen sämtlicher Alternativen und dass die Haushalte ihre Entscheidungen stets rational treffen, da die Transaktionskosten für die Beschaffung dieser Informationen nicht berücksichtigt werden. (vergl. Kapitel 2.4 Entscheidungen Unsicherheit/Sicherheit)
+Die Annahme der Konsumentensouveränität wird verletzt, sobald der Haushalt nicht die Menge erhält, die er gemäß seiner Präferenzstruktur zu gegebenem Marktpreis in seinem optimalen Konsumplan nachfragt. Dies könnte durch Mengenrationierungen oder Wartezeiten bedingt sein. Auch Nachfrageinterdependenzen oder moderne Verkaufstechniken, insbesondere Werbung, beeinflussen die Präferenzordnung eines Haushalts. Dadurch werden neben den wahren Bedürfnissen, die bereits gedeckt sind, künstliche Bedürfnisse geweckt. Somit würde der Haushalt nicht mehr frei entscheiden. Jedoch müssen diese Bedürfnisse nicht als weniger dringlich empfunden werden als die ordinären Bedürfnisse, sobald der Haushalt sie in seiner Präferenzordnung berücksichtigt. Somit entscheidet der Konsument bei der Bedürfnisbefriedigung immer noch souverän.
+
+
+=== Condorcet-Paradoxon ===
+Das Abstimmungsparadoxon beschreibt das Problem der zyklischen Mehrheiten bei Mehrheitsentscheidungen. Das Paradoxon ist hierbei, dass das Abstimmungsergebnis der kollektiven Präferenzen zyklisch ist, d. h., das Entscheidungsergebnis ist nicht transitiv, obwohl Transitivität der Haushaltspräferenzen der Individuen besteht.
+
+
+=== Die Gütereigenschaften ===
+Kelvin Lancaster kritisiert, dass durch die Nutzenfunktion eines Haushaltes, so wie sie in der Haushaltstheorie betrachtet wird, der Nutzen umgehend durch den Verbrauch der Güter gespendet wird. Laut ihm sollte der Nutzen jedoch durch die Eigenschaften eines Gutes bestimmt werden. Dabei können sich die Haushalte nur indirekt die Informationen über die Merkmale des Gutes durch dessen Kauf beschaffen. Eigenschaften können hierbei beispielsweise Kalorien oder Inhaltsstoffe sein. 
+
+
+== Literatur ==
+Robert S. Pindyck, Daniel L. Rubinfeld: Mikroökonomie, 5. aktualisierte Auflage, Pearson Studium, München u. a. 2003, ISBN 3-8273-7025-6.
+Harald Wiese: Mikroökonomik. 4., überarbeitete Auflage. Springer, Berlin u. a. 2005, ISBN 3-540-24203-1.
+Sibylle Brunner, Karl Kehrle: Volkswirtschaftslehre, 3. überarbeitete und aktualisierte Auflage, Verlag Franz Vahlen, München 2014, ISBN 978-3-8006-4769-9.
+Jochen Schumann, Ulrich Meyer, Wolfgang Ströbele: Grundzüge der mikroökonomischen Theorie, 8. überarbeitete Auflage, Springer Verlag, Berlin/Heidelberg 2007, ISBN 978-3-540-70925-1.
+Alfred Endres, Jörn Martiensen: Mikroökonomik, Verlag W. Kohlhammer GmbH, Stuttgart 2007, ISBN 978-3-17-019778-7.
+
+
+== Einzelnachweise ==
